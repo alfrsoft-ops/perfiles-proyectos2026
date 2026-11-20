@@ -17,13 +17,25 @@
 
 * {margin:0;padding:0;box-sizing:border-box}
 
+html {
+  -webkit-text-size-adjust:100%;
+  text-size-adjust:100%;
+}
+
 body {
   font-family:"Segoe UI",Arial,sans-serif;
   background:linear-gradient(180deg,#06375c,#07568a);
   min-height:100vh;
+  min-height:100dvh;
   padding:25px 15px;
   color:#263548;
 }
+
+img {max-width:100%}
+
+/* Evita que nombres o enlaces largos desborden la pantalla */
+
+h1, h2, h3, h4, p, small, .equipo {overflow-wrap:anywhere}
 
 .container {
   width:min(1050px,100%);
@@ -60,6 +72,8 @@ body {
   position:relative;
   z-index:1;
 }
+
+.encabezado-contenido > div {min-width:0}
 
 .logo-bth {
   width:105px;height:115px;
@@ -155,9 +169,11 @@ button:hover {filter:brightness(.94)}
 
 /* TARJETAS */
 
+/* Columnas automáticas: 1 en celular, 2 en tablet, 3 en pantallas grandes */
+
 .proyectos {
   display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
+  grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr));
   gap:14px;
 }
 
@@ -287,7 +303,7 @@ label {
   color:#334155;
 }
 
-input {
+input, textarea {
   width:100%;
   padding:12px;
   border:1px solid #cbd5e1;
@@ -297,7 +313,9 @@ input {
   outline:none;
 }
 
-input:focus {
+textarea {resize:vertical;min-height:90px}
+
+input:focus, textarea:focus {
   border-color:#0878bd;
   box-shadow:0 0 0 2px #0878bd20;
 }
@@ -329,6 +347,8 @@ input:focus {
   gap:12px;
   flex-wrap:wrap;
 }
+
+.admin-item > div:first-child {flex:1;min-width:0}
 
 .admin-item h4 {
   color:#084775;
@@ -423,6 +443,15 @@ input:focus {
 
 #cronometroPresentacion.visible {display:block}
 
+#cronometroPresentacion {transition:background .4s}
+
+#cronometroPresentacion.verde   {background:rgba(22,131,99,.94)}
+#cronometroPresentacion.naranja {background:rgba(234,120,12,.94)}
+#cronometroPresentacion.rojo    {background:rgba(220,38,38,.94)}
+#cronometroPresentacion.gris    {background:rgba(55,65,81,.96)}
+
+#cronometroPresentacion .cronometro-label {color:#ffffffd9}
+
 .cronometro-label {
   font-size:10px;
   color:#cbd5e1;
@@ -441,18 +470,21 @@ input:focus {
 
 /* MODAL */
 
+/* El modal se centra con margin:auto para que, si no cabe
+   (celular horizontal), se pueda desplazar sin cortarse. */
+
 .modal-fondo {
   position:fixed;
   inset:0;
   background:#031a30c9;
   display:flex;
-  justify-content:center;
-  align-items:center;
   padding:18px;
+  overflow-y:auto;
   z-index:1000;
 }
 
 .modal {
+  margin:auto;
   width:100%;
   max-width:390px;
   background:white;
@@ -490,6 +522,39 @@ input:focus {
 
 .modal-botones button {flex:1}
 
+/* REGISTRO DE EQUIPOS */
+
+.barra-registro {
+  display:flex;
+  justify-content:flex-end;
+  margin:-8px 0 18px;
+}
+
+.modal.modal-registro {
+  max-width:620px;
+  text-align:left;
+}
+
+.modal-registro .modal-icono,
+.modal-registro h2,
+.modal-registro > p {text-align:center}
+
+.modal-registro input {
+  text-align:left;
+  font-size:13px;
+  letter-spacing:normal;
+}
+
+.modal-registro .estado {margin-top:12px}
+
+.equipo {
+  color:#16456d;
+  font-size:12px;
+  font-weight:600;
+  margin:-4px 0 6px;
+}
+
+
 /* PIE */
 
 footer {
@@ -503,25 +568,66 @@ footer {
 
 /* RESPONSIVE */
 
+/* Pantallas grandes (monitores y proyectores) */
+
+@media(min-width:1500px) {
+  .container {width:min(1280px,100%)}
+
+  .encabezado,
+  .contenido {padding-left:40px;padding-right:40px}
+}
+
+/* Tablets */
+
+@media(max-width:900px) {
+  body {padding:18px 12px}
+
+  .encabezado {padding:22px 22px}
+
+  .contenido {padding:22px 20px}
+}
+
+/* Celulares */
+
 @media(max-width:650px) {
   body {padding:10px}
+
+  .container {border-radius:13px}
 
   .encabezado {padding:22px 15px}
 
   .encabezado-contenido {
     flex-direction:column;
     text-align:center;
+    gap:14px;
   }
 
   .logo-bth {width:82px;height:90px}
 
+  nav {padding:12px 10px}
+
+  .nav-btn {flex:1 1 auto}
+
   .contenido {padding:18px 14px}
 
-  .proyectos {grid-template-columns:1fr}
+  .titulo-seccion {font-size:19px}
+
+  .barra-registro {margin:-6px 0 16px}
+
+  .barra-registro button {width:100%}
 
   .form-grid {grid-template-columns:1fr}
 
   .campo.completo {grid-column:auto}
+
+  /* 16px evita que el celular haga zoom al escribir */
+
+  input, textarea,
+  .modal-registro input {font-size:16px}
+
+  .form-actions button {flex:1 1 auto}
+
+  .admin-bloque {padding:16px}
 
   .admin-item {align-items:flex-start}
 
@@ -529,13 +635,67 @@ footer {
 
   .admin-actions button {flex:1}
 
+  .modal-fondo {padding:10px}
+
+  .modal {padding:24px 18px}
+
+  #cerrarPresentacion {
+    top:10px;
+    right:10px;
+    width:40px;
+    height:40px;
+    font-size:17px;
+  }
+
   #cronometroPresentacion {
     bottom:12px;
     left:12px;
     padding:9px 13px;
+    min-width:0;
   }
 
   #cronometroTiempo {font-size:20px}
+
+  footer {padding:16px 12px;font-size:11px}
+}
+
+/* Celulares pequeños */
+
+@media(max-width:340px) {
+  body {padding:6px}
+
+  .etiqueta {font-size:10px}
+
+  .nav-btn {width:100%}
+
+  .card {padding:15px}
+
+  .modal-botones {flex-direction:column}
+}
+
+/* Celular en horizontal o pantallas de poca altura */
+
+@media(max-height:500px) and (orientation:landscape) {
+  .modal {padding:18px 20px}
+
+  .modal-icono {display:none}
+
+  #cronometroPresentacion {
+    bottom:8px;
+    left:8px;
+    padding:6px 10px;
+  }
+
+  #cronometroTiempo {font-size:17px}
+}
+
+/* Pantallas táctiles: sin efecto de elevación al tocar */
+
+@media(hover:none) {
+  .card:hover {
+    transform:none;
+    box-shadow:0 2px 5px #0f172a12;
+  }
 }
 </style>
 </head>
@@ -598,6 +758,13 @@ footer {
       Conoce las propuestas de innovación tecnológica
       desarrolladas por nuestros estudiantes.
     </p>
+
+    <div class="barra-registro">
+      <button type="button" class="nuevo"
+        onclick="abrirRegistro()">
+        + Registrar nuevo proyecto
+      </button>
+    </div>
 
     <div class="proyectos" id="listaPublica"></div>
 
@@ -806,15 +973,88 @@ footer {
   <!-- CRONOMETRO INFERIOR IZQUIERDO -->
 
   <div id="cronometroPresentacion"
-       aria-label="Tiempo transcurrido de presentación">
+       aria-label="Tiempo restante de presentación">
 
-    <div class="cronometro-label">
-      ⏱ TIEMPO TRANSCURRIDO
+    <div class="cronometro-label" id="cronometroEtiqueta">
+      ⏱ TIEMPO RESTANTE
     </div>
 
     <div id="cronometroTiempo">
-      00:00:00
+      10:00
     </div>
+
+  </div>
+
+</div>
+
+
+<!-- MODAL DE REGISTRO DE EQUIPOS -->
+
+<div class="modal-fondo oculto" id="modalRegistro">
+
+  <div class="modal modal-registro">
+
+    <div class="modal-icono">📝</div>
+
+    <h2>Registrar nuevo proyecto</h2>
+
+    <p>
+      Completa los datos de tu equipo.
+    </p>
+
+    <form id="formRegistro">
+
+      <div class="form-grid">
+
+        <div class="campo">
+          <label>Nombre del proyecto *</label>
+          <input id="regNombre" required maxlength="100"
+            placeholder="Ej. GUARDIÁN 360">
+        </div>
+
+        <div class="campo">
+          <label>Nombre del equipo *</label>
+          <input id="regEquipo" required maxlength="100"
+            placeholder="Ej. Los Innovadores">
+        </div>
+
+        <div class="campo completo">
+          <label>Descripción *</label>
+          <input id="regDescripcion" required maxlength="200"
+            placeholder="Sistema de Seguridad">
+        </div>
+
+        <div class="campo completo">
+          <label>URL de presentación</label>
+          <input id="regPresentacion" type="url"
+            placeholder="https://docs.google.com/...">
+        </div>
+
+        <div class="campo completo">
+          <label>URL de simulación</label>
+          <input id="regSimulacion" type="url"
+            placeholder="https://wokwi.com/...">
+        </div>
+
+      </div>
+
+      <p id="mensajeRegistro" class="estado error"
+        aria-live="polite"></p>
+
+      <div class="modal-botones">
+
+        <button type="submit" class="nuevo">
+          + Registrar proyecto
+        </button>
+
+        <button type="button" class="secundario"
+          onclick="cerrarRegistro()">
+          Cancelar
+        </button>
+
+      </div>
+
+    </form>
 
   </div>
 
@@ -1207,6 +1447,14 @@ function renderPublico() {
 
         <p>${escapar(p.descripcion)}</p>
 
+        ${
+          p.equipo
+          ? `<div class="equipo">
+              👥 ${escapar(p.equipo)}${p.curso ? " · " + escapar(p.curso) : ""}
+            </div>`
+          : ""
+        }
+
         <div class="botones">
 
           ${
@@ -1279,6 +1527,11 @@ function renderAdmin() {
         <div>
           <h4>${escapar(p.nombre)}</h4>
           <small>${escapar(p.descripcion)}</small>
+          ${
+            p.equipo
+            ? `<br><small>👥 ${escapar(p.equipo)}${p.curso ? " · " + escapar(p.curso) : ""}</small>`
+            : ""
+          }
         </div>
 
         <div class="admin-actions">
@@ -1657,27 +1910,70 @@ document.getElementById("formCambiarClave")
 // 23. CRONOMETRO
 // ========================================
 
+// Cuenta regresiva de 10:00 con colores según el tiempo restante:
+// verde 10:00–06:01, naranja 06:00–03:01, rojo 03:00–00:01,
+// gris oscuro en 00:00 (se mantiene unos segundos y se reinicia).
+
+const DURACION_PRESENTACION = 10 * 60;   // segundos
+const LIMITE_NARANJA = 6 * 60;
+const LIMITE_ROJO = 3 * 60;
+const PAUSA_FIN = 5;                     // segundos en gris antes de reiniciar
+
 let cronometroIntervalo = null;
 let cronometroInicio = null;
+
+function formatoTiempo(segundos) {
+
+  const minutos = Math.floor(segundos / 60);
+  const seg = segundos % 60;
+
+  return String(minutos).padStart(2,"0") + ":" +
+    String(seg).padStart(2,"0");
+
+}
+
+
+function colorCronometro(restante) {
+
+  if (restante === 0) return "gris";
+  if (restante <= LIMITE_ROJO) return "rojo";
+  if (restante <= LIMITE_NARANJA) return "naranja";
+  return "verde";
+
+}
+
 
 function actualizarCronometro() {
 
   if (cronometroInicio === null) return;
 
-  const segundos = Math.floor(
+  const transcurrido = Math.floor(
     (Date.now() - cronometroInicio) / 1000
   );
 
-  const horas = Math.floor(segundos / 3600);
-  const minutos = Math.floor((segundos % 3600) / 60);
-  const seg = segundos % 60;
+  // Tras llegar a 00:00 y mantenerse en gris, reiniciar a 10:00
 
-  const formato = [horas,minutos,seg]
-    .map(n => String(n).padStart(2,"0"))
-    .join(":");
+  if (transcurrido >= DURACION_PRESENTACION + PAUSA_FIN) {
+    cronometroInicio = Date.now();
+    actualizarCronometro();
+    return;
+  }
+
+  const restante = Math.max(
+    DURACION_PRESENTACION - transcurrido, 0
+  );
+
+  const caja = document.getElementById("cronometroPresentacion");
+  const color = colorCronometro(restante);
+
+  caja.classList.remove("verde","naranja","rojo","gris");
+  caja.classList.add(color);
+
+  document.getElementById("cronometroEtiqueta").textContent =
+    color === "gris" ? "⏱ TIEMPO FINALIZADO" : "⏱ TIEMPO RESTANTE";
 
   document.getElementById("cronometroTiempo")
-    .textContent = formato;
+    .textContent = formatoTiempo(restante);
 
 }
 
@@ -1688,16 +1984,13 @@ function iniciarCronometro() {
 
   cronometroInicio = Date.now();
 
-  document.getElementById("cronometroTiempo")
-    .textContent = "00:00:00";
-
   document.getElementById("cronometroPresentacion")
     .classList.add("visible");
 
   actualizarCronometro();
 
   cronometroIntervalo = setInterval(
-    actualizarCronometro,1000
+    actualizarCronometro,250
   );
 
 }
@@ -1715,11 +2008,16 @@ function detenerCronometro() {
 
   cronometroInicio = null;
 
-  document.getElementById("cronometroPresentacion")
-    .classList.remove("visible");
+  const caja = document.getElementById("cronometroPresentacion");
+
+  caja.classList.remove("visible","naranja","rojo","gris");
+  caja.classList.add("verde");
+
+  document.getElementById("cronometroEtiqueta")
+    .textContent = "⏱ TIEMPO RESTANTE";
 
   document.getElementById("cronometroTiempo")
-    .textContent = "00:00:00";
+    .textContent = formatoTiempo(DURACION_PRESENTACION);
 
 }
 
@@ -1899,7 +2197,85 @@ document.addEventListener("fullscreenchange",function() {
 
 
 // ========================================
-// 29. INICIAR APLICACION
+// 29. REGISTRO DE PROYECTOS POR EQUIPOS
+// ========================================
+
+function abrirRegistro() {
+
+  document.getElementById("formRegistro").reset();
+
+  document.getElementById("mensajeRegistro").textContent = "";
+
+  document.getElementById("modalRegistro")
+    .classList.remove("oculto");
+
+  setTimeout(() => {
+    document.getElementById("regNombre").focus();
+  },100);
+
+}
+
+
+function cerrarRegistro() {
+
+  document.getElementById("modalRegistro")
+    .classList.add("oculto");
+
+}
+
+
+document.getElementById("formRegistro")
+.addEventListener("submit",function(e) {
+
+  e.preventDefault();
+
+  const mensaje = document.getElementById("mensajeRegistro");
+  const valor = id => document.getElementById(id).value.trim();
+
+  const datos = {
+    nombre:valor("regNombre"),
+    equipo:valor("regEquipo"),
+    descripcion:valor("regDescripcion"),
+    presentacion:valor("regPresentacion"),
+    simulacion:valor("regSimulacion")
+  };
+
+  if (!datos.nombre || !datos.equipo || !datos.descripcion) {
+    mensaje.textContent = "Complete los campos obligatorios.";
+    return;
+  }
+
+  if (
+    (datos.presentacion && !enlaceSeguro(datos.presentacion)) ||
+    (datos.simulacion && !enlaceSeguro(datos.simulacion))
+  ) {
+    mensaje.textContent = "Ingrese enlaces HTTP o HTTPS válidos.";
+    return;
+  }
+
+  const anteriores = proyectos;
+
+  proyectos = [...proyectos, {
+    id:Date.now(),
+    icono:"🏆",
+    ...datos
+  }];
+
+  if (!guardarDatos()) {
+    proyectos = anteriores;
+    return;
+  }
+
+  cerrarRegistro();
+  renderizar();
+
+  alert("Proyecto registrado correctamente.");
+
+});
+
+
+// ========================================
+// 30. INICIAR APLICACION
 // ========================================
 
 renderPublico();
