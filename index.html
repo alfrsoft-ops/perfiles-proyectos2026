@@ -1,0 +1,1910 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Proyectos Tecnológicos | Japón B</title>
+
+<style>
+:root {
+  --azul:#075f99;
+  --oscuro:#06375c;
+  --verde:#168363;
+  --rojo:#ff6257;
+  --amarillo:#ffb526;
+}
+
+* {margin:0;padding:0;box-sizing:border-box}
+
+body {
+  font-family:"Segoe UI",Arial,sans-serif;
+  background:linear-gradient(180deg,#06375c,#07568a);
+  min-height:100vh;
+  padding:25px 15px;
+  color:#263548;
+}
+
+.container {
+  width:min(1050px,100%);
+  margin:auto;
+  background:white;
+  border-radius:17px;
+  overflow:hidden;
+  box-shadow:0 15px 45px #001a3545;
+}
+
+/* ENCABEZADO */
+
+.encabezado {
+  background:var(--azul);
+  color:white;
+  padding:25px 28px;
+  position:relative;
+  overflow:hidden;
+}
+
+.encabezado:after {
+  content:"";
+  position:absolute;
+  width:100px;height:100px;
+  border-radius:50%;
+  background:var(--amarillo);
+  right:10%;bottom:-75px;
+}
+
+.encabezado-contenido {
+  display:flex;
+  align-items:center;
+  gap:20px;
+  position:relative;
+  z-index:1;
+}
+
+.logo-bth {
+  width:105px;height:115px;
+  object-fit:contain;
+  background:white;
+  padding:5px;
+  border-radius:12px;
+  flex-shrink:0;
+}
+
+.etiqueta {
+  display:inline-block;
+  background:#064675;
+  padding:6px 12px;
+  border-radius:20px;
+  font-size:11px;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+
+.encabezado h1 {
+  font-size:clamp(23px,4vw,34px);
+  margin-bottom:8px;
+}
+
+.encabezado p {
+  color:#e3f2fd;
+  font-size:14px;
+}
+
+/* MENU */
+
+nav {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:9px;
+  background:white;
+  padding:14px;
+  border-bottom:1px solid #e5eaf0;
+}
+
+button {
+  border:0;
+  padding:11px 16px;
+  border-radius:7px;
+  cursor:pointer;
+  font-size:13px;
+  font-weight:600;
+  transition:.2s;
+}
+
+button:hover {filter:brightness(.94)}
+
+.nav-btn {
+  background:#edf2f7;
+  color:#16456d;
+}
+
+.nav-btn.active {
+  background:var(--azul);
+  color:white;
+}
+
+.cerrar {
+  background:#fee2e2;
+  color:#b91c1c;
+}
+
+.oculto {display:none!important}
+
+/* CONTENIDO */
+
+.contenido {
+  background:#f8fafc;
+  padding:25px 28px;
+  min-height:400px;
+}
+
+.titulo-seccion {
+  color:#084775;
+  font-size:21px;
+  margin-bottom:20px;
+}
+
+.subtitulo {
+  color:#64748b;
+  font-size:13px;
+  margin-top:-12px;
+  margin-bottom:20px;
+}
+
+/* TARJETAS */
+
+.proyectos {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+}
+
+.card {
+  background:white;
+  padding:19px;
+  border-radius:14px;
+  border:1px solid #dce5ee;
+  border-top:4px solid #0878bd;
+  box-shadow:0 2px 5px #0f172a12;
+  transition:.2s;
+  min-width:0;
+}
+
+.card:nth-child(4n+1){border-top-color:var(--rojo)}
+.card:nth-child(4n+2){border-top-color:var(--amarillo)}
+.card:nth-child(4n+3){border-top-color:#0878bd}
+.card:nth-child(4n){border-top-color:var(--verde)}
+
+.card:hover {
+  transform:translateY(-3px);
+  box-shadow:0 8px 18px #0f172a18;
+}
+
+.card-cabecera {
+  display:flex;
+  align-items:center;
+  gap:12px;
+  margin-bottom:12px;
+}
+
+.icono-proyecto {
+  width:42px;height:42px;
+  border-radius:50%;
+  background:#074777;
+  color:#ffbd32;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:21px;
+  flex-shrink:0;
+}
+
+.numero {
+  font-size:10px;
+  color:#0878bd;
+  font-weight:bold;
+  margin-bottom:4px;
+}
+
+.card h3 {
+  color:#084775;
+  font-size:16px;
+  line-height:1.3;
+}
+
+.card p {
+  color:#69776f;
+  font-size:12px;
+  line-height:1.6;
+  min-height:38px;
+  margin-bottom:12px;
+}
+
+.botones {
+  display:flex;
+  flex-wrap:wrap;
+  gap:9px;
+}
+
+.btn {
+  flex:1;
+  min-width:115px;
+  text-align:center;
+  color:white;
+  padding:11px 8px;
+  border-radius:7px;
+  font-size:12px;
+  font-weight:600;
+  cursor:pointer;
+  border:0;
+  text-decoration:none;
+}
+
+.presentacion {background:#0878bd}
+.simulacion {background:#168363}
+
+.sin-enlace {
+  color:#94a3b8;
+  font-size:11px;
+  margin-top:8px;
+}
+
+/* ADMINISTRACION */
+
+.admin-bloque {
+  background:white;
+  padding:22px;
+  border:1px solid #e1e8ef;
+  border-radius:12px;
+  margin-bottom:20px;
+}
+
+.admin-bloque h3 {
+  color:#084775;
+  font-size:17px;
+  margin-bottom:15px;
+}
+
+.form-grid {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+}
+
+.campo {
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+}
+
+.campo.completo {grid-column:1/-1}
+
+label {
+  font-size:12px;
+  font-weight:600;
+  color:#334155;
+}
+
+input {
+  width:100%;
+  padding:12px;
+  border:1px solid #cbd5e1;
+  border-radius:7px;
+  font:inherit;
+  font-size:13px;
+  outline:none;
+}
+
+input:focus {
+  border-color:#0878bd;
+  box-shadow:0 0 0 2px #0878bd20;
+}
+
+.form-actions {
+  display:flex;
+  gap:9px;
+  flex-wrap:wrap;
+  margin-top:17px;
+}
+
+.nuevo {background:#168363;color:white}
+.secundario {background:#e8eef5;color:#23415e}
+
+.admin-list {
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.admin-item {
+  background:white;
+  border:1px solid #dce5ee;
+  border-radius:9px;
+  padding:15px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  flex-wrap:wrap;
+}
+
+.admin-item h4 {
+  color:#084775;
+  font-size:14px;
+  margin-bottom:5px;
+}
+
+.admin-item small {color:#64748b}
+
+.admin-actions {display:flex;gap:7px}
+
+.editar {background:#e0f2fe;color:#075985}
+.eliminar {background:#fee2e2;color:#b91c1c}
+
+.estado {
+  font-size:12px;
+  color:#64748b;
+  margin-top:12px;
+}
+
+.exito {color:#168363}
+.error {color:#dc2626}
+
+.vacio {
+  text-align:center;
+  padding:30px;
+  background:white;
+  border:1px solid #e1e8ef;
+  border-radius:10px;
+  color:#64748b;
+}
+
+/* VISOR DE PRESENTACION */
+
+#visorPresentacion {
+  position:fixed;
+  inset:0;
+  width:100%;
+  height:100%;
+  background:#000;
+  z-index:9999;
+  display:none;
+}
+
+#visorPresentacion.activo {display:block}
+
+#framePresentacion {
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  border:0;
+  display:block;
+  background:#000;
+}
+
+#cerrarPresentacion {
+  position:absolute;
+  top:15px;
+  right:20px;
+  z-index:10003;
+  background:#e53935;
+  color:white;
+  border-radius:50%;
+  width:46px;
+  height:46px;
+  font-size:20px;
+  padding:0;
+  opacity:.75;
+}
+
+#cerrarPresentacion:hover {opacity:1}
+
+/* CRONOMETRO */
+
+#cronometroPresentacion {
+  position:absolute;
+  bottom:20px;
+  left:20px;
+  z-index:10002;
+  background:rgba(8,30,48,.92);
+  color:white;
+  padding:12px 18px;
+  border-radius:10px;
+  border:1px solid #ffffff35;
+  box-shadow:0 4px 15px #0005;
+  display:none;
+  pointer-events:none;
+  backdrop-filter:blur(8px);
+  min-width:155px;
+}
+
+#cronometroPresentacion.visible {display:block}
+
+.cronometro-label {
+  font-size:10px;
+  color:#cbd5e1;
+  margin-bottom:4px;
+  letter-spacing:1px;
+}
+
+#cronometroTiempo {
+  font-size:25px;
+  font-weight:700;
+  font-family:monospace;
+  color:#fff;
+  letter-spacing:2px;
+  font-variant-numeric:tabular-nums;
+}
+
+/* MODAL */
+
+.modal-fondo {
+  position:fixed;
+  inset:0;
+  background:#031a30c9;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:18px;
+  z-index:1000;
+}
+
+.modal {
+  width:100%;
+  max-width:390px;
+  background:white;
+  padding:30px;
+  border-radius:15px;
+  text-align:center;
+  box-shadow:0 15px 50px #0005;
+}
+
+.modal-icono {font-size:40px;margin-bottom:12px}
+
+.modal h2 {
+  color:#084775;
+  font-size:21px;
+  margin-bottom:8px;
+}
+
+.modal p {
+  color:#64748b;
+  font-size:13px;
+  margin-bottom:18px;
+}
+
+.modal input {
+  text-align:center;
+  font-size:18px;
+  letter-spacing:4px;
+}
+
+.modal-botones {
+  display:flex;
+  gap:10px;
+  margin-top:16px;
+}
+
+.modal-botones button {flex:1}
+
+/* PIE */
+
+footer {
+  background:#06375c;
+  color:white;
+  text-align:center;
+  padding:20px;
+  font-size:12px;
+  line-height:1.8;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:650px) {
+  body {padding:10px}
+
+  .encabezado {padding:22px 15px}
+
+  .encabezado-contenido {
+    flex-direction:column;
+    text-align:center;
+  }
+
+  .logo-bth {width:82px;height:90px}
+
+  .contenido {padding:18px 14px}
+
+  .proyectos {grid-template-columns:1fr}
+
+  .form-grid {grid-template-columns:1fr}
+
+  .campo.completo {grid-column:auto}
+
+  .admin-item {align-items:flex-start}
+
+  .admin-actions {width:100%}
+
+  .admin-actions button {flex:1}
+
+  #cronometroPresentacion {
+    bottom:12px;
+    left:12px;
+    padding:9px 13px;
+  }
+
+  #cronometroTiempo {font-size:20px}
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header class="encabezado">
+  <div class="encabezado-contenido">
+
+    <img src="logo_bth_RM.png"
+         class="logo-bth"
+         alt="Logotipo BTH">
+
+    <div>
+      <span class="etiqueta">🏆 Perfiles de proyecto</span>
+
+      <h1>Nuestros proyectos tecnológicos</h1>
+
+      <p>
+        UNIDAD EDUCATIVA TÉCNICO HUMANÍSTICO «JAPÓN B»
+      </p>
+    </div>
+
+  </div>
+</header>
+
+<nav>
+
+  <button class="nav-btn active"
+    id="navPublico"
+    onclick="mostrarVista('publico')">
+    ◫ Proyectos
+  </button>
+
+  <button class="nav-btn"
+    id="navAdmin"
+    onclick="mostrarVista('admin')">
+    ⚙ Administración
+  </button>
+
+  <button class="nav-btn cerrar oculto"
+    id="navCerrar"
+    onclick="cerrarSesion()">
+    🔒 Cerrar sesión
+  </button>
+
+</nav>
+
+<main class="contenido">
+
+  <!-- VISTA PUBLICA -->
+
+  <section id="vistaPublica">
+
+    <h2 class="titulo-seccion">Nuestros proyectos</h2>
+
+    <p class="subtitulo">
+      Conoce las propuestas de innovación tecnológica
+      desarrolladas por nuestros estudiantes.
+    </p>
+
+    <div class="proyectos" id="listaPublica"></div>
+
+  </section>
+
+  <!-- VISTA ADMINISTRATIVA -->
+
+  <section id="vistaAdmin" class="oculto">
+
+    <h2 class="titulo-seccion">
+      Administración de proyectos
+    </h2>
+
+    <p class="subtitulo">
+      Gestiona, actualiza y administra los proyectos tecnológicos.
+    </p>
+
+    <!-- REGISTRAR PROYECTOS -->
+
+    <div class="admin-bloque">
+
+      <h3 id="tituloFormulario">
+        + Registrar nuevo proyecto
+      </h3>
+
+      <form id="formProyecto">
+
+        <input type="hidden" id="proyectoId">
+
+        <div class="form-grid">
+
+          <div class="campo">
+            <label>Nombre del proyecto *</label>
+            <input id="nombre" required maxlength="100"
+              placeholder="Ej. GUARDIÁN 360">
+          </div>
+
+          <div class="campo">
+            <label>Descripción *</label>
+            <input id="descripcion" required maxlength="200"
+              placeholder="Sistema de Seguridad">
+          </div>
+
+          <div class="campo completo">
+            <label>URL de presentación</label>
+            <input id="presentacion" type="url"
+              placeholder="https://docs.google.com/...">
+          </div>
+
+          <div class="campo completo">
+            <label>URL de simulación</label>
+            <input id="simulacion" type="url"
+              placeholder="https://wokwi.com/...">
+          </div>
+
+        </div>
+
+        <div class="form-actions">
+
+          <button type="submit" class="nuevo">
+            + Guardar proyecto
+          </button>
+
+          <button type="button" class="secundario"
+            onclick="limpiarFormulario()">
+            Cancelar
+          </button>
+
+        </div>
+
+      </form>
+    </div>
+
+    <!-- LISTADO -->
+
+    <div class="admin-bloque">
+
+      <h3>📋 Proyectos registrados</h3>
+
+      <div class="admin-list" id="listaAdmin"></div>
+
+      <p class="estado" id="estado"></p>
+
+    </div>
+
+    <!-- JSON -->
+
+    <div class="admin-bloque">
+
+      <h3>📁 Respaldo de base de datos</h3>
+
+      <p class="estado">
+        Exporta tus proyectos para conservar una copia
+        o importa un archivo JSON.
+      </p>
+
+      <div class="form-actions">
+
+        <button class="nuevo" onclick="exportarJSON()">
+          ↓ Exportar JSON
+        </button>
+
+        <button class="secundario"
+          onclick="document.getElementById('archivoJSON').click()">
+          ↑ Importar JSON
+        </button>
+
+        <input type="file" id="archivoJSON"
+          accept=".json,application/json"
+          class="oculto">
+
+      </div>
+
+    </div>
+
+    <!-- CAMBIAR CONTRASEÑA -->
+
+    <div class="admin-bloque">
+
+      <h3>🔐 Seguridad y contraseña</h3>
+
+      <p class="estado">
+        Actualiza la contraseña de acceso al panel administrativo.
+      </p>
+
+      <form id="formCambiarClave">
+
+        <div class="form-grid">
+
+          <div class="campo completo">
+            <label>Contraseña actual *</label>
+            <input type="password" id="claveActual"
+              required autocomplete="current-password"
+              placeholder="Contraseña actual">
+          </div>
+
+          <div class="campo">
+            <label>Nueva contraseña *</label>
+            <input type="password" id="claveNueva"
+              required minlength="6" maxlength="100"
+              autocomplete="new-password"
+              placeholder="Nueva contraseña">
+          </div>
+
+          <div class="campo">
+            <label>Confirmar contraseña *</label>
+            <input type="password" id="claveConfirmar"
+              required minlength="6" maxlength="100"
+              autocomplete="new-password"
+              placeholder="Confirmar contraseña">
+          </div>
+
+        </div>
+
+        <div class="form-actions">
+
+          <button type="submit" class="nuevo">
+            🔒 Actualizar contraseña
+          </button>
+
+          <button type="reset" class="secundario">
+            Cancelar
+          </button>
+
+        </div>
+
+        <p id="mensajeClave" class="estado"
+          aria-live="polite"></p>
+
+      </form>
+
+    </div>
+
+  </section>
+
+</main>
+
+<footer>
+  INNOVACIÓN · TECNOLOGÍA · CREATIVIDAD
+  <br>
+  Unidad Educativa Técnico Humanístico «Japón B»
+  <br>
+  Bachillerato Técnico Humanístico – Sistemas Informáticos
+</footer>
+
+</div>
+
+
+<!-- VISOR DE PRESENTACIONES -->
+
+<div id="visorPresentacion">
+
+  <button id="cerrarPresentacion"
+    onclick="cerrarPresentacion()"
+    title="Cerrar presentación"
+    aria-label="Cerrar presentación">
+    ✕
+  </button>
+
+  <iframe
+    id="framePresentacion"
+    src="about:blank"
+    allowfullscreen>
+  </iframe>
+
+  <!-- CRONOMETRO INFERIOR IZQUIERDO -->
+
+  <div id="cronometroPresentacion"
+       aria-label="Tiempo transcurrido de presentación">
+
+    <div class="cronometro-label">
+      ⏱ TIEMPO TRANSCURRIDO
+    </div>
+
+    <div id="cronometroTiempo">
+      00:00:00
+    </div>
+
+  </div>
+
+</div>
+
+
+<!-- MODAL DE ACCESO -->
+
+<div class="modal-fondo oculto" id="modalAcceso">
+
+  <div class="modal">
+
+    <div class="modal-icono">🔐</div>
+
+    <h2>Acceso administrativo</h2>
+
+    <p>
+      Introduce tu contraseña para administrar
+      los proyectos tecnológicos.
+    </p>
+
+    <form id="formAcceso">
+
+      <input type="password"
+        id="claveAcceso"
+        placeholder="Contraseña"
+        autocomplete="off"
+        required>
+
+      <p id="mensajeError" class="error oculto">
+        Contraseña incorrecta.
+      </p>
+
+      <div class="modal-botones">
+
+        <button type="submit" class="nuevo">
+          Ingresar
+        </button>
+
+        <button type="button"
+          class="secundario"
+          onclick="cancelarAcceso()">
+          Cancelar
+        </button>
+
+      </div>
+
+    </form>
+
+  </div>
+
+</div>
+
+
+<script>
+
+// ========================================
+// 1. CONFIGURACION
+// ========================================
+
+const CLAVE_INICIAL = "71293946";
+const CLAVE_STORAGE_ADMIN = "clave_admin_japon_b";
+const CLAVE_STORAGE_DATOS = "proyectos_japon_b";
+
+let adminAutorizado = false;
+
+let CLAVE_ADMIN =
+  localStorage.getItem(CLAVE_STORAGE_ADMIN)
+  || CLAVE_INICIAL;
+
+
+// ========================================
+// 2. PROYECTOS INICIALES
+// ========================================
+
+const proyectosIniciales = [
+
+  {
+    id:1,
+    nombre:"GUARDIÁN 360",
+    descripcion:"Sistema de Seguridad",
+    presentacion:"",
+    simulacion:"",
+    icono:"🛡️"
+  },
+
+  {
+    id:2,
+    nombre:"GAS-SAFE",
+    descripcion:"Detector Inteligente de Fugas de Gas",
+    presentacion:"",
+    simulacion:"",
+    icono:"🔥"
+  },
+
+  {
+    id:3,
+    nombre:"AULA SMART",
+    descripcion:"Iluminación Inteligente",
+    presentacion:"",
+    simulacion:"",
+    icono:"💡"
+  },
+
+  {
+    id:4,
+    nombre:"ECOBIN",
+    descripcion:"Basurero Inteligente Automático",
+    presentacion:"",
+    simulacion:"",
+    icono:"♻️"
+  },
+
+  {
+    id:5,
+    nombre:"AQUA-PLANT",
+    descripcion:"Sistema de Riego Inteligente",
+    presentacion:"",
+    simulacion:"",
+    icono:"🌱"
+  }
+
+];
+
+
+// ========================================
+// 3. CARGAR DATOS
+// ========================================
+
+function cargarDatos() {
+
+  try {
+
+    const datos = localStorage.getItem(CLAVE_STORAGE_DATOS);
+
+    if (datos === null) {
+      return proyectosIniciales.map(p => ({...p}));
+    }
+
+    const resultado = JSON.parse(datos);
+
+    if (!Array.isArray(resultado)) {
+      throw new Error("Datos inválidos");
+    }
+
+    return resultado;
+
+  } catch(error) {
+
+    alert("No se pudieron recuperar los proyectos.");
+
+    return proyectosIniciales.map(p => ({...p}));
+
+  }
+
+}
+
+let proyectos = cargarDatos();
+
+
+// ========================================
+// 4. GUARDAR DATOS
+// ========================================
+
+function guardarDatos() {
+
+  try {
+
+    localStorage.setItem(
+      CLAVE_STORAGE_DATOS,
+      JSON.stringify(proyectos)
+    );
+
+    return true;
+
+  } catch(error) {
+
+    alert("Error al guardar los datos.");
+
+    return false;
+
+  }
+
+}
+
+
+// ========================================
+// 5. SEGURIDAD DE TEXTO
+// ========================================
+
+function escapar(texto) {
+
+  return String(texto ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#39;"
+  })[c]);
+
+}
+
+
+// ========================================
+// 6. VALIDAR URL
+// ========================================
+
+function enlaceSeguro(url) {
+
+  try {
+
+    const u = new URL(url);
+
+    return ["https:","http:"].includes(u.protocol)
+      ? u.href : "";
+
+  } catch {
+
+    return "";
+
+  }
+
+}
+
+
+// ========================================
+// 7. ACCESO ADMINISTRATIVO
+// ========================================
+
+function mostrarVista(vista) {
+
+  if (vista === "admin" && !adminAutorizado) {
+
+    document.getElementById("modalAcceso")
+      .classList.remove("oculto");
+
+    document.getElementById("claveAcceso").value = "";
+
+    document.getElementById("mensajeError")
+      .classList.add("oculto");
+
+    setTimeout(() => {
+      document.getElementById("claveAcceso").focus();
+    },100);
+
+    return;
+
+  }
+
+  cambiarVista(vista);
+
+}
+
+
+// ========================================
+// 8. CAMBIAR VISTA
+// ========================================
+
+function cambiarVista(vista) {
+
+  document.getElementById("vistaPublica")
+    .classList.toggle("oculto",vista !== "publico");
+
+  document.getElementById("vistaAdmin")
+    .classList.toggle("oculto",vista !== "admin");
+
+  document.getElementById("navPublico")
+    .classList.toggle("active",vista === "publico");
+
+  document.getElementById("navAdmin")
+    .classList.toggle("active",vista === "admin");
+
+  document.getElementById("navCerrar")
+    .classList.toggle("oculto",!adminAutorizado);
+
+  renderizar();
+
+}
+
+
+// ========================================
+// 9. VALIDAR CONTRASEÑA
+// ========================================
+
+document.getElementById("formAcceso")
+.addEventListener("submit",function(e) {
+
+  e.preventDefault();
+
+  const clave = document.getElementById("claveAcceso").value;
+
+  if (clave === CLAVE_ADMIN) {
+
+    adminAutorizado = true;
+
+    document.getElementById("modalAcceso")
+      .classList.add("oculto");
+
+    cambiarVista("admin");
+
+  } else {
+
+    document.getElementById("mensajeError")
+      .classList.remove("oculto");
+
+    document.getElementById("claveAcceso").value = "";
+
+    document.getElementById("claveAcceso").focus();
+
+  }
+
+});
+
+
+// ========================================
+// 10. CANCELAR ACCESO
+// ========================================
+
+function cancelarAcceso() {
+
+  document.getElementById("modalAcceso")
+    .classList.add("oculto");
+
+}
+
+
+// ========================================
+// 11. CERRAR SESION
+// ========================================
+
+function cerrarSesion() {
+
+  adminAutorizado = false;
+
+  limpiarFormulario();
+
+  document.getElementById("formCambiarClave").reset();
+
+  cambiarVista("publico");
+
+}
+
+
+// ========================================
+// 12. MOSTRAR PROYECTOS
+// ========================================
+
+function renderPublico() {
+
+  const contenedor = document.getElementById("listaPublica");
+
+  if (proyectos.length === 0) {
+
+    contenedor.innerHTML = `
+      <div class="vacio">
+        No hay proyectos registrados.
+      </div>
+    `;
+
+    return;
+
+  }
+
+  contenedor.innerHTML = proyectos.map((p,i) => {
+
+    const urlP = enlaceSeguro(p.presentacion);
+    const urlS = enlaceSeguro(p.simulacion);
+
+    return `
+
+      <article class="card">
+
+        <div class="card-cabecera">
+
+          <div class="icono-proyecto">
+            ${escapar(p.icono || "🏆")}
+          </div>
+
+          <div>
+
+            <div class="numero">
+              PROYECTO ${String(i+1).padStart(2,"0")}
+            </div>
+
+            <h3>${escapar(p.nombre)}</h3>
+
+          </div>
+
+        </div>
+
+        <p>${escapar(p.descripcion)}</p>
+
+        <div class="botones">
+
+          ${
+            urlP
+            ? `
+              <button type="button"
+                class="btn presentacion"
+                data-accion="presentacion"
+                data-url="${escapar(urlP)}">
+                ▣ Presentación
+              </button>
+            `
+            : ""
+          }
+
+          ${
+            urlS
+            ? `
+              <a class="btn simulacion"
+                href="${escapar(urlS)}"
+                target="_blank"
+                rel="noopener noreferrer">
+                ▶ Simulación
+              </a>
+            `
+            : ""
+          }
+
+        </div>
+
+        ${
+          !urlP && !urlS
+          ? '<div class="sin-enlace">Enlaces pendientes de configurar</div>'
+          : ""
+        }
+
+      </article>
+
+    `;
+
+  }).join("");
+
+}
+
+
+// ========================================
+// 13. LISTADO ADMINISTRATIVO
+// ========================================
+
+function renderAdmin() {
+
+  if (!adminAutorizado) return;
+
+  const contenedor = document.getElementById("listaAdmin");
+
+  if (proyectos.length === 0) {
+
+    contenedor.innerHTML = `
+      <div class="vacio">
+        No existen proyectos registrados.
+      </div>
+    `;
+
+  } else {
+
+    contenedor.innerHTML = proyectos.map(p => `
+
+      <div class="admin-item">
+
+        <div>
+          <h4>${escapar(p.nombre)}</h4>
+          <small>${escapar(p.descripcion)}</small>
+        </div>
+
+        <div class="admin-actions">
+
+          <button class="editar"
+            onclick="editarProyecto(${Number(p.id)})">
+            ✎ Editar
+          </button>
+
+          <button class="eliminar"
+            onclick="eliminarProyecto(${Number(p.id)})">
+            ✕ Eliminar
+          </button>
+
+        </div>
+
+      </div>
+
+    `).join("");
+
+  }
+
+  document.getElementById("estado").textContent =
+    proyectos.length + " proyectos registrados.";
+
+}
+
+
+// ========================================
+// 14. ACTUALIZAR PANTALLA
+// ========================================
+
+function renderizar() {
+
+  renderPublico();
+
+  if (adminAutorizado) {
+    renderAdmin();
+  }
+
+}
+
+
+// ========================================
+// 15. CREAR Y EDITAR PROYECTOS
+// ========================================
+
+document.getElementById("formProyecto")
+.addEventListener("submit",function(e) {
+
+  e.preventDefault();
+
+  if (!adminAutorizado) return;
+
+  const id = document.getElementById("proyectoId").value;
+
+  const datos = {
+
+    nombre:document.getElementById("nombre").value.trim(),
+
+    descripcion:document.getElementById("descripcion").value.trim(),
+
+    presentacion:document.getElementById("presentacion").value.trim(),
+
+    simulacion:document.getElementById("simulacion").value.trim()
+
+  };
+
+  if (!datos.nombre || !datos.descripcion) {
+    alert("Complete los campos obligatorios.");
+    return;
+  }
+
+  if (
+    (datos.presentacion && !enlaceSeguro(datos.presentacion)) ||
+    (datos.simulacion && !enlaceSeguro(datos.simulacion))
+  ) {
+    alert("Ingrese enlaces HTTP o HTTPS válidos.");
+    return;
+  }
+
+  const anteriores = proyectos;
+
+  if (id) {
+
+    const indice = proyectos.findIndex(
+      p => p.id === Number(id)
+    );
+
+    if (indice !== -1) {
+
+      proyectos[indice] = {
+        ...proyectos[indice],
+        ...datos
+      };
+
+    }
+
+  } else {
+
+    proyectos.push({
+      id:Date.now(),
+      icono:"🏆",
+      ...datos
+    });
+
+  }
+
+  if (!guardarDatos()) {
+    proyectos = anteriores;
+    return;
+  }
+
+  limpiarFormulario();
+  renderizar();
+
+  alert("Proyecto guardado correctamente.");
+
+});
+
+
+// ========================================
+// 16. EDITAR PROYECTO
+// ========================================
+
+function editarProyecto(id) {
+
+  if (!adminAutorizado) return;
+
+  const p = proyectos.find(x => x.id === id);
+
+  if (!p) return;
+
+  document.getElementById("proyectoId").value = p.id;
+  document.getElementById("nombre").value = p.nombre;
+  document.getElementById("descripcion").value = p.descripcion;
+  document.getElementById("presentacion").value = p.presentacion;
+  document.getElementById("simulacion").value = p.simulacion;
+
+  document.getElementById("tituloFormulario")
+    .textContent = "Editar proyecto";
+
+  window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+// ========================================
+// 17. ELIMINAR PROYECTO
+// ========================================
+
+function eliminarProyecto(id) {
+
+  if (!adminAutorizado) return;
+
+  const p = proyectos.find(x => x.id === id);
+
+  if (!p) return;
+
+  if (!confirm("¿Eliminar el proyecto " + p.nombre + "?")) {
+    return;
+  }
+
+  const anteriores = proyectos;
+
+  proyectos = proyectos.filter(x => x.id !== id);
+
+  if (!guardarDatos()) {
+    proyectos = anteriores;
+    return;
+  }
+
+  limpiarFormulario();
+  renderizar();
+
+  alert("Proyecto eliminado correctamente.");
+
+}
+
+
+// ========================================
+// 18. LIMPIAR FORMULARIO
+// ========================================
+
+function limpiarFormulario() {
+
+  document.getElementById("formProyecto").reset();
+  document.getElementById("proyectoId").value = "";
+
+  document.getElementById("tituloFormulario")
+    .textContent = "+ Registrar nuevo proyecto";
+
+}
+
+
+// ========================================
+// 19. EXPORTAR JSON
+// ========================================
+
+function exportarJSON() {
+
+  if (!adminAutorizado) return;
+
+  const contenido = JSON.stringify(proyectos,null,2);
+
+  const archivo = new Blob(
+    [contenido],
+    {type:"application/json"}
+  );
+
+  const url = URL.createObjectURL(archivo);
+
+  const enlace = document.createElement("a");
+
+  enlace.href = url;
+  enlace.download = "proyectos_japon_b.json";
+  enlace.click();
+
+  setTimeout(() => URL.revokeObjectURL(url),1000);
+
+}
+
+
+// ========================================
+// 20. IMPORTAR JSON
+// ========================================
+
+document.getElementById("archivoJSON")
+.addEventListener("change",async function(e) {
+
+  if (!adminAutorizado) return;
+
+  const archivo = e.target.files[0];
+
+  if (!archivo) return;
+
+  try {
+
+    const datos = JSON.parse(await archivo.text());
+
+    const valido = Array.isArray(datos) &&
+      datos.every(p =>
+
+        p &&
+        Number.isSafeInteger(p.id) &&
+        p.id > 0 &&
+        typeof p.nombre === "string" &&
+        typeof p.descripcion === "string" &&
+        typeof p.presentacion === "string" &&
+        typeof p.simulacion === "string" &&
+        p.nombre.length <= 100 &&
+        p.descripcion.length <= 200 &&
+        (!p.presentacion || !!enlaceSeguro(p.presentacion)) &&
+        (!p.simulacion || !!enlaceSeguro(p.simulacion))
+
+      ) &&
+      new Set(datos.map(p => p.id)).size === datos.length;
+
+    if (!valido) {
+      throw new Error("JSON inválido");
+    }
+
+    if (!confirm("¿Reemplazar todos los proyectos actuales?")) {
+      return;
+    }
+
+    const anteriores = proyectos;
+
+    proyectos = datos;
+
+    if (!guardarDatos()) {
+      proyectos = anteriores;
+      return;
+    }
+
+    limpiarFormulario();
+    renderizar();
+
+    alert("Base de datos importada correctamente.");
+
+  } catch(error) {
+
+    alert("No se pudo importar el archivo JSON.");
+
+  } finally {
+
+    e.target.value = "";
+
+  }
+
+});
+
+
+// ========================================
+// 21. CAMBIAR CONTRASEÑA
+// ========================================
+
+document.getElementById("formCambiarClave")
+.addEventListener("submit",function(e) {
+
+  e.preventDefault();
+
+  if (!adminAutorizado) return;
+
+  const actual = document.getElementById("claveActual").value;
+  const nueva = document.getElementById("claveNueva").value;
+  const confirmar = document.getElementById("claveConfirmar").value;
+  const mensaje = document.getElementById("mensajeClave");
+
+  if (actual !== CLAVE_ADMIN) {
+
+    mensaje.className = "estado error";
+    mensaje.textContent = "La contraseña actual es incorrecta.";
+    return;
+
+  }
+
+  if (nueva.length < 6) {
+
+    mensaje.className = "estado error";
+    mensaje.textContent = "La contraseña debe tener al menos 6 caracteres.";
+    return;
+
+  }
+
+  if (nueva !== confirmar) {
+
+    mensaje.className = "estado error";
+    mensaje.textContent = "Las contraseñas nuevas no coinciden.";
+    return;
+
+  }
+
+  if (nueva === actual) {
+
+    mensaje.className = "estado error";
+    mensaje.textContent = "La nueva contraseña debe ser diferente.";
+    return;
+
+  }
+
+  try {
+
+    localStorage.setItem(CLAVE_STORAGE_ADMIN,nueva);
+
+    CLAVE_ADMIN = nueva;
+
+    document.getElementById("formCambiarClave").reset();
+
+    mensaje.className = "estado exito";
+    mensaje.textContent = "✓ Contraseña actualizada correctamente.";
+
+  } catch(error) {
+
+    mensaje.className = "estado error";
+    mensaje.textContent = "No se pudo guardar la nueva contraseña.";
+
+  }
+
+});
+
+
+// ========================================
+// 22. LIMPIAR MENSAJE
+// ========================================
+
+document.getElementById("formCambiarClave")
+.addEventListener("reset",function() {
+
+  document.getElementById("mensajeClave").textContent = "";
+
+});
+
+
+// ========================================
+// 23. CRONOMETRO
+// ========================================
+
+let cronometroIntervalo = null;
+let cronometroInicio = null;
+
+function actualizarCronometro() {
+
+  if (cronometroInicio === null) return;
+
+  const segundos = Math.floor(
+    (Date.now() - cronometroInicio) / 1000
+  );
+
+  const horas = Math.floor(segundos / 3600);
+  const minutos = Math.floor((segundos % 3600) / 60);
+  const seg = segundos % 60;
+
+  const formato = [horas,minutos,seg]
+    .map(n => String(n).padStart(2,"0"))
+    .join(":");
+
+  document.getElementById("cronometroTiempo")
+    .textContent = formato;
+
+}
+
+
+function iniciarCronometro() {
+
+  detenerCronometro();
+
+  cronometroInicio = Date.now();
+
+  document.getElementById("cronometroTiempo")
+    .textContent = "00:00:00";
+
+  document.getElementById("cronometroPresentacion")
+    .classList.add("visible");
+
+  actualizarCronometro();
+
+  cronometroIntervalo = setInterval(
+    actualizarCronometro,1000
+  );
+
+}
+
+
+function detenerCronometro() {
+
+  if (cronometroIntervalo !== null) {
+
+    clearInterval(cronometroIntervalo);
+
+    cronometroIntervalo = null;
+
+  }
+
+  cronometroInicio = null;
+
+  document.getElementById("cronometroPresentacion")
+    .classList.remove("visible");
+
+  document.getElementById("cronometroTiempo")
+    .textContent = "00:00:00";
+
+}
+
+
+// ========================================
+// 24. PREPARAR ENLACE DE GOOGLE SLIDES
+// ========================================
+
+function prepararPresentacion(url) {
+
+  const destino = new URL(url);
+
+  if (destino.hostname === "docs.google.com") {
+
+    destino.pathname = destino.pathname.replace(
+      /\/pub\/?$/,
+      "/pubembed"
+    );
+
+  }
+
+  return destino.href;
+
+}
+
+
+// ========================================
+// 25. ABRIR PRESENTACION
+// ========================================
+
+async function abrirPresentacion(url) {
+
+  const visor = document.getElementById("visorPresentacion");
+
+  const frame = document.getElementById("framePresentacion");
+
+  const segura = enlaceSeguro(url);
+
+  if (!segura) {
+
+    alert("La dirección de la presentación no es válida.");
+
+    return;
+
+  }
+
+  let destino;
+
+  try {
+
+    destino = prepararPresentacion(segura);
+
+  } catch(error) {
+
+    alert("No se pudo preparar la presentación.");
+
+    return;
+
+  }
+
+  // Mostrar visor
+
+  visor.classList.add("activo");
+
+  // Iniciar cronómetro
+
+  iniciarCronometro();
+
+  // Activar pantalla completa mediante la interacción del usuario
+
+  try {
+
+    const promesaPantalla = visor.requestFullscreen();
+
+    frame.src = destino;
+
+    await promesaPantalla;
+
+  } catch(error) {
+
+    // Mantener el visor abierto si el navegador
+    // no permite la pantalla completa.
+
+    frame.src = destino;
+
+    console.warn(
+      "No se pudo activar pantalla completa:",
+      error
+    );
+
+  }
+
+}
+
+
+// ========================================
+// 26. CERRAR PRESENTACION
+// ========================================
+
+async function cerrarPresentacion() {
+
+  const visor = document.getElementById("visorPresentacion");
+
+  const frame = document.getElementById("framePresentacion");
+
+  // Detener y reiniciar cronómetro
+
+  detenerCronometro();
+
+  // Salir de pantalla completa
+
+  if (document.fullscreenElement) {
+
+    try {
+
+      await document.exitFullscreen();
+
+    } catch(error) {
+
+      console.warn(error);
+
+    }
+
+  }
+
+  visor.classList.remove("activo");
+
+  frame.src = "about:blank";
+
+}
+
+
+// ========================================
+// 27. EVENTO BOTON PRESENTACION
+// ========================================
+
+document.getElementById("listaPublica")
+.addEventListener("click",function(e) {
+
+  const boton = e.target.closest(
+    '[data-accion="presentacion"]'
+  );
+
+  if (!boton) return;
+
+  abrirPresentacion(boton.dataset.url);
+
+});
+
+
+// ========================================
+// 28. CONTROL DE PANTALLA COMPLETA
+// ========================================
+
+// Al pulsar ESC, cerrar el visor y reiniciar el cronómetro.
+
+document.addEventListener("fullscreenchange",function() {
+
+  if (!document.fullscreenElement) {
+
+    const visor = document.getElementById("visorPresentacion");
+
+    if (visor.classList.contains("activo")) {
+
+      detenerCronometro();
+
+      visor.classList.remove("activo");
+
+      document.getElementById("framePresentacion")
+        .src = "about:blank";
+
+    }
+
+  }
+
+});
+
+
+// ========================================
+// 29. INICIAR APLICACION
+// ========================================
+
+renderPublico();
+
+</script>
+
+</body>
+</html>
