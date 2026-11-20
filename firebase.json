@@ -1,0 +1,17 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "firestore.rules",
+      "**/.*",
+      "**/node_modules/**",
+      "*.txt",
+      "Inicio.png",
+      "Perfiles de Proyectos Tecnológicos.png"
+    ]
+  }
+}

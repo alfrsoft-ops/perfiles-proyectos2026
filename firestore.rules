@@ -1,0 +1,42 @@
+rules_version = '2';
+
+// Reglas de Firestore para "Proyectos Tecnológicos | Japón B".
+// Pegar en: Consola de Firebase → Firestore Database → Reglas → Publicar.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Comprueba que un proyecto tenga los campos correctos
+    function proyectoValido(id) {
+      let p = request.resource.data;
+      return p.keys().hasOnly(['id', 'nombre', 'descripcion', 'equipo',
+                               'presentacion', 'simulacion', 'icono', 'curso',
+                               'integrantes'])
+        && p.id is int && string(p.id) == id
+        && p.nombre is string && p.nombre.size() > 0 && p.nombre.size() <= 100
+        && p.descripcion is string && p.descripcion.size() > 0 && p.descripcion.size() <= 200
+        && p.presentacion is string && p.presentacion.size() <= 2000
+        && p.simulacion is string && p.simulacion.size() <= 2000
+        && (!('equipo' in p) || (p.equipo is string && p.equipo.size() <= 100))
+        && (!('icono' in p) || (p.icono is string && p.icono.size() <= 16))
+        && (!('curso' in p) || (p.curso is string && p.curso.size() <= 50))
+        && (!('integrantes' in p) || (p.integrantes is list && p.integrantes.size() <= 20));
+    }
+
+    // Todos pueden ver los proyectos y registrar uno nuevo.
+    // AVISO: editar y eliminar también quedan abiertos, porque la
+    // contraseña de administración se comprueba solo en la página.
+    // Para protegerlos de verdad hace falta Firebase Authentication.
+    match /proyectos/{id} {
+      allow read: if true;
+      allow create, update: if proyectoValido(id);
+      allow delete: if true;
+    }
+
+    // Marca de "proyectos iniciales ya cargados"
+    match /config/inicial {
+      allow read: if true;
+      allow create: if request.resource.data.keys().hasOnly(['fecha']);
+    }
+  }
+}
