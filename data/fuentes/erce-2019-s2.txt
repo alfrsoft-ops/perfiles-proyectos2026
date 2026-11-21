@@ -1,0 +1,995 @@
+# Fuente: erce-2019-s2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Sección evaluado: 2. Logros de aprendizaje
+# Páginas: impresas 12 a 22 (PDF 12 a 22)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio de la sección «2. Logros de aprendizaje» del documento Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Alcance
+# Sección 2 completa: Lectura, Matemática y Ciencias (ejes, dominios y habilidades evaluadas; desempeño de los estudiantes; comparación con el TERCE 2013; variabilidad entre países y al interior de ellos), diferencias de resultados según sexo y notas al pie 8 a 23. La página 12 contiene solo el título de la sección
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (12–22)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 50 de contenido textual · 50 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede de la sección 2 del Resumen ejecutivo del ERCE 2019 (págs. 12 a 22).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: erce-2019-s2
+
+1. [ERCE 2019 – UNESCO · Sección 2] ¿Qué dos ejes temáticos evalúan las pruebas de Lectura del ERCE 2019?
+A. Fluidez lectora en voz alta y gramática normativa
+B. Comprensión de diversos textos y conocimiento textual
+C. Producción de textos escritos y ortografía literal
+D. Comprensión oral de relatos y vocabulario contextual del aula
+Respuesta correcta: B
+Explicación: “Las pruebas de lectura evalúan dos ejes temáticos: • Comprensión de diversos textos. • Conocimiento textual.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura; página impresa 13; página PDF 13.
+
+2. [ERCE 2019 – UNESCO · Sección 2] ¿Qué tres grupos de habilidades evalúa adicionalmente la prueba de Lectura?
+A. Reconocimiento, análisis y producción textual
+B. Comprensión literal, oral y metalingüística
+C. Decodificación, fluidez y velocidad
+D. Comprensión literal, inferencial y crítica
+Respuesta correcta: D
+Explicación: “Adicionalmente, se evalúan tres grupos de habilidades: • Comprensión literal • Comprensión inferencial • Comprensión crítica.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura; página impresa 13; página PDF 13.
+
+3. [ERCE 2019 – UNESCO · Sección 2] ¿Cuáles son los dominios de conocimiento que evalúa la prueba de Matemática del ERCE 2019?
+A. Números naturales; geometría analítica; funciones; estadística inferencial; ecuaciones
+B. Números y operaciones; geometría; magnitudes y medición; estadística; patrones y álgebra
+C. Aritmética mental; trigonometría; magnitudes y medición; probabilidad; álgebra lineal
+D. Números y operaciones; geometría; cálculo diferencial; estadística; lógica proposicional formal
+Respuesta correcta: B
+Explicación: “La prueba evalúa los siguientes dominios de conocimientos: • Números y operaciones. • Geometría • Magnitudes y medición • Estadística • Patrones y álgebra.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática; página impresa 16; página PDF 16.
+
+4. [ERCE 2019 – UNESCO · Sección 2] ¿Cuántos dominios considera la prueba de Ciencias del ERCE 2019?
+A. Tres dominios
+B. Cuatro dominios
+C. Cinco dominios
+D. Seis dominios
+Respuesta correcta: C
+Explicación: “La prueba considera cinco dominios: • Cuerpo humano y Salud • Ciencia, Tecnología y Sociedad • La Tierra y el Sistema Solar • Energía y Materia • Seres vivos, Ecología y Medio Ambiente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias; página impresa 19; página PDF 19.
+
+5. [ERCE 2019 – UNESCO · Sección 2] ¿Qué porcentaje de estudiantes de 3° grado de la región logró superar el Nivel I en Lectura?
+A. El 75,6 % del total de estudiantes
+B. El 52,3 % del estudiantado
+C. El 31,2 % de los escolares
+D. El 55,7 % de los estudiantes
+Respuesta correcta: D
+Explicación: “En 3° grado, a nivel regional, el 55,7% de los estudiantes logró superar el Nivel de logro I.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 13; página PDF 13.
+
+6. [ERCE 2019 – UNESCO · Sección 2] ¿Qué proporción promedio de estudiantes de la región alcanza el Nivel III en Matemática de 6° grado?
+A. El 52,3 %, algo más de la mitad
+B. El 20,7 %, una proporción mayoritaria
+C. El 17,4 %, una proporción muy baja
+D. El 31,2 %, una proporción moderada
+Respuesta correcta: C
+Explicación: “…en el caso de Matemática en 6° grado, la proporción promedio de estudiantes de la región que alcanza el Nivel III es muy baja (17,4%).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+7. [ERCE 2019 – UNESCO · Sección 2] ¿Qué puntaje obtuvo Cuba en la prueba de Ciencias y cuánto superó al promedio regional?
+A. 751 puntos, superando en 53 puntos al promedio regional
+B. 702 puntos, igualando exactamente al promedio de la región
+C. 758 puntos, superando en 56 al promedio regional
+D. 779 puntos, superando en 77 puntos al promedio regional
+Respuesta correcta: D
+Explicación: “En esta prueba, Cuba presentó el desempeño más destacado (con 779 puntos, superando en 77 puntos al promedio regional).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+8. [ERCE 2019 – UNESCO · Sección 2] ¿Qué tres países presentan el mayor porcentaje de estudiantes sobre el Nivel I en Matemática de 3° grado?
+A. Cuba (48,6 %), Costa Rica (38,9 %) y Perú
+B. Cuba (75 %), Perú (70,7 %) y Brasil (69 %)
+C. Perú (75,6 %), Costa Rica (74,7 %) y Brasil
+D. Perú (38,9 %), México (38 %) y Uruguay (38 %)
+Respuesta correcta: B
+Explicación: “Los tres países que presentan un mayor porcentaje de estudiantes sobre el Nivel I son Cuba (75%), Perú (70,7%) y Brasil (69%).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+9. [ERCE 2019 – UNESCO · Sección 2] ¿Qué países se excluyen de todas las comparaciones con el TERCE 2013 y por qué?
+A. Nicaragua y Cuba, porque su muestra de escuelas no fue representativa
+B. Cuba y Guatemala, porque no aplicaron pruebas en sexto grado
+C. El Salvador y Panamá, porque cambiaron su currículo nacional en 2019
+D. Cuba y El Salvador, porque no participaron en ese ciclo del estudio
+Respuesta correcta: D
+Explicación: “[11] Se excluyen Cuba y El Salvador de todas las comparaciones que se realicen con el TERCE 2013, puesto que no participaron en ese ciclo del estudio.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura (nota al pie 11); página impresa 14; página PDF 14.
+
+10. [ERCE 2019 – UNESCO · Sección 2] Según el informe, ¿en cuántos países las niñas obtienen mejores resultados en Lectura?
+A. En los 16 países, tanto en 3° como en 6° grado
+B. En 9 países en 3° grado y en 7 países en 6° grado
+C. En 15 países en 3° grado y en 13 países en 6° grado evaluado
+D. En 13 países en 3° grado y en 15 países en 6° grado
+Respuesta correcta: D
+Explicación: “En Lectura las niñas obtienen mejores resultados en 13 países en 3° grado y en 15 países en 6° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+11. [ERCE 2019 – UNESCO · Sección 2] ¿Qué enfoque de la enseñanza del lenguaje considera la evaluación de Lectura del ERCE 2019?
+A. Uno que enfatiza la memorización de reglas gramaticales y ortográficas a partir de ejercicios aislados
+B. Uno que enfatiza el desarrollo de las habilidades de lectura a partir de situaciones comunicativas
+C. Uno que privilegia la lectura en voz alta y la velocidad lectora como indicadores de la comprensión
+D. Uno que se centra en la producción escrita de textos literarios a partir de modelos clásicos
+Respuesta correcta: B
+Explicación: “En esta evaluación se considera un enfoque de la enseñanza de lenguaje que enfatiza el desarrollo de las habilidades de Lectura a partir de situaciones comunicativas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura; página impresa 13; página PDF 13.
+
+12. [ERCE 2019 – UNESCO · Sección 2] ¿Qué se desprende como relevante del análisis curricular que fundamenta la prueba de Matemática?
+A. La memorización de algoritmos y la ejercitación repetitiva de operaciones sin contexto de aplicación en el aula
+B. La resolución de problemas y la construcción de un conocimiento para resolver problemas concretos y reales
+C. La demostración formal de teoremas y el dominio de la notación matemática propia del nivel superior
+D. El cálculo mental rápido y la competencia entre estudiantes para obtener los mejores puntajes
+Respuesta correcta: B
+Explicación: “De este análisis curricular se desprende como relevante la resolución de problemas y la construcción de un conocimiento que implica analizar, reflexionar y descubrir estrategias para resolver problemas concretos y reales (UNESCO, 2020).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática; página impresa 16; página PDF 16.
+
+13. [ERCE 2019 – UNESCO · Sección 2] ¿Qué reflejan los temas curriculares observados en el análisis que fundamenta la prueba de Ciencias?
+A. Un predominio de la historia de la ciencia sobre sus aplicaciones
+B. Una orientación exclusiva hacia la experimentación en laboratorio
+C. Una separación entre la ciencia escolar y los problemas de la sociedad
+D. Una relación de la ciencia con problemas reales de la sociedad actual
+Respuesta correcta: D
+Explicación: “De este análisis curricular se observan temas curriculares que reflejan una relación de la ciencia con problemas reales de la sociedad actual (UNESCO, 2020).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias; página impresa 19; página PDF 19.
+
+14. [ERCE 2019 – UNESCO · Sección 2] ¿Qué tres grupos de habilidades contempla la prueba de Matemática a nivel de procesos cognitivos?
+A. Comprensión literal de enunciados, comprensión inferencial de datos y comprensión crítica de resultados
+B. Cálculo mental de operaciones, memorización de fórmulas y aplicación de algoritmos en ejercicios rutinarios
+C. Reconocimiento de información, análisis y aplicación, y producción, transferencia y evaluación del conocimiento científico
+D. Reconocimiento de objetos y situaciones, resolución de problemas simples y de problemas complejos con modelamiento
+Respuesta correcta: D
+Explicación: “A nivel de procesos cognitivos, la prueba de Matemática contempla tres grupos de habilidades: • Reconocimiento de objetos y situaciones • Resolución de problemas simples • Resolución de problemas complejos y modelamiento matemático.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática; página impresa 16; página PDF 16.
+
+15. [ERCE 2019 – UNESCO · Sección 2] ¿Qué tres grupos de habilidades contempla la prueba de Ciencias a nivel de procesos cognitivos?
+A. Observación de fenómenos; memorización de conceptos; repetición de experimentos de laboratorio
+B. Reconocimiento de objetos y situaciones; resolución de problemas simples; modelamiento científico complejo
+C. Reconocimiento de información científica; análisis y aplicación; producción, transferencia y evaluación
+D. Comprensión literal de textos científicos; comprensión inferencial; comprensión crítica de datos
+Respuesta correcta: C
+Explicación: “A nivel de procesos cognitivos, la prueba de ciencias contempla tres grupos de habilidades: • Reconocimiento de información científica • Análisis y aplicación del conocimiento científico • Producción, transferencia y evaluación del conocimiento científico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias; página impresa 19; página PDF 19.
+
+16. [ERCE 2019 – UNESCO · Sección 2] ¿Qué representa el Nivel III del ERCE 2019 en 6° grado respecto de la Agenda 2030?
+A. El nivel alineado al indicador 4.6.1 sobre alfabetización funcional de la población adulta
+B. El nivel máximo de desempeño que exige la meta 4.2 de la Agenda 2030 para la educación primaria en la región
+C. El nivel que define la meta 4.c para medir la cualificación de los docentes de primaria
+D. El nivel alineado al Nivel Mínimo de Desempeño para el monitoreo de la meta 4.1 en el indicador 4.1.1b
+Respuesta correcta: D
+Explicación: “[9] Nivel del ERCE 2019 alineado al Nivel Mínimo de Desempeño para el monitoreo de la meta 4.1 de la Agenda 2030 en el indicador 4.1.1b.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 9); página impresa 14; página PDF 14.
+
+17. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo distingue el informe el uso de “significativamente” del uso de “diferencia sustantiva”?
+A. “Significativa” indica significancia estadística; “sustantiva”, que además la diferencia es de magnitud importante
+B. “Significativa” se reserva para Lectura y “sustantiva” para Matemática y Ciencias en todos los grados
+C. “Significativa” indica magnitud importante; “sustantiva”, que la diferencia es solo estadísticamente significativa al 5 %
+D. Ambos términos son sinónimos y se usan indistintamente para cualquier diferencia de puntajes observada
+Respuesta correcta: A
+Explicación: “[8] En este informe se emplea el término ‘significativamente’ o ‘significativa’ para referirse a diferencias de puntajes […] que son estadísticamente significativas, aunque pueden ser de pequeña magnitud. Cuando, además de estadísticamente significativas, se trata de diferencias de puntaje que son de magnitud importante […] se utilizan expresiones como ‘marcada diferencia’ o ‘diferencia sustantiva’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 8); página impresa 13; página PDF 13.
+
+18. [ERCE 2019 – UNESCO · Sección 2] ¿Qué nivel de significancia utiliza el informe para establecer diferencias estadísticamente significativas?
+A. Uno por ciento
+B. Diez por ciento
+C. Veinte por ciento
+D. Cinco por ciento
+Respuesta correcta: D
+Explicación: “[8] […] El nivel de significancia utilizado es del 5%.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 8); página impresa 13; página PDF 13.
+
+19. [ERCE 2019 – UNESCO · Sección 2] Según la nota 13, ¿en cuántos puntos se fijó la desviación estándar desde el TERCE 2013?
+A. En 100 puntos
+B. En 50 puntos
+C. En 700 puntos
+D. En 1,95 puntos
+Respuesta correcta: A
+Explicación: “[13] Considerando que desde el TERCE 2013 la desviación estándar se fijó en 100 puntos, los tramos de puntajes mencionados corresponderían a 2,2 y 3 desviaciones estándar, respectivamente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados (nota al pie 13); página impresa 15; página PDF 15.
+
+20. [ERCE 2019 – UNESCO · Sección 2] ¿Qué significa que un estudiante de 3° grado supere el Nivel I en Lectura?
+A. Que localiza información literal y realiza inferencias a partir de información claramente sugerida
+B. Que produce textos argumentativos complejos y evalúa críticamente la postura de diversos autores
+C. Que solo decodifica palabras aisladas, sin lograr todavía localizar información explícita del texto
+D. Que integra ideas implícitas de diferentes partes del texto y compara dos textos por su propósito
+Respuesta correcta: A
+Explicación: “Esto significa que al leer textos adecuados a su edad son capaces al menos de localizar información o relaciones presentadas literalmente y realizar inferencias a partir información claramente sugerida, destacada o reiterada.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 13; página PDF 13.
+
+21. [ERCE 2019 – UNESCO · Sección 2] Ante los resultados de Lectura por sexo, ¿qué desafío plantea el informe que un director debe asumir en su unidad educativa?
+A. Separar a niños y niñas en cursos distintos para evitar brechas en Lectura
+B. Reducir las horas de Lectura para las niñas y aumentarlas solo para los varones
+C. Mejorar las oportunidades de aprendizaje en Matemática que se ofrecen a las niñas
+D. Mejorar las oportunidades de aprendizaje en Lectura que se ofrecen a los niños
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos resultados presentan un desafío para la mayoría de los países de la región que requieren mejorar las oportunidades de aprendizaje que se ofrecen en el área de Lectura a los niños.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+22. [ERCE 2019 – UNESCO · Sección 2] Un director usa el ERCE 2019 para priorizar el área de mayor desafío en la región. ¿Qué área y grado debe identificar según el informe?
+A. Matemática de 6° grado, donde ningún país ubica a la mayoría sobre el nivel mínimo
+B. Matemática de 3° grado, donde ningún país presenta estudiantes sobre el Nivel I
+C. Ciencias de 6° grado, donde todos los países ubican a la mayoría sobre el Nivel III
+D. Lectura de 3° grado, donde ningún país supera el promedio regional de desempeño
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los mayores desafíos se presentan en Matemática 6° grado, donde ningún país logra ubicar a la mayor parte de sus estudiantes sobre el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+23. [ERCE 2019 – UNESCO · Sección 2] Un director constata que la mayoría de sus estudiantes de 6° que no alcanzan el mínimo en Lectura están en el Nivel II. ¿Qué interpretación del informe le corresponde considerar?
+A. Que ya han superado el nivel mínimo de competencias esperado para el sexto grado
+B. Que su situación es irrecuperable y deben repetir el grado para lograr el mínimo
+C. Que se encuentran en el nivel más rezagado y requieren apoyos de alfabetización inicial temprana
+D. Que, en términos relativos, están más cerca de alcanzar el nivel mínimo que de no hacerlo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la mayor parte de los estudiantes que no logran alcanzar el nivel mínimo de competencias en 6° grado se encuentran en el nivel de desempeño inmediatamente anterior al esperado (el Nivel II) y no en el nivel más rezagado (I); es decir, la mayoría […] se encuentra, en términos relativos, más cerca de alcanzar el nivel mínimo de competencias que de no hacerlo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+24. [ERCE 2019 – UNESCO · Sección 2] Un director compara su escuela con otras del país y quiere entender dónde están las mayores brechas en Lectura. ¿Qué evidencia del ERCE debe considerar?
+A. Que la brecha es mayor entre los países que al interior de ellos
+B. Que no existen brechas relevantes al interior de ningún país
+C. Que la brecha es mayor al interior de los países que entre ellos
+D. Que las brechas internas solo aparecen en los países con altos puntajes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…se advierte que en Lectura, para ambos grados, es mayor la brecha de resultados al interior de los países que entre ellos. Es decir, es mayor la distancia entre estudiantes de más alto y más bajo desempeño dentro de cada país que entre estos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+25. [ERCE 2019 – UNESCO · Sección 2] Un director de primaria quiere precisar qué deben lograr sus estudiantes de 3° para alcanzar al menos el Nivel II en Matemática. ¿Qué habilidad describe el informe para ese nivel?
+A. Resolver ecuaciones de primer grado con dos incógnitas en contexto real
+B. Escribir y componer aditivamente números naturales hasta 9.999
+C. Calcular adiciones y sustracciones de fracciones de distinto denominador
+D. Estimar el volumen de cuerpos geométricos y sus superficies
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…un poco más de la mitad de los estudiantes de 3° grado (52,3%) de la región logra alcanzar al menos el Nivel II. Esto significa que al menos son capaces, por ejemplo, de escribir y componer aditivamente números naturales hasta 9.999; identificar elementos de figuras geométricas…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 16; página PDF 16.
+
+26. [ERCE 2019 – UNESCO · Sección 2] Para orientar el trabajo pedagógico en Matemática de 6°, ¿qué capacidades describe el informe para los estudiantes que alcanzan el Nivel III?
+A. Resolver sistemas de ecuaciones, aplicar trigonometría y calcular probabilidades condicionales complejas del nivel
+B. Explicar fenómenos cotidianos, discriminar preguntas investigables y evaluar un diseño experimental
+C. Componer números naturales hasta 9.999 e identificar vértices y lados de figuras geométricas simples
+D. Interpretar información en tablas y gráficos, recurrir a dos o más operaciones y estimar áreas y perímetro
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos estudiantes son al menos capaces de resolver problemas que requieren interpretar información en diversos formatos, incluyendo tablas y gráficos; recurrir a dos o más operaciones aritméticas; estimar áreas y perímetro; calcular adiciones y sustracciones de fracciones (con el mismo denominador)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+27. [ERCE 2019 – UNESCO · Sección 2] Un equipo directivo define metas de Ciencias para 6°. ¿Qué capacidades describe el informe para los estudiantes que superan el Nivel III?
+A. Interpretar información en tablas, recurrir a dos o más operaciones y estimar áreas y perímetros
+B. Localizar información literal y realizar inferencias a partir de información claramente sugerida
+C. Explicar fenómenos cotidianos, discriminar preguntas investigables y evaluar un diseño experimental
+D. Memorizar la tabla periódica, recitar definiciones científicas y repetir experimentos de laboratorio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Al superar este nivel, los estudiantes son capaces al menos de explicar fenómenos cotidianos aplicando su conocimiento; discriminar las preguntas que son investigables científicamente o la hipótesis que orienta una investigación; evaluar la pertinencia de un diseño experimental, y concluir a partir de información presentada en gráficos, entre otros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+28. [ERCE 2019 – UNESCO · Sección 2] Un equipo directivo quiere que sus estudiantes de 6° alcancen al menos el Nivel III en Lectura. ¿Qué capacidades describe el informe para ese nivel?
+A. Producir ensayos argumentativos extensos y evaluar críticamente fuentes académicas especializadas
+B. Realizar inferencias integrando ideas implícitas, relacionar información verbal y visual y comparar textos
+C. Escribir y componer números naturales hasta 9.999 e identificar elementos de figuras geométricas
+D. Localizar información explícita destacada y reiterada, sin realizar inferencias de ningún tipo en el texto leído
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos estudiantes, al leer textos de una complejidad apropiada para su edad, son al menos capaces de realizar inferencias a partir de ideas específicas o secundarias o integrando ideas implícitas presentes en diferentes partes del texto. Además, establecen relaciones entre información verbal y visual y comparan dos textos atendiendo a su propósito y contenido.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+29. [ERCE 2019 – UNESCO · Sección 2] Un director analiza las diferencias por sexo en Matemática. ¿Qué patrón general describe el informe?
+A. Todos los países presentan diferencias significativas favorables a los niños en ambos grados
+B. Las diferencias favorecen a las niñas en 3° grado y a los niños en 6° en todos los países
+C. La mayoría de los países no presenta diferencias y, cuando existen, favorecen a los niños
+D. La mayoría de los países presenta diferencias amplias, siempre favorables a las niñas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En la prueba de Matemática, la mayor parte de los países no presenta diferencias por sexo, y cuando se presentan, estas son favorables a los niños, excepto en República Dominicana en 3° y en 6°, donde las niñas aventajan a sus compañeros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+30. [ERCE 2019 – UNESCO · Sección 2] Un director revisa los resultados regionales de Ciencias. ¿Qué proporción de estudiantes alcanza el Nivel III según el informe?
+A. Casi la mitad (48,6 %), con mayoría bajo ese nivel solo en los países andinos
+B. Solo un quinto (20,7 %), con más estudiantes bajo ese nivel en todos los países
+C. Algo más de la mitad (52,3 %), con mayoría sobre ese nivel en todos los países evaluados
+D. Casi un tercio (31,2 %), con mayoría sobre ese nivel en los países caribeños
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “A nivel regional, solo un quinto (20,7%) de los estudiantes de la región alcanza este nivel, y en todos los países hay más estudiantes por debajo del Nivel III que por sobre este.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+31. [ERCE 2019 – UNESCO · Sección 2] ¿Qué patrón general se observa en el rendimiento de los países en Lectura entre 3° y 6° grado?
+A. Es aleatorio: no hay relación entre los resultados de 3° y los de 6° grado
+B. Es convergente: todos los países igualan el promedio regional en el 6° grado de primaria
+C. Es consistente: quienes superan el promedio regional en 3° también lo superan en 6°
+D. Es inverso: quienes superan el promedio regional en 3° quedan bajo él en 6°
+Respuesta correcta: C
+Explicación: “En general, en la prueba de Lectura se observa que los países presentan un rendimiento que es consistente entre 3° y 6° grado. Así, los países que tienen un resultado por sobre el promedio regional en 3° grado también superan el promedio regional en 6°…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+32. [ERCE 2019 – UNESCO · Sección 2] ¿Qué se observa sobre la homogeneidad interna de los resultados en Lectura según el nivel de desempeño de los países?
+A. Los de más bajos resultados son relativamente más homogéneos; los de alto desempeño varían
+B. Los de más altos resultados son siempre homogéneos; los de bajo desempeño son dispersos
+C. Todos los países presentan la misma dispersión interna, sin importar su puntaje promedio nacional
+D. Los de más bajos resultados son los más dispersos internamente en ambos grados evaluados
+Respuesta correcta: A
+Explicación: “También se evidencia que, en general, los países con más bajos resultados en Lectura muestran resultados relativamente más homogéneos al interior del país. En cambio, para los países de más alto desempeño, se observa que mientras algunos logran altos puntajes y resultados internamente más homogéneos […], otros presentan un rendimiento promedio alto, aunque más dispar…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+33. [ERCE 2019 – UNESCO · Sección 2] ¿Qué ejemplos utiliza el informe para contrastar alto desempeño homogéneo y alto desempeño disperso en Lectura?
+A. Brasil en ambos grados (homogéneo) y Costa Rica en 3° grado (más disperso)
+B. Uruguay en 6° grado (homogéneo) y México en 3° grado (más disperso)
+C. Perú en ambos grados (homogéneo) y Cuba en 6° grado (más disperso)
+D. Costa Rica en ambos grados (homogéneo) y Brasil en 3° grado (disperso)
+Respuesta correcta: D
+Explicación: “…mientras algunos logran altos puntajes y resultados internamente más homogéneos (como es el caso de Costa Rica en ambos grados), otros presentan un rendimiento promedio alto, aunque más dispar al interior del país, como es el caso de Brasil en 3° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+34. [ERCE 2019 – UNESCO · Sección 2] ¿Qué destaca el informe sobre el avance de República Dominicana en Lectura respecto del TERCE 2013?
+A. Avanza solo en 3° grado y logra superar por primera vez el promedio regional
+B. Mantiene estables sus resultados y se ubica exactamente en el promedio regional de 2019
+C. Retrocede en ambos grados, pese a que partía sobre el promedio de la región
+D. Avanza en ambos grados, aunque partía muy bajo y sigue bajo el promedio regional
+Respuesta correcta: D
+Explicación: “En el caso de República Dominicana, cabe resaltar que presenta un avance en ambos grados, aun cuando su nivel inicial en el TERCE 2013 era muy bajo y continúa quedando bajo el promedio regional.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura; página impresa 15; página PDF 15.
+
+35. [ERCE 2019 – UNESCO · Sección 2] ¿Por qué el informe considera que Matemática de 6° grado representa un desafío para todos los países?
+A. Porque todos los países retroceden de forma sustantiva respecto del TERCE
+B. Porque la proporción que logra el nivel esperado es menor que la que no lo logra
+C. Porque ningún país presenta estudiantes en los Niveles II, III ni IV de logro del estudio
+D. Porque la proporción que logra el nivel esperado supera ampliamente el 50 %
+Respuesta correcta: B
+Explicación: “Si bien se verifican variaciones de rendimiento entre los países, para todos ellos el logro en el área de Matemática en 6° grado representa un desafío, pues la proporción de estudiantes que logra el nivel de desempeño esperado es menor que la que no lo logra.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+36. [ERCE 2019 – UNESCO · Sección 2] ¿Qué se verifica respecto del Nivel IV en Matemática de 6° grado?
+A. Que solo Cuba presenta estudiantes en ese nivel de desempeño en la región
+B. Que en todos los países la mayoría de los estudiantes alcanza ese nivel
+C. Que en ocho países prácticamente no se observan rendimientos de ese nivel
+D. Que el Nivel IV no fue evaluado en el sexto grado en la prueba de Matemática
+Respuesta correcta: C
+Explicación: “Además, se puede verificar que en ocho países prácticamente no se observan rendimientos de Nivel IV.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+37. [ERCE 2019 – UNESCO · Sección 2] ¿Qué patrón de dispersión interna presentan en Matemática los países con desempeño bajo la media regional?
+A. Presentan la mayor dispersión de la región, superior a la de Cuba en 6° grado
+B. Presentan la misma dispersión que los de puntajes altos en ambos grados evaluados del estudio
+C. Son más homogéneos internamente, mientras los de puntajes altos varían en su dispersión
+D. Son más heterogéneos internamente, mientras los de puntajes altos son homogéneos
+Respuesta correcta: C
+Explicación: “Al igual que en Lectura, los países con desempeño por debajo de la media regional en Matemática son más homogéneos internamente en sus resultados; en cambio, los que presentan puntajes más altos varían en su dispersión interna.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 19; página PDF 19.
+
+38. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo interpreta el informe la situación de Costa Rica en Ciencias?
+A. Segundo puntaje más alto, con dispersión bajo la media: resultados homogéneamente altos
+B. Puntaje más alto de la región, con la mayor brecha entre alto y bajo logro
+C. Segundo puntaje más bajo, con dispersión sobre la media: resultados heterogéneamente bajos
+D. Puntaje bajo el promedio regional, con resultados internamente muy dispersos y desiguales
+Respuesta correcta: A
+Explicación: “Por su parte, Costa Rica presenta el segundo puntaje más elevado para esta prueba, con una dispersión bajo la media, es decir, resultados homogéneamente altos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Variabilidad de resultados entre países y al interior de ellos; página impresa 20; página PDF 20.
+
+39. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo describe el informe las variaciones de Ciencias respecto del TERCE 2013?
+A. Siempre positivas, pues todos los países elevan su puntaje de forma sustantiva
+B. Mayoritariamente de pequeña magnitud, con un número similar de países que suben y bajan
+C. Inexistentes, pues todos los países mantienen exactamente sus puntajes del TERCE
+D. Mayoritariamente de gran magnitud, con una clara mayoría de países que retroceden de forma marcada
+Respuesta correcta: B
+Explicación: “En Ciencias se advierten variaciones respecto de TERCE 2013, mayoritariamente de pequeña magnitud. El número de países que eleva y disminuye su puntaje respecto del TERCE 2013, es muy similar.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Resultados comparados con el TERCE 2013 en Ciencias; página impresa 20; página PDF 20.
+
+40. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo caracteriza el informe las diferencias de desempeño en Lectura favorables a las niñas?
+A. Son de gran magnitud y sustantivas en todos los países de la región, en ambos grados
+B. Son de gran magnitud solo en 3° grado y desaparecen por completo en el sexto grado
+C. No son de gran magnitud, pero son estadísticamente significativas en la mayoría de los países
+D. No son estadísticamente significativas en ningún país, aunque se observan en los gráficos del informe
+Respuesta correcta: C
+Explicación: “En la mayoría de los países de la región se observan diferencias de desempeño en Lectura que son favorables a las niñas que, aunque no son de gran magnitud, son estadísticamente significativas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+41. [ERCE 2019 – UNESCO · Sección 2] ¿Qué diferencia los dominios de conocimiento de los procesos cognitivos en la prueba de Matemática?
+A. Los dominios son habilidades como resolver problemas simples; los procesos, áreas como la geometría de la prueba
+B. Los dominios son áreas temáticas como geometría; los procesos, habilidades como resolver problemas simples
+C. Los dominios se evalúan solo en 3° grado; los procesos cognitivos, únicamente en el 6° grado
+D. No hay diferencia, pues ambos términos designan las mismas cinco áreas de la prueba de Matemática
+Respuesta correcta: B
+Explicación: “La prueba evalúa los siguientes dominios de conocimientos: • Números y operaciones. • Geometría […] A nivel de procesos cognitivos, la prueba de Matemática contempla tres grupos de habilidades: • Reconocimiento de objetos y situaciones • Resolución de problemas simples • Resolución de problemas complejos y modelamiento matemático.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática; página impresa 16; página PDF 16.
+
+42. [ERCE 2019 – UNESCO · Sección 2] ¿Qué nivel del ERCE 2019 corresponde al nivel mínimo de desempeño en cada grado, según la nota 9 y el texto?
+A. El Nivel II en 3° grado y el Nivel III en 6° grado
+B. El Nivel III en 3° grado y el Nivel II en 6° grado
+C. El Nivel IV en ambos grados evaluados por el estudio
+D. El Nivel I en 3° grado y el Nivel II en 6° grado
+Respuesta correcta: A
+Explicación: “[9] Nivel del ERCE 2019 alineado al Nivel Mínimo de Desempeño para el monitoreo de la meta 4.1 de la Agenda 2030 en el indicador 4.1.1b. […] La descripción que aquí se presenta corresponde al Nivel II para 3° grado y al Nivel III en 6° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 9); página impresa 14; página PDF 14.
+
+43. [ERCE 2019 – UNESCO · Sección 2] ¿Cuál de los siguientes NO es un dominio de la prueba de Ciencias del ERCE 2019?
+A. El dominio llamado Cuerpo humano y Salud
+B. El dominio Ciencia, Tecnología y Sociedad
+C. El dominio Seres vivos, Ecología y Medio Ambiente
+D. Química orgánica y reacciones de laboratorio
+Respuesta correcta: D
+Explicación: “La prueba considera cinco dominios: • Cuerpo humano y Salud • Ciencia, Tecnología y Sociedad • La Tierra y el Sistema Solar • Energía y Materia • Seres vivos, Ecología y Medio Ambiente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias; página impresa 19; página PDF 19.
+
+44. [ERCE 2019 – UNESCO · Sección 2] ¿En qué se diferencia la evaluación de Ciencias de las de Lectura y Matemática en cuanto a los grados evaluados?
+A. Las tres áreas se evalúan exclusivamente en el 6° grado de primaria
+B. Ciencias se evalúa en 3° y 6°; Lectura y Matemática, solo en el 6° grado
+C. Ciencias se evalúa solo en 3° grado; Lectura y Matemática, en 3° y 6°
+D. Ciencias se evalúa solo en 6° grado; Lectura y Matemática, en 3° y 6°
+Respuesta correcta: D
+Explicación: “El ERCE 2019 evalúa Ciencias en 6° grado.” Los gráficos 1, 2, 7 y 8 presentan los niveles de logro de Lectura y Matemática en 3° y 6° grado (pp. 13–17).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 19; página PDF 19.
+
+45. [ERCE 2019 – UNESCO · Sección 2] ¿Qué diferencia los resultados de Lectura de 3° y 6° grado respecto del TERCE 2013?
+A. En 3°, cuatro países suben, cuatro bajan y seis se mantienen; en 6°, tres países mejoran
+B. En 3°, todos los países mejoran sus puntajes; en 6°, todos los países retroceden
+C. En 3°, tres países suben y once se mantienen; en 6°, cuatro suben y cuatro bajan respecto de 2013
+D. En 3°, seis países suben y ocho bajan; en 6°, ningún país mejora sus puntajes
+Respuesta correcta: A
+Explicación: “En Lectura 3° grado, cuatro países presentan puntajes más altos que en la medición de 2013 y cuatro evidencian puntajes más bajos, mientras que los seis países restantes mantienen estables sus resultados […]. En este grado [6°], tres países mejoran sus puntajes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura; página impresa 14; página PDF 14.
+
+46. [ERCE 2019 – UNESCO · Sección 2] ¿Qué países presentan los avances más acentuados en Matemática de 3° grado respecto del TERCE?
+A. Perú, Brasil, República Dominicana y El Salvador
+B. Perú, Honduras, República Dominicana y Uruguay
+C. Cuba, Costa Rica, México y El Salvador
+D. Colombia, Panamá, Paraguay y Nicaragua
+Respuesta correcta: B
+Explicación: “En 3° grado, Perú, Honduras, República Dominicana y Uruguay presentan avances más acentuados respecto del TERCE.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 18; página PDF 18.
+
+47. [ERCE 2019 – UNESCO · Sección 2] ¿Qué diferencia el patrón de género en Ciencias del patrón en Matemática?
+A. En Ciencias no hay diferencias en ningún país; en Matemática hay diferencias en todos los países
+B. En Ciencias y en Matemática las diferencias favorecen siempre a los niños, con gran magnitud
+C. En Ciencias, las diferencias favorecen a los niños; en Matemática, en todos los casos a las niñas del estudio
+D. En Ciencias, las diferencias que existen favorecen a las niñas; en Matemática, en general a los niños
+Respuesta correcta: D
+Explicación: “En nueve de 16 países no se observan diferencias de desempeño entre niños y niñas en esta prueba. En los 7 países que presentan diferencias de rendimiento, estas son favorables a las niñas y en general de baja magnitud.” “En la prueba de Matemática […] cuando se presentan, estas son favorables a los niños, excepto en República Dominicana…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+48. [ERCE 2019 – UNESCO · Sección 2] ¿Qué diferencia la variabilidad entre países de la variabilidad al interior de los países en Matemática?
+A. Entre países la mayor distancia ronda 127 y 123 puntos; al interior puede llegar a 297 puntos
+B. Entre países y al interior de ellos la mayor distancia es idéntica, de unos 200 puntos
+C. Entre países no hay diferencias; al interior la mayor distancia es de 100 puntos exactos
+D. Entre países la mayor distancia llega a 297 puntos; al interior ronda solo 127 y 123 puntos en total
+Respuesta correcta: A
+Explicación: “Mientras la mayor distancia entre los puntajes promedio de países es de aproximadamente 127 puntos en 3° grado y de 123 puntos en 6° grado, al interior de los países puede llegar a 297 puntos en 6° grado, como es el caso de Cuba, y 273 puntos en 3° grado, como en Brasil.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 18; página PDF 18.
+
+49. [ERCE 2019 – UNESCO · Sección 2] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE los resultados de Cuba en Ciencias?
+A. Cuba es uno de los dos países con mayor porcentaje en el Nivel III
+B. Cuba obtiene el puntaje más alto de la región en la prueba de Ciencias del ERCE
+C. Cuba presenta la mayor brecha entre estudiantes de alto y bajo logro
+D. Cuba obtiene el puntaje más alto con resultados internamente homogéneos
+Respuesta correcta: D
+Explicación: “Así, por ejemplo, Cuba presenta el puntaje más alto en esta asignatura, y a su vez la mayor brecha entre estudiantes con alto y bajo desempeño.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Variabilidad de resultados entre países y al interior de ellos; página impresa 20; página PDF 20.
+
+50. [ERCE 2019 – UNESCO · Sección 2] ¿Qué rango de distancias entre estudiantes de alto y bajo rendimiento al interior de los países reporta el informe en Lectura?
+A. De 113 puntos en Perú a 129 puntos en Nicaragua en total
+B. De 273 puntos en Brasil a 297 puntos en Cuba
+C. De 221 puntos en Nicaragua a 302 puntos en Perú
+D. De 221 puntos en Perú a 302 puntos en Nicaragua
+Respuesta correcta: C
+Explicación: “La distancia que separa a los estudiantes de más alto y más bajo rendimiento al interior de los países va de 221 en Nicaragua a 302 puntos en Perú, mientras que las mayores diferencias de puntaje promedio entre países están en torno a los 113 y 129 puntos para 6° y 3° grado, respectivamente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+51. [ERCE 2019 – UNESCO · Sección 2] Un analista afirma que, para reducir las brechas en Lectura, basta con concentrarse en las diferencias entre países. ¿Qué análisis crítico se fundamenta en el informe?
+A. Es correcto, pues la brecha entre países es mucho mayor que la brecha dentro de cada país
+B. Es insuficiente, pues la brecha dentro de cada país es mayor que la brecha entre países
+C. Es irrelevante, porque el informe no reporta ninguna brecha de resultados en Lectura
+D. Es correcto, porque al interior de los países los resultados son totalmente homogéneos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en Lectura, para ambos grados, es mayor la brecha de resultados al interior de los países que entre ellos. Es decir, es mayor la distancia entre estudiantes de más alto y más bajo desempeño dentro de cada país que entre estos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+52. [ERCE 2019 – UNESCO · Sección 2] Un funcionario sostiene que un promedio nacional alto garantiza resultados equitativos entre estudiantes. ¿Qué crítica se apoya en el informe?
+A. No aplica: el informe no analiza la dispersión de puntajes al interior de los países participantes
+B. Es correcto: todos los países con promedio alto presentan resultados homogéneos
+C. Es correcto: la dispersión interna solo afecta a los países con promedios bajos
+D. No necesariamente: Brasil en 3° grado tiene promedio alto pero resultados más dispares
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…otros presentan un rendimiento promedio alto, aunque más dispar al interior del país, como es el caso de Brasil en 3° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+53. [ERCE 2019 – UNESCO · Sección 2] Un analista interpreta la mayor homogeneidad de los países de bajo desempeño en Lectura como un logro de equidad. ¿Qué análisis crítico corresponde?
+A. La homogeneidad se da en resultados bajos, por lo que no equivale a un alto logro equitativo
+B. La homogeneidad demuestra que esos países alcanzan resultados altos y equitativos en Lectura en ambos grados
+C. La homogeneidad indica que esos países superan a Costa Rica en desempeño y en equidad
+D. La homogeneidad prueba que esos países no requieren mejorar sus resultados en Lectura
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…en general, los países con más bajos resultados en Lectura muestran resultados relativamente más homogéneos al interior del país. En cambio, para los países de más alto desempeño, se observa que […] algunos logran altos puntajes y resultados internamente más homogéneos (como es el caso de Costa Rica en ambos grados).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+54. [ERCE 2019 – UNESCO · Sección 2] Un medio titula que un país tuvo un “cambio sustantivo” porque su diferencia de puntaje fue estadísticamente significativa. ¿Qué análisis crítico se apoya en el informe?
+A. Es incorrecto, porque el informe no utiliza pruebas de significancia estadística
+B. Es correcto, porque el informe usa ambos términos como sinónimos en todos los casos
+C. Una diferencia significativa puede ser pequeña; “sustantiva” exige además magnitud importante
+D. Es correcto, pues toda diferencia significativa es, por definición, de magnitud importante del estudio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…diferencias de puntajes […] que son estadísticamente significativas, aunque pueden ser de pequeña magnitud. Cuando, además de estadísticamente significativas, se trata de diferencias de puntaje que son de magnitud importante […] se utilizan expresiones como ‘marcada diferencia’ o ‘diferencia sustantiva’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 8); página impresa 13; página PDF 13.
+
+55. [ERCE 2019 – UNESCO · Sección 2] Un analista concluye que, por sus bajos resultados, ningún país avanzó en Matemática de 6° grado desde el TERCE. ¿Qué análisis crítico corresponde?
+A. Es correcta: todos los países retroceden de manera sustantiva en Matemática de 6° grado
+B. Es correcta: ningún país muestra cambios respecto del TERCE en Matemática de 6° grado
+C. Es errónea: todos los países ubican a la mayoría de sus estudiantes sobre el nivel mínimo de competencias
+D. Es errónea: pese a los bajos resultados, 6 países logran avances estadísticamente significativos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Pese a los bajos resultados, 6 países logran avances estadísticamente significativos desde el TERCE 2013.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 17; página PDF 17.
+
+56. [ERCE 2019 – UNESCO · Sección 2] Un analista asume que Cuba, por su alto puntaje en Matemática de 3°, tiene resultados homogéneos en todas las pruebas. ¿Qué crítica se fundamenta en el informe?
+A. Cuba no participó en la prueba de Matemática del ERCE 2019
+B. Cuba presenta resultados idénticos en todas las pruebas evaluadas
+C. Cuba muestra la menor dispersión interna en Matemática de 6° grado evaluada
+D. Cuba muestra la mayor dispersión interna en Matemática de 6° grado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En Matemática 3° grado, Cuba obtuvo el puntaje promedio más alto entre los países participantes.” (p. 17); “El país que muestra mayor dispersión interna es Cuba, para la prueba de Matemática de 6° grado.” (p. 18).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 18; página PDF 18.
+
+57. [ERCE 2019 – UNESCO · Sección 2] Un informe nacional compara el resultado de El Salvador en el ERCE 2019 con su resultado en el TERCE 2013. ¿Qué crítica metodológica se apoya en el documento?
+A. No es posible, porque El Salvador no participó en el ERCE 2019 en ningún grado
+B. Es válida, siempre que la comparación se limite a la prueba de Ciencias de 6° grado
+C. No es posible, pues El Salvador no participó en el TERCE y se excluye de esas comparaciones
+D. Es válida, pues El Salvador participó en ambos ciclos con la misma muestra de escuelas evaluadas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[11] Se excluyen Cuba y El Salvador de todas las comparaciones que se realicen con el TERCE 2013, puesto que no participaron en ese ciclo del estudio.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura; página impresa 14; página PDF 14.
+
+58. [ERCE 2019 – UNESCO · Sección 2] Un analista concluye que las brechas de género en Lectura no requieren atención porque son pequeñas. ¿Qué análisis crítico se fundamenta en el informe?
+A. Es incorrecto, porque las brechas en Lectura son de gran magnitud en todos los países de la región
+B. Es correcto, porque las diferencias en Lectura favorecen a los niños en la mayoría de los países
+C. Aunque pequeñas, son significativas y plantean el desafío de mejorar oportunidades para los niños
+D. Es correcto, pues al no ser de gran magnitud el informe las considera irrelevantes para la política
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…diferencias de desempeño en Lectura que son favorables a las niñas que, aunque no son de gran magnitud, son estadísticamente significativas. […] Estos resultados presentan un desafío para la mayoría de los países de la región que requieren mejorar las oportunidades de aprendizaje que se ofrecen en el área de Lectura a los niños.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+59. [ERCE 2019 – UNESCO · Sección 2] Un analista sostiene que Cuba y Costa Rica ya resolvieron el desafío de Ciencias por tener los mayores porcentajes en el Nivel III. ¿Qué análisis crítico corresponde?
+A. Incluso en ellos hay más estudiantes bajo el Nivel III que sobre él (48,6 % y 38,9 %)
+B. Es correcto, porque ambos países tienen resultados homogéneamente altos en Ciencias
+C. Es incorrecto, porque ninguno de los dos países supera el promedio regional en Ciencias
+D. Es correcto, pues en ambos países la gran mayoría supera ampliamente el Nivel III
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…en todos los países hay más estudiantes por debajo del Nivel III que por sobre este. […] el 48,6% de los estudiantes en Cuba y el 38,9% de los estudiantes de Costa Rica alcanzan o superan ese nivel.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+60. [ERCE 2019 – UNESCO · Sección 2] Un analista afirma que los cambios en Matemática de 6° respecto del TERCE son, en su mayoría, de gran magnitud. ¿Qué análisis crítico se fundamenta en el informe?
+A. Es correcto: todos los países presentan variaciones sustantivas respecto del TERCE 2013
+B. Es erróneo: cinco países se mantienen estables y la mayoría de las variaciones son pequeñas
+C. Es erróneo: ningún país presenta variación alguna respecto del TERCE en Matemática de 6°
+D. Es correcto: la mayoría de los países retrocede de forma marcada en Matemática de 6° grado evaluado
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso de 6° grado, cinco países mantienen estables sus resultados y la mayoría de las variaciones respecto de 2013 son de pequeña magnitud.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 18; página PDF 18.
+
+61. [ERCE 2019 – UNESCO · Sección 2] Al reportar el avance de la meta 4.1 de la Agenda 2030 en Lectura de 6° grado, ¿qué porcentaje regional debe usarse según el informe?
+A. El 55,7 % que logra superar el Nivel I
+B. El 52,3 % que alcanza al menos el Nivel II
+C. El 31,2 % que alcanza al menos el Nivel III
+D. El 20,7 % que alcanza como mínimo el Nivel III
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En 6° grado, la proporción de estudiantes a nivel regional que alcanza al menos el Nivel III es del 31,2%.”; “[9] Nivel del ERCE 2019 alineado al Nivel Mínimo de Desempeño para el monitoreo de la meta 4.1 de la Agenda 2030 en el indicador 4.1.1b.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 9); página impresa 14; página PDF 14.
+
+62. [ERCE 2019 – UNESCO · Sección 2] Al aplicar el criterio estadístico del informe, ¿cuándo debe calificarse una diferencia de puntajes como “significativa”?
+A. Cuando es de gran magnitud, aunque no sea estadísticamente significativa al 5 %
+B. Cuando es estadísticamente significativa al 5 %, aunque sea de pequeña magnitud
+C. Cuando la decide el país evaluado, según su propio criterio de interpretación
+D. Cuando supera los 100 puntos, con independencia de la significancia estadística observada
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En este informe se emplea el término ‘significativamente’ o ‘significativa’ para referirse a diferencias de puntajes […] que son estadísticamente significativas, aunque pueden ser de pequeña magnitud. […] El nivel de significancia utilizado es del 5%.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes (nota al pie 8); página impresa 13; página PDF 13.
+
+63. [ERCE 2019 – UNESCO · Sección 2] Aplicando la nota 13, ¿a cuántas desviaciones estándar equivalen los tramos de 221 y 302 puntos en Lectura?
+A. A 2,2 y 3 desviaciones estándar, respectivamente
+B. A 1,1 y 1,3 desviaciones estándar, respectivamente
+C. A 22 y 30 desviaciones estándar, respectivamente
+D. A 0,22 y 0,3 desviaciones estándar en cada caso
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[13] Considerando que desde el TERCE 2013 la desviación estándar se fijó en 100 puntos, los tramos de puntajes mencionados corresponderían a 2,2 y 3 desviaciones estándar, respectivamente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados (nota al pie 13); página impresa 15; página PDF 15.
+
+64. [ERCE 2019 – UNESCO · Sección 2] Según la nota 12, ¿qué estudiantes se consideran para calcular la distancia entre alto y bajo rendimiento al interior de los países?
+A. Los ubicados en los percentiles 25 y 75 de cada país
+B. Los ubicados en los percentiles 10 y 90 de cada país
+C. Los ubicados en los Niveles I y IV de desempeño
+D. Los que obtuvieron el puntaje mínimo y máximo absoluto
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “[12] Considerando los estudiantes ubicados en el percentil 10 y 90 de cada país, respectivamente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+65. [ERCE 2019 – UNESCO · Sección 2] Al elaborar un ranking de avances respecto del TERCE 2013 con los 16 países del ERCE 2019, ¿qué regla del informe debe aplicarse?
+A. Excluir a los países con puntajes bajo el promedio regional de 2019
+B. Excluir a Brasil y Perú, por presentar avances considerados atípicos
+C. Excluir a Cuba y El Salvador, que no participaron en el ciclo anterior
+D. Incluir a los 16 países, imputando puntajes a quienes no participaron en 2013
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[11] Se excluyen Cuba y El Salvador de todas las comparaciones que se realicen con el TERCE 2013, puesto que no participaron en ese ciclo del estudio.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura (nota al pie 11); página impresa 14; página PDF 14.
+
+66. [ERCE 2019 – UNESCO · Sección 2] Aplicando la nota 20, ¿a cuántas desviaciones estándar equivalen las distancias internas de 273 y 297 puntos en Matemática?
+A. A 0,27 y 0,3 desviaciones estándar en cada caso
+B. A 1,2 y 1,3 desviaciones estándar, respectivamente
+C. A 2,7 y 3 desviaciones estándar, respectivamente
+D. A 27 y 30 desviaciones estándar en cada caso
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[20] Más precisamente, 2,7 y 3 desviaciones estándar.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 18; página PDF 18.
+
+67. [ERCE 2019 – UNESCO · Sección 2] Aplicando la nota 19, ¿a cuántas desviaciones estándar corresponden las mayores distancias entre promedios de países en Matemática (127 y 123 puntos)?
+A. A 1,2 y 1,3 desviaciones estándar de las pruebas respectivas
+B. A 0,5 y 0,6 desviaciones estándar de cada una de las pruebas respectivas
+C. A 12 y 13 desviaciones estándar de las pruebas respectivas
+D. A 2,7 y 3 desviaciones estándar de las pruebas respectivas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[19] Más precisamente, 1,2 y 1,3 desviaciones estándar de las pruebas respectivas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 18; página PDF 18.
+
+68. [ERCE 2019 – UNESCO · Sección 2] Según la nota 14, ¿a cuántas desviaciones estándar corresponden las mayores diferencias entre promedios de países en Lectura (113 y 129 puntos)?
+A. A 0,1 y 0,3 desviaciones estándar en cada caso
+B. A 11 y 13 desviaciones estándar, aproximadamente
+C. A 1,1 y 1,3 desviaciones estándar, aproximadamente
+D. A 2,2 y 3 desviaciones estándar, de manera aproximada
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[14] Esto corresponde a 1,1 y a 1,3 desviaciones estándar, aproximadamente.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+69. [ERCE 2019 – UNESCO · Sección 2] Al clasificar la dispersión de Paraguay en Matemática de 3° grado, ¿qué excepción señala la nota 21?
+A. Con promedio inferior a la media regional, presenta una dispersión similar a la regional
+B. Con promedio igual a la media regional, presenta la mayor dispersión de toda la región en 3°
+C. Con promedio inferior a la media regional, presenta la mayor homogeneidad de la región
+D. Con promedio superior a la media regional, presenta la menor dispersión de la región
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[21] Excepto Paraguay, que, presentando resultados promedio inferiores a la media regional en 3° grado, muestra una dispersión similar a la dispersión a nivel regional.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Variabilidad de resultados en Matemática entre países y al interior de ellos; página impresa 18; página PDF 18.
+
+70. [ERCE 2019 – UNESCO · Sección 2] Según la nota 15, ¿qué criterio justifica calificar a Costa Rica como país de resultados homogéneos en Lectura?
+A. Su desviación estándar es inferior a la desviación estándar promedio de la región en ambos grados
+B. Su desviación estándar es superior a la de todos los demás países participantes del estudio
+C. Su porcentaje de estudiantes en el Nivel I es el más alto de la región en ambos grados
+D. Su puntaje promedio es inferior al promedio regional en ambos grados evaluados por el estudio regional
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[15] Costa Rica es uno de los dos países de más elevados puntajes de la región en Lectura, tanto en 3° como en 6° grado, y su desviación estándar (medida de dispersión interna de puntajes) es en ambos grados inferior a la desviación estándar promedio de la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+71. [ERCE 2019 – UNESCO · Sección 2] Un equipo técnico debe decidir dónde concentrar el apoyo en Lectura de 6° grado para elevar la proporción sobre el mínimo con mayor rapidez. ¿Qué dato del informe orienta mejor la decisión?
+A. Ningún estudiante de 6° grado se encuentra bajo el nivel mínimo de competencias esperado
+B. La mayoría bajo el mínimo está en el Nivel II, inmediatamente anterior al esperado
+C. La mayoría bajo el mínimo está en el Nivel I, el más rezagado de la escala
+D. La mayoría de los estudiantes de 6° grado ya se ubica en el Nivel IV de logro
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…la mayor parte de los estudiantes que no logran alcanzar el nivel mínimo de competencias en 6° grado se encuentran en el nivel de desempeño inmediatamente anterior al esperado (el Nivel II) y no en el nivel más rezagado (I)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+72. [ERCE 2019 – UNESCO · Sección 2] En una escuela de República Dominicana se discute si reforzar Matemática para niñas o para niños. ¿Qué dato del informe debe considerarse?
+A. En ese país, a diferencia del resto, las niñas aventajan a los niños en Matemática
+B. En ese país, como en el resto, los niños aventajan ampliamente a las niñas en ambos grados
+C. En ese país no se observan diferencias por sexo en ninguna de las pruebas
+D. En ese país los niños aventajan a las niñas en Lectura en ambos grados
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…excepto en República Dominicana en 3° y en 6°, donde las niñas aventajan a sus compañeros.”; “República Dominicana es el único país en que las niñas aventajan a los niños en Matemática.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+73. [ERCE 2019 – UNESCO · Sección 2] En una escuela de Guatemala, un docente de 6° asume que las niñas superan a los niños en Lectura, como en el resto de la región. ¿Qué precisión aporta el informe?
+A. Guatemala en 6° grado presenta la mayor brecha de la región a favor de las niñas del país
+B. Guatemala en 6° grado presenta diferencias amplias y favorables a los niños
+C. Guatemala en 6° grado es una excepción, sin diferencias de resultados según sexo
+D. Guatemala no participó en la prueba de Lectura de 6° grado del ERCE 2019
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La excepción a este patrón generalizado son Honduras, Perú y Nicaragua en 3° grado, y Guatemala en 6° grado, donde no se muestran diferencias de resultados según sexo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+74. [ERCE 2019 – UNESCO · Sección 2] Un equipo diseña actividades para que sus estudiantes de 3° superen el Nivel I en Lectura. ¿Qué tarea es coherente con lo que el informe describe para ese logro?
+A. Comparar dos textos extensos atendiendo a su propósito y su contenido escritos
+B. Evaluar críticamente la validez de argumentos en ensayos académicos
+C. Localizar información presentada literalmente en textos adecuados a su edad
+D. Redactar un informe de investigación con fuentes bibliográficas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Esto significa que al leer textos adecuados a su edad son capaces al menos de localizar información o relaciones presentadas literalmente y realizar inferencias a partir información claramente sugerida, destacada o reiterada.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 13; página PDF 13.
+
+75. [ERCE 2019 – UNESCO · Sección 2] Un docente de 6° quiere planificar una actividad de Ciencias alineada con el Nivel III. ¿Cuál es coherente con lo descrito en el informe?
+A. Que los estudiantes reciten las partes del cuerpo humano en orden alfabético estudiado
+B. Que los estudiantes concluyan a partir de información presentada en gráficos
+C. Que los estudiantes copien definiciones del texto escolar sin analizarlas
+D. Que los estudiantes memoricen los nombres de los planetas del sistema solar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Al superar este nivel, los estudiantes son capaces al menos de explicar fenómenos cotidianos aplicando su conocimiento; […] evaluar la pertinencia de un diseño experimental, y concluir a partir de información presentada en gráficos, entre otros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+76. [ERCE 2019 – UNESCO · Sección 2] Un docente de 6° prepara una tarea de Matemática alineada con el Nivel III. ¿Cuál es coherente con lo descrito en el informe?
+A. Calcular adiciones y sustracciones de fracciones con el mismo denominador
+B. Resolver sistemas de tres ecuaciones lineales con tres incógnitas
+C. Componer números naturales solo hasta 99 mediante material concreto
+D. Calcular derivadas de funciones polinómicas de segundo y tercer grado con exponentes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos estudiantes son al menos capaces de […] calcular adiciones y sustracciones de fracciones (con el mismo denominador), e identificar relaciones de perpendicularidad y paralelismo en el plano, entre otros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+77. [ERCE 2019 – UNESCO · Sección 2] Un docente de 3° quiere comprobar si sus estudiantes alcanzan el Nivel II en Matemática. ¿Qué tarea es coherente con lo descrito en el informe?
+A. Resolver problemas de proporcionalidad inversa con varias operaciones
+B. Interpretar gráficos de dispersión con variables continuas y su relación
+C. Leer e interpretar información en tablas o gráficos simples de barra
+D. Calcular el área de figuras compuestas usando fórmulas algebraicas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Esto significa que al menos son capaces, por ejemplo, de escribir y componer aditivamente números naturales hasta 9.999; identificar elementos de figuras geométricas (vértices, lados, diagonales); leer, interpretar y organizar información en tablas o gráficos simples de barra…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 16; página PDF 16.
+
+78. [ERCE 2019 – UNESCO · Sección 2] Un docente de 6° quiere evaluar si sus estudiantes alcanzan el Nivel III en Lectura. ¿Qué tarea es coherente con lo descrito en el informe?
+A. Leer en voz alta un texto midiendo las palabras por minuto
+B. Copiar textualmente un párrafo y subrayar las palabras nuevas
+C. Comparar dos textos atendiendo a su propósito y contenido
+D. Identificar el título de un texto en su portada
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Además, establecen relaciones entre información verbal y visual y comparan dos textos atendiendo a su propósito y contenido.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+79. [ERCE 2019 – UNESCO · Sección 2] Un docente de Ciencias propone a sus estudiantes evaluar si un experimento está bien planteado. ¿Con qué capacidad del Nivel III se relaciona esta tarea?
+A. Memorizar los pasos fijos del método científico
+B. Evaluar la pertinencia de un diseño experimental
+C. Copiar los resultados obtenidos por otros grupos
+D. Reconocer los órganos del cuerpo humano en láminas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Al superar este nivel, los estudiantes son capaces al menos de […] evaluar la pertinencia de un diseño experimental…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+80. [ERCE 2019 – UNESCO · Sección 2] Un docente pide a sus estudiantes identificar cuáles de varias preguntas pueden responderse mediante una investigación científica. ¿Con qué capacidad del Nivel III se relaciona?
+A. Memorizar las respuestas correctas que figuran en el texto escolar
+B. Responder las preguntas consultando la opinión de los padres
+C. Clasificar las preguntas según su extensión y su número de palabras
+D. Discriminar las preguntas que son investigables científicamente
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…discriminar las preguntas que son investigables científicamente o la hipótesis que orienta una investigación…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+81. [ERCE 2019 – UNESCO · Sección 2] Con recursos limitados para reforzamiento, una autoridad educativa debe elegir el área y grado más críticos según el ERCE 2019. ¿Qué decisión se fundamenta mejor en el informe?
+A. Priorizar Matemática de 6°, con solo el 17,4 % regional en el Nivel III
+B. Priorizar Matemática de 3°, con el 52,3 % regional sobre el Nivel II de logro
+C. Priorizar Lectura de 6°, con el 31,2 % regional sobre el Nivel III
+D. Priorizar Lectura de 3°, con el 55,7 % regional sobre el Nivel I
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el caso de Matemática en 6° grado, la proporción promedio de estudiantes de la región que alcanza el Nivel III es muy baja (17,4%).”; “Los mayores desafíos se presentan en Matemática 6° grado…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+82. [ERCE 2019 – UNESCO · Sección 2] Una autoridad decide si orientar los apoyos en Lectura a reducir brechas internas o diferencias entre países. ¿Qué decisión respalda la evidencia?
+A. No intervenir, pues los resultados son homogéneos dentro de todos los países
+B. Atender las brechas internas, pues la distancia dentro de los países es mayor
+C. Atender solo las diferencias entre países, pues son mayores que las internas de cada país
+D. Atender solo a los estudiantes de alto desempeño para elevar los promedios
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…es mayor la distancia entre estudiantes de más alto y más bajo desempeño dentro de cada país que entre estos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+83. [ERCE 2019 – UNESCO · Sección 2] Una autoridad debe decidir hacia quién focalizar nuevas estrategias de Lectura en la mayoría de los países. ¿Qué decisión se fundamenta en el informe?
+A. Suspender las estrategias de Lectura por falta de diferencias
+B. Mejorar las oportunidades de aprendizaje en Lectura de los niños
+C. Mejorar las oportunidades de aprendizaje en Lectura de las niñas del país
+D. Reducir las oportunidades de aprendizaje en Lectura de las niñas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos resultados presentan un desafío para la mayoría de los países de la región que requieren mejorar las oportunidades de aprendizaje que se ofrecen en el área de Lectura a los niños.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+84. [ERCE 2019 – UNESCO · Sección 2] Un ministerio busca países de la región cuyo avance en Lectura desde el TERCE pueda estudiarse como referencia. ¿Cuál debe priorizar según el informe?
+A. Honduras, con los avances más acentuados en Lectura de 6°
+B. Cuba, con el mayor avance desde el TERCE en el sexto grado
+C. Perú, con los avances más acentuados tanto en 3° como en 6° grado
+D. Uruguay, con el mayor retroceso de la región en ambos grados evaluados
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los países que muestran avances estadísticamente significativos en Lectura para ambos grados son Perú, Brasil y República Dominicana. Los avances más acentuados los presenta Perú, tanto para 3° como para 6° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura; página impresa 15; página PDF 15.
+
+85. [ERCE 2019 – UNESCO · Sección 2] Un ministerio quiere conocer experiencias de alto desempeño en Ciencias con resultados equitativos entre estudiantes. ¿Qué país es la mejor referencia según el informe?
+A. Costa Rica, con alto puntaje y dispersión bajo la media
+B. Paraguay, con bajo puntaje y unos resultados más homogéneos
+C. Cuba, con el puntaje más alto y la menor dispersión
+D. Brasil, con el mayor avance y la menor dispersión
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…Cuba presenta el puntaje más alto en esta asignatura, y a su vez la mayor brecha entre estudiantes con alto y bajo desempeño. Por su parte, Costa Rica presenta el segundo puntaje más elevado para esta prueba, con una dispersión bajo la media, es decir, resultados homogéneamente altos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.
+
+86. [ERCE 2019 – UNESCO · Sección 2] Una red de escuelas busca referentes de mejor desempeño en Matemática de 6° grado. ¿Qué países debe considerar según el informe?
+A. Perú (38,9 %), México (38 %) y Uruguay (38 %) sobre el Nivel III
+B. Guatemala, Panamá y Nicaragua, con más estudiantes en el Nivel IV
+C. Cuba (75 %), Perú (70,7 %) y Brasil (69 %) sobre el Nivel III
+D. Costa Rica (54 %), Perú (49 %) y Cuba sobre el Nivel III
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En este contexto, los tres países que presentan mejor desempeño en 6° grado y un mayor porcentaje de estudiantes sobre el Nivel III son Perú (38,9%), México (38%) y Uruguay (38%).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 17; página PDF 17.
+
+87. [ERCE 2019 – UNESCO · Sección 2] Un organismo regional decide documentar los países con mayor progreso en Ciencias desde el TERCE 2013. ¿A cuáles debe seleccionar?
+A. Paraguay, Guatemala y Argentina
+B. Brasil, Perú y República Dominicana
+C. Cuba, El Salvador y Costa Rica
+D. Honduras, Nicaragua, Panamá y Uruguay
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre los países con avances en esta área destacan los casos de Brasil, Perú y República Dominicana, como aquellos con mayor progreso en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Resultados comparados con el TERCE 2013 en Ciencias; página impresa 20; página PDF 20.
+
+88. [ERCE 2019 – UNESCO · Sección 2] Un equipo debe elegir países con mayor porcentaje de estudiantes en los niveles más altos de Lectura de 6° para un intercambio de experiencias. ¿Cuáles debe elegir?
+A. Costa Rica (54 %) y Perú (49 %)
+B. México (38 %) y Uruguay (38 %)
+C. Guatemala y República Dominicana
+D. Cuba (75 %) y Brasil (69 %)
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre los países, Costa Rica (54%) y Perú (49%) son los que cuentan con mayor porcentaje de estudiantes en los niveles más altos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+89. [ERCE 2019 – UNESCO · Sección 2] Un equipo regional busca referentes en Lectura de 3° grado por su porcentaje de estudiantes sobre el Nivel I. ¿Qué países debe considerar?
+A. Perú (75,6 %), Costa Rica (74,7 %) y Brasil (72,4 %)
+B. Nicaragua, Guatemala y República Dominicana en total
+C. Cuba (75 %), Perú (70,7 %) y Brasil (69 %) en total
+D. Perú (38,9 %), México (38 %) y Uruguay (38 %) en total
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Como se observa en el Gráfico 1, los tres países que presentan un mayor porcentaje de estudiantes sobre el Nivel I en 3° grado son Perú (75,6%), Costa Rica (74,7%) y Brasil (72,4%).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Desempeño de los estudiantes; página impresa 14; página PDF 14.
+
+90. [ERCE 2019 – UNESCO · Sección 2] Una autoridad debe decidir si diseñar estrategias de género en Ciencias para todos los países por igual. ¿Qué decisión se apoya en el informe?
+A. Aplicarlas igual en todos, pues en los 16 países las diferencias son de gran magnitud
+B. Descartarlas, pues el informe no analiza las diferencias por sexo en la prueba de Ciencias
+C. Aplicarlas igual en todos, pues en los 16 países las diferencias favorecen a los niños
+D. Diferenciarlas, pues 9 de 16 países no muestran diferencias y en 7 favorecen a las niñas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En nueve de 16 países no se observan diferencias de desempeño entre niños y niñas en esta prueba. En los 7 países que presentan diferencias de rendimiento, estas son favorables a las niñas y en general de baja magnitud.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+91. [ERCE 2019 – UNESCO · Sección 2] ¿Qué síntesis estratégica ofrece el informe sobre los logros en Lectura de la región?
+A. Uno de cada dos estudiantes supera el Nivel I; Perú avanza más y Costa Rica obtiene puntajes altos y homogéneos
+B. Ningún estudiante supera el Nivel I; todos los países retroceden respecto del TERCE en ambos grados
+C. Tres de cada cuatro estudiantes superan el Nivel III; Cuba avanza más y Brasil obtiene puntajes homogéneos en Lectura
+D. Uno de cada cinco estudiantes supera el Nivel I; Uruguay avanza más y Perú obtiene puntajes muy dispersos
+Respuesta correcta: A
+Explicación: “1 de cada 2 estudiantes de la región logra superar el nivel I. Perú es el país que muestra un mayor avance. Costa Rica destaca por obtener puntajes elevados y más homogéneos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Variabilidad de resultados en Lectura entre países y al interior de ellos; página impresa 15; página PDF 15.
+
+92. [ERCE 2019 – UNESCO · Sección 2] ¿Qué conclusión estratégica destaca el informe sobre Matemática de 6° grado?
+A. Es el área de mejor logro: todos los países ubican a la mayoría sobre el nivel mínimo de competencias
+B. Es el mayor desafío: ningún país ubica a la mayoría sobre el mínimo, aunque 6 países avanzan
+C. Es un área resuelta: la región supera la meta 4.1 de la Agenda 2030 en Matemática
+D. Es un área sin cambios: ningún país muestra avances respecto del TERCE 2013 en 6°
+Respuesta correcta: B
+Explicación: “Los mayores desafíos se presentan en Matemática 6° grado, donde ningún país logra ubicar a la mayor parte de sus estudiantes sobre el nivel mínimo de competencias. Pese a los bajos resultados, 6 países logran avances estadísticamente significativos desde el TERCE 2013.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 17; página PDF 17.
+
+93. [ERCE 2019 – UNESCO · Sección 2] ¿Qué países muestran avances estadísticamente significativos en Lectura para ambos grados respecto del TERCE 2013?
+A. Honduras, Ecuador y Costa Rica
+B. Cuba, Costa Rica y El Salvador
+C. México, Argentina, Paraguay y Uruguay
+D. Perú, Brasil y República Dominicana
+Respuesta correcta: D
+Explicación: “Los países que muestran avances estadísticamente significativos en Lectura para ambos grados son Perú, Brasil y República Dominicana.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Lectura – Resultados comparados con el TERCE 2013 en Lectura; página impresa 14; página PDF 14.
+
+94. [ERCE 2019 – UNESCO · Sección 2] ¿Qué síntesis estratégica ofrece el informe sobre Matemática de 3° grado en la región?
+A. Uno de cada dos estudiantes está sobre el Nivel I
+B. Ningún estudiante logra superar el Nivel I de logro
+C. Uno de cada cinco alumnos está sobre el Nivel I
+D. Tres de cada cuatro están sobre el Nivel IV de logro
+Respuesta correcta: A
+Explicación: “1 de cada 2 estudiantes de la región está por sobre el nivel I.” (destacado junto al Gráfico 7, Matemática 3° grado).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Desempeño de los estudiantes; página impresa 16; página PDF 16.
+
+95. [ERCE 2019 – UNESCO · Sección 2] ¿Qué país presenta el avance más marcado en Matemática de 6° grado respecto del TERCE, y qué se observa en 3° grado?
+A. Brasil, que en 3° grado muestra la mayor dispersión interna
+B. Uruguay, que en 3° grado presenta además un retroceso significativo
+C. Perú, que en 3° grado también figura entre los de mayor avance
+D. Cuba, que en 3° grado obtuvo además el puntaje promedio más alto
+Respuesta correcta: C
+Explicación: “En 3° grado, Perú, Honduras, República Dominicana y Uruguay presentan avances más acentuados respecto del TERCE. Para 6° grado, el avance más marcado lo presenta Perú.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 18; página PDF 18.
+
+96. [ERCE 2019 – UNESCO · Sección 2] ¿Qué patrón general, común a las tres pruebas, confirma el análisis de variabilidad en Ciencias?
+A. La variación de puntajes solo aparece en Ciencias y no en Lectura ni Matemática
+B. La variación de puntajes es nula en los países de bajo desempeño en Ciencias
+C. La variación de puntajes es mayor al interior de los países que entre ellos
+D. La variación de puntajes es mayor entre los países que dentro de ellos
+Respuesta correcta: C
+Explicación: “En la prueba de Ciencias se repite el mismo patrón que en las demás; es decir, la variación de puntajes es mayor al interior de los países que entre ellos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Variabilidad de resultados entre países y al interior de ellos; página impresa 20; página PDF 20.
+
+97. [ERCE 2019 – UNESCO · Sección 2] ¿Qué caracteriza a los países de bajos resultados en Ciencias en cuanto a la dispersión de sus puntajes?
+A. Presentan puntajes internamente más dispersos que lo registrado a nivel regional en Ciencias
+B. Presentan puntajes internamente más homogéneos que lo registrado a nivel regional
+C. Presentan la mayor brecha entre estudiantes de alto y bajo logro de la región
+D. Presentan exactamente la misma dispersión que Cuba en la prueba de Ciencias
+Respuesta correcta: B
+Explicación: “Los países con bajos resultados en esta prueba presentan puntajes internamente más homogéneos que lo registrado a nivel regional.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Variabilidad de resultados entre países y al interior de ellos; página impresa 20; página PDF 20.
+
+98. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo describe el informe el número de países que avanza o retrocede en Matemática de 3° grado respecto del TERCE 2013?
+A. Nulo: ningún país avanza ni retrocede en ese grado
+B. Muy similar entre los que avanzan y los que retroceden
+C. Muy superior en los que retroceden que en los que avanzan
+D. Muy superior en los que avanzan que en los que retroceden
+Respuesta correcta: B
+Explicación: “En Matemática 3° grado, el número de países que avanza o retrocede en su resultado respecto de TERCE 2013 es muy similar.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Matemática – Resultados comparados con el TERCE 2013 en Matemática; página impresa 17; página PDF 17.
+
+99. [ERCE 2019 – UNESCO · Sección 2] ¿En qué países y grados se presentan las mayores brechas de género en Lectura favorables a las niñas?
+A. En Costa Rica y Brasil, en ambos grados
+B. En Guatemala, en sexto grado, y en Nicaragua en 3°
+C. En Honduras y Perú, en el tercer grado de primaria
+D. En República Dominicana, y en Cuba en sexto grado
+Respuesta correcta: D
+Explicación: “Las mayores brechas se presentan en República Dominicana, y en Cuba en Sexto grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Diferencias de resultados según sexo; página impresa 21; página PDF 21.
+
+100. [ERCE 2019 – UNESCO · Sección 2] ¿Qué dos países presentan el mayor porcentaje de estudiantes que alcanza el Nivel III en Ciencias?
+A. Cuba (48,6 %) y Costa Rica (38,9 %)
+B. Perú (38,9 %) y México (38 %) juntos
+C. Costa Rica (54 %) y Perú (49 %) juntos
+D. Brasil (24,7 %) y Uruguay (22,8 %)
+Respuesta correcta: A
+Explicación: “Junto a Costa Rica, son los dos países que presentan un mayor porcentaje de estudiantes que alcanza el Nivel III de desempeño. Así, el 48,6% de los estudiantes en Cuba y el 38,9% de los estudiantes de Costa Rica alcanzan o superan ese nivel.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje – Ciencias – Desempeño de los estudiantes; página impresa 20; página PDF 20.

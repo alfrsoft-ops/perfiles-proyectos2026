@@ -1,0 +1,995 @@
+# Fuente: marco-gestion-intermedia-c2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Capítulo evaluado: 2. Síntesis del contexto y evolución del nivel intermedio en Chile
+# Páginas: impresas 10 a 21 (PDF 10 a 21)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «2. Síntesis del contexto y evolución del nivel intermedio en Chile» del documento Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Alcance
+# Capítulo 2 completo: contexto y reformas del sistema escolar chileno, nuevo nivel intermedio (DEP y SLEP), institucionalidad intermedia, planificación e instrumentos de gestión (ENEP, PEL, PAL, PEI, PME, convenios) y articulación institucional. La página 21 no contiene texto
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (10–21)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 60 de contenido textual · 40 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 2 del Marco para la Gestión y el Liderazgo Educativo Local (págs. 10 a 21).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: marco-gestion-intermedia-c2
+
+1. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué transformaciones principales trajo la reforma educativa chilena de inicios de los años ochenta, según el capítulo?
+A. Centralización estatal, financiamiento por matrícula, cierre de escuelas privadas y evaluación docente obligatoria anual
+B. Regionalización, subvención preferencial, carrera docente y sistema de aseguramiento de la calidad educativa
+C. Municipalización, gratuidad universal, prohibición del lucro y creación de la Agencia de Calidad de la Educación
+D. Municipalización, subvención por asistencia, escuelas particulares subvencionadas y rendición de cuentas con pruebas
+Respuesta correcta: D
+Explicación: “…tuvo como principales transformaciones […] las siguientes: i) la transferencia de los establecimientos escolares públicos a la administración municipal; ii) el cambio en la forma de asignación de los recursos […] a través de un pago de subvención por asistencia de estudiantes; iii) el fomento a la creación de escuelas particulares con financiamiento estatal; iv) la generación de un sistema de rendición de cuentas basado en pruebas estandarizadas…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+2. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿En qué año se promulgó la Ley SEP (Subvención Escolar Preferencial) en Chile?
+A. A fines de 2011
+B. En el año 2015
+C. En el año 2008
+D. Durante 2006
+Respuesta correcta: C
+Explicación: “Entre las principales políticas, se puede destacar la promulgación de Ley SEP (Subvención Escolar Preferencial), el año 2008…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+3. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué ley reemplazó a la LOCE en 2009 y qué efecto tuvo, según el capítulo?
+A. La Ley 21.040, que convirtió a los SLEP en los únicos garantes de la calidad
+B. La Ley SEP, que convirtió a los municipios en los principales garantes de la educación de calidad
+C. La Ley de Inclusión, que convirtió a las familias en garantes de la calidad
+D. La LGE, que convirtió al Estado en el principal garante de la educación de calidad
+Respuesta correcta: D
+Explicación: “El año 2009 se cambia la LOCE (Ley Orgánica Constitucional de Enseñanza) por la LGE (Ley General de Educación), convirtiendo al Estado en el principal garante de la educación de calidad en Chile (Aziz, 2018).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+4. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿En qué año se aprobó el Sistema de Aseguramiento de la Calidad de la Educación y qué instituciones se crearon con él?
+A. En 2011, con la creación de la Agencia de Calidad y la Superintendencia de Educación
+B. En 2009, con la creación de la Dirección de Educación Pública y de los SLEP
+C. En 2015, con la creación de la Subsecretaría de Educación Parvularia y la Agencia de Calidad
+D. En 2017, con la creación del Consejo Nacional de Educación y la Superintendencia
+Respuesta correcta: A
+Explicación: “El año 2011 se aprueba el Sistema de Aseguramiento de la Calidad de la Educación, con la consecuente creación de la Agencia de Calidad y la Superintendencia de Educación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+5. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué ley creó en 2015 la Subsecretaría de Educación Parvularia en Chile?
+A. La Ley N.° 20.832
+B. La Ley N° 20.529
+C. La Ley número 21.040
+D. La Ley N.° 19.882
+Respuesta correcta: A
+Explicación: “En 2015 se crea la Subsecretaría de Educación Parvularia (Ley N° 20.832), como entidad rectora de la política de Educación Inicial en Chile.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+6. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuándo se promulgó la Ley N.° 21.040 que crea el nuevo Sistema de Educación Pública en Chile?
+A. En junio de 2015
+B. En noviembre de 2017
+C. En diciembre de 2009
+D. En marzo del año 2020
+Respuesta correcta: B
+Explicación: “El nuevo Sistema de Educación Pública, vigente desde la promulgación de la Ley N° 21.040 en noviembre de 2017 y actualmente en pleno proceso de implementación…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+7. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Para qué periodo se estableció la primera Estrategia Nacional de Educación Pública (ENEP)?
+A. Para el periodo de 2024 a 2030
+B. Para el periodo de 2020 a 2028
+C. Para el periodo 2018 a 2024
+D. Para todo el periodo de 2017 a 2025
+Respuesta correcta: B
+Explicación: “La primera ENEP fue establecida para el periodo de 2020 a 2028 y es un hito que refleja un punto de partida para la educación pública…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+8. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por cuánto tiempo ejerce su cargo el director o directora ejecutiva de un SLEP, según el convenio de gestión educacional con la DEP?
+A. Por seis años, renovable por una vez según su desempeño en el primer periodo
+B. Por ocho años, renovable indefinidamente según la evaluación de la DEP
+C. Por seis años, renovable dos veces según la decisión del Consejo Local
+D. Por cuatro años, sin posibilidad de renovación una vez terminado el periodo inicial
+Respuesta correcta: A
+Explicación: “En el caso del director o directora ejecutiva, que lideran la organización, debe suscribir un convenio de gestión educacional con la DEP para ejercer su cargo por seis años, renovable por una vez, dependiendo precisamente de su desempeño en el primer periodo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+9. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo está constituido el Comité Directivo Local de un SLEP, según el capítulo?
+A. Por 4 representantes de los municipios, 1 de la DEP y 1 de la Agencia de Calidad
+B. Por 2 representantes de universidades, 2 de los CFT y 2 de los asistentes de la educación
+C. Por 2 representantes de centros de padres, 2 de los municipios y 2 del gobierno regional
+D. Por 3 representantes de docentes, 2 de estudiantes y 1 del Ministerio de Educación
+Respuesta correcta: C
+Explicación: “Está constituido por 2 representantes de los centros de padres, madres y apoderados, junto a 2 de los municipios respectivos y 2 del gobierno regional, quienes deberán ser personas con reconocida trayectoria…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+10. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuándo realiza la Agencia de Calidad de la Educación la Visita Integral de Evaluación y Orientación a los SLEP?
+A. No antes de tres años luego de su traspaso
+B. Antes de que se inicie el proceso de traspaso
+C. Al cumplir un año desde su traspaso
+D. Cada seis meses durante los primeros dos años
+Respuesta correcta: A
+Explicación: “Estas visitas se realizan no antes de tres años, luego de su traspaso.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+11. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo considera el capítulo al sistema escolar chileno en el ámbito internacional, y por qué?
+A. Como un caso típico de la región, por su sistema totalmente estatal y centralizado de provisión educativa
+B. Como un caso único y particular, por su régimen de provisión mixta y sus distintas formas de gestión
+C. Como un caso único, por carecer de cualquier forma de rendición de cuentas basada en pruebas
+D. Como un modelo replicado en Europa, por su gestión exclusivamente privada de todas las escuelas
+Respuesta correcta: B
+Explicación: “El sistema escolar chileno, con su régimen de provisión mixta y distintas formas de organización y gestión, es considerado como un caso único y particular en el ámbito internacional…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+12. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿En qué consiste y se sostiene principalmente la reforma educacional en curso, más allá de las leyes aprobadas?
+A. En un cambio cultural hacia un mejoramiento integral en el que cada comunidad escolar es protagonista
+B. En la centralización de las decisiones pedagógicas en el Ministerio de Educación y sus oficinas
+C. En la aprobación de nuevas leyes que obliguen a las escuelas a cumplir estándares de rendimiento
+D. En el aumento del financiamiento estatal, sin cambios en las prácticas de las comunidades escolares del país
+Respuesta correcta: A
+Explicación: “Esta reforma educacional en curso, debe ser vista en conjunto y más allá de las leyes que han estado siendo aprobadas en las últimas décadas. Consiste y se sostiene, principalmente, en un cambio cultural hacia un proceso de mejoramiento educativo integral, en el que cada una de las comunidades escolares está llamada a ser protagonista.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+13. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué principios adicionales, propios de la educación pública, plasma el artículo 5 de la Ley 21.040?
+A. Libertad de enseñanza, financiamiento compartido, selección de estudiantes, competencia y eficiencia del gasto público
+B. Calidad integral, gratuidad parcial, autonomía municipal, evaluación docente, disciplina y valores religiosos
+C. Calidad integral, cobertura universal, mejora continua, trabajo en red, formación ciudadana y valores republicanos
+D. Cobertura focalizada, subvención por asistencia, rendición por pruebas, competencia y lucro regulado
+Respuesta correcta: C
+Explicación: “…también se consideran algunos adicionales propios de la educación pública, plasmados en el artículo 5 de la Ley 21.040: la calidad integral, la cobertura universal y la garantía de acceso, la mejora continua de la calidad del sistema, la colaboración y el trabajo en red, la formación ciudadana y los valores republicanos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+14. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué implica, según el capítulo, el reconocimiento de lo colectivo en la construcción de la Nueva Educación Pública?
+A. Una gestión pedagógica que integra todos los niveles y desarrolla un sentido del “nosotros” en el territorio
+B. Una gestión centralizada en el Ministerio de Educación que uniforma las prácticas de todas las escuelas del país
+C. Una gestión individual de cada escuela, independiente de los demás niveles del sistema educativo
+D. Una gestión privada que delega en cada sostenedor las decisiones pedagógicas de sus escuelas
+Respuesta correcta: A
+Explicación: “…implica en ese sentido un proceso que considere el reconocimiento de lo colectivo y lo contextual (Collet, 2021). Lo primero, a través de una gestión pedagógica que integra a todos los niveles del sistema y que requiere del desarrollo de un sentido del ‘nosotros’ en el territorio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+15. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según el capítulo, ¿qué debe ser principalmente la institucionalidad educativa de nivel intermedio en el sistema público?
+A. Un simple “adaptador” de políticas centrales y una “bisagra” administrativa entre los distintos niveles
+B. Un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial
+C. Un ejecutor de las directrices municipales sin competencias en temas pedagógicos propios
+D. Un organismo fiscalizador que sanciona a las escuelas que no cumplen los estándares
+Respuesta correcta: B
+Explicación: “…la institucionalidad educativa, a nivel intermedio en el sistema público, no sólo debe ser un ‘adaptador’ de políticas o una ‘bisagra’ entre los niveles macro y micro, sino principalmente un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+16. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué implica el cambio que pone el foco en lo pedagógico desde el nivel educativo intermedio?
+A. La sustitución de los directores escolares por especialistas del nivel intermedio en el aula de cada escuela
+B. Mayores competencias en currículum, enseñanza, evaluación y acompañamiento, y un cambio cultural
+C. Menores competencias administrativas y la delegación total de lo pedagógico en las escuelas
+D. Mayores competencias financieras y la reducción del acompañamiento a los establecimientos
+Respuesta correcta: B
+Explicación: “Es un cambio que pone el foco en lo pedagógico desde el nivel educativo intermedio, lo que implica no sólo mayores competencias en temas asociados, por ejemplo, a currículum, enseñanza, evaluación y acompañamiento, sino un cambio cultural que debe tener impacto en las formas de operación de este actor.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+17. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué lógica de administración sigue la nueva institucionalidad de los SLEP, según el capítulo?
+A. La administración privada, con sostenedores que compiten por la matrícula en cada territorio
+B. La administración municipal tradicional, con la misma escala y cobertura territorial anterior
+C. La administración centralizada, con todas las decisiones radicadas en el Ministerio de Educación nacional
+D. La administración descentralizada, pero con una nueva organización en escala y cobertura territorial
+Respuesta correcta: D
+Explicación: “Esta nueva institucionalidad sigue la lógica de la administración descentralizada de la educación pública, pero con una nueva forma de organización en términos de escala y cobertura territorial (Uribe et al., 2019).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+18. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuál es la función fundamental de los SLEP, según el capítulo?
+A. Fiscalizar el uso de los recursos públicos de las escuelas privadas subvencionadas existentes en todo el territorio
+B. Evaluar el desempeño de los docentes y aplicar sanciones a quienes no alcancen los estándares
+C. Garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles
+D. Elaborar la Estrategia Nacional de Educación Pública y someterla al Consejo Nacional de Educación
+Respuesta correcta: C
+Explicación: “La función fundamental de los SLEP es garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+19. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo define el capítulo los instrumentos de gestión del nuevo sistema de educación pública?
+A. Pruebas estandarizadas que miden el rendimiento de los estudiantes al final de cada nivel educativo
+B. Herramientas técnicas que responden a la normativa, regulan la gestión y permiten planificar y coordinar niveles
+C. Contratos laborales que regulan las remuneraciones de los docentes y asistentes de la educación
+D. Documentos opcionales que cada escuela elabora libremente y a su criterio, sin ninguna relación con la normativa vigente
+Respuesta correcta: B
+Explicación: “Estos se pueden definir como aquellas herramientas técnicas que responden a la normativa y regulan la gestión interna de cada institución, permitiendo planificar y orientar las acciones que se realizarán en cada uno de los niveles del sistema educativo, así como velar por la coordinación entre ellos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 15; página PDF 15.
+
+20. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué carácter atribuye el capítulo a la Estrategia Nacional de Educación Pública (ENEP) en el sistema?
+A. Es un plan anual de cada escuela, que se elabora sin relación con el nivel intermedio
+B. Es un documento referencial sin carácter vinculante para los SLEP ni para las escuelas públicas
+C. Es un reglamento interno de la DEP que no afecta la gestión de los establecimientos
+D. Es el instrumento mandante y la hoja de ruta para la instalación y funcionamiento del sistema
+Respuesta correcta: D
+Explicación: “A nivel de la Nueva Educación Pública, el instrumento mandante es la Estrategia Nacional de Educación Pública (ENEP), de acuerdo con el artículo 6 de la Ley 21.040. La ENEP es un instrumento de gestión de la política pública de alta relevancia, siendo una herramienta central y hoja de ruta para la instalación y funcionamiento del nuevo Sistema de Educación Pública…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+21. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuáles son las principales responsabilidades de la Dirección de Educación Pública (DEP), según el capítulo?
+A. Fiscalizar el traspaso, sancionar a los municipios y evaluar el aprendizaje de estudiantes
+B. Administrar directamente las escuelas, contratar docentes y aplicar las pruebas nacionales estandarizadas
+C. Elegir a los Consejos Locales, aprobar el PEI de cada escuela y fijar las remuneraciones
+D. Conducir el sistema, velar por la calidad de los SLEP, distribuir recursos y proponer la ENEP
+Respuesta correcta: D
+Explicación: “La DEP es la institución encargada de la conducción estratégica y la coordinación del Sistema de Educación Pública […]. Su misión es velar que los SLEP provean una educación de calidad […]. Es la responsable de distribuir los recursos destinados a cada SLEP […]. Una de sus principales funciones es proponer una Estrategia Nacional de Educación Pública (ENEP)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 13; página PDF 13.
+
+22. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo evalúa la DEP el desempeño de los Servicios Locales, según el capítulo?
+A. Por medio de encuestas anuales a las familias de cada territorio
+B. Por medio de visitas sorpresivas de fiscalizadores de la Superintendencia
+C. Por medio de los convenios de gestión con sus directores ejecutivos
+D. Por medio de los resultados de las pruebas aplicadas por la Agencia
+Respuesta correcta: C
+Explicación: “La DEP debe vigilar el efectivo cumplimiento de la ENEP y evaluar el desempeño de los Servicios Locales por medio de los convenios de gestión con sus directores ejecutivos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 13; página PDF 13.
+
+23. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué apoyo deben proveer los SLEP, como líderes educativos de nivel intermedio, a los establecimientos de su dependencia?
+A. Solo apoyo financiero mediante subvenciones anuales
+B. Apoyo administrativo, financiero y educacional
+C. Apoyo exclusivamente disciplinario y legal
+D. Apoyo administrativo, sin labor pedagógica
+Respuesta correcta: B
+Explicación: “Los SLEP, a su vez, son los nuevos gestores de la educación pública. Por tanto, son las y los líderes educativos que, desde el nivel educativo intermedio, deben proveer apoyo administrativo, financiero y educacional a establecimientos de su dependencia (Bellei et al., 2018).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+24. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Para cumplir su función fundamental, ¿qué se requiere de los SLEP respecto de los equipos directivos y las comunidades educativas?
+A. Reemplazarlos en la gestión pedagógica y concentrar las decisiones en la oficina central del SLEP
+B. Potenciarlos, prestarles apoyo técnico-pedagógico y administrativo sistemático y organizar el trabajo colaborativo
+C. Supervisarlos periódicamente, sancionar sus incumplimientos y comparar públicamente sus resultados con los de otros centros
+D. Financiarlos según su matrícula, sin intervenir en su gestión ni en su trabajo colaborativo cotidiano
+Respuesta correcta: B
+Explicación: “Para ello, se requiere potenciar a los equipos directivos y docentes, y a las comunidades educativas; prestarles apoyo técnico-pedagógico y administrativo, de manera sistemática, y organizar el trabajo colaborativo de los establecimientos educacionales a su cargo, velando por su calidad, equidad, inclusión y mejoramiento permanente…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+25. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué debe presentar el director ejecutivo del SLEP al Comité Directivo Local y al Consejo Local para el año siguiente?
+A. Un listado de directores escolares a remover, según los resultados de la evaluación externa del año anterior
+B. Un informe financiero con la ejecución del presupuesto, sin referencia a los objetivos educativos
+C. Un plan anual con el avance de metas, la dotación requerida y las acciones de apoyo técnico pedagógico
+D. Una propuesta de nueva Estrategia Nacional, para su aprobación por el Consejo Nacional de Educación
+Respuesta correcta: C
+Explicación: “El director ejecutivo también deberá elaborar y presentar al Comité Directivo Local y al Consejo Local un plan anual (PA) para el año siguiente, que debe indicar el estado de avance de los objetivos y metas contenidas en el convenio de gestión educacional […], reportar la dotación de docentes y asistentes de la educación que se requieren y dar cuenta de las acciones de apoyo técnico pedagógico a implementar en el territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+26. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Quién elabora y quién aprueba el Plan Estratégico Local (PEL), y cuál es su vigencia?
+A. Lo elabora cada director escolar y lo aprueba la SEREMI, con vigencia anual renovable
+B. Lo elabora el Consejo Local y lo aprueba el director ejecutivo, con vigencia de 4 años
+C. Lo elabora el director ejecutivo y lo aprueba el Comité Directivo Local, con vigencia de 6 años
+D. Lo elabora la DEP y lo aprueba el Consejo Nacional de Educación, con vigencia de 8 años renovables
+Respuesta correcta: C
+Explicación: “A nivel de cada SLEP, el instrumento básico de planificación es el Plan Estratégico Local (PEL), que debe ser elaborado por el director/a ejecutivo/a y aprobado por el Comité Directivo Local, con una vigencia de 6 años.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+27. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué instrumentos suscriben el director de cada establecimiento y el director ejecutivo del SLEP para mantener la coherencia sistémica?
+A. Declaraciones juradas de patrimonio ante la Superintendencia de Educación
+B. Convenios de gestión y de desempeño anclados en los instrumentos de gestión
+C. Contratos laborales indefinidos sin relación con los instrumentos de gestión
+D. Actas de compromiso con las familias, sin vínculo con la ENEP ni con el PEL
+Respuesta correcta: B
+Explicación: “Tanto el director/a de cada establecimiento o unidad educativa, como el director/a ejecutivo de cada SLEP, suscriben convenios de gestión y de desempeño que también deben estar anclados en los instrumentos de gestión antes mencionados, de manera de mantener la coherencia sistémica…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+28. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Con qué debe colaborar el Consejo Local de Educación y cuál es su orientación?
+A. Debe reemplazar al director del servicio y se orienta a los temas laborales
+B. Debe fiscalizar al director del servicio y se orienta a los temas financieros
+C. Debe asesorar a la DEP y se orienta exclusivamente a la infraestructura escolar del territorio
+D. Debe colaborar con el director del servicio y se orienta a los temas educacionales
+Respuesta correcta: D
+Explicación: “El Consejo Local debe colaborar con la directora o el director del servicio y estará compuesto por representantes del profesorado, estudiantes, asistentes de la educación y padres, madres y apoderados, junto a Universidades y CFT de la zona y región. Este Consejo se orienta a los temas educacionales…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+29. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo se concreta el rol del SLEP de otorgar apoyo pedagógico directo a los establecimientos de su dependencia?
+A. Mediante visitas anuales de fiscalización que verifiquen el cumplimiento de la normativa vigente en cada centro
+B. Mediante la evaluación externa de los docentes y la publicación de sus resultados individuales
+C. Mediante la entrega de planificaciones de clase estandarizadas que los docentes deben aplicar
+D. Mediante un acompañamiento constante que fortalezca las capacidades de las comunidades para mejorar
+Respuesta correcta: D
+Explicación: “El rol del SLEP, de otorgar apoyo pedagógico directo a los establecimientos de su dependencia, se concreta a través de un acompañamiento constante con el fin de fortalecer las capacidades que permiten a las comunidades enfrentar sus necesidades de mejora y alcanzar sus propósitos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+30. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] En el ámbito evaluativo, ¿qué papel es clave para el nivel intermedio según el capítulo?
+A. Evaluar exclusivamente el cumplimiento administrativo de los centros, sin componente pedagógico
+B. Promover procesos de evaluación institucionales y pedagógicos con pertinencia local, como estrategia de apoyo
+C. Delegar toda la evaluación en la Agencia de Calidad, sin intervenir en los procesos de los centros
+D. Aplicar pruebas estandarizadas propias para clasificar a los establecimientos según su rendimiento académico anual
+Respuesta correcta: B
+Explicación: “En el ámbito evaluativo, el nivel intermedio es clave para promover procesos de evaluación institucionales y pedagógicos, como parte de la estrategia de apoyo a los establecimientos educacionales, con pertinencia local y autenticidad…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+31. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por qué fue profundamente cuestionada la educación municipal a partir del nuevo milenio?
+A. Por la centralización de las decisiones en el Ministerio y la ausencia de pruebas estandarizadas
+B. Por el exceso de financiamiento estatal, la falta de escuelas privadas y la alta matrícula pública en todas las comunas
+C. Por la uniformidad de calidad entre escuelas y la falta de participación de los gobiernos locales
+D. Por la variabilidad de calidad y equidad, los problemas de los gobiernos locales y la baja de matrícula
+Respuesta correcta: D
+Explicación: “Entre las principales razones, estaban la gran variabilidad de calidad y equidad educativa existente; los problemas administrativos, técnicos y financieros de los gobiernos locales y, en consecuencia, la permanente baja de la matrícula en el sector municipal…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+32. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué dificultades de la educación municipal, junto a las demandas sociales iniciadas en 2006, motivaron la reforma del sistema educativo chileno?
+A. La falta de demanda por educación pública y el exceso de docentes en los establecimientos
+B. La dependencia de los ciclos políticos, los problemas de escala y las diferencias de recursos entre municipios
+C. La centralización ministerial de las decisiones y la ausencia de participación de los municipios
+D. El exceso de autonomía de las escuelas privadas y la falta de pruebas estandarizadas en el sistema educativo nacional
+Respuesta correcta: B
+Explicación: “En respuesta a las demandas sociales, iniciadas el 2006 con la llamada ‘Revolución Pingüina’ (Silva, 2009) y considerando las dificultades de la educación municipal, entre ellas las relacionadas a la dependencia de los ciclos políticos, problemas de escala y diferencias de recursos y capacidades entre los municipios, Chile inició un profundo proceso de reforma…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+33. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo se valora la Ley 21.040 en el contexto de las reformas institucionales chilenas, según el capítulo?
+A. Como la primera reforma educativa realizada en Chile desde la década de los años ochenta
+B. Como una reforma transitoria, que será reemplazada al término de su implementación
+C. Como una reforma menor, limitada a cambios administrativos en el nivel municipal
+D. Como la más grande reforma institucional en educación desde el retorno a la democracia
+Respuesta correcta: D
+Explicación: “El nuevo Sistema de Educación Pública, vigente desde la promulgación de la Ley N° 21.040 en noviembre de 2017 y actualmente en pleno proceso de implementación, es la más grande reforma institucional en educación desde el retorno a la democracia…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+34. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según el capítulo, ¿cuál es el mayor reto de la Nueva Educación Pública en Chile?
+A. Que los principios se plasmen en cada establecimiento y que las políticas sean coherentes con ellos
+B. Que la matrícula pública supere en número a la privada en todas las regiones del país
+C. Que todos los establecimientos obtengan los mismos puntajes en las pruebas nacionales estandarizadas
+D. Que los municipios recuperen la administración de las escuelas públicas en el menor plazo posible
+Respuesta correcta: A
+Explicación: “Sin duda, garantizar que estos principios se vean plasmados en el quehacer diario de cada establecimiento educativo y que las políticas nacionales, locales y escolares sean coherentes con ellos, es el mayor reto de la Nueva Educación Pública en Chile.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+35. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por qué la Ley 21.040 mandata un traspaso gradual de la administración de los establecimientos a los SLEP?
+A. Para permitir aprendizajes cruzados y plazos suficientes para que los cambios se vayan produciendo
+B. Para evitar cualquier cambio cultural en la operación del nivel intermedio de educación
+C. Para que los municipios puedan decidir si traspasan o no sus escuelas al nuevo sistema
+D. Para reducir los costos del sistema mediante el cierre progresivo de las escuelas municipales más pequeñas
+Respuesta correcta: A
+Explicación: “Dada la envergadura de esta transformación, la Ley 21.040 mandata un traspaso gradual de la administración de los establecimientos educacionales, de manera que pueda haber aprendizajes cruzados y plazos suficientes para que estos cambios se vayan produciendo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+36. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por qué son esenciales la planificación y la ejecución financiera para el eficaz desarrollo de los SLEP?
+A. Porque dependen de los aportes voluntarios de las familias de cada territorio
+B. Porque carecen de patrimonio propio y dependen de los presupuestos municipales
+C. Porque se rigen por la Ley de Presupuesto, propia de los servicios públicos
+D. Porque se financian solo con la subvención por asistencia escolar
+Respuesta correcta: C
+Explicación: “Los SLEP son organismos públicos especializados en la gestión educacional, cuentan con personalidad jurídica y patrimonio propio, rigiéndose por la Ley de Presupuesto, propia de los servicios públicos, razón por la cual la planificación y ejecución financiera son esenciales para el eficaz desarrollo del servicio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+37. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por qué los desafíos estratégicos de los nuevos liderazgos intermedios tienen tiempos diferenciados?
+A. Porque los desafíos de corto plazo son los únicos que tienen relevancia para la mejora
+B. Porque el cambio cultural requiere construir confianza, nuevas mentalidades y una visión compartida
+C. Porque la ley fija un plazo distinto para cada desafío, que debe cumplirse sin adaptación
+D. Porque cada desafío depende de un ministerio diferente con su propio calendario y sus propios plazos de trabajo
+Respuesta correcta: B
+Explicación: “Por cierto, estos son desafíos que tienen tiempos diferenciados, con acciones de corto, mediano y largo plazo, ya que el cambio cultural que involucran requiere un proceso de construcción de confianza, nuevas mentalidades y disposición, que dependen de competencias y conocimientos específicos, así como de una visión estratégica que debe ser necesariamente compartida.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+38. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según estudios de los primeros años de instalación, ¿cuál es uno de los principales obstaculizadores de la Nueva Educación Pública?
+A. La rapidez del traspaso, que impidió cualquier cambio cultural en los establecimientos educativos
+B. La abundancia de recursos financieros, que genera ineficiencia en la ejecución del presupuesto
+C. La falta de validación de las comunidades sobre la instalación de los SLEP y de coherencia en los roles
+D. El exceso de participación de las familias, que dificulta la toma de decisiones del director ejecutivo del servicio
+Respuesta correcta: C
+Explicación: “…uno de los principales obstaculizadores de la Nueva Educación Pública a la fecha, es la falta de validación por parte de las comunidades educativas sobre el proceso de instalación de los SLEP y la falta de coherencia respecto a los roles y atribuciones de cada actor…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 15; página PDF 15.
+
+39. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué hace compleja la articulación entre los instrumentos de gestión, según el capítulo?
+A. Que cada instrumento es elaborado por un ministerio distinto, sin ninguna coordinación posible entre ellos
+B. Que deben responder a los lineamientos nacionales y, a la vez, a las necesidades de cada territorio
+C. Que los instrumentos no tienen relación con la normativa ni con la Estrategia Nacional
+D. Que solo las escuelas deben elaborar instrumentos, mientras el SLEP carece de ellos
+Respuesta correcta: B
+Explicación: “Lo complejo de esa articulación entre los instrumentos de gestión es que debe responder a los grandes lineamientos nacionales y, al mismo tiempo, dar cuenta de las necesidades específicas de cada territorio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+40. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cómo interpreta el capítulo el carácter dinámico del proceso de reforma?
+A. El sistema debe abandonar la Ley 21.040 y la ENEP, reemplazándolas por normas de cada territorio
+B. El sistema debe generar aprendizajes y ajustar sus objetivos, con nuevas prioridades surgidas de la experiencia
+C. El sistema debe mantener sin cambios sus objetivos iniciales hasta completar el traspaso de todas las escuelas del país
+D. El sistema debe evitar los ajustes, pues cualquier cambio de objetivos debilita la reforma
+Respuesta correcta: B
+Explicación: “El proceso de reforma es dinámico e implica que el sistema debe generar aprendizajes y ajustar sus objetivos. Los instrumentos ya descritos, como la Ley 21.040 y la ENEP, se complementan con nuevas prioridades y objetivos estratégicos que se originan en la experiencia…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 17; página PDF 17.
+
+41. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia establece el capítulo entre la DEP y los SLEP dentro del nuevo nivel intermedio?
+A. La DEP fiscaliza el uso de recursos; los SLEP evalúan los aprendizajes con pruebas estandarizadas propias
+B. La DEP depende de los municipios; los SLEP dependen directamente de la Superintendencia
+C. La DEP gestiona directamente las escuelas; los SLEP conducen la estrategia nacional del sistema
+D. La DEP conduce y coordina el sistema; los SLEP gestionan y apoyan directamente a los establecimientos
+Respuesta correcta: D
+Explicación: “La DEP es la institución encargada de la conducción estratégica y la coordinación del Sistema de Educación Pública […]. Los SLEP, a su vez, son los nuevos gestores de la educación pública. Por tanto, son las y los líderes educativos que, desde el nivel educativo intermedio, deben proveer apoyo administrativo, financiero y educacional a establecimientos de su dependencia…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+42. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia al Consejo Local de Educación del Comité Directivo Local?
+A. El Consejo aprueba el presupuesto; el Comité designa al director ejecutivo del Servicio Local
+B. El Consejo representa solo a docentes; el Comité representa solo a estudiantes del territorio
+C. El Consejo se orienta a temas educacionales; el Comité vela por el desarrollo estratégico y la rendición
+D. El Consejo vela por el desarrollo estratégico del servicio; el Comité se orienta a los temas educacionales
+Respuesta correcta: C
+Explicación: “Este Consejo se orienta a los temas educacionales y posee un carácter participativo y representativo […]. El Comité Directivo Local genera un espacio adicional de deliberación y diálogo, y se orienta a velar por el desarrollo estratégico del Servicio Local, asegurar su rendición de cuentas y su vinculación con las instituciones del territorio y la región.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+43. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Entre los cuatro desafíos estratégicos de los liderazgos intermedios (Uribe et al., 2019), ¿cuál se define como “capacidad de generar relaciones en distintos escenarios y contextos”?
+A. La participación, como desafío del liderazgo intermedio
+B. La vinculación, como desafío del liderazgo intermedio
+C. La gobernanza, como desafío del liderazgo intermedio
+D. La territorialidad, como desafío del liderazgo intermedio
+Respuesta correcta: B
+Explicación: “La vinculación: Capacidad de generar relaciones en distintos escenarios y contextos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+44. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia la “gobernanza” de la “vinculación” entre los desafíos estratégicos del liderazgo intermedio?
+A. La gobernanza genera relaciones en diversos contextos; la vinculación distribuye las atribuciones y responsabilidades
+B. La gobernanza se refiere al presupuesto; la vinculación se refiere exclusivamente a la relación con la DEP
+C. La gobernanza construye identidad común; la vinculación promueve el involucramiento protagónico de actores
+D. La gobernanza distribuye atribuciones y responsabilidades; la vinculación genera relaciones en diversos contextos
+Respuesta correcta: D
+Explicación: “La gobernanza: Distribución de atribuciones y responsabilidades. […] La vinculación: Capacidad de generar relaciones en distintos escenarios y contextos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+45. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según el cuadro de instrumentos de gestión, ¿qué correspondencia entre nivel, institución e instrumento es correcta?
+A. Macro: MINEDUC con el PME; intermedio: SLEP con el PEI; establecimiento: ENEP y PEL
+B. Macro: DEP con la ENEP; intermedio: SLEP con PEL y PAL; establecimiento: PEI y PME
+C. Macro: SLEP con ENEP; intermedio: DEP con PEI y PME; establecimiento: PEL y PAL
+D. Macro: DEP con el PEL; intermedio: SLEP con la ENEP; establecimiento: PAL y convenios
+Respuesta correcta: B
+Explicación: Cuadro “Instrumentos de gestión institucional”: “Macro / Nacional – DEP – Estrategia Nacional de Educación Pública (ENEP); Intermedio / Territorial – SLEP – Plan Estratégico Local (PEL), Plan Anual Local (PAL); Establecimiento educativo – Proyecto Educativo Institucional (PEI), Plan de Mejoramiento Educativo (PME)”.
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 15; página PDF 15.
+
+46. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia la vigencia y la aprobación de la ENEP respecto del PEL?
+A. La ENEP rige ocho años y la aprueba el Consejo Nacional; el PEL rige seis y lo aprueba el Comité
+B. La ENEP rige seis años y la aprueba el Comité Directivo Local; el PEL rige ocho y lo aprueba el Consejo Nacional
+C. Ambos rigen ocho años y los aprueba el Ministerio de Educación sin intervención de otros órganos
+D. La ENEP rige cuatro años y la aprueba la DEP; el PEL rige dos y lo aprueba el Consejo Local
+Respuesta correcta: A
+Explicación: “Esta estrategia tiene una vigencia de ocho años, siendo dictada por el Ministerio de Educación […], debiendo ser aprobada por el Consejo Nacional de Educación. […] el Plan Estratégico Local (PEL), que debe ser elaborado por el director/a ejecutivo/a y aprobado por el Comité Directivo Local, con una vigencia de 6 años.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+47. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia el rol de la SEREMI y el DEPROV del rol del SLEP en el apoyo técnico pedagógico, según el capítulo?
+A. SEREMI y DEPROV son agentes de apoyo permanente al SLEP; el SLEP apoya directamente a los establecimientos
+B. SEREMI y DEPROV reemplazan al SLEP en el apoyo pedagógico; el SLEP se dedica solo a la administración
+C. SEREMI y DEPROV dependen del SLEP; el SLEP coordina a ambos organismos sin relación con el Ministerio
+D. SEREMI y DEPROV apoyan directamente a los establecimientos; el SLEP solo fiscaliza su gestión financiera anual
+Respuesta correcta: A
+Explicación: “El rol del SLEP, de otorgar apoyo pedagógico directo a los establecimientos de su dependencia […]. Asegurar una adecuada coordinación entre la SEREMI, DEPROV y SLEP, siendo los dos primeros, agentes de apoyo permanente al nuevo liderazgo intermedio representado por los SLEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+48. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia el rol de la Agencia de Calidad del de la Superintendencia de Educación respecto de los SLEP?
+A. La Agencia asigna los recursos públicos; la Superintendencia selecciona a los directores por ADP
+B. La Agencia realiza la Visita Integral de Evaluación y Orientación; la Superintendencia supervisa el traspaso
+C. La Agencia supervisa los convenios de transición municipal; la Superintendencia realiza la Visita Integral anual
+D. La Agencia elabora el PEL; la Superintendencia aprueba la ENEP junto al Consejo Nacional
+Respuesta correcta: B
+Explicación: “…la Agencia de Calidad de Educación, es importante destacar que ésta es responsable de realizar una Visita Integral de Evaluación y Orientación a los SLEP. […] La Superintendencia de Educación es una institución clave para el proceso de traspaso, principalmente, desde su rol supervisor de dicho proceso…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+49. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué diferencia la relación de los SLEP con el Servicio Civil de su relación con la DIPRES?
+A. Con el Servicio Civil, por la Alta Dirección Pública; con la DIPRES, por estar sujetos a la Ley de Presupuesto
+B. Con el Servicio Civil, por la salud escolar; con la DIPRES, por los programas de desarrollo social
+C. Con el Servicio Civil, por la Ley de Presupuesto; con la DIPRES, por estar afectos al Sistema de Alta Dirección Pública
+D. Con el Servicio Civil, por el traspaso de escuelas; con la DIPRES, por la Visita Integral de Evaluación
+Respuesta correcta: A
+Explicación: “La relación con el Servicio Civil se enmarca en que los SLEP están afectos al Sistema de Alta Dirección Pública, establecido en la Ley N°19.882 […]. En tanto los SLEP son un Servicio Público sujeto a la Ley de Presupuesto, deben relacionarse con la DIPRES…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+50. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE la naturaleza de los SLEP descrita en el capítulo?
+A. Son organismos públicos especializados en la gestión educacional
+B. Son instituciones descentralizadas, funcional y territorialmente
+C. Cuentan con personalidad jurídica, patrimonio propio y personal profesional
+D. Son organismos municipales sin personalidad jurídica ni patrimonio propio
+Respuesta correcta: D
+Explicación: “Los SLEP son organismos públicos especializados en la gestión educacional, cuentan con personalidad jurídica y patrimonio propio […]. Asimismo, los SLEP cuentan con una planta de personal profesionalizada. […] Los SLEP son instituciones descentralizadas, tanto funcional como territorialmente…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+51. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un servicio local se limita a transmitir a las escuelas las instrucciones del nivel central, sin diseñar estrategias propias. ¿Qué análisis se fundamenta en el capítulo?
+A. Actúa solo como “adaptador” o “bisagra”, cuando debe potenciar, diseñar e implementar estrategias pedagógicas
+B. Actúa correctamente, pues el nivel intermedio debe limitarse a transmitir las políticas definidas por el nivel central
+C. Actúa como potenciador pedagógico, ya que transmitir instrucciones es su función más importante
+D. Actúa adecuadamente, siempre que las instrucciones se transmitan por escrito y dentro de los plazos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la institucionalidad educativa, a nivel intermedio en el sistema público, no sólo debe ser un ‘adaptador’ de políticas o una ‘bisagra’ entre los niveles macro y micro, sino principalmente un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+52. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Una autoridad sostiene que basta con aprobar nuevas leyes para transformar las escuelas. ¿Qué crítica se apoya en el capítulo?
+A. Es correcto, pues las leyes aprobadas producen por sí solas los cambios necesarios en las comunidades escolares del país
+B. Es correcto, siempre que las leyes se acompañen de sanciones para las escuelas que no las cumplan
+C. La reforma depende solo del financiamiento, por lo que las leyes y el liderazgo son irrelevantes
+D. La reforma se sostiene en un cambio cultural y requiere líderes en todos los niveles que convoquen a sus actores
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Consiste y se sostiene, principalmente, en un cambio cultural hacia un proceso de mejoramiento educativo integral […]. Para ello […] se necesitan líderes educativos, en todos los niveles del sistema, capaces de convocar a sus actores, creando espacios de reflexión y diálogo para los cambios de paradigma…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+53. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un servicio local se instala sin dialogar con las comunidades y surgen resistencias y confusión de roles. ¿Qué análisis se fundamenta en los estudios citados?
+A. El problema se debe solo a la falta de recursos y no a la relación con las comunidades
+B. Las resistencias son normales y no afectan la instalación ni el funcionamiento del servicio local
+C. La falta de validación comunitaria y de coherencia en los roles es un obstaculizador principal
+D. La confusión de roles se resuelve sola con el tiempo, sin necesidad de diálogo comunitario
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…uno de los principales obstaculizadores de la Nueva Educación Pública a la fecha, es la falta de validación por parte de las comunidades educativas sobre el proceso de instalación de los SLEP y la falta de coherencia respecto a los roles y atribuciones de cada actor…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 15; página PDF 15.
+
+54. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP elabora un PEL formalmente impecable, pero los actores del territorio no lo conocen ni lo usan. ¿Qué análisis se apoya en la evidencia citada?
+A. Un factor clave de éxito es alinear estratégicamente los instrumentos y lograr su apropiación por los actores
+B. La apropiación por los actores es irrelevante, pues la mejora depende solo de la calidad técnica del documento elaborado
+C. El PEL cumple su función con solo estar bien redactado, aunque los actores no lo conozcan ni lo usen
+D. El problema se resuelve aumentando la extensión del PEL para incluir más objetivos y metas detalladas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Según la evidencia nacional e internacional, es el compromiso real desde el nivel intermedio con acciones concretas para alinear de manera estratégica estos instrumentos y su apropiación por los actores del territorio, uno de los factores clave de éxito en el proceso de mejora educativa sostenible…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+55. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Tras el traspaso, un SLEP descubre que desconoce los convenios municipales con salud y desarrollo social, y se interrumpen programas. ¿Qué análisis se fundamenta en el capítulo?
+A. El problema es irrelevante, pues esos convenios no influyen de ningún modo en la entrega del servicio educativo
+B. Los convenios municipales caducan con el traspaso, por lo que su interrupción es lo esperado
+C. La continuidad de esos programas no compete al SLEP, sino exclusivamente a los municipios
+D. La falta de información sobre esos convenios al traspasar es problemática para la continuidad del servicio
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Al respecto, puede ser problemática la falta de información respecto de estos convenios, al momento del traspaso desde los municipios a los SLEP, ya que son fundamentales para asegurar la continuidad del servicio educacional (Consejo de Evaluación, 2021).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+56. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un servicio local con territorios muy aislados concentra toda su atención en una única oficina central. ¿Qué crítica se apoya en las consideraciones del Consejo de Evaluación?
+A. Es lo adecuado, pues la centralización en una oficina garantiza la eficiencia en los territorios más aislados del servicio
+B. Debe considerar la conectividad e instalar oficinas locales en las zonas aisladas para cumplir sus funciones
+C. Es irrelevante, pues las distancias no influyen en el involucramiento de la comunidad educativa
+D. Debe cerrar las escuelas aisladas y trasladar a sus estudiantes a los centros urbanos del territorio
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…será importante considerar las complejidades de conectividad en términos de distancias en algunos de los territorios, instalando oficinas locales en las zonas más aisladas, de manera de lograr el adecuado cumplimiento de sus funciones y permitir el involucramiento de la comunidad educativa en esta nueva institucionalidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+57. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] SEREMI, DEPROV y SLEP visitan las mismas escuelas con orientaciones distintas y contradictorias. ¿Qué análisis se fundamenta en el capítulo?
+A. Es inevitable, pues la normativa prohíbe coordinar las acciones de estos tres organismos públicos
+B. La solución es que solo la SEREMI apoye a las escuelas y que el SLEP se dedique a la administración
+C. Deben aclararse procesos, ámbitos y momentos del apoyo de cada actor para evitar la duplicidad de roles
+D. Es positivo, pues la diversidad de orientaciones enriquece el apoyo que reciben los establecimientos educativos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En cuanto al apoyo técnico pedagógico a los centros educativos, y con el objeto de evitar la duplicidad de roles y funciones, a nivel normativo se deben aclarar los procesos, ámbitos y momentos en que los SLEP, DEPROV y SEREMI concretan dicho apoyo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+58. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Una escuela elabora su PEI y su PME sin considerar la ENEP ni el plan del servicio local. ¿Qué crítica se fundamenta en el capítulo?
+A. PEI y PME deben copiar literalmente la ENEP, sin considerar las particularidades del centro
+B. Es lo correcto, siempre que el PEI y el PME sean aprobados por las familias del establecimiento
+C. Es lo correcto, pues el PEI y el PME deben ser totalmente independientes de los niveles superiores del sistema
+D. PEI y PME deben definirse según las particularidades del centro, pero en consonancia con la ENEP y el SLEP
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “A nivel de cada unidad educativa, los instrumentos de planificación y gestión son el Proyecto Educativo Institucional (PEI) y su Plan de Mejoramiento Educativo (PME), que deben ser definidos con base a sus particularidades, pero en consonancia con la ENEP y los instrumentos de gestión educativa territorial del respectivo SLEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+59. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un nuevo director ejecutivo pretende transformar el territorio en pocos meses mediante instrucciones. ¿Qué análisis se apoya en el capítulo?
+A. La transformación depende solo de la rapidez del director y no requiere construir confianza
+B. La transformación debe completarse en el primer año para cumplir el convenio de gestión educacional
+C. La transformación no ocurre por mandato; exige abordar desafíos estratégicos con plazos diferenciados
+D. La transformación se logra por instrucción, pues los SLEP tienen autoridad plena sobre las escuelas del territorio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Dado que esta transformación educativa no ocurre por mandato, los nuevos liderazgos intermedios tienen que enfrentar una serie de desafíos estratégicos […]. Por cierto, estos son desafíos que tienen tiempos diferenciados, con acciones de corto, mediano y largo plazo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+60. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP de un territorio aislado no logra completar su planta profesional. ¿Qué lectura ofrece la nota 5 del capítulo?
+A. La contratación es sencilla, pues la ley asegura postulantes en todos los territorios
+B. La contratación es innecesaria, ya que los SLEP funcionan sin una planta profesional propia ni estable
+C. La contratación del equipo no es algo trivial, especialmente en los territorios más aislados
+D. La contratación corresponde a los municipios, por lo que el SLEP no es responsable
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[5] La contratación de ese equipo no es algo trivial, especialmente en los territorios más aislados (Consejo de Evaluación, 2021).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual (nota al pie 5); página impresa 13; página PDF 13.
+
+61. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Una DEP debe preparar la propuesta de ENEP. Según la Ley 21.040 descrita en el capítulo, ¿qué procedimiento corresponde?
+A. Proponerla al MINEDUC cada 8 años, previa consulta ciudadana y a las comunidades, y aprobarla el CNED
+B. Aprobarla directamente cada 4 años, sin consulta a la ciudadanía ni intervención del Consejo Nacional de Educación
+C. Proponerla a los municipios cada 6 años, para su aprobación por los Consejos Locales de Educación
+D. Encargarla a la Agencia de Calidad cada año, para su aprobación por la Superintendencia de Educación
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Una de sus principales funciones es proponer una Estrategia Nacional de Educación Pública (ENEP) al MINEDUC cada 8 años, previa consulta ciudadana y a las comunidades educativas, debiendo ser aprobada por el Consejo Nacional de Educación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 13; página PDF 13.
+
+62. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al dictarse la ENEP, ¿qué instancias legislativas deben ser oídas según el capítulo?
+A. Los Consejos Locales de Educación de todos los Servicios Locales del país
+B. Las comisiones de Hacienda y de Desarrollo Social del Congreso
+C. Las Comisiones de Educación de la Cámara de Diputados y del Senado
+D. Los concejos municipales de todas las comunas del país en sesión
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Esta estrategia tiene una vigencia de ocho años, siendo dictada por el Ministerio de Educación, a propuesta de la Dirección de Educación Pública, oyendo a las Comisiones de Educación de la Cámara de Diputados y del Senado, debiendo ser aprobada por el Consejo Nacional de Educación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+63. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al seleccionar a los cargos de primer y segundo nivel jerárquico de un SLEP, ¿qué sistema debe aplicarse?
+A. El Sistema de Alta Dirección Pública (ADP)
+B. La elección por el Consejo Local de Educación
+C. El concurso interno entre directores escolares
+D. La designación por el alcalde local
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los cargos de primer y segundo nivel jerárquico, se seleccionan por el Sistema de Alta Dirección Pública (ADP).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+64. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al elaborar el PEL, ¿qué debe definir según el artículo 45 de la Ley 21.040 y con qué debe estar en consonancia?
+A. Acciones de corto plazo, en consonancia con el presupuesto de la Superintendencia de Educación nacional
+B. Metas anuales de rendimiento, en consonancia con los rankings de establecimientos del país
+C. Objetivos de largo plazo, en consonancia exclusiva con las prioridades de los municipios
+D. Objetivos y acciones de mediano plazo, en consonancia con el diagnóstico de los establecimientos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El PEL, de acuerdo con el artículo 45 de la Ley 21.040 debe definir objetivos y acciones de mediano plazo que permitan avanzar hacia la mejora educativa en el territorio. Estos objetivos y acciones deben estar en consonancia con el diagnóstico de los establecimientos educacionales que se encuentran al alero del Servicio Local…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+65. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al alinear el PEL con la ENEP, ¿qué aspectos deben considerarse según la cita recogida en el capítulo?
+A. Rankings de resultados, selección de estudiantes, competencia entre escuelas y reducción del gasto público educativo
+B. Contratación de docentes, remuneraciones, licencias médicas y jubilaciones del personal escolar
+C. Cobertura y retención, convivencia, apoyos al aprendizaje, inclusión, currículo y articulación de niveles
+D. Infraestructura, mobiliario, uniformes escolares, transporte y alimentación de los estudiantes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El PEL debe estar en sintonía con la Estrategia Nacional de Educación Pública (ENEP), considerando aspectos como ‘la cobertura y retención de estudiantes en el Sistema, convivencia escolar, apoyos para el aprendizaje, inclusión y atención diferenciada a los estudiantes, implementación curricular, colaboración y articulación de los sectores y niveles educacionales entre sí’ (p. 5).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+66. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según la Ley 20.529 citada en el capítulo, ¿quién es el órgano rector del sistema y cómo se coordina con los SLEP?
+A. El Ministerio de Educación, que se coordina con los SLEP a través de la DEP
+B. La Superintendencia de Educación, que se coordina con los SLEP directamente
+C. La Agencia de Calidad, que se coordina con los SLEP a través de los municipios
+D. El Consejo Nacional de Educación, que se coordina a través de las SEREMI
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Como lo define la Ley 20.529, es el Ministerio de Educación el órgano rector del sistema y, como tal, es el responsable de la coordinación de las instituciones bajo su dependencia. De esta forma, la coordinación entre los SLEP y el MINEDUC se da a través de la DEP (Ley 21.040)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+67. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Durante el traspaso de escuelas de un municipio a un SLEP, ¿qué fiscaliza la Superintendencia de Educación?
+A. La elaboración de la ENEP y su aprobación por el Consejo Nacional de Educación
+B. El rendimiento académico de los estudiantes en las pruebas nacionales aplicadas antes del traspaso
+C. El cumplimiento de las obligaciones de cada convenio de transición entre municipios y Ministerio
+D. La selección de los directores ejecutivos mediante el Sistema de Alta Dirección Pública
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La Superintendencia de Educación es una institución clave para el proceso de traspaso, principalmente, desde su rol supervisor de dicho proceso, en que fiscaliza el cumplimiento de las obligaciones establecidas en cada convenio de transición suscrito entre los municipios y el Ministerio de Educación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+68. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al coordinar su presupuesto con la DIPRES, ¿cómo debe proceder un SLEP según el artículo 61 de la Ley 21.040?
+A. Mediante la Agencia de Calidad, que asigna los recursos según resultados
+B. Mediante la DEP, a través del Ministerio de Educación, por su rol coordinador
+C. Mediante el municipio, que negocia el presupuesto en nombre del Servicio
+D. Directamente con la DIPRES, sin intervención de la DEP ni del Ministerio de Educación
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La relación entre los SLEP y DIPRES es mediada por la DEP, a través del Ministerio de Educación, atendiendo a su rol coordinador establecido en el Artículo N°61 de la Ley N°21.040 (Consejo de Evaluación, 2021).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+69. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿En qué artículos de la Ley 21.040 se establece el conjunto amplio de funciones y responsabilidades de los SLEP?
+A. En los artículos 45 y 61
+B. En los artículos 18 y 19
+C. En los artículos 5 y 6
+D. En el artículo 2 solamente
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los SLEP, de acuerdo con los artículos 18 y 19 de la Ley 21.040, tienen un conjunto amplio de funciones y responsabilidades…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+70. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] En los procesos de traspaso de centros desde los municipios a los SLEP, ¿qué rol corresponde a la SEREMI?
+A. Administrar directamente los centros durante el traspaso, en reemplazo del municipio y del SLEP
+B. Sancionar a los municipios que retrasen el traspaso, sin intervenir en la entrega de información ni documentación
+C. Facilitar la entrega de información y documentación y socializar el proceso con actores relevantes
+D. Aprobar el PEL del nuevo SLEP y designar a su director ejecutivo antes de iniciar el traspaso
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El rol de la SEREMI, además de fortalecer la coordinación y colaboración en el desarrollo de los SLEP, es clave en los procesos de traspaso de los centros educativos desde los municipios a los SLEP. De manera que se favorezca una adecuada entrega de información y documentación […], propiciando un proceso de socialización a actores relevantes del sistema…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+71. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] En un territorio, las familias y los centros de formación técnica reclaman no tener voz en la gestión educativa local. ¿Qué instancias de la Ley 21.040 permiten resolverlo?
+A. Los Comités Directivos Locales y los Consejos Locales de Educación
+B. La Superintendencia de Educación y la Agencia de Calidad de la Educación
+C. Las juntas municipales de educación y los concejos comunales de cada zona
+D. Los consejos de profesores y las direcciones provinciales
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La Ley 21.040 define distintas instancias que permiten concretar la incorporación de las comunidades educativas y locales, como son los Comités Directivos Locales y los Consejos Locales de Educación. Una de las grandes innovaciones de ambos órganos colegiados es que permiten involucrar en la gestión […] a las familias y otros actores, como representantes de universidades, institutos profesionales y centros de formación técnica del territorio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+72. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP recién instalado encuentra comunas con lógicas muy distintas heredadas de la gestión municipal. ¿Qué acción recomienda el capítulo?
+A. Conocer cada realidad territorial mediante espacios de encuentro transversales con las comunidades
+B. Esperar las instrucciones de la DEP antes de establecer cualquier contacto con las comunidades
+C. Aplicar un modelo de gestión único en todas las comunas, sin considerar su historia previa
+D. Mantener sin cambios las prácticas municipales anteriores para evitar nuevos conflictos en el territorio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…es importante que cada SLEP pueda identificar elementos que potencian o facilitan la gobernanza, la territorialidad, la vinculación y la participación, como es la capacidad que tienen estos nuevos organismos para conocer las realidades de cada territorio, por ejemplo, respecto […] las lógicas de funcionamiento previo de la educación municipal en cada comuna […], a través de la generación de espacios de encuentros transversales con los actores de las comunidades educativas…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 15; página PDF 15.
+
+73. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] La Agencia de Calidad entregó a un SLEP el informe de su Visita Integral, pero nadie lo utiliza. ¿Qué uso recomienda el capítulo?
+A. Que se remita a la Superintendencia para que aplique las sanciones que correspondan al servicio
+B. Que la Unidad de Apoyo Técnico Pedagógica lo use para perfeccionar su apoyo y las herramientas territoriales
+C. Que se archive el informe, pues la visita solo tiene fines de fiscalización y no de mejora del servicio educativo
+D. Que se publique para comparar al SLEP con otros servicios y establecer un ranking de desempeño
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Es fundamental la realización de coordinaciones previas entre los SLEP y la Agencia de Calidad de Educación, en especial considerando los productos asociados (informes) a ser usados posteriormente por los profesionales de la Unidad de Apoyo Técnico Pedagógica, tanto para definir y perfeccionar su apoyo, como para potenciar las herramientas de gestión territorial, tales como el PEL, el Plan Anual, los convenios de desempeño de directivos escolares, entre otros.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+74. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP administra jardines infantiles y debe definir su rol en ese nivel. ¿Qué tendencia describe el capítulo?
+A. Que el nivel parvulario queda excluido de la gestión del nivel intermedio y de los SLEP
+B. Que el nivel parvulario depende exclusivamente de los municipios y no de los Servicios Locales
+C. Que el nivel intermedio tiene creciente participación e influencia pedagógica en el nivel parvulario
+D. Que el nivel intermedio solo administra la infraestructura de los jardines, sin ningún rol pedagógico propio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El nivel intermedio, en particular los SLEP, tienen una creciente participación e influencia en temas pedagógicos en la administración de las unidades educativas del nivel parvulario.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 11; página PDF 11.
+
+75. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un director escolar firma su convenio de desempeño con metas que no se relacionan con el PEL ni con la ENEP. ¿Qué corrección corresponde?
+A. Ajustar el PEL y la ENEP para que coincidan con las metas del convenio del director
+B. Anclar el convenio en los instrumentos de gestión para mantener la coherencia sistémica
+C. Anular el convenio y reemplazarlo por un contrato laboral sin metas de desempeño
+D. Mantener el convenio, pues los directores fijan libremente sus metas sin relación al sistema
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Tanto el director/a de cada establecimiento o unidad educativa, como el director/a ejecutivo de cada SLEP, suscriben convenios de gestión y de desempeño que también deben estar anclados en los instrumentos de gestión antes mencionados, de manera de mantener la coherencia sistémica que permita el cumplimiento de los objetivos de la Nueva Educación Pública…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+76. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Las escuelas de un territorio compiten entre sí y no comparten experiencias. ¿Qué orientación de la Nueva Educación Pública debe promover el servicio local?
+A. La autonomía aislada de cada escuela, para que defina sus prácticas sin relación con las demás
+B. La publicación de rankings de escuelas, para estimular la comparación entre comunidades escolares
+C. La interdependencia, la colaboración y el intercambio de experiencias y capacidades entre la comunidad
+D. La competencia entre escuelas por la matrícula, como incentivo principal para mejorar los resultados académicos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…a través de una gestión pedagógica que integra a todos los niveles del sistema y que requiere del desarrollo de un sentido del ‘nosotros’ en el territorio, promoviendo la interdependencia, colaboración, el intercambio de experiencias y capacidades entre la comunidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Un nuevo nivel intermedio en la educación pública chilena; página impresa 12; página PDF 12.
+
+77. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] En el proceso de anticipación del traspaso, un SLEP decide trabajar solo con las autoridades, sin incluir a la comunidad educativa. ¿Qué corrección se fundamenta en el capítulo?
+A. Delegar la relación con la comunidad en los municipios, que conservan esa función tras el traspaso
+B. Mantener a la comunidad al margen hasta que el traspaso haya concluido por completo en todo el territorio del servicio
+C. Limitar la participación de la comunidad a la etapa final, una vez traspasados todos los centros
+D. Integrar a la comunidad educativa del territorio en cada etapa: anticipación, funcionamiento y traspaso
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Esta nueva institucionalidad intermedia, por tanto, tiene como una de sus características medulares integrar a la comunidad educativa de todo el territorio, lo que se debe evidenciar en cada una de las etapas del proceso: anticipación, puesta en funcionamiento y traspaso de los establecimientos educacionales a los SLEP (Arias, 2020).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+78. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Profesionales de un SLEP desconocen los ejes y metas de la ENEP. ¿Qué medida es coherente con el capítulo?
+A. Limitar el conocimiento de la ENEP al director ejecutivo, sin necesidad de difundirla al equipo
+B. Asegurar que todos conozcan sus principios, ejes y metas para incorporarlos y promoverlos en las escuelas
+C. Reemplazar la ENEP por un documento propio del SLEP, más adaptado a las necesidades locales
+D. Permitir que cada profesional trabaje según su criterio, pues la ENEP no rige al nivel intermedio del sistema
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Lo anterior implica que todos los SLEP y sus profesionales conocen los principios, ejes y metas de dicha Estrategia Nacional, con el propósito de incorporarlos en su quehacer y promoverlos en todas las unidades educativas del sistema público de Chile.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+79. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP necesita apoyos de empresas e instituciones privadas para un programa educativo. ¿Qué foco de la ENEP respalda esta gestión?
+A. La delegación de la gestión de las escuelas públicas en las empresas privadas que las financien
+B. La competencia entre escuelas públicas y privadas por los recursos de las empresas del territorio
+C. La prohibición de toda alianza con privados para proteger el carácter público del sistema educativo nacional
+D. La generación de alianzas públicas y privadas que se constituyan en un aporte a la educación pública
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La ENEP, acogiendo este mandato, considera como uno de sus focos la generación de alianzas públicas y privadas que se constituyan en un aporte a la educación pública.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+80. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] En una reunión, los apoderados de un territorio exigen involucrarse activa y protagónicamente en los temas educativos locales. ¿Qué desafío estratégico del liderazgo intermedio aborda esta demanda?
+A. La participación, entendida como involucramiento activo y protagónico de los actores
+B. La vinculación, entendida como relación con organismos del Estado nacional
+C. La territorialidad, entendida como un discurso común entre las instituciones
+D. La gobernanza, entendida como distribución de atribuciones entre los organismos públicos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La participación: Involucramiento activo y protagónico de los distintos actores incumbentes a una temática que los congrega.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+81. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un equipo de la DEP debe priorizar acciones según el proyecto de ley en discusión. ¿Cuál es uno de sus énfasis respecto del traspaso?
+A. Acelerar el traspaso a cualquier costo, aunque los problemas administrativos pasen a los SLEP
+B. Priorizar un traspaso adecuado, sin que los desafíos administrativos se trasladen a los SLEP
+C. Devolver las escuelas ya traspasadas a los municipios para reiniciar el proceso de cero
+D. Suspender todo traspaso hasta que los municipios resuelvan por sí solos sus problemas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Priorizar un traspaso adecuado del servicio educativo, buscando que los ajustes sean efectivos y que los desafíos administrativos no se trasladen a los SLEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+82. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al definir su estrategia de relación con las escuelas, un SLEP considera el proyecto de ley en discusión. ¿Qué decisión se alinea con él?
+A. Delegar la relación con las comunidades en los municipios, manteniendo al SLEP en tareas financieras
+B. Impulsar proyectos uniformes en todo el país, sin considerar las particularidades de cada territorio
+C. Reducir la relación con las comunidades, concentrando la gestión en los procesos administrativos internos del servicio
+D. Estrechar la relación con las comunidades, con un liderazgo que impulse proyectos de fuerte perspectiva territorial
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Fomentar una relación más estrecha entre los SLEP y las comunidades educativas, promoviendo un liderazgo que impulse proyectos educativos con una fuerte perspectiva territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+83. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al planificar la formación de sus equipos, ¿qué capacidades debe desarrollar un SLEP según el proyecto de ley en discusión?
+A. Capacidades administrativas, financieras y pedagógicas en las conexiones comunitarias y el liderazgo estratégico
+B. Capacidades solo tecnológicas, para digitalizar los procesos administrativos sin cambios pedagógicos
+C. Capacidades de fiscalización, para sancionar a los establecimientos que no cumplan las metas
+D. Capacidades exclusivamente jurídicas, para enfrentar los litigios derivados del traspaso de los centros educativos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Desarrollar capacidades administrativas, financieras y pedagógicas en las conexiones comunitarias y el liderazgo estratégico.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+84. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al diseñar el seguimiento de la implementación, ¿qué decisión se apoya en el proyecto de ley en discusión?
+A. Delegar todo el monitoreo en las familias, mediante encuestas voluntarias de satisfacción anual
+B. Concentrar el monitoreo en la Superintendencia, excluyendo a las subsecretarías de educación
+C. Suprimir los mecanismos de monitoreo, pues la implementación debe avanzar sin supervisión alguna del Estado
+D. Mejorar los mecanismos de monitoreo, destacando el rol articulador de las subsecretarías de educación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Optimizar los mecanismos de monitoreo: Mejora los mecanismos de monitoreo de la implementación del sistema educativo, destacando el papel de las subsecretarías de educación en su rol articulador.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+85. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Ante cambios frecuentes de gobierno, ¿qué decisión estratégica sobre la educación pública promueve el proyecto de ley en discusión?
+A. Consolidarla como política de Estado, con coordinación entre ministerios y servicios públicos
+B. Transferirla a organismos privados, para aislarla de los cambios de gobierno del país
+C. Limitarla a la gestión municipal, para evitar la influencia de los ministerios nacionales
+D. Subordinarla a cada gobierno de turno, para adaptarla a sus prioridades políticas inmediatas y cambiantes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Consolidar la educación pública como política de Estado: Reconoce la educación pública como una política de Estado, fortaleciendo la coordinación y colaboración entre diversos ministerios y servicios públicos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+86. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al definir las acciones de la DEP para 2024-2030 respecto de los SLEP ya instalados, ¿qué objetivo estratégico corresponde?
+A. Reemplazar a los SLEP en régimen por oficinas regionales de la DEP con funciones administrativas
+B. Suspender el acompañamiento de los SLEP en régimen para concentrarse solo en los nuevos servicios locales
+C. Transferir la supervisión de los SLEP en régimen a los municipios donde se ubican sus escuelas
+D. Coordinar el acompañamiento, el desarrollo de capacidades y la supervisión de los SLEP en régimen
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Coordinar el acompañamiento, desarrollo de capacidades y supervisión de los SLEP en régimen, evaluando integralmente su funcionamiento.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+87. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Al crear nuevos SLEP, ¿qué decisión se ajusta al segundo objetivo estratégico 2024-2030 de la DEP?
+A. Acelerar la creación sin considerar su viabilidad, para cumplir con los plazos fijados por la ley
+B. Delegar la creación de los nuevos SLEP a los municipios, sin participación de la DEP en todo el proceso
+C. Conducir su creación y el traspaso reflejando los principios del sistema y asegurando su viabilidad
+D. Postergar la creación de nuevos SLEP hasta que todos los existentes alcancen sus metas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “2. Conducir la creación de los nuevos SLEP, su puesta en marcha y el traspaso del servicio educativo, reflejando los principios del sistema y asegurando su viabilidad futura, asumiéndolo como una responsabilidad del conjunto de la Dirección de Educación Pública.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+88. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Antes de la Visita Integral de la Agencia de Calidad, ¿qué decisión debe adoptar el equipo del SLEP según el capítulo?
+A. Solicitar la postergación indefinida de la visita hasta completar todas sus metas anuales
+B. Evitar todo contacto previo con la Agencia para no influir en los resultados de la visita
+C. Delegar la preparación de la visita en los directores escolares, sin ninguna intervención del SLEP
+D. Realizar coordinaciones previas con la Agencia para aprovechar luego sus informes en la gestión
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es fundamental la realización de coordinaciones previas entre los SLEP y la Agencia de Calidad de Educación, en especial considerando los productos asociados (informes) a ser usados posteriormente por los profesionales de la Unidad de Apoyo Técnico Pedagógica…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+89. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un nuevo equipo directivo de un SLEP debe decidir por dónde empezar su gestión. ¿Qué paso inicial y obligatorio señala el capítulo?
+A. Cambiar a todos los directores escolares para iniciar una gestión propia
+B. Contratar nuevo personal antes de revisar los instrumentos existentes
+C. Elaborar una nueva ENEP adaptada a las particularidades de su propio territorio
+D. Conocer los instrumentos de gestión y asegurar la consistencia entre ellos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “No obstante, el conocimiento de los instrumentos de gestión y la consistencia entre ellos es un paso inicial y obligatorio que posibilita, al menos a nivel formal, un liderazgo y gestión más eficiente de la administración de los SLEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+90. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP debe decidir cómo mantener los programas de salud y desarrollo social que operaban en sus escuelas bajo los municipios. ¿Qué decisión se fundamenta en el capítulo?
+A. Vincularse con esos organismos del Estado para dar continuidad a los convenios del servicio educativo
+B. Suspender los programas, pues los convenios municipales caducan automáticamente con el traspaso
+C. Esperar a que los ministerios propongan nuevos convenios, sin ninguna iniciativa propia del Servicio Local
+D. Trasladar los programas a las familias, que deben gestionarlos directamente con cada ministerio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Complementariamente, durante la operación del SLEP, estos se vinculan con organismos del Estado, con el propósito de dar continuidad a distintos convenios establecidos durante la administración municipal que tienen como propósito favorecer la entrega del servicio educativo. Por ejemplo, existen relaciones con […] el Ministerio de Desarrollo Social y el Ministerio de Salud.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 20; página PDF 20.
+
+91. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Con qué objeto se aprobó en 2017 la Ley que crea el Sistema de Educación Pública, según el capítulo?
+A. Fortalecer la competencia entre escuelas públicas y privadas por la matrícula de cada territorio
+B. Reducir el gasto público en educación mediante la fusión de escuelas y la eliminación de servicios educativos
+C. Avanzar hacia una educación pública de excelencia con pertinencia territorial, equidad y trabajo en red
+D. Devolver la administración de todas las escuelas públicas a los municipios de cada comuna del país
+Respuesta correcta: C
+Explicación: “Finalmente, el año 2017 se aprueba la Ley que crea el ‘Sistema de Educación Pública y modifica otros cuerpos legales’, con el objeto de avanzar hacia una educación pública de excelencia con foco en la pertinencia territorial, calidad integral, mayor equidad e inclusión, apoyo pedagógico para los establecimientos, y priorización del trabajo colaborativo y en red…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Contexto y reformas del sistema escolar chileno; página impresa 11; página PDF 11.
+
+92. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿En qué dos dimensiones representan un avance formal las funciones de los SLEP definidas en la Ley 21.040?
+A. Unifican las funciones con las de la DEP y perfilan su misión como evaluadora de los docentes
+B. Definen funciones distintivas para la institución y perfilan su misión como clave en la mejora de la calidad
+C. Transfieren las funciones a los municipios y perfilan su misión como fiscalizadora del sistema
+D. Reducen las funciones de la institución y limitan su misión a la administración de los recursos financieros del sistema
+Respuesta correcta: B
+Explicación: “…lo que en términos formales representa un avance en dos dimensiones (Bellei et al., 2018): • Generan una definición de funciones distintivas para la institución administrativa responsable de la educación pública. • Perfilan la misión y el rol de este nuevo nivel intermedio como un elemento clave en el mejoramiento de la calidad…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 14; página PDF 14.
+
+93. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué papel cumplen la Ley 21.040 y la ENEP respecto de los tres niveles del sistema público escolar?
+A. Son normas que rigen solo al nivel macro, sin efecto en los SLEP ni en los establecimientos educativos públicos del país
+B. Son instrumentos que sustituyen los planes de cada nivel, eliminando la necesidad de PEL, PEI y PME
+C. Son la hoja de ruta que guía sus instrumentos, que deben ser coherentes para concretar metas propias y globales
+D. Son documentos referenciales que cada nivel puede seguir o no según sus propias prioridades locales
+Respuesta correcta: C
+Explicación: “Como queda en evidencia, tanto la Ley 21.040 como la ENEP son la hoja de ruta que debe guiar el quehacer de los tres niveles del sistema público escolar, a partir de sus propios instrumentos de gestión y definiciones estratégicas, los cuales deben ser coherentes entre sí para propiciar la concreción de la metas propias y globales a nivel de sistema.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 17; página PDF 17.
+
+94. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuál es el propósito fundamental de toda la estructura organizacional DEP-SLEP para el período 2024-2030?
+A. Reducir progresivamente el número de escuelas públicas para concentrar recursos en las escuelas más grandes
+B. Transferir la educación pública a sostenedores privados con financiamiento estatal compartido
+C. Desarrollar el Sistema Nacional de Educación Pública para una educación de calidad en todos los niveles
+D. Concentrar la gestión de todas las escuelas en la DEP, suprimiendo gradualmente los SLEP
+Respuesta correcta: C
+Explicación: “En relación a las prioridades y objetivos del período 2024-2030 (DEP, 2024), se establece que el propósito fundamental de toda la estructura organizacional (DEP-SLEP) es desarrollar el Sistema Nacional de Educación Pública, para alcanzar una educación de calidad en todos los niveles, modalidades y territorios (p.32)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+95. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué establece el primer objetivo estratégico 2024-2030 de la DEP?
+A. Monitorear la implementación, evaluar y proponer ajustes cuidando la coherencia entre niveles
+B. Suspender la implementación hasta evaluar todos los SLEP con pruebas estandarizadas
+C. Evaluar solo los resultados financieros, sin considerar la coherencia entre los distintos niveles
+D. Proponer la derogación de la Ley 21.040 y su reemplazo por normas municipales
+Respuesta correcta: A
+Explicación: “1. Monitorear permanentemente la implementación estratégica, evaluar y proponer ajustes cuidando la coherencia entre niveles con perspectiva sistémica.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+96. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según el cuarto objetivo estratégico 2024-2030, ¿en qué cultura interna debe desarrollar la DEP sus capacidades?
+A. En una cultura interna jerárquica, centrada en el control y la sanción
+B. En una cultura interna competitiva entre sus departamentos y unidades
+C. En una cultura interna aislada, sin coordinación con los Servicios Locales
+D. En una cultura interna que promueva el trabajo colaborativo y coordinado
+Respuesta correcta: D
+Explicación: “4. Desarrollar la DEP en todas las capacidades que le sean requeridas para conducir estratégicamente el Sistema de Educación Pública […]; lo cual se desarrollará en una cultura interna que promueva el trabajo colaborativo y coordinado.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.
+
+97. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Por qué los SLEP son descentralizados en una escala mayor que la comunal, según el capítulo?
+A. Por la exigencia de la Agencia de Calidad educativa
+B. Por la decisión de los alcaldes de cada comuna
+C. Principalmente por razones de economía de escala
+D. Por la falta de escuelas en las comunas pequeñas
+Respuesta correcta: C
+Explicación: “Los SLEP son instituciones descentralizadas, tanto funcional como territorialmente, pero en una escala mayor que la comunal, por razones principalmente de economía de escala.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Institucionalidad educativa intermedia actual; página impresa 13; página PDF 13.
+
+98. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué carácter atribuye el nuevo Sistema de Educación Pública a la articulación y coordinación entre instituciones?
+A. Un obstáculo que debe reducirse para agilizar el trabajo cotidiano de cada servicio
+B. Una tarea exclusiva de los municipios durante el proceso de traspaso
+C. Una opción voluntaria de cada institución según sus propias prioridades
+D. Un requisito esencial para el cumplimiento de los objetivos de la Ley 21.040
+Respuesta correcta: D
+Explicación: “El nuevo Sistema de Educación Pública establece la articulación y la coordinación entre instituciones como un requisito esencial para el cumplimiento de los objetivos establecidos en la Ley 21.040.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Articulación y coordinación de la nueva institucionalidad educativa; página impresa 19; página PDF 19.
+
+99. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué elementos propios de la gestión pública incluye el modelo de la DEP sobre la interrelación de los instrumentos de planificación?
+A. El presupuesto y los convenios de desempeño colectivo y de Alta Dirección Pública
+B. Los aportes de las familias y los contratos con empresas privadas proveedoras
+C. Las pruebas estandarizadas y la selección de estudiantes en cada establecimiento educativo
+D. Los rankings de establecimientos y las sanciones por incumplimiento de metas
+Respuesta correcta: A
+Explicación: “La siguiente gráfica, muestra el modelo que la DEP ha desarrollado para comunicar la interrelación entre dichos instrumentos, el que incluye además elementos propios de la gestión pública, como presupuesto, convenios de desempeño colectivo y de Alta Dirección Pública (Agencia de Calidad, 2021).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 16; página PDF 16.
+
+100. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Cuál es el objetivo del documento Marco, según se declara al cierre del apartado sobre planificación?
+A. Contribuir a que los equipos directivos de los SLEP incrementen sus conocimientos y prácticas de liderazgo intermedio
+B. Establecer un ranking de los Servicios Locales según los resultados académicos de sus estudiantes
+C. Sustituir la Ley 21.040 y la ENEP como instrumentos rectores del Sistema de Educación Pública chileno
+D. Evaluar el desempeño de los directores ejecutivos para decidir la renovación de sus convenios de gestión educacional vigentes
+Respuesta correcta: A
+Explicación: “En este contexto, el presente documento tiene como objetivo contribuir a los equipos directivos de los SLEP en incrementar sus conocimientos y prácticas de liderazgo de nivel intermedio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile – Planificación e instrumentos de gestión de la NEP; página impresa 18; página PDF 18.

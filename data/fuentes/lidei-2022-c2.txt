@@ -1,0 +1,995 @@
+# Fuente: lidei-2022-c2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Capítulo evaluado: 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar
+# Páginas: impresas 19 a 28 (PDF 17 a 26)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar» del documento LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Alcance
+# Capítulo 2 completo: introducción y casos de Chile, Portugal, y Brasil y España (incluidos el Marco para la Buena Dirección, el Decreto-Lei 75/2008, la evaluación externa portuguesa y la LOMLOE/LOE)
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 19–28 = PDF 17–26)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 60 de contenido textual · 40 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 2 del documento LIDEI 2022 (págs. impresas 19 a 28).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: lidei-2022-c2
+
+1. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué casos nacionales de modelos de gestión y liderazgo escolar se presentan en el capítulo 2?
+A. Chile, Portugal, España y Brasil
+B. Perú, Francia, Italia y Brasil
+C. España, Uruguay, Perú y Costa Rica
+D. Chile, Argentina, México y Colombia
+Respuesta correcta: A
+Explicación: “A continuación se presentan algunos casos nacionales (Chile, Portugal, España y Brasil) de modelos de gestión y liderazgo escolar con la intención de buscar aspectos que puedan contribuir a un liderazgo pedagógico, inclusivo y distribuido…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Introducción del capítulo»; página impresa 19; página PDF 17.
+
+2. [LIDEI 2022 – OEI · Capítulo 2] Vaillant (2015) presenta cuatro estudios de caso para pensar el liderazgo escolar. ¿A qué países corresponden?
+A. Australia, Chile, Corea del Sur y Sudáfrica
+B. Australia, Brasil, Japón y Sudáfrica
+C. Australia, Chile, Finlandia y Estados Unidos
+D. Nueva Zelanda, Chile, Singapur y Sudáfrica
+Respuesta correcta: A
+Explicación: “De los cuatro casos para pensar el liderazgo escolar (Australia, Chile, Corea del Sur y Sudáfrica), es significativo el caso de Chile…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+3. [LIDEI 2022 – OEI · Capítulo 2] ¿En qué año se aprobó en Chile la nueva Ley General de Educación (LGE) y qué sistema se creó junto con ella?
+A. En 2006, junto con un Sistema Nacional de Acreditación de Escuelas
+B. En 2015, junto con un Sistema Nacional de Evaluación del Desempeño
+C. En 2009, junto con un Sistema Nacional de Formación Directiva Inicial y Continua
+D. En 2009, junto con un Sistema Nacional de Aseguramiento de la Calidad
+Respuesta correcta: D
+Explicación: “Chile tiene una estructura institucional con una nueva Ley General de Educación (LGE) en 2009 y la creación de un Sistema Nacional de Aseguramiento de la Calidad, implementado a través de nuevos organismos estatales (Agencia de Calidad de la Educación y Superintendencia de Educación).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+4. [LIDEI 2022 – OEI · Capítulo 2] ¿Cuántas dimensiones de prácticas agrupa el Marco para la Buena Dirección y el Liderazgo Escolar de Chile, y en cuántos capítulos se organiza?
+A. Seis dimensiones de prácticas, en un documento de tres capítulos
+B. Cinco dimensiones de prácticas, en un documento de seis capítulos
+C. Cuatro dimensiones de prácticas, en un documento de cinco capítulos temáticos
+D. Cinco dimensiones de prácticas, en un documento de cuatro capítulos
+Respuesta correcta: D
+Explicación: “El Marco para la Buena Dirección y el Liderazgo Escolar, a través de sus cuatro capítulos, presenta antecedentes de su construcción […] y, de forma significativa, el conjunto de prácticas más relevantes agrupadas en cinco dimensiones, además de los recursos personales requeridos…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+5. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué definición de liderazgo, tomada de Leithwood et al. (2006), adopta el Marco chileno?
+A. La autoridad formal del director para administrar recursos y supervisar al personal del establecimiento
+B. La labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas
+C. La capacidad de ordenar y controlar a otros para cumplir las directrices del nivel central
+D. La facultad de decidir de forma individual las metas del establecimiento y comunicarlas a la comunidad
+Respuesta correcta: B
+Explicación: “Además, se comprende el liderazgo como ‘la labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas’ (Leithwood et al., 2006).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+6. [LIDEI 2022 – OEI · Capítulo 2] ¿En qué decreto se fundamenta el modelo de gestión democrática de las escuelas públicas portuguesas citado en el capítulo?
+A. En el Decreto-Lei n.º 75/2018, de 6 de julio
+B. En el Decreto-Lei n.º 115/1998, de 4 de mayo
+C. En el Decreto-Lei n.º 46/1986, de 14 de octubre
+D. En el Decreto-Lei n.º 75/2008, de 22 de abril
+Respuesta correcta: D
+Explicación: “…el fortalecimiento de la autonomía escolar debe traducirse en una mejora del servicio público de educación (Decreto-Lei n. 75/2008, de 22 de abril).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 22; página PDF 20.
+
+7. [LIDEI 2022 – OEI · Capítulo 2] En el modelo de evaluación externa de las escuelas portuguesas, ¿cuáles son los cuatro dominios?
+A. Liderazgo y Gestión, Infraestructura, Currículo Escolar y Rendimiento Académico
+B. Liderazgo y Gestión, Autoevaluación, Prestación de Servicios y Resultados
+C. Dirección, Supervisión, Prestación de Servicios y Satisfacción Familiar
+D. Gobierno Escolar, Autoevaluación, Convivencia y Resultados Académicos
+Respuesta correcta: B
+Explicación: “En el caso portugués, y basándose en el modelo de evaluación externa de las escuelas (Abrantes et al, 2018), Liderazgo y Gestión es un dominio, junto con Autoevaluación, Prestación de Servicios y Resultados.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+8. [LIDEI 2022 – OEI · Capítulo 2] ¿Con qué periodicidad son objeto de evaluación externa las prácticas de dirección y gestión de las escuelas en Portugal?
+A. En ciclos de cuatro a cinco años
+B. Solo una vez, al crearse la escuela
+C. En ciclos anuales y obligatorios
+D. En ciclos de ocho a diez años
+Respuesta correcta: A
+Explicación: “Las prácticas de dirección y gestión son objeto de una evaluación externa, en ciclos de cuatro a cinco años, cuya contribución ha sido reconocida por informes de evaluación y estudios empíricos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+9. [LIDEI 2022 – OEI · Capítulo 2] ¿Desde qué años recoge la legislación de España y de Brasil la escuela como comunidad y la participación activa de sus actores como base de la gestión democrática?
+A. Desde 1988 en España y desde 1978 en Brasil
+B. Desde 1978 en España y desde 1988 en Brasil
+C. Desde 2006 en España y 2009 en Brasil
+D. Desde 1990 en España y a partir de 1996 en Brasil
+Respuesta correcta: B
+Explicación: “La escuela como comunidad y la participación activa de todos sus actores constituyen la base de la gestión escolar democrática, algo que la legislación recoge desde 1978 en España y desde 1988 en Brasil…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+10. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué cuatro dimensiones identifican los estándares de liderazgo de la BCPVPA (2019) para Columbia Británica (Canadá)?
+A. Liderazgo personal, digital, comunitario y administrativo
+B. Liderazgo ético, instructivo, relacional y organizativo
+C. Liderazgo político, técnico y disciplinario
+D. Liderazgo ético, carismático, situacional y burocrático
+Respuesta correcta: B
+Explicación: “…los estándares de liderazgo propuestos por la BCPVPA (2019) para Columbia Británica (Canadá) […] identificando cuatro dimensiones: liderazgo ético, liderazgo instructivo, liderazgo relacional y liderazgo organizativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+11. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué condiciones señalan los casos de Vaillant (2015) para que los líderes escolares puedan esmerarse?
+A. Una remuneración elevada, autoridad disciplinaria plena y ausencia de rendición de cuentas
+B. Una amplia experiencia docente previa, estabilidad indefinida en el cargo y autonomía financiera total
+C. Un contexto apropiado, valoración social, desarrollo profesional y apoyo para mejorar su gestión
+D. Un control externo estricto, metas impuestas desde el nivel central y sanciones por resultados
+Respuesta correcta: C
+Explicación: “Los casos muestran que los líderes escolares solo pueden esmerarse en el contexto apropiado, cuando son valorados socialmente y se les brinda posibilidades de desarrollo profesional y apoyo para que mejoren su gestión pedagógica y administrativa.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 19; página PDF 17.
+
+12. [LIDEI 2022 – OEI · Capítulo 2] Según Vaillant (2015), ¿cuál es el camino para asegurar un liderazgo efectivo y un aprendizaje escolar de calidad?
+A. La supervisión jerárquica
+B. El aprendizaje organizacional
+C. La competencia entre centros
+D. La estandarización del currículo
+Respuesta correcta: B
+Explicación: “A nivel de presupuestos, la autora presenta, por un lado, el liderazgo escolar como clave para asegurar la calidad de la educación y, por otro, indica que el aprendizaje organizacional es el camino para asegurar un liderazgo efectivo y un aprendizaje escolar de calidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 19; página PDF 17.
+
+13. [LIDEI 2022 – OEI · Capítulo 2] ¿Cómo se entiende hoy el liderazgo escolar, según Vaillant (2015)?
+A. De forma individual y carismática, ligada a los rasgos personales innatos del director
+B. De forma más restringida, concentrada en el director y situada en la cúspide de la jerarquía escolar
+C. De forma exclusivamente administrativa, delegada por el nivel central y situada fuera de la escuela
+D. De forma más amplia, compartida o distribuida, y situado en el centro de la institución educativa
+Respuesta correcta: D
+Explicación: “Hoy, para Vaillant (2015), el liderazgo escolar ‘se entiende de forma más amplia, compartida o distribuida, y se sitúa en el centro de la institución educativa’ (p. 6)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+14. [LIDEI 2022 – OEI · Capítulo 2] Según el Marco chileno, ¿qué implica que el liderazgo efectivo sea “contextual y contingente”?
+A. Que su práctica se define una vez por la norma nacional y no admite variaciones entre establecimientos
+B. Que su práctica es homogénea y uniforme en todos los establecimientos, sin importar las circunstancias
+C. Que su práctica varía según el contexto, la vulnerabilidad, el tipo de establecimiento y su etapa de mejora
+D. Que su práctica depende solo de los rasgos personales innatos del director, independientes del contexto escolar en que actúa
+Respuesta correcta: C
+Explicación: “Al no ser homogénea ni uniforme, la práctica del liderazgo efectivo presenta variaciones de acuerdo con el contexto, la vulnerabilidad y el tipo de establecimiento, así como en la etapa de mejoramiento o su nivel de desarrollo, lo que da cuenta de que el liderazgo efectivo es contextual y contingente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+15. [LIDEI 2022 – OEI · Capítulo 2] Para el Marco chileno, el liderazgo es “la práctica del mejoramiento”. ¿Qué significa esta concepción?
+A. Que es un conjunto de rasgos de carácter heredados, que determinan quién puede dirigir una escuela
+B. Que es un conjunto de acciones basadas en conocimientos, habilidades y hábitos que se enseñan y aprenden
+C. Que es un atributo personal innato del líder, que no puede desarrollarse mediante la formación profesional
+D. Que es un cargo formal otorgado por la autoridad, cuyo ejercicio depende solo de la normativa vigente
+Respuesta correcta: B
+Explicación: “Así, el liderazgo es la práctica del mejoramiento. No se trata de un atributo o característica personal del líder, sino de un conjunto de acciones, que tienen su fundamento en conocimientos, habilidades y hábitos que pueden ser enseñados y aprendidos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+16. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué supone la definición de liderazgo adoptada por el Marco chileno respecto de la figura del director?
+A. Que el liderazgo corresponde solo al sostenedor del establecimiento y no al director ni a su equipo directivo
+B. Que el liderazgo coincide exactamente con la labor del director y no puede compartirse con otros
+C. Que el liderazgo es una función secundaria del director, subordinada a sus tareas administrativas
+D. Que el liderazgo es una función más amplia que la labor del director y se comparte con otras personas
+Respuesta correcta: D
+Explicación: “La definición supone que el liderazgo es una función más amplia que la labor ejercida por el director del establecimiento, y es compartida con otras personas de la institución (MINEDUC, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+17. [LIDEI 2022 – OEI · Capítulo 2] En el modelo de gestión democrática portugués, ¿por qué la autonomía escolar se concibe como un valor instrumental?
+A. Porque su fortalecimiento es un fin absoluto, independiente de la calidad del servicio educativo
+B. Porque su fortalecimiento debe traducirse en una mejora del servicio público de educación
+C. Porque su fortalecimiento permite a cada escuela apartarse de las políticas educativas nacionales
+D. Porque su fortalecimiento sirve para reducir la financiación pública escolar
+Respuesta correcta: B
+Explicación: “…y fortalecer la autonomía de las escuelas, ya que no se trata de un principio abstracto o un valor absoluto, sino de un valor instrumental, lo que significa que el fortalecimiento de la autonomía escolar debe traducirse en una mejora del servicio público de educación…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 22; página PDF 20.
+
+18. [LIDEI 2022 – OEI · Capítulo 2] Según el capítulo, ¿en qué se traduce el liderazgo democrático?
+A. En la representación sindical, la negociación colectiva y la elección anual de todos los cargos
+B. En la votación de todas las decisiones, la rotación del director y la supresión de los mandos medios del centro
+C. En la participación de todos, la motivación, la confianza, el respeto y la capacidad de ser escuchados
+D. En la autoridad del director elegido, la obediencia del personal y el cumplimiento de las normas
+Respuesta correcta: C
+Explicación: “El liderazgo democrático se traduce, por tanto, en la participación de todos, en la motivación de los actores escolares, en la confianza que se establece entre ellos, en el respeto a las personas y en la capacidad de ser escuchados en un clima de aprendizaje mutuo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+19. [LIDEI 2022 – OEI · Capítulo 2] ¿Cuál es el papel esencial de la gestión democrática como principio de organización de las escuelas públicas en Brasil y España?
+A. La eficiencia económica, mediante la competencia entre escuelas y la libre elección de escuela de las familias
+B. La disciplina institucional, mediante el fortalecimiento de la jerarquía y el control del personal
+C. La uniformidad nacional, mediante un currículo único y la centralización de todas las decisiones
+D. La justicia social, mediante el reconocimiento de las diferencias y la educación como factor de inclusión
+Respuesta correcta: D
+Explicación: “El denominador común al liderazgo escolar es el de la gestión democrática como principio para la organización de las escuelas públicas, cuyo papel esencial es el de la justicia social a través del reconocimiento de las diferencias y las desigualdades, así como la promoción de la educación como factor de inclusión y equidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 25; página PDF 23.
+
+20. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué relación establece Vaillant (2015) entre el liderazgo escolar y el aprendizaje de los estudiantes?
+A. Que la acción de los líderes es un factor menor, descartado por la mayoría de los estudios internacionales
+B. Que son independientes, pues el aprendizaje depende solo del docente de aula y del entorno familiar y social del alumno
+C. Que están relacionados, y la acción de los líderes es uno de los factores destacados en estudios internacionales
+D. Que se relacionan solo en la educación secundaria, sin efecto alguno en los niveles iniciales y primarios
+Respuesta correcta: C
+Explicación: “Además, afirma que el liderazgo escolar está relacionado con el aprendizaje de los estudiantes, donde la acción de los líderes escolares es uno de los factores que se han destacado en varios estudios internacionales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 19; página PDF 17.
+
+21. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué particularidad del caso chileno destaca Vaillant (2015) en relación con el equipo directivo?
+A. La figura de un inspector externo que sustituye al director en la conducción pedagógica del centro escolar
+B. La figura de un Jefe o Jefa Técnico que apoya la labor docente y tiene un rol clave en el liderazgo
+C. La figura de un consejo de padres que designa y remueve al director según sus resultados anuales
+D. La figura de un administrador financiero que concentra todas las decisiones del establecimiento
+Respuesta correcta: B
+Explicación: “…con la particularidad de ‘contar con la figura de un Jefe o Jefa Técnico que apoya la labor de los docentes y por lo tanto tiene un rol fundamental en el liderazgo educativo…’”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+22. [LIDEI 2022 – OEI · Capítulo 2] Según la dimensión “Desarrollando las capacidades profesionales” del Marco chileno, ¿qué hacen los equipos directivos?
+A. Contratan capacitaciones externas y delegan en ellas toda la formación del personal del centro
+B. Seleccionan solo a docentes ya formados, sin invertir en el desarrollo profesional del equipo
+C. Trabajan permanentemente para comprender, mejorar y potenciar capacidades, habilidades y motivación
+D. Evalúan anualmente a los docentes y sancionan a quienes no alcanzan los estándares de desempeño establecidos
+Respuesta correcta: C
+Explicación: “b) Desarrollando las capacidades profesionales. Los equipos directivos trabajan permanentemente para comprender, mejorar y potenciar las capacidades, las habilidades personales y la motivación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+23. [LIDEI 2022 – OEI · Capítulo 2] Según la dimensión “Liderando los procesos de enseñanza-aprendizaje” del Marco chileno, ¿qué corresponde a los equipos directivos?
+A. Delegar íntegramente los procesos de enseñanza-aprendizaje en los docentes de aula
+B. Aplicar las pruebas externas y publicar los resultados de cada docente
+C. Supervisar solo la asistencia y el cumplimiento horario de los docentes
+D. Guiar, dirigir y gestionar eficazmente los procesos de enseñanza-aprendizaje
+Respuesta correcta: D
+Explicación: “c) Liderando los procesos de enseñanza-aprendizaje. Los equipos directivos guían, dirigen y gestionan eficazmente los procesos de enseñanza-aprendizaje en sus establecimientos educacionales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+24. [LIDEI 2022 – OEI · Capítulo 2] Según el Marco para la Buena Dirección, ¿en qué ámbito deben incorporar sobre todo nuevas formas de gestión los directores y equipos directivos?
+A. En la gestión de los trámites administrativos exigidos por la Superintendencia
+B. En la gestión de las relaciones públicas y la imagen institucional ante la comunidad
+C. En la gestión de la infraestructura, el mobiliario y el mantenimiento del establecimiento
+D. En la gestión pedagógica de la enseñanza, los aprendizajes y los resultados académicos
+Respuesta correcta: D
+Explicación: “…quienes deben incorporar nuevas formas para gestionarlas, no solo en el ámbito administrativo, sino, sobre todo, en la gestión pedagógica de la enseñanza, los aprendizajes y los resultados académicos de los estudiantes.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+25. [LIDEI 2022 – OEI · Capítulo 2] Además de un conjunto claro de definiciones y fundamentos, ¿qué compromiso se requiere de los equipos directivos según el Marco chileno?
+A. Un compromiso político con la autoridad de turno
+B. Un compromiso contractual con el sostenedor privado
+C. Un compromiso ético con toda la Comunidad Educativa
+D. Un compromiso económico con las familias de mayor aporte
+Respuesta correcta: C
+Explicación: “Por lo mismo, se requiere que los equipos directivos en cada establecimiento, junto con adquirir un compromiso ético con toda la Comunidad Educativa, cuenten con un conjunto claro de definiciones y fundamentos que orienten sus prácticas y sus necesidades de desarrollo profesional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+26. [LIDEI 2022 – OEI · Capítulo 2] Según el artículo 132 de la LOE (2006, texto consolidado), ¿qué competencia de liderazgo se subraya en el director o directora?
+A. Promover la experimentación, la innovación pedagógica, programas, planes, organización y convivencia
+B. Aprobar de forma unilateral el proyecto educativo, sin intervención del Claustro ni del Consejo Escolar
+C. Evaluar y sancionar al profesorado, con independencia de los fines del proyecto educativo del centro
+D. Gestionar solo los recursos económicos, dejando la innovación pedagógica a la inspección educativa
+Respuesta correcta: A
+Explicación: “En el capítulo de las competencias del director o directora (Artículo 132, LOE, 2006, texto consolidado) se subraya la competencia de liderazgo promoviendo la experimentación, la innovación pedagógica, programas educativos, planes de trabajo, formas de organización y normas de convivencia…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+27. [LIDEI 2022 – OEI · Capítulo 2] En el modelo español descrito, ¿qué relación existe entre el director y las iniciativas aprobadas por los órganos colegiados?
+A. El director ejecuta sin intervenir las iniciativas que el Consejo Escolar diseña y aprueba por su cuenta
+B. El director gestiona las iniciativas que aprueban el Claustro y el Consejo Escolar, pero las promueve e impulsa
+C. El director aprueba todas las iniciativas y el Claustro y el Consejo Escolar solo son informados después de su ejecución
+D. El director carece de relación con las iniciativas, que dependen solo de la administración autonómica
+Respuesta correcta: B
+Explicación: “El director o directora de los centros se convierte en un gestor de las iniciativas pedagógicas, organizativas y de ámbito económico, que son aprobadas por los órganos colegiados (Claustro y Consejo Escolar), pero esas iniciativas deben ser promovidas e impulsadas desde la dirección.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+28. [LIDEI 2022 – OEI · Capítulo 2] Según Bolívar (2018), en un modelo agotado de gestión burocrático-administrativista, ¿quiénes deben responsabilizarse prioritariamente de los resultados de la escuela?
+A. Los propios establecimientos, sus líderes y equipos directivos, generando procesos de mejora
+B. Las familias, que deben asumir la mejora de los resultados mediante su aporte económico
+C. Las autoridades centrales, que definen y controlan los resultados de cada establecimiento del país
+D. Los inspectores externos, que deben diseñar los planes de mejora de cada establecimiento
+Respuesta correcta: A
+Explicación: “Agotado un modelo burocrático-administrativista de gestión escolar, son los propios establecimientos escolares y sus líderes y equipos directivos los que, prioritariamente, deben responsabilizarse de los resultados de su escuela y, en consecuencia, generar los correspondientes procesos de mejora (Bolívar, 2018).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+29. [LIDEI 2022 – OEI · Capítulo 2] En el campo de análisis “Liderazgo” de la evaluación externa portuguesa, ¿qué se espera respecto de los distintos niveles de liderazgo?
+A. Valorar los diferentes niveles de liderazgo, concretamente los líderes intermedios
+B. Suprimir los liderazgos intermedios para simplificar la estructura organizativa del centro
+C. Valorar solo el liderazgo del director, excluyendo a coordinadores y jefes
+D. Concentrar todos los niveles de liderazgo en la figura del director del centro
+Respuesta correcta: A
+Explicación: “1.4. Valorar los diferentes niveles de liderazgo, concretamente los líderes intermedios.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+30. [LIDEI 2022 – OEI · Capítulo 2] En el campo “Liderazgo” de la evaluación externa portuguesa, ¿qué responsabilidades se incluyen en la movilización de la comunidad educativa?
+A. La selección del alumnado, la publicidad institucional y la captación de matrícula
+B. La sanción de las personas, la evaluación punitiva y la supresión de conflictos
+C. La motivación de las personas, el desarrollo profesional y la gestión de conflictos
+D. La gestión financiera exclusiva, la compra de materiales y el control de inventarios
+Respuesta correcta: C
+Explicación: “1. Movilización de la comunidad educativa. 1.1. Orientación de la acción hacia el cumplimiento de las metas y objetivos educativos. 1.2. Motivación de las personas, desarrollo profesional y gestión de conflictos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+31. [LIDEI 2022 – OEI · Capítulo 2] ¿Con qué finalidad se presentan los cuatro estudios de caso en el capítulo 2?
+A. Para evidenciar las tendencias de cambio en cuatro sistemas educativos de Iberoamérica
+B. Para clasificar a los cuatro países según los resultados de sus estudiantes
+C. Para proponer que todos los países adopten de forma idéntica el modelo de gestión chileno
+D. Para demostrar que la normativa nacional es irrelevante para el liderazgo en las escuelas
+Respuesta correcta: A
+Explicación: “En este capítulo se presentan cuatro estudios de caso sobre liderazgo escolar con el fin de evidenciar las tendencias de cambio en cuatro sistemas educativos de Iberoamérica, tanto en los estudios realizados, a partir de una revisión bibliográfica, como en las orientaciones o normativas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Introducción del capítulo»; página impresa 19; página PDF 17.
+
+32. [LIDEI 2022 – OEI · Capítulo 2] ¿Cómo interpreta Vaillant (2015) la relación entre lo pedagógico y lo administrativo en el trabajo de los directivos?
+A. No se superponen; aunque lo administrativo domine su día, el logro exige analizar desde lo pedagógico
+B. Lo pedagógico corresponde solo al aula y lo administrativo al director, sin vínculo entre ambos
+C. Lo administrativo debe desaparecer de la función directiva para dedicarse solo a la docencia
+D. Son idénticos, por lo que basta con una buena gestión administrativa para lograr los aprendizajes esperados
+Respuesta correcta: A
+Explicación: “Las cuestiones pedagógicas y administrativas no se superponen, aunque la vida cotidiana de los dirigentes esté más determinada por las actividades administrativas, pero el logro educativo de los estudiantes requiere una competencia para analizar el centro educativo desde la dinámica pedagógica, incluyendo no solo el aula, sino todo su contexto en términos de recursos educativos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 19; página PDF 17.
+
+33. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué supuesto de carácter político señala Vaillant (2015) respecto del liderazgo escolar?
+A. Que la descentralización debilita siempre el liderazgo escolar y debe evitarse en todos los sistemas educativos nacionales
+B. Que existe una fuerte asociación entre la autonomía y la rendición de cuentas en las políticas de responsabilidad
+C. Que la autonomía escolar elimina toda necesidad de rendición de cuentas ante la comunidad y el Estado
+D. Que el liderazgo escolar es ajeno a los niveles de autonomía y descentralización de los sistemas
+Respuesta correcta: B
+Explicación: “Otro supuesto es de carácter político, y se refiere a los niveles de autonomía y descentralización y su relación con el liderazgo escolar, ya que existe una fuerte asociación entre la autonomía y la rendición de cuentas a nivel de políticas de responsabilidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+34. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué establece la nueva institucionalidad del Sistema Nacional de Aseguramiento de la Calidad de Chile respecto de los estándares de aprendizaje?
+A. Que permitirán ordenar a los establecimientos según el logro de aprendizaje y el cumplimiento de estándares
+B. Que servirán para fijar los salarios de los docentes según el rendimiento individual de sus alumnos en pruebas
+C. Que reemplazarán a la Ley General de Educación como marco de los objetivos generales del sistema
+D. Que se aplicarán solo a los establecimientos privados, sin efecto sobre la educación pública
+Respuesta correcta: A
+Explicación: “La nueva institucionalidad generada por el Sistema Nacional de Aseguramiento de la Calidad establece que se deben definir estándares de aprendizaje que permitirán ordenar a los establecimientos educacionales, de acuerdo con el logro de aprendizaje de los alumnos y al grado de cumplimiento de estos estándares…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+35. [LIDEI 2022 – OEI · Capítulo 2] ¿Cuál es, en síntesis, el cambio mayor de la función directiva en Chile durante la década del 2000, según Vaillant (2015)?
+A. Que los directores pasaron de ejecutores de directrices centrales a líderes educativos de sus centros
+B. Que los directores pasaron de líderes educativos a ejecutores de las directrices del nivel central del sistema
+C. Que los directores dejaron de responder por los aprendizajes y solo responden por la gestión
+D. Que los directores fueron sustituidos por administradores profesionales sin formación pedagógica
+Respuesta correcta: A
+Explicación: “Si antes se pretendía que ellos fuesen los ejecutores de directrices que provenían desde el nivel central del sistema escolar, ahora se les demanda que se transformen en los líderes educativos de sus establecimientos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+36. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué idea-fuerza de los años 2000 recoge el Marco de la Buena Dirección y el Liderazgo Escolar de Chile?
+A. Que el cambio escolar depende sobre todo de la inversión en infraestructura y equipamiento tecnológico
+B. Que el cambio escolar debe decretarse desde el nivel central y aplicarse sin variaciones en las escuelas
+C. Que el cambio escolar debe radicar primero en las comunidades escolares y requiere liderazgo pedagógico
+D. Que el cambio escolar debe confiarse a consultores externos, ajenos a las comunidades escolares
+Respuesta correcta: C
+Explicación: “El Marco de la Buena Dirección y el Liderazgo Escolar ha recogido la idea-fuerza, ya ampliamente aceptada en los años 2000, de que el cambio escolar debe radicar primeramente en las propias comunidades escolares y que ello requiere de un decidido liderazgo pedagógico…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+37. [LIDEI 2022 – OEI · Capítulo 2] ¿Cómo concibe el modelo de gestión democrática portugués la autonomía y la descentralización?
+A. Como un proceso decretado por la ley, sin necesidad de construcción institucional ni personal
+B. Como un proceso de construcción institucional y personal, y no como un proceso decretado
+C. Como un fin absoluto que exime a las escuelas de las políticas educativas nacionales
+D. Como una concesión temporal del Estado, revocable según los resultados de cada escuela
+Respuesta correcta: B
+Explicación: “…reconociendo al liderazgo compartido como agente de cambio para pensar en la autonomía y descentralización como un proceso de construcción institucional y personal y no como un proceso decretado…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+38. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué significa que, en el caso portugués, el liderazgo escolar sea “también una práctica de evaluación”?
+A. Que, además de normativo y contextual, el liderazgo es objeto de la evaluación externa de las escuelas
+B. Que el liderazgo se limita a aplicar pruebas a los estudiantes y reportar resultados a la autoridad educativa
+C. Que el liderazgo consiste solo en evaluar a los docentes y aplicar las sanciones que correspondan
+D. Que el liderazgo depende exclusivamente de la autoevaluación, sin ninguna evaluación externa
+Respuesta correcta: A
+Explicación: “Más que una realidad normativa […] o una realidad que existe al nivel del contexto de cada escuela, el liderazgo escolar es también una práctica de evaluación. En el caso portugués, y basándose en el modelo de evaluación externa de las escuelas (Abrantes et al, 2018), Liderazgo y Gestión es un dominio…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+39. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué efecto ha tenido la excesiva proliferación de leyes educativas en Brasil y España, según Batista y Pereyra (2020)?
+A. Una completa estabilidad normativa, gracias al consenso alcanzado entre todas las fuerzas políticas
+B. Una notable inestabilidad legislativa, con proyectos democrático-participativos y neoliberales
+C. Una mayor autonomía escolar, al quedar las escuelas fuera de toda regulación del Estado
+D. Una reducción de la participación, al suprimirse los órganos colegiados de las escuelas
+Respuesta correcta: B
+Explicación: “Sin embargo, en ambos países se ha producido una excesiva proliferación de leyes educativas que ha dado lugar a una notable inestabilidad legislativa, con el diseño de diferentes proyectos políticos que expresan aspectos tanto de un proyecto democrático-participativo como de un proyecto neoliberal (Batista y Pereyra, 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+40. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué afirma Bolívar (2018) sobre la cultura escolar dominante en los establecimientos de España?
+A. Que no favorece, e incluso a veces impide, que los directivos ejerzan un liderazgo pedagógico
+B. Que favorece plenamente el liderazgo pedagógico de los directivos en todos los establecimientos
+C. Que es indiferente al liderazgo, pues este depende solo de la normativa autonómica vigente
+D. Que impide la gestión administrativa, pero favorece el liderazgo pedagógico de los directivos
+Respuesta correcta: A
+Explicación: “En un análisis más concreto del modelo de España, Bolívar (2018) afirma que la cultura escolar dominante en los establecimientos escolares en España no favorece –a veces, incluso, impide–que los directivos escolares puedan ejercer un liderazgo pedagógico…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+41. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué organismos estatales implementan en Chile el Sistema Nacional de Aseguramiento de la Calidad, según el capítulo?
+A. La Agencia de Calidad de la Educación y la Superintendencia de Educación
+B. El Ministerio de Hacienda y la Superintendencia de Valores y Seguros
+C. La Agencia de Calidad de la Educación y el Centro de Perfeccionamiento
+D. El Consejo Nacional de Educación y la Contraloría General de la República
+Respuesta correcta: A
+Explicación: “…la creación de un Sistema Nacional de Aseguramiento de la Calidad, implementado a través de nuevos organismos estatales (Agencia de Calidad de la Educación y Superintendencia de Educación).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+42. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué dimensión del Marco chileno se orienta a promover una convivencia escolar y un clima basado en relaciones de confianza?
+A. Desarrollando y gestionando el establecimiento escolar con eficiencia y eficacia
+B. Gestionando la convivencia y la participación de la comunidad escolar
+C. Construyendo e implementando una visión estratégica compartida
+D. Liderando los procesos de enseñanza-aprendizaje del establecimiento
+Respuesta correcta: B
+Explicación: “d) Gestionando la convivencia y la participación de la comunidad escolar. Los equipos directivos promueven activamente una convivencia escolar y un clima basado en relaciones de confianza…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+43. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué diferencia la dimensión “Desarrollando y gestionando el establecimiento escolar” de la dimensión “Construyendo e implementando una visión estratégica compartida”?
+A. La primera atiende la convivencia escolar; la segunda, los procesos de enseñanza-aprendizaje
+B. La primera atiende la formación docente; la segunda, la relación con el sostenedor del centro
+C. La primera busca una gestión eficiente y una organización efectiva; la segunda, construir la visión
+D. La primera busca construir la visión estratégica; la segunda, una gestión eficiente y una organización efectiva
+Respuesta correcta: C
+Explicación: “a) Construyendo e implementando una visión estratégica compartida. Los directivos lideran la construcción o actualización de una visión estratégica sobre el establecimiento y sus objetivos. […] e) Desarrollando y gestionando el establecimiento escolar. Los equipos directivos requieren desarrollar una gestión eficiente y transformar su establecimiento en una organización efectiva…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+44. [LIDEI 2022 – OEI · Capítulo 2] ¿Cuáles son los tres objetivos principales del modelo de gestión democrática portugués (Brito-Coelho y Sousa, 2021)?
+A. Fortalecer la participación de familias y comunidades, el liderazgo y la autonomía de las escuelas
+B. Fortalecer la inspección externa, la uniformidad curricular y la estabilidad del cuerpo docente
+C. Fortalecer el control central, la evaluación del alumnado y la competencia abierta entre escuelas públicas
+D. Fortalecer la financiación privada, la selección del alumnado y la jerarquía del director
+Respuesta correcta: A
+Explicación: “…el modelo de gestión democrática, cuya fundamentación normativa pretende cumplir tres objetivos principales: fortalecer la participación de las familias y las comunidades en la dirección estratégica de las escuelas; fortalecer el liderazgo de las escuelas […]; y fortalecer la autonomía de las escuelas…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 22; página PDF 20.
+
+45. [LIDEI 2022 – OEI · Capítulo 2] La evaluación externa portuguesa divide el dominio de Liderazgo y Gestión en campos de análisis. ¿Cuáles son?
+A. Planificación; ejecución; control y cierre
+B. Visión y misión; currículo; evaluación
+C. Dirección; supervisión; rendición anual
+D. Visión y estrategia; liderazgo; gestión
+Respuesta correcta: D
+Explicación: “De forma más detallada, el dominio de Liderazgo y Gestión se divide en campos de análisis (visión y estrategia; liderazgo; gestión), referentes e indicadores…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+46. [LIDEI 2022 – OEI · Capítulo 2] ¿A qué campo de análisis de la evaluación externa portuguesa pertenece el indicador “Existencia de criterios pedagógicos en la constitución y gestión de grupos y clases”?
+A. Al dominio de Resultados, en el análisis del rendimiento académico del alumnado
+B. Al campo de gestión, en las prácticas de gestión y organización del alumnado
+C. Al campo de liderazgo, en la movilización de la comunidad educativa del centro
+D. Al campo de visión y estrategia, en los documentos rectores de la escuela
+Respuesta correcta: B
+Explicación: “Gestión. 1. Prácticas de gestión y organización del alumnado. 1.1. Existencia de criterios pedagógicos en la constitución y gestión de grupos y clases.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+47. [LIDEI 2022 – OEI · Capítulo 2] Según Batista y Pereyra (2020), ¿en qué rasgos se manifiestan los matices del proyecto político neoliberal en la gestión escolar?
+A. Órganos colegiados fuertes, elección democrática de representantes y cooperación entre escuelas
+B. Participación de todos, autonomía construida y liderazgo distribuido entre todos los miembros de la escuela
+C. Competitividad, jerarquía escolar reforzada y concentración de las decisiones en líderes unipersonales
+D. Justicia social, reconocimiento de diferencias y educación como factor de inclusión y equidad
+Respuesta correcta: C
+Explicación: “Tales matices se manifiestan a nivel de la lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales (Batista y Pereyra, 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+48. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué diferencia el modelo de dirección que Bolívar (2018) propone superar del que propone alcanzar?
+A. Pasar de una dirección limitada a la gestión a un liderazgo educativo o dirección pedagógica
+B. Pasar de una dirección autónoma a una dirección dependiente de la inspección educativa
+C. Pasar de un liderazgo pedagógico a una dirección centrada en la gestión administrativa
+D. Pasar de una dirección colegiada a una dirección unipersonal con mayor jerarquía y control escolar
+Respuesta correcta: A
+Explicación: “En ese sentido, como propone el autor, se plantea ahora pasar de una dirección limitada a la gestión a un liderazgo educativo o dirección pedagógica, como factor de primer orden para incidir en la mejora de la educación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+49. [LIDEI 2022 – OEI · Capítulo 2] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE el resumen del caso portugués?
+A. El modelo de gestión democrática fortalece la participación de los actores de la comunidad educativa
+B. El modelo cuenta con mandos intermedios a nivel de coordinación y supervisión
+C. Las prácticas de dirección y gestión son objeto de una evaluación externa periódica
+D. El modelo de gestión democrática reemplazó por completo al modelo de gestión centralizada
+Respuesta correcta: D
+Explicación: “En resumen, el caso portugués configura el modelo de gestión democrática, con el fortalecimiento de la participación de los actores de la comunidad educativa y la existencia de mandos intermedios a nivel de coordinación y supervisión, aunque coexista con un modelo de gestión centralizada.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+50. [LIDEI 2022 – OEI · Capítulo 2] En España, en el espíritu de la Constitución, ¿cómo se concebía la autonomía escolar según Eurydice (2007)?
+A. Como una forma de reducir el gasto público en educación mediante la gestión privada
+B. Como una forma de concentrar las decisiones en el director para ganar eficiencia
+C. Como una forma de realizar la participación democrática de la comunidad educativa
+D. Como una forma de independizar a las escuelas del marco general básico estatal
+Respuesta correcta: C
+Explicación: “En España, por ejemplo, en el espíritu de la Constitución, la autonomía escolar era una forma de realizar la participación democrática. Todas las partes de la comunidad educativa debían estar representadas en el centro del proceso de toma de decisiones de la escuela (Eurydice, 2007).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+51. [LIDEI 2022 – OEI · Capítulo 2] En un distrito, los directores carecen de reconocimiento social, formación y acompañamiento, y aun así se les exigen mejoras inmediatas. ¿Qué análisis se fundamenta en los casos de Vaillant (2015)?
+A. La exigencia de resultados inmediatos basta para que los directores mejoren su gestión pedagógica
+B. Los líderes solo pueden esmerarse con valoración social, desarrollo profesional y apoyo en su gestión
+C. Las mejoras dependen solo de la voluntad del director, sin relación con las condiciones de su cargo directivo
+D. La formación y el apoyo son innecesarios cuando el director tiene experiencia docente previa
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los casos muestran que los líderes escolares solo pueden esmerarse en el contexto apropiado, cuando son valorados socialmente y se les brinda posibilidades de desarrollo profesional y apoyo para que mejoren su gestión pedagógica y administrativa.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 19; página PDF 17.
+
+52. [LIDEI 2022 – OEI · Capítulo 2] Una autoridad aplica el mismo protocolo de liderazgo a todas las escuelas, sin distinguir su vulnerabilidad ni su etapa de mejora. ¿Qué crítica se apoya en el Marco chileno?
+A. Es acertada, siempre que el protocolo se aplique con rigor y bajo supervisión permanente
+B. Desconoce que el liderazgo efectivo es contextual y contingente, y varía según cada establecimiento
+C. Desconoce solo la infraestructura de cada escuela, pero no los demás factores del contexto
+D. Es acertada, pues la práctica del liderazgo efectivo es homogénea y uniforme en todos los casos posibles
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Al no ser homogénea ni uniforme, la práctica del liderazgo efectivo presenta variaciones de acuerdo con el contexto, la vulnerabilidad y el tipo de establecimiento, así como en la etapa de mejoramiento o su nivel de desarrollo, lo que da cuenta de que el liderazgo efectivo es contextual y contingente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+53. [LIDEI 2022 – OEI · Capítulo 2] Un proceso de selección de directores se basa solo en rasgos de personalidad, sin considerar conocimientos ni formación. ¿Qué crítica se fundamenta en el Marco chileno?
+A. Es adecuado, siempre que la entrevista personal sea realizada por especialistas en psicología
+B. Es adecuado, porque el liderazgo depende exclusivamente de la personalidad innata del candidato
+C. Ignora solo la antigüedad docente, que es el único criterio relevante para seleccionar a los directores escolares
+D. Ignora que el liderazgo no es un atributo personal, sino acciones basadas en saberes que se aprenden
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “No se trata de un atributo o característica personal del líder, sino de un conjunto de acciones, que tienen su fundamento en conocimientos, habilidades y hábitos que pueden ser enseñados y aprendidos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+54. [LIDEI 2022 – OEI · Capítulo 2] Una reforma amplía la autonomía de las escuelas, pero no se verifica mejora alguna en el servicio educativo. ¿Qué análisis se apoya en el modelo portugués?
+A. La autonomía es irrelevante para la calidad, por lo que la reforma debe evaluarse solo por su costo
+B. La autonomía debe revocarse en cuanto aparecen dificultades, para volver al control centralizado
+C. La autonomía es un valor absoluto, por lo que su ampliación se justifica aunque no mejore el servicio
+D. La autonomía es un valor instrumental y su fortalecimiento debe traducirse en mejor servicio público
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…fortalecer la autonomía de las escuelas, ya que no se trata de un principio abstracto o un valor absoluto, sino de un valor instrumental, lo que significa que el fortalecimiento de la autonomía escolar debe traducirse en una mejora del servicio público de educación…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 22; página PDF 20.
+
+55. [LIDEI 2022 – OEI · Capítulo 2] Un director dice aplicar un liderazgo democrático, pero decide solo, no escucha y genera desconfianza. ¿Qué análisis se fundamenta en el capítulo?
+A. Es liderazgo democrático, pues basta con que el director haya sido elegido por la comunidad educativa
+B. No hay liderazgo democrático sin participación, confianza, respeto y capacidad de ser escuchados
+C. Es liderazgo democrático, siempre que las decisiones se comuniquen por escrito a todos
+D. No es democrático solo porque no se votan todas las decisiones en asamblea general
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “El liderazgo democrático se traduce, por tanto, en la participación de todos, en la motivación de los actores escolares, en la confianza que se establece entre ellos, en el respeto a las personas y en la capacidad de ser escuchados en un clima de aprendizaje mutuo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+56. [LIDEI 2022 – OEI · Capítulo 2] Un sistema cambia la normativa de dirección escolar en cada gestión de gobierno, sin considerar la experiencia acumulada. ¿Qué análisis se apoya en Bolívar (2018)?
+A. La dirección queda sometida a vaivenes políticos, al margen de la experiencia y la literatura más sólida
+B. Es positivo, pues los cambios frecuentes garantizan la actualización permanente de la dirección
+C. Es irrelevante, ya que la normativa no influye en el ejercicio cotidiano de la dirección escolar en los centros
+D. La dirección se fortalece con cada cambio, al obligar a los directores a adaptarse rápidamente
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Como refiere Bolívar (2018), en un contexto de regulación burocrática, el ejercicio de la dirección escolar se ha visto fuertemente sometido a las vicisitudes de los cambios y orientaciones políticas, muchas veces al margen de las experiencias y la literatura internacional más potente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+57. [LIDEI 2022 – OEI · Capítulo 2] Una propuesta de reforma concentra todas las decisiones en un director unipersonal y promueve la competencia entre escuelas. ¿Qué análisis se fundamenta en Batista y Pereyra (2020)?
+A. Expresa matices del proyecto neoliberal, en tensión con el proyecto democrático-participativo
+B. Expresa plenamente el proyecto democrático-participativo, centrado en la justicia social
+C. Es neutra, pues la concentración de decisiones no se vincula con ningún proyecto político determinado
+D. Fortalece la participación de la comunidad, al reducir el número de instancias decisorias
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…con el proyecto político neoliberal, en sus diversos matices, de carácter privatista del bien público. Tales matices se manifiestan a nivel de la lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales (Batista y Pereyra, 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+58. [LIDEI 2022 – OEI · Capítulo 2] En una Unidad Educativa los docentes trabajan de forma aislada y reservan sus prácticas, y el director no logra impulsar mejoras pedagógicas. ¿Qué análisis se apoya en Bolívar (2018)?
+A. El director debe asumir solo la mejora pedagógica, sin intentar cambiar la cultura organizativa
+B. La reserva de las prácticas protege la autonomía docente y favorece el liderazgo pedagógico del director
+C. El problema es solo de infraestructura, pues faltan espacios físicos para reuniones del profesorado
+D. El individualismo y la privacidad docente impiden el liderazgo pedagógico; debe rediseñarse la cultura
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Esto significa no solo reforzar el liderazgo distribuido, inclusivo y pedagógico, sino, también, rediseñar la cultura organizativa de las escuelas y organización interna del ejercicio profesional docente, prevaleciendo un individualismo y privacidad que impide un liderazgo pedagógico (Bolívar, 2018).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+59. [LIDEI 2022 – OEI · Capítulo 2] Una escuela entiende la gestión solo como administración de recursos financieros y trámites. ¿Qué crítica se fundamenta en el modelo portugués?
+A. Es la concepción más adecuada, pues la gestión escolar se limita estrictamente a las cuestiones administrativas y financieras
+B. La gestión debe limitarse a lo pedagógico, eliminando por completo las cuestiones administrativas
+C. La gestión y el liderazgo no solo integran cuestiones administrativas y financieras, sino institucionales y pedagógicas
+D. Es adecuada, siempre que la dirección delegue las cuestiones pedagógicas en la inspección externa
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Este concepto de liderazgo es esencial para la acción de los actores escolares a nivel institucional, curricular y pedagógico, porque la gestión y el liderazgo no solo integran cuestiones administrativas y financieras.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+60. [LIDEI 2022 – OEI · Capítulo 2] Una política de dirección exige a los directores dedicarse solo a tareas administrativas, sin funciones pedagógicas. ¿Qué crítica se apoya en el preámbulo de la LOMLOE citado en el capítulo?
+A. Desconoce que la dirección debe equilibrar tareas administrativas y pedagógicas con enfoque colaborativo
+B. Es coherente con la LOMLOE, que reserva el liderazgo pedagógico a la inspección educativa
+C. Es coherente con la LOMLOE, que limita la dirección a la gestión administrativa y de recursos
+D. Desconoce solo la gestión de recursos, pero respeta el resto del modelo de dirección profesional que propone
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…un modelo de dirección profesional […] que ha de conjugar la responsabilidad institucional de la gestión del centro como organización, la gestión administrativa, la gestión de recursos y el liderazgo y dinamización pedagógica, desde un enfoque colaborativo, y la lógica de buscar el equilibrio entre tareas administrativas y pedagógicas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+61. [LIDEI 2022 – OEI · Capítulo 2] Al diseñar la participación en la gestión de una escuela con base en el Decreto-Lei 75/2008, ¿qué interesados deben participar en el proceso educativo?
+A. Las autoridades centrales y los inspectores, que representan a la comunidad educativa
+B. Solo el director y los docentes, por ser los únicos responsables técnicos y pedagógicos del proceso educativo
+C. Docentes y familias, con exclusión del alumnado y de las autoridades locales de la comunidad
+D. Docentes, alumnado, familias, autoridades locales y entidades económicas, sociales, culturales y científicas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…asegurar la participación de todos los interesados en el proceso educativo –los docentes, el alumnado, las familias, las autoridades locales y las entidades representativas de las actividades e instituciones económicas, sociales, culturales y científicas–…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+62. [LIDEI 2022 – OEI · Capítulo 2] Al constituir los órganos de gestión y administración de una escuela, ¿qué exige uno de los principios generales del modelo de gestión democrática portugués?
+A. Delegar la conformación de los órganos en el director, según su criterio personal de confianza
+B. Respetar la democracia y la representatividad, garantizadas por la elección democrática de representantes
+C. Integrar los órganos solo con docentes de mayor antigüedad, sin elección de representantes
+D. Designar a todos los miembros por la autoridad central, para asegurar la neutralidad política de los órganos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…asegurar el pleno respeto de las normas de la democracia y la representatividad de los órganos de gestión y administración de las escuelas, garantizados por la elección democrática de los representantes de la comunidad educativa (Decreto-Lei n.º. 75/2008, de 22 de abril).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+63. [LIDEI 2022 – OEI · Capítulo 2] Una escuela portuguesa planifica su relación con el entorno. ¿Qué principio general del modelo de gestión democrática debe aplicar?
+A. Integrar las escuelas en sus comunidades y vincular la educación con actividades económicas y culturales
+B. Limitar la relación con el entorno a la recaudación de fondos de las empresas de la comunidad
+C. Vincular la escuela solo con otras escuelas, sin relación con actividades económicas, sociales ni científicas
+D. Aislar la escuela del entorno para proteger su autonomía pedagógica frente a influencias externas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos objetivos están relacionados con los siguientes principios generales del modelo de gestión democrática: integrar las escuelas en las comunidades a las que sirven y establecer la interconexión de la educación y las actividades económicas, sociales, culturales y científicas…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 23; página PDF 21.
+
+64. [LIDEI 2022 – OEI · Capítulo 2] Al aplicar el indicador de comunicación externa de la evaluación portuguesa, ¿qué debe asegurar la escuela al informar a las autoridades competentes?
+A. Envío de datos favorables, omitiendo siempre los resultados negativos
+B. Comunicación de datos solo cuando la autoridad lo sancione
+C. Rigor en la comunicación de datos a las autoridades competentes
+D. Confidencialidad total de los datos frente a las autoridades
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “5.2. Rigor en la comunicación de datos a las autoridades competentes.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+65. [LIDEI 2022 – OEI · Capítulo 2] En la gestión de recursos humanos, ¿qué práctica de formación continua valora el referente de la evaluación externa portuguesa?
+A. La formación continua impuesta por la autoridad central, igual para todas las escuelas del país
+B. La formación continua solo para el director, excluyendo al resto de los profesionales del centro
+C. La formación continua por iniciativa de la escuela, adecuada a sus necesidades y prioridades educativas
+D. La formación continua voluntaria de cada docente, sin relación alguna con las necesidades detectadas en la escuela
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “3.4. Prácticas de formación continua de los profesionales, por iniciativa de la escuela, adecuadas a las necesidades detectadas y a sus prioridades educativas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+66. [LIDEI 2022 – OEI · Capítulo 2] Según la LOMLOE (2020), que modifica la LOE (2006), ¿cómo debe distribuirse el gobierno de los centros en España?
+A. Trasladando todas las competencias al Consejo Escolar y suprimiendo la figura del director del centro
+B. Asignando las competencias a la inspección educativa, con funciones solo ejecutivas para la dirección
+C. Concentrando todas las competencias en la dirección y reduciendo el Consejo Escolar a un órgano meramente consultivo
+D. Restableciendo el equilibrio de competencias entre la dirección y el Consejo Escolar, con sentido participativo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La nueva ley educativa LOMLOE (2020), que modifica la Ley Orgánica de Educación LOE (2006) de España, reestablece el equilibrio en la atribución de competencias entre dirección y Consejo Escolar en el gobierno de los centros, apelando a un sentido más democrático-participativo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+67. [LIDEI 2022 – OEI · Capítulo 2] Según el artículo 131 de la LOE (2006, texto consolidado), ¿qué dimensión de la dirección vuelve a subrayarse y con qué principio se vincula?
+A. La dimensión de representación institucional, vinculada al principio de dependencia de la inspección
+B. La dimensión de liderazgo y dinamización pedagógica, vinculada al principio de mayor autonomía de los centros
+C. La dimensión disciplinaria sobre el alumnado, vinculada al principio de autoridad del profesorado
+D. La dimensión de control administrativo y financiero, vinculada al principio de centralización de todas las decisiones
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “El artículo 131 (LOE, 2006, texto consolidado) sobre el equipo directivo, vuelve a subrayar la dimensión de liderazgo y dinamización pedagógica de la dirección de los centros que supone un nuevo modelo de dirección y que recoge el principio básico de mayor autonomía de los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+68. [LIDEI 2022 – OEI · Capítulo 2] En España, ¿qué reconoce la normativa adoptada en el contexto de una progresiva descentralización, según Eurydice (2007)?
+A. El derecho de las Comunidades Autónomas a regular la autonomía de sus centros, dentro de un marco básico
+B. El derecho del Estado a regular directamente cada centro, sin intervención de las Comunidades
+C. El derecho de las familias a elegir el currículo de cada centro, sin regulación autonómica
+D. El derecho de cada centro a dictar sus propias leyes educativas, sin ningún marco general básico del Estado
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…reconociendo el derecho de las Comunidades Autónomas a regular la autonomía de sus centros educativos, al tiempo que se establece un marco general básico que dio lugar a una estructura relativamente homogénea a nivel nacional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 26; página PDF 24.
+
+69. [LIDEI 2022 – OEI · Capítulo 2] Al revisar sus prácticas, un equipo directivo chileno toma el Marco para la Buena Dirección como referencia. ¿Qué carácter tiene este documento según el capítulo?
+A. Es un reglamento sancionatorio que fija las penas por incumplimiento de las funciones directivas asignadas
+B. Es una ley orgánica que reemplaza a la Ley General de Educación en materia de dirección escolar
+C. Es el referente conceptual para proyectar una política que consolide el rol de los directivos escolares
+D. Es un manual de procedimientos administrativos para la rendición de cuentas financiera anual
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En efecto, el Marco para la Buena Dirección y el Liderazgo Escolar constituye el referente conceptual a partir del cual se puede proyectar una política educativa que consolide el rol de los directivos escolares en el país…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+70. [LIDEI 2022 – OEI · Capítulo 2] Al diseñar estándares de liderazgo para directores, ¿qué principio ampliamente reconocido destaca el capítulo, a propósito de la BCPVPA (2019)?
+A. La adopción literal de estándares extranjeros, sin adaptación a las condiciones locales
+B. La aplicación uniforme de los mismos estándares en todos los contextos, sin diferenciación
+C. La exclusión de los contextos políticos y organizativos al definir las acciones de liderazgo escolar
+D. La diferenciación flexible del liderazgo según los contextos locales en que trabajan los líderes
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es ampliamente reconocido el principio de la diferenciación flexible del liderazgo referido a los contextos locales, ya que los contextos políticos y organizativos en los que trabajan los líderes influyen de forma significativa en la naturaleza de acciones de liderazgo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+71. [LIDEI 2022 – OEI · Capítulo 2] En una Unidad Educativa hay tensiones entre el director y el coordinador pedagógico porque no está claro quién conduce el apoyo a los docentes. ¿Qué orientación ofrece el caso chileno del Jefe Técnico?
+A. Trasladar el apoyo a los docentes a la supervisión externa, liberando al equipo directivo de esa tarea
+B. Avanzar en visiones compartidas de liderazgo y definir mejor el rol del director y su relación con el equipo
+C. Suprimir el cargo del coordinador pedagógico para que el director concentre todo el apoyo pedagógico a los docentes
+D. Dejar que cada uno actúe por separado, sin coordinación, para evitar nuevas tensiones en el equipo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Esta figura requiere avanzar en visiones más compartidas de liderazgo y una mayor definición respecto del rol que cabe al director en particular, y la relación que debe establecer en esta materia con otros miembros del equipo directivo” (Vaillant, 2015, pp. 12-13).
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+72. [LIDEI 2022 – OEI · Capítulo 2] En una Unidad Educativa con estudiantes de diversos orígenes socioculturales surgen episodios de exclusión. ¿Qué respuesta se fundamenta en la dimensión de convivencia del Marco chileno?
+A. Promover interacciones positivas que aseguren la aceptación de los otros, sin importar su origen
+B. Dejar el problema a las familias, pues la convivencia no es responsabilidad del equipo directivo del centro
+C. Separar a los estudiantes por origen sociocultural para reducir los conflictos de convivencia
+D. Aplicar solo sanciones, sin acciones para construir relaciones de confianza en la comunidad
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “d) Gestionando la convivencia y la participación de la comunidad escolar. Los equipos directivos promueven activamente una convivencia escolar y un clima basado en relaciones de confianza, para lo cual impulsan interacciones positivas que aseguren la aceptación de los otros, independientemente de sus características socioculturales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+73. [LIDEI 2022 – OEI · Capítulo 2] Un nuevo equipo directivo hereda una escuela sin rumbo claro y con objetivos dispersos. ¿Qué dimensión del Marco chileno debe abordar primero?
+A. Aplicar evaluaciones externas a los docentes para identificar a los responsables de la situación
+B. Mantener los objetivos dispersos hasta recibir instrucciones del nivel central del sistema
+C. Construir o actualizar una visión estratégica compartida sobre el establecimiento y sus objetivos
+D. Gestionar la infraestructura y el mobiliario del establecimiento antes de definir cualquier rumbo institucional
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “a) Construyendo e implementando una visión estratégica compartida. Los directivos lideran la construcción o actualización de una visión estratégica sobre el establecimiento y sus objetivos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+74. [LIDEI 2022 – OEI · Capítulo 2] La evaluación de una escuela revela que la visión del centro no es compartida por los docentes ni las familias. ¿Qué indicador del campo “Visión y estrategia” debe trabajar el director?
+A. Lograr una visión compartida por los diferentes actores educativos y movilizar su acción
+B. Eliminar la visión del proyecto educativo para evitar desacuerdos entre los actores
+C. Adoptar la visión de otra escuela con mejores resultados, sin consultar a la comunidad
+D. Redactar una visión nueva en la dirección y notificarla por escrito a los demás actores educativos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “1.2. Visión compartida por los diferentes actores educativos y movilización de su acción.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+75. [LIDEI 2022 – OEI · Capítulo 2] En una escuela, cada docente aplica criterios distintos para las medidas disciplinarias y las familias se quejan de arbitrariedad. ¿Qué indicador de la evaluación externa portuguesa orienta la solución?
+A. La aplicación de sanciones más severas, decididas por cada docente según su propio criterio personal
+B. La supresión de toda medida disciplinaria para evitar quejas de las familias del alumnado
+C. La delegación de las medidas disciplinarias en las familias, sin intervención de la escuela
+D. La existencia, coherencia y difusión de criterios para aplicar medidas disciplinarias al alumnado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “1.3. Existencia, coherencia y difusión en la comunidad educativa de criterios en la aplicación de medidas disciplinarias al alumnado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+76. [LIDEI 2022 – OEI · Capítulo 2] Al asignar recursos materiales, un director constata que una compra no tuvo el efecto esperado en el aprendizaje. ¿Qué indicador de la evaluación externa portuguesa orienta su respuesta?
+A. Las opciones se controlan y se ajustan cuando es necesario
+B. Las opciones se mantienen sin cambios hasta el final del ciclo
+C. Las opciones se ocultan para no afectar la imagen del centro
+D. Las opciones se delegan a proveedores sin control
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “4. Organización y asignación de recursos materiales. […] 4.3. Las opciones se controlan y se ajustan cuando es necesario.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+77. [LIDEI 2022 – OEI · Capítulo 2] Una escuela registra episodios de discriminación y estudiantes que se sienten rechazados. ¿Qué indicador del entorno escolar de la evaluación portuguesa debe priorizar el director?
+A. Promover un entorno escolar selectivo, competitivo y de alta exigencia académica
+B. Promover un entorno escolar uniforme, sin atención a las diferencias
+C. Promover un entorno escolar silencioso, disciplinado y sin interacción
+D. Promover un entorno escolar socialmente acogedor, inclusivo y amigable
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “2.3. Promover un entorno escolar socialmente acogedor, inclusivo y amigable.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+78. [LIDEI 2022 – OEI · Capítulo 2] Un director busca que los docentes asuman iniciativas de mejora sin depender siempre de él. ¿Qué orientación de Bolívar (2013) fundamenta su propuesta?
+A. Concentrar la iniciativa en la dirección para asegurar la coherencia de todas las acciones de mejora escolar
+B. Delegar las iniciativas en las familias, para liberar a docentes y directivos de esa responsabilidad
+C. Distribuir horizontalmente la iniciativa y la influencia para hacer de la escuela un proyecto conjunto
+D. Exigir a los docentes que presenten iniciativas solo cuando la dirección lo solicite formalmente
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En esta nueva perspectiva de liderazgo escolar, la iniciativa e influencia están distribuidas horizontalmente entre todos los miembros de la escuela, generando el liderazgo múltiple de los miembros y grupos y tendiendo a hacer de la escuela un proyecto conjunto de acción…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+79. [LIDEI 2022 – OEI · Capítulo 2] Las familias se quejan de que no reciben información sobre la escuela y de que los avisos no se entienden. ¿Qué indicadores de comunicación de la evaluación portuguesa orientan la solución?
+A. La publicación de toda la información sin adaptación, aunque no resulte comprensible para todos
+B. La reducción de la información a comunicados oficiales breves dirigidos solo a las autoridades
+C. La adecuación de la información al público y el acceso de la comunidad a la información de la escuela
+D. La difusión de la información únicamente cuando las familias la soliciten por escrito al director del centro
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “5.3. Adecuación de la información al público objetivo. 5.4. Acceso a la información sobre la escuela por parte de la comunidad educativa.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+80. [LIDEI 2022 – OEI · Capítulo 2] Ningún docente calificado quiere postularse a la dirección de una escuela por considerar el cargo poco atractivo. ¿Qué orientación del preámbulo de la LOMLOE resulta pertinente?
+A. La función directiva debe reducirse a tareas administrativas para que resulte menos exigente
+B. La dirección debe asignarse de oficio al docente de mayor antigüedad, sin considerar su motivación ni su cualificación
+C. La dirección debe confiarse a gestores externos, ajenos al profesorado del centro educativo
+D. La función directiva ha de ser estimulante y motivadora para que los docentes más cualificados la asuman
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Constituye una prioridad del sistema educativo contar con una dirección de calidad en los centros. La función directiva ha de ser estimulante y motivadora, de modo que los docentes más cualificados se animen a asumir esta responsabilidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+81. [LIDEI 2022 – OEI · Capítulo 2] Para mejorar el aprendizaje de los estudiantes, ¿qué decisión de un director se apoya en lo que el capítulo atribuye al liderazgo escolar?
+A. Priorizar la inversión en infraestructura y postergar la formación docente
+B. Fomentar el desarrollo profesional del profesorado y la participación de la comunidad
+C. Aumentar el control disciplinario del alumnado y la frecuencia de los exámenes de control
+D. Concentrar la planificación en la dirección y reducir las reuniones docentes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Sin embargo, la mejora del aprendizaje de los estudiantes es algo que se consigue a través del liderazgo escolar que, a su vez, fomenta el desarrollo profesional del profesorado y la participación de la comunidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+82. [LIDEI 2022 – OEI · Capítulo 2] Al planificar el aprendizaje a lo largo de la vida en su centro, ¿qué decisión es coherente con el enfoque de la OCDE (2013) recogido por Vaillant?
+A. Adoptar un enfoque centrado en el estudiante y en aprendizajes dentro y fuera de la escuela
+B. Excluir la mediación docente en los aprendizajes que ocurren fuera de la escuela
+C. Centrar la planificación en los contenidos del currículo, sin considerar al estudiante
+D. Limitar la planificación a los aprendizajes formales que ocurren dentro del aula escolar formal
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…los sistemas educativos deben resignificar los sistemas de aprendizaje a lo largo de toda la vida a partir de un enfoque centrado en el estudiante y en los aprendizajes que ocurren tanto dentro como fuera de la escuela, con la mediación de los directores y de los docentes (OCDE, 2013).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+83. [LIDEI 2022 – OEI · Capítulo 2] Un director con amplia formación académica debe decidir cómo usar esos saberes en su gestión. ¿Qué decisión se fundamenta en el Marco chileno?
+A. Prescindir de los conocimientos formales y guiarse solo por la intuición en cada situación
+B. Reservar los conocimientos para la formación de otros directores, sin aplicarlos en su propio centro
+C. Aplicar los conocimientos tal como los aprendió, sin considerar la experiencia profesional
+D. Conectar los conocimientos adquiridos con sus prácticas, complementándolos con la experiencia
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En términos de los conocimientos profesionales, el Marco para la Buena Dirección y el Liderazgo Escolar remite al conjunto de saberes y conocimientos adquiridos en procesos formales de educación y complementados por la experiencia profesional. Los directivos deben conectar los conocimientos adquiridos con sus prácticas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+84. [LIDEI 2022 – OEI · Capítulo 2] Ante situaciones imprevistas frecuentes en su Unidad Educativa, ¿qué decisión se apoya en el concepto de práctica del Marco chileno?
+A. Esperar instrucciones de la autoridad antes de responder a cualquier situación imprevista
+B. Estar alerta ante la contingencia y anticiparse, vinculando la práctica con el conocimiento adquirido
+C. Aplicar siempre la misma respuesta, sin considerar las particularidades de cada situación
+D. Reaccionar solo cuando el problema se haya agravado, para no actuar sobre supuestos inciertos o poco fundados
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “El concepto de práctica implica estar alerta ante la contingencia y obliga a la anticipación. Lo que destaca a los líderes escolares efectivos es la capacidad de vincular y respaldar su práctica cotidiana con el conocimiento y aprendizaje adquirido (MINEDUC, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+85. [LIDEI 2022 – OEI · Capítulo 2] Al organizar los grupos y clases del nuevo año, ¿qué decisión se alinea con los indicadores de gestión de la evaluación externa portuguesa?
+A. Formar los grupos solo por orden de inscripción, sin criterios pedagógicos ni organizativos de ningún tipo
+B. Formar los grupos según la preferencia de los docentes, sin considerar al alumnado
+C. Mantener los mismos grupos todos los años, sin posibilidad de ajustes ni de flexibilidad
+D. Aplicar criterios pedagógicos y flexibilidad en la constitución y gestión de grupos y clases
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “1.1. Existencia de criterios pedagógicos en la constitución y gestión de grupos y clases. 1.2. Flexibilidad en la gestión del trabajo con grupos y clases.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+86. [LIDEI 2022 – OEI · Capítulo 2] Al asignar a los docentes a los distintos cursos, ¿qué criterio de la evaluación externa portuguesa debe orientar la decisión del director?
+A. Distribuir a los docentes según su antigüedad, sin considerar las necesidades del alumnado
+B. Distribuir a los docentes según su preferencia personal, sin intervención de la dirección
+C. Distribuir a los docentes por sorteo, para evitar reclamos sobre los cursos
+D. Distribuir y gestionar los recursos humanos en función de las necesidades del alumnado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Organización, asignación y formación de recursos humanos. 3.1. Distribución y gestión de los recursos humanos en función de las necesidades del alumnado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+87. [LIDEI 2022 – OEI · Capítulo 2] Una escuela recibe propuestas de alianza de instituciones de la comunidad. ¿Qué decisión se ajusta al indicador del campo “Liderazgo” sobre asociaciones?
+A. Rechazar toda alianza externa para preservar la autonomía de la escuela
+B. Establecer asociaciones que movilicen recursos y promuevan la calidad del aprendizaje
+C. Establecer alianzas solo con fines publicitarios para la imagen escolar
+D. Aceptar todas las alianzas propuestas, aunque no tengan relación alguna con el aprendizaje
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “2.3. Asociaciones con otras instituciones y agentes de la comunidad que movilicen recursos y promuevan así la calidad del aprendizaje.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+88. [LIDEI 2022 – OEI · Capítulo 2] Una escuela ha puesto en marcha varios proyectos innovadores. ¿Qué decisión complementaria corresponde según los indicadores del campo “Liderazgo”?
+A. Mantener los proyectos indefinidamente, aunque no muestren resultados
+B. Evaluar la eficacia de los proyectos, asociaciones y soluciones implementados
+C. Multiplicar los proyectos sin evaluarlos, para mostrar dinamismo institucional
+D. Suspender los proyectos para evitar sobrecarga de trabajo en el personal
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “2.1. Fomentar el desarrollo de proyectos y soluciones innovadoras. 2.2. Evaluación de la eficacia de los proyectos, asociaciones y soluciones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+89. [LIDEI 2022 – OEI · Capítulo 2] Al definir la estrategia para un liderazgo para el aprendizaje, ¿qué decisión se fundamenta en Bolívar (2010)?
+A. Limitarlo a los jefes de departamento, excluyendo al resto del profesorado del centro
+B. Delegarlo en la inspección educativa, para garantizar su objetividad y su control externo
+C. Ampliarlo de modo distribuido a través del liderazgo del profesorado y de comunidades profesionales
+D. Reservarlo a la figura del director, para asegurar una conducción única y coherente del aprendizaje escolar
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Un liderazgo para el aprendizaje, más allá de la dirección, se tiene que ampliar de modo distribuido a través del liderazgo del profesorado y de las comunidades profesionales de aprendizaje (Bolívar, 2010).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+90. [LIDEI 2022 – OEI · Capítulo 2] Al impulsar planes de trabajo, el director debe decidir cómo alinear a la comunidad. ¿Qué orientación del capítulo sobre el nuevo modelo de dirección español respalda su decisión?
+A. Motivar y dinamizar a la comunidad hacia objetivos comunes, para lograr calidad y equidad para todos
+B. Dejar que cada sector de la comunidad defina sus propios objetivos, sin articulación alguna entre ellos
+C. Priorizar la calidad para los mejores estudiantes, aunque se descuide la equidad para el resto
+D. Imponer los objetivos de trabajo y sancionar a quienes no se alineen con ellos de inmediato
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Un papel complejo para los directores y las directoras, que supone contar con personal muy cualificado, capaz de motivar y dinamizar a la comunidad educativa, alineando a la comunidad en la consecución de objetivos de trabajo con objeto de alcanzar la calidad y la equidad en la educación de todo el alumnado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 28; página PDF 26.
+
+91. [LIDEI 2022 – OEI · Capítulo 2] Al planificar estratégicamente un centro educativo, ¿con qué dimensiones se relacionan esencialmente sus dinámicas, según el capítulo?
+A. Las dimensiones política, religiosa, militar y comercial del entorno
+B. Las dimensiones jurídica, sindical, electoral y presupuestaria
+C. Las dimensiones administrativa, financiera, curricular y pedagógica
+D. Las dimensiones arquitectónica, deportiva, artística y publicitaria
+Respuesta correcta: C
+Explicación: “Los centros educativos son, por tanto, espacios de aprendizaje que integran dinámicas muy variadas y que están relacionadas esencialmente con las dimensiones administrativa, financiera, curricular y pedagógica.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+92. [LIDEI 2022 – OEI · Capítulo 2] Al elaborar la estrategia de gestión, ¿de qué idea parte el Marco para la Buena Dirección respecto de la naturaleza de las escuelas?
+A. De que las escuelas son unidades administrativas sin identidad
+B. De que las escuelas son organizaciones simples y estables en el tiempo
+C. De que las escuelas son organizaciones complejas en constante cambio
+D. De que las escuelas son empresas que compiten por la matrícula escolar
+Respuesta correcta: C
+Explicación: “…tiene como punto de partida la idea de que las escuelas son organizaciones complejas que se encuentran en constante cambio. Con ello, surgen nuevos desafíos para los directores y equipos directivos…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 20; página PDF 18.
+
+93. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué principios rectores orientan el Marco para la Buena Dirección y el Liderazgo Escolar de Chile?
+A. Uniformidad de prácticas, reducción del rol directivo y delegación del liderazgo en la Superintendencia
+B. Autonomía financiera plena, selección de estudiantes y concentración del liderazgo en el sostenedor
+C. Control central de las escuelas, evaluación punitiva de directores y competencia abierta entre establecimientos
+D. Liderazgo como factor de mejora, consolidación del rol directivo y guía para un amplio concepto de liderazgo
+Respuesta correcta: D
+Explicación: “Este documento marco tiene los siguientes principios rectores: capacidad de liderazgo como un factor significativo en la mejora continua de la escuela; una política educativa que consolide el rol directivo […]; una guía para desarrollar un amplio concepto de liderazgo en los establecimientos educacionales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 21; página PDF 19.
+
+94. [LIDEI 2022 – OEI · Capítulo 2] Para concretar el proyecto educativo y las metas institucionales, ¿qué exige la dimensión “Desarrollando y gestionando el establecimiento escolar” del Marco chileno?
+A. Delegar la gestión del establecimiento en el sostenedor, liberando al equipo de esa función
+B. Priorizar la imagen institucional sobre la concreción del proyecto educativo del centro
+C. Desarrollar una gestión eficiente y transformar el establecimiento en una organización efectiva
+D. Reducir el proyecto educativo a las metas fijadas externamente por la Agencia de Calidad de la Educación
+Respuesta correcta: C
+Explicación: “e) Desarrollando y gestionando el establecimiento escolar. Los equipos directivos requieren desarrollar una gestión eficiente y transformar su establecimiento en una organización efectiva que facilite la concreción de su proyecto educativo y el logro de las metas institucionales (MINEDUC, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Chile»; página impresa 22; página PDF 20.
+
+95. [LIDEI 2022 – OEI · Capítulo 2] Al revisar los documentos rectores de la escuela, ¿qué exige el referente de la evaluación externa portuguesa?
+A. Uniformidad con los documentos de otras escuelas, sin considerar el contexto
+B. Confidencialidad de los documentos, que solo deben conocer los directivos del centro
+C. Claridad y coherencia entre los documentos y en los objetivos, metas y estrategias del proyecto
+D. Extensión y gran detalle de los documentos rectores, aunque no exista coherencia alguna entre ellos
+Respuesta correcta: C
+Explicación: “2. Documentos rectores de la escuela. 2.1. Claridad y coherencia entre los documentos rectores de la acción escolar. 2.2. Claridad y coherencia de los objetivos, metas y estrategias definidas en el proyecto educativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+96. [LIDEI 2022 – OEI · Capítulo 2] Al formular la visión estratégica de una escuela, ¿hacia qué debe orientarse según el campo “Visión y estrategia” de la evaluación portuguesa?
+A. Hacia el cumplimiento formal de los trámites exigidos por la administración central
+B. Hacia los resultados en pruebas externas, sin referencia a un perfil de egreso
+C. Hacia el prestigio institucional y la captación de nueva matrícula en toda la zona de influencia
+D. Hacia la calidad del aprendizaje y el perfil del alumno que finaliza la enseñanza obligatoria
+Respuesta correcta: D
+Explicación: “1. Visión estratégica orientada a la calidad del aprendizaje. 1.1. Definición clara de la visión que fundamenta la actuación del centro con vistas a la consecución del perfil del alumno que finaliza la enseñanza obligatoria.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 24; página PDF 22.
+
+97. [LIDEI 2022 – OEI · Capítulo 2] ¿En qué ha influido el modelo de evaluación externa de las escuelas sobre las prácticas de liderazgo y gestión en Portugal?
+A. En la concentración de decisiones en el director y en la supresión progresiva de los liderazgos intermedios
+B. En la consistencia y coherencia, y en la organización de equipos que fortalecen el liderazgo intermedio
+C. En la eliminación de la autoevaluación, sustituida por completo por la evaluación externa
+D. En la reducción de la participación de la comunidad y en el aumento del control centralizado
+Respuesta correcta: B
+Explicación: “Se ha reconocido que el modelo de la evaluación externa de las escuelas ha influido en las prácticas de liderazgo y gestión, especialmente en la promoción de la consistencia y la coherencia y en las formas de organización y gestión de los equipos que promueven y fortalecen el liderazgo intermedio…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Portugal»; página impresa 25; página PDF 23.
+
+98. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué tienen en común, según el capítulo, los casos de Chile, Portugal, Brasil y España en su modelo de gestión y liderazgo?
+A. La concentración de todas las decisiones en el nivel central, sin autonomía alguna para las escuelas
+B. La adopción de un modelo neoliberal de competencia, sin participación de la comunidad
+C. La participación de la comunidad, que interconecta la normativa nacional con la autonomía escolar
+D. La supresión de la normativa nacional, que deja a cada escuela regular su propia gestión
+Respuesta correcta: C
+Explicación: “Los casos mencionados tienen en común la participación de los actores de la comunidad escolar en un modelo de gestión y liderazgo escolar que interconecta las cuestiones normativas a nivel nacional de cada país con la autonomía de las escuelas en la toma de decisiones dirigidas tanto a mejorar el éxito educativo del alumnado como a la propia escuela.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+99. [LIDEI 2022 – OEI · Capítulo 2] Al diseñar un modelo de toma de decisiones, ¿qué conceptos considera el capítulo esenciales para consagrar un liderazgo pedagógico, inclusivo y distribuido?
+A. La jerarquía (Weber) y la productividad escolar medida en pruebas externas
+B. La competencia (OCDE) y la eficiencia del gasto en cada escuela
+C. La participación (Lima, 2018) y la profesionalidad (Bolívar, 2018)
+D. La obediencia (Fayol) y el control administrativo de los docentes
+Respuesta correcta: C
+Explicación: “Los conceptos de participación (Lima, 2018) y profesionalidad (Bolívar, 2018) son, por tanto, esenciales en la asunción de prácticas decisorias que consagren un liderazgo pedagógico, inclusivo y distribuido (OEI, 2020)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.
+
+100. [LIDEI 2022 – OEI · Capítulo 2] Según Eurydice (2007), ¿qué principio se acepta actualmente en Europa sobre la autonomía escolar y con qué tendencia se acompaña?
+A. Que las escuelas sean plenamente autónomas, sin ningún tipo de modelo de responsabilidad
+B. Que la autonomía se limite a las escuelas privadas, con control central sobre las públicas
+C. Que las escuelas carezcan de autonomía, con una tendencia creciente hacia la centralización total del sistema
+D. Que las escuelas sean autónomas al menos en algunas áreas, con modelos crecientes de responsabilidad
+Respuesta correcta: D
+Explicación: “Por eso, como revela a Eurydice (2007) para la Europa, actualmente se acepta el principio de que las escuelas deben ser autónomas al menos en algunas áreas de su gestión, con una tendencia creciente hacia el desarrollo de modelos de responsabilidad para las escuelas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar – apartado «Brasil y España»; página impresa 27; página PDF 25.

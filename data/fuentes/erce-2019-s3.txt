@@ -1,0 +1,995 @@
+# Fuente: erce-2019-s3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Sección evaluado: 3. Agenda 2030
+# Páginas: impresas 23 a 25 (PDF 23 a 25)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio de la sección «3. Agenda 2030» del documento Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Alcance
+# Sección 3 completa: Agenda 2030 y ODS 4, monitoreo de la meta 4.1, Nivel Mínimo de Competencia (MPL), indicador 4.1.1 (nota al pie 24), alineación de los niveles del ERCE 2019 con el MPL y estado de los indicadores 4.1.1a y 4.1.1b por sexo. La página 23 contiene solo el título de la sección; los gráficos 21 a 24 no rotulan valores por país, por lo que solo se usan las cifras citadas en el texto
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (23–25)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 46 de contenido textual · 54 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede de la sección 3 del Resumen ejecutivo del ERCE 2019 (págs. 23 a 25).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: erce-2019-s3
+
+1. [ERCE 2019 – UNESCO · Sección 3] ¿En qué año se comprometieron los Estados miembros de las Naciones Unidas con la Agenda 2030 para el Desarrollo Sostenible?
+A. Hacia el 2030
+B. En el año 2015
+C. A fines de 2013
+D. Durante el 2019
+Respuesta correcta: B
+Explicación: “En 2015, los Estados miembros de las Naciones Unidas se comprometieron a monitorear y cumplir metas ambiciosas y necesarias para el desarrollo de nuestra sociedad…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+2. [ERCE 2019 – UNESCO · Sección 3] ¿Cuántos Objetivos de Desarrollo Sostenible componen la Agenda 2030?
+A. 169 objetivos
+B. 17 objetivos
+C. 15 objetivos
+D. 4 objetivos
+Respuesta correcta: B
+Explicación: “Este programa consta de 17 Objetivos de Desarrollo Sostenible (ODS), de los cuales el número 4 propone…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+3. [ERCE 2019 – UNESCO · Sección 3] Según el informe, ¿qué propone el ODS 4?
+A. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+B. Garantizar una educación primaria gratuita y obligatoria y promover la alfabetización de la población adulta
+C. Garantizar la evaluación estandarizada de los aprendizajes y promover la competencia entre sistemas escolares de cada región
+D. Garantizar la cobertura universal de la educación secundaria y promover la formación técnica para el empleo
+Respuesta correcta: A
+Explicación: “…de los cuales el número 4 propone ‘garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+4. [ERCE 2019 – UNESCO · Sección 3] ¿Bajo qué lema se presenta el programa denominado Agenda 2030 para el Desarrollo Sostenible?
+A. “Del Estado, por el Estado y para el Estado”
+B. “Aprender más, aprender mejor, aprender juntos”
+C. “Educación para todos, sin exclusiones”
+D. “De la gente, por la gente y para la gente”
+Respuesta correcta: D
+Explicación: “…bajo un programa ‘de la gente, por la gente y para la gente’ que se ha denominado Agenda 2030 para el Desarrollo Sostenible.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+5. [ERCE 2019 – UNESCO · Sección 3] ¿Bajo el liderazgo de qué organismo trabaja la comunidad internacional para establecer el Nivel Mínimo de Competencia?
+A. Bajo el liderazgo del UIS
+B. Bajo el liderazgo del LLECE
+C. Bajo el liderazgo de la OEI
+D. Bajo la tutela del BID
+Respuesta correcta: A
+Explicación: “Para el monitoreo de la meta 4.1, la comunidad internacional, bajo el liderazgo del UIS, viene trabajando para establecer un Nivel Mínimo de Competencia (MPL, por sus siglas en inglés)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+6. [ERCE 2019 – UNESCO · Sección 3] ¿A qué corresponde la sigla MPL utilizada en la sección?
+A. Al Marco de Política del LLECE, por sus siglas en inglés regional
+B. Al Nivel Mínimo de Competencia, por sus siglas en inglés
+C. Al Modelo de Progresión Lectora de los grados 3° y 6°
+D. Al Máximo Puntaje Logrado en cada prueba del estudio
+Respuesta correcta: B
+Explicación: “…viene trabajando para establecer un Nivel Mínimo de Competencia (MPL, por sus siglas en inglés)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+7. [ERCE 2019 – UNESCO · Sección 3] ¿Qué indicadores se reportan con los estudios del LLECE para 3° y 6° grado, respectivamente?
+A. El 4.1.1a para 3° grado y el 4.1.1b para 6° grado
+B. El 4.1.1c para 3° grado y el 4.6.1 para el 6° grado
+C. El 4.1.1b para 3° grado y el 4.1.1a para 6° grado
+D. El 4.2.1 para 3° grado y el 4.1.1c para 6° grado
+Respuesta correcta: A
+Explicación: “…los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+8. [ERCE 2019 – UNESCO · Sección 3] A nivel regional, ¿qué porcentaje de niñas y de niños logra al menos el nivel mínimo en el indicador 4.1.1a de Lectura?
+A. 52 % de las niñas y 53 % de los niños
+B. 34 % de las niñas y 28 % de niños
+C. 53 % de las niñas y 59 % de los niños de 3°
+D. 59 % de las niñas y 53 % de los niños
+Respuesta correcta: D
+Explicación: “A nivel regional, como se puede ver en el gráfico 21, en el indicador 4.1.1a de Lectura en 3° grado más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+9. [ERCE 2019 – UNESCO · Sección 3] A nivel regional, ¿qué porcentaje de niñas y de niños logra el nivel mínimo en Matemática para el indicador 4.1.1b?
+A. El 34 % de las niñas y el 28 % de los niños
+B. El 17 % de las niñas y el 18 % de los niños
+C. El 52 % de las niñas y el 53 % de niños
+D. El 18 % de las niñas y el 17 % de los niños de 6°
+Respuesta correcta: B
+Explicación: “Finalmente, en el caso de Matemática (Gráfico 24), apenas el 17% de las niñas y el 18% de los niños de la región logran el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+10. [ERCE 2019 – UNESCO · Sección 3] A nivel regional, ¿qué porcentaje de niñas y de niños logra las competencias mínimas en Lectura para el indicador 4.1.1b?
+A. Un 57 % de las niñas y un 51 % de los niños
+B. Solo un 34 % de las niñas y un 28 % de los niños
+C. Un 59 % de las niñas y un 53 % de los niños
+D. Solo un 28 % de las niñas y un 34 % de los niños en total
+Respuesta correcta: B
+Explicación: “En el caso de Lectura (Gráfico 23), a nivel regional solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas en esta área.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+11. [ERCE 2019 – UNESCO · Sección 3] ¿Cómo define la sección el Nivel Mínimo de Competencia (MPL)?
+A. El nivel de desempeño avanzado que solo alcanzan los estudiantes de los países de mejor rendimiento
+B. El puntaje de corte que cada país define libremente para aprobar a sus estudiantes en primaria
+C. El nivel máximo de logro en un dominio que permite clasificar a los países según sus puntajes promedio nacionales
+D. El nivel básico de conocimiento en un dominio que permite comparar evaluaciones nacionales e internacionales
+Respuesta correcta: D
+Explicación: “…un Nivel Mínimo de Competencia (MPL, por sus siglas en inglés), que refiere al nivel básico de conocimiento en un dominio que permite la comparabilidad entre distintas evaluaciones nacionales e internacionales.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+12. [ERCE 2019 – UNESCO · Sección 3] ¿Qué papel cumplen los estudios del LLECE en el monitoreo de la meta 4.1 en América Latina y el Caribe?
+A. Son el principal insumo para reportar los indicadores 4.1.1a y 4.1.1b de forma comparable en la región
+B. Son un insumo secundario que solo complementa las evaluaciones nacionales de cada uno de los países
+C. Son el único insumo para reportar el indicador 4.1.1c sobre la educación secundaria baja de toda la región
+D. Son estudios de carácter cualitativo que no permiten reportar indicadores comparables entre países
+Respuesta correcta: A
+Explicación: “…en el caso de América Latina y el Caribe los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+13. [ERCE 2019 – UNESCO · Sección 3] Según la nota 24, ¿qué mide el indicador 4.1.1?
+A. La proporción de niños y jóvenes que alcanzan al menos el nivel mínimo en lectura y matemáticas, por sexo
+B. La proporción de docentes que alcanzan el nivel mínimo de cualificación en lectura y matemáticas
+C. La tasa de matrícula neta de niños y jóvenes en educación primaria y secundaria baja, por nivel de ingreso
+D. El promedio de años de escolaridad de los niños y jóvenes en primaria y secundaria, por zona geográfica
+Respuesta correcta: A
+Explicación: “[24] Esta meta es monitoreada con el indicador 4.1.1: ‘Proporción de niños y jóvenes: a) en el Grado 2 o 3; b) al final de la educación primaria; y c) al final de la educación secundaria baja, que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+14. [ERCE 2019 – UNESCO · Sección 3] ¿Cómo se determinó qué nivel de desempeño del ERCE 2019 corresponde al MPL?
+A. Seleccionando el nivel alcanzado por la mitad de los estudiantes de la región en cada una de las pruebas
+B. Fijando el puntaje promedio de cada país como nivel mínimo y ajustándolo según su desviación estándar
+C. Revisando los descriptores del TERCE 2013, comparándolos con los del MPL y localizando el nivel que los cubre
+D. Adoptando sin revisión los niveles definidos por cada país en sus evaluaciones nacionales de aprendizaje escolar
+Respuesta correcta: C
+Explicación: “Para esto, se han revisado los descriptores de los niveles de desempeño que fueron establecidos en el ciclo anterior, el TERCE 2013, comparando con los descriptores correspondientes a los MPL y localizando para cada prueba el nivel de desempeño que cubre adecuadamente los descriptores del MPL respectivo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+15. [ERCE 2019 – UNESCO · Sección 3] ¿Qué nivel de desempeño corresponde al MPL en las pruebas de Lectura y Matemática de 3° grado?
+A. El Nivel I
+B. El Nivel II
+C. El Nivel IV
+D. El Nivel III
+Respuesta correcta: B
+Explicación: “De esta manera, se ha determinado que en las pruebas de Lectura y Matemática de 3° grado el Nivel II corresponde al MPL…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+16. [ERCE 2019 – UNESCO · Sección 3] ¿Qué nivel de desempeño se alinea mejor con el MPL en las pruebas de Lectura y Matemática de 6° grado?
+A. El Nivel I de la escala de logro
+B. El Nivel IV de la escala
+C. El Nivel II de desempeño
+D. El Nivel III de desempeño
+Respuesta correcta: D
+Explicación: “…mientras que en las pruebas de Lectura y Matemática de 6° grado el Nivel III es el que mejor se alinea.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+17. [ERCE 2019 – UNESCO · Sección 3] ¿Qué meta de la Agenda 2030 se monitorea con el indicador 4.1.1, según la sección?
+A. La meta 4.2.1
+B. El ODS 4.2
+C. La meta 4.c
+D. La meta 4.1
+Respuesta correcta: D
+Explicación: “Para el monitoreo de la meta 4.1 […]”; “[24] Esta meta es monitoreada con el indicador 4.1.1…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+18. [ERCE 2019 – UNESCO · Sección 3] ¿En qué dos dominios de competencia se mide el indicador 4.1.1, según la nota 24?
+A. Lectura y matemáticas
+B. Lectura y ciencias
+C. Matemáticas y ciencias
+D. Ciencias y escritura
+Respuesta correcta: A
+Explicación: “…que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+19. [ERCE 2019 – UNESCO · Sección 3] ¿Cuál es la finalidad del MPL según la sección?
+A. Sustituir las evaluaciones nacionales por una única prueba internacional común
+B. Clasificar a las escuelas de cada país según su nivel socioeconómico
+C. Permitir la comparabilidad entre evaluaciones nacionales e internacionales
+D. Establecer el puntaje máximo esperado en las pruebas internacionales
+Respuesta correcta: C
+Explicación: “…que refiere al nivel básico de conocimiento en un dominio que permite la comparabilidad entre distintas evaluaciones nacionales e internacionales.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+20. [ERCE 2019 – UNESCO · Sección 3] ¿A qué se comprometieron los Estados miembros de las Naciones Unidas en 2015, según la sección?
+A. A monitorear y cumplir metas ambiciosas y necesarias para el desarrollo de la sociedad
+B. A financiar en partes iguales los sistemas educativos de los países en desarrollo
+C. A aplicar una única prueba internacional de aprendizajes en todos los países miembros de la ONU
+D. A sustituir sus currículos nacionales por un currículo común definido por la UNESCO
+Respuesta correcta: A
+Explicación: “En 2015, los Estados miembros de las Naciones Unidas se comprometieron a monitorear y cumplir metas ambiciosas y necesarias para el desarrollo de nuestra sociedad…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+21. [ERCE 2019 – UNESCO · Sección 3] Un director constata que sus estudiantes de 6° grado se ubican en el Nivel II de Lectura. Para el indicador 4.1.1b, ¿cómo debe interpretar ese resultado?
+A. Superan el nivel mínimo, pues el Nivel II es el más alto de la escala
+B. No es posible saberlo, pues el ERCE no evalúa Lectura en el 6° grado
+C. No alcanzan el nivel mínimo, pues en 6° grado el MPL corresponde al Nivel III
+D. Alcanzan el nivel mínimo, pues en 6° grado el MPL corresponde al Nivel II de logro
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…mientras que en las pruebas de Lectura y Matemática de 6° grado el Nivel III es el que mejor se alinea.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+22. [ERCE 2019 – UNESCO · Sección 3] Una directora observa que sus estudiantes de 3° grado alcanzan el Nivel II en Matemática. Para el indicador 4.1.1a, ¿qué conclusión corresponde?
+A. No alcanzan el mínimo, pues el MPL de 3° grado es el Nivel IV
+B. Alcanzan el nivel mínimo, pues en 3° grado el MPL corresponde al Nivel II
+C. Superan ampliamente el nivel mínimo, que en 3° grado es el Nivel I
+D. No alcanzan el mínimo, pues en 3° grado el MPL corresponde al Nivel III de logro
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “De esta manera, se ha determinado que en las pruebas de Lectura y Matemática de 3° grado el Nivel II corresponde al MPL…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+23. [ERCE 2019 – UNESCO · Sección 3] Un director prepara un informe del avance de su escuela hacia la meta 4.1. ¿Qué desagregación exige el indicador 4.1.1?
+A. Por ingreso de las familias
+B. Por etnia de los estudiantes
+C. Por sexo de los estudiantes
+D. Por zona de residencia
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] […] que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+24. [ERCE 2019 – UNESCO · Sección 3] Una directora de primaria quiere monitorear el logro de sus estudiantes al final de la educación primaria. ¿Qué indicador corresponde?
+A. El subindicador 4.1.1c
+B. El indicador 4.1.1a
+C. El indicador 4.2.1
+D. El indicador 4.1.1b
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] […] b) al final de la educación primaria…”; “…los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+25. [ERCE 2019 – UNESCO · Sección 3] Un director analiza la Lectura de 3° grado por sexo en la región. ¿A qué grupo debe prestar especial atención según los datos del indicador 4.1.1a?
+A. A las niñas, pues el 53 % logra el mínimo frente al 59 % de los niños
+B. A los niños, pues el 53 % logra el mínimo frente al 59 % de las niñas
+C. A las niñas, pues solo el 34 % logra el mínimo frente al 28 % de los niños
+D. A ninguno, pues niñas y niños logran exactamente el mismo porcentaje
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el indicador 4.1.1a de Lectura en 3° grado más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+26. [ERCE 2019 – UNESCO · Sección 3] Un director de una escuela peruana analiza Matemática de 3° grado por sexo. ¿Qué grupo requiere mayor atención según los datos de Perú?
+A. Los niños, con 67 % frente al 74 % de las niñas de Perú
+B. Las niñas, con 76 % frente al 75 % de los niños
+C. Las niñas, con 67 % frente al 74 % de los niños
+D. Los niños, con 45 % frente al 53 % de niñas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En esta área destacan Cuba (76% niñas y 74% niños) y Perú (67% niñas y 74% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+27. [ERCE 2019 – UNESCO · Sección 3] Un equipo directivo quiere incluir Ciencias en su reporte del indicador 4.1.1. ¿Qué debe considerar según la nota 24?
+A. Que el indicador comprende cualquier área que defina cada escuela
+B. Que el indicador comprende lectura, matemáticas y también ciencias
+C. Que el indicador solo comprende lectura y matemáticas, no ciencias
+D. Que el indicador solo comprende ciencias en la educación secundaria
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] […] que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+28. [ERCE 2019 – UNESCO · Sección 3] Una directora de 6° grado se propone que la mitad de sus estudiantes alcance el mínimo en Matemática. ¿Qué referencia regional ofrece la sección?
+A. Que en los mejores países supera a ocho de cada 10 alumnos
+B. Que en los mejores países no llega a más de cuatro de cada 10
+C. Que en todos los países al menos seis de cada 10 alcanzan el mínimo
+D. Que en la región la mitad de los estudiantes ya alcanza el mínimo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+29. [ERCE 2019 – UNESCO · Sección 3] Un director de un país con los resultados más bajos en Lectura de 6° grado define metas realistas. ¿Qué situación describe la sección para esos países?
+A. Más de la mitad de los estudiantes logra el nivel mínimo esperado
+B. Menos de dos de cada 10 estudiantes logran el nivel mínimo
+C. Cuatro de cada 10 estudiantes superan el nivel mínimo
+D. Menos de cinco de cada 100 estudiantes logran la lectura
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre los países con más bajos resultados, menos de dos de cada 10 estudiantes logra alcanzar este nivel de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+30. [ERCE 2019 – UNESCO · Sección 3] Una directora pregunta qué grados cubre el componente a) del indicador 4.1.1 y si el 3° grado del ERCE se ajusta a él. ¿Qué respuesta corresponde?
+A. El componente a) comprende el Grado 1, y el ERCE lo reporta con 3° grado
+B. El componente a) comprende la secundaria baja, y el ERCE no lo reporta
+C. El componente a) comprende el final de primaria, y el ERCE lo reporta con 6° grado
+D. El componente a) comprende el Grado 2 o 3, y el ERCE lo reporta con 3° grado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] […] a) en el Grado 2 o 3…”; “…los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+31. [ERCE 2019 – UNESCO · Sección 3] ¿Qué significa que los resultados del indicador 4.1.1a sean “consistentes con los resultados presentados en la sección 2”?
+A. Que los porcentajes de la sección 2 se reemplazan por nuevos niveles de desempeño
+B. Que la sección 2 y la sección 3 se refieren a ciclos de evaluación distintos
+C. Que destacan los mismos países de alto desempeño, como Brasil, Costa Rica y Perú
+D. Que los países destacados en la sección 2 obtienen aquí los resultados más bajos
+Respuesta correcta: C
+Explicación: “De forma consistente con los resultados presentados en la sección 2, entre los países que destacan se encuentran Brasil (74% niñas y 71% niños), Costa Rica (77% niñas y 72% niños) y Perú (76% niñas y 75% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+32. [ERCE 2019 – UNESCO · Sección 3] ¿Cómo interpreta la sección los resultados del indicador 4.1.1b respecto del 4.1.1a?
+A. Muestran resultados idénticos, pues ambos indicadores utilizan el mismo nivel de desempeño mínimo
+B. Muestran desafíos mucho mayores para que los estudiantes alcancen las competencias mínimas
+C. Muestran avances mucho mayores, pues casi todos los estudiantes alcanzan el nivel mínimo
+D. Muestran desafíos menores, pues en 6° grado se exige un nivel de desempeño más bajo
+Respuesta correcta: B
+Explicación: “En el caso del indicador 4.1.1b, los resultados muestran desafíos mucho mayores para que los países logren que sus estudiantes alcancen las competencias mínimas que se esperan.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+33. [ERCE 2019 – UNESCO · Sección 3] ¿Qué expresa la frase “incluso en los países con mejores resultados, apenas la mitad de los estudiantes logra alcanzar este nivel” en Lectura de 6°?
+A. Que la mitad de los países de la región no participó en la evaluación de 6° grado
+B. Que ni siquiera los mejores países, como Costa Rica y Perú, superan ampliamente la mitad
+C. Que solo los países con peores resultados logran que la mitad alcance el nivel mínimo esperado
+D. Que los mejores países superan a nueve de cada 10 estudiantes sobre el nivel mínimo
+Respuesta correcta: B
+Explicación: “Incluso en los países con mejores resultados, apenas la mitad de los estudiantes logra alcanzar este nivel de desempeño. Este es el caso de Costa Rica (57% niñas y 51% niños) y Perú (53% niñas y 45% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+34. [ERCE 2019 – UNESCO · Sección 3] ¿Qué significa que en Matemática de 3° grado los resultados sean “similares” a los de Lectura?
+A. Que todos los países logran que al menos ocho de cada 10 alcancen el mínimo
+B. Que menos de una quinta parte de niñas y niños alcanza el nivel mínimo esperado
+C. Que las niñas superan a los niños por más de diez puntos porcentuales en la región
+D. Que poco más de la mitad de niñas (52 %) y niños (53 %) alcanza el nivel mínimo
+Respuesta correcta: D
+Explicación: “En el caso de Matemática (Gráfico 22), los resultados son similares, con poco más de la mitad de niñas (52%) y niños (53%) logrando alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+35. [ERCE 2019 – UNESCO · Sección 3] ¿Qué advierte la sección sobre varios países en los indicadores de 3° grado, pese al promedio regional?
+A. Que persisten desafíos importantes, con menos de cuatro de cada 10 estudiantes en el mínimo
+B. Que los desafíos solo persisten en Matemática y no se observan en Lectura de 3° grado
+C. Que todos los países superan el promedio regional en ambas áreas de 3° grado evaluadas por el estudio
+D. Que en varios países el total de estudiantes alcanza el nivel mínimo de competencias
+Respuesta correcta: A
+Explicación: “En ambas áreas monitoreadas todavía persisten desafíos importantes en varios países, donde menos de cuatro de cada 10 estudiantes logra alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+36. [ERCE 2019 – UNESCO · Sección 3] ¿Qué destaca la sección sobre Cuba en el indicador 4.1.1a de Lectura?
+A. Un bajo rendimiento de las niñas, con un 34 % en 3°
+B. Un alto rendimiento de los niños, con un 77 %
+C. Un alto rendimiento de las niñas, con un 74 %
+D. Su exclusión del cálculo por falta de datos
+Respuesta correcta: C
+Explicación: “Adicionalmente, en Cuba se observa un alto rendimiento de las niñas (74%).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+37. [ERCE 2019 – UNESCO · Sección 3] ¿Qué significa que en algunos países “menos de cinco de cada 100 estudiantes” logre el mínimo en Matemática de 6°?
+A. Que su avance en la meta 4.1 está mucho más atrás, con menos del 5 % en el mínimo
+B. Que el 50 % de sus estudiantes alcanza el nivel mínimo de competencias
+C. Que su avance en la meta 4.1 es el más alto, con más del 95 % en el mínimo
+D. Que solo cinco escuelas de cada país participaron en la prueba de Matemática del estudio
+Respuesta correcta: A
+Explicación: “En los casos donde el avance en la meta 4.1 está mucho más atrás, es posible encontrar países donde menos de cinco de cada 100 estudiantes logra el mínimo nivel de competencias en Matemática.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+38. [ERCE 2019 – UNESCO · Sección 3] ¿Cómo interpreta la sección el desempeño de los mejores países en Matemática de 6° grado?
+A. En los mejores casos más de la mitad de los estudiantes alcanza el nivel mínimo esperado en 6°
+B. Ni en los mejores casos la proporción en el mínimo llega a ser mayor a cuatro de cada 10
+C. En los mejores casos la proporción en el mínimo supera a siete de cada 10 estudiantes
+D. En los mejores casos la totalidad de las niñas alcanza el nivel mínimo de competencias
+Respuesta correcta: B
+Explicación: “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10. Este es el caso de México (39% niñas y 37% niños), Perú (39% niñas y 38% niños) y Uruguay (38% de niñas y niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+39. [ERCE 2019 – UNESCO · Sección 3] ¿Qué implica, según la sección, que los estudios del LLECE permitan reportar los indicadores “de forma comparable en la región”?
+A. Que cada país reporta sus indicadores con criterios propios que no pueden contrastarse entre sí
+B. Que los resultados solo sirven para comparar escuelas al interior de un mismo país
+C. Que los resultados de los países pueden contrastarse con un mismo referente de nivel mínimo
+D. Que la región reporta un único promedio sin distinguir los resultados de cada país
+Respuesta correcta: C
+Explicación: “…los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”; “…un Nivel Mínimo de Competencia […] que permite la comparabilidad entre distintas evaluaciones nacionales e internacionales.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+40. [ERCE 2019 – UNESCO · Sección 3] ¿A qué niveles de desempeño hacen referencia los resultados de los indicadores 4.1.1a y 4.1.1b presentados en la sección?
+A. Al Nivel IV en ambos grados de primaria evaluados
+B. Al Nivel II en 3° grado y al Nivel III en 6° grado
+C. Al Nivel I en 3° grado y al Nivel IV en 6° grado
+D. Al Nivel III en 3° grado y al Nivel II en 6° grado de primaria
+Respuesta correcta: B
+Explicación: “En consecuencia, los resultados presentados a continuación respecto del monitoreo de los indicadores 4.1.1a y 4.1.1b hacen referencia a estos niveles de desempeño.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+41. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia el indicador 4.1.1a del indicador 4.1.1b en el contexto del ERCE 2019?
+A. El 4.1.1a se reporta con 3° grado; el 4.1.1b, con 6° grado
+B. El 4.1.1a mide Lectura; el 4.1.1b mide exclusivamente Ciencias
+C. El 4.1.1a mide a las niñas; el 4.1.1b mide solo a los niños
+D. El 4.1.1a se usa con 6° grado; el 4.1.1b, con 3° grado
+Respuesta correcta: A
+Explicación: “…los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+42. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia el patrón por sexo de Lectura de 6° grado del de Matemática de 6° grado a nivel regional?
+A. En Lectura y en Matemática las niñas aventajan a los niños por más de diez puntos porcentuales
+B. En Lectura los niños aventajan (34 % y 28 %); en Matemática las niñas aventajan
+C. En Lectura las niñas aventajan (34 % y 28 %); en Matemática hay casi paridad (17 % y 18 %)
+D. En Lectura hay paridad exacta entre niñas y niños; en Matemática los niños aventajan por 20 puntos
+Respuesta correcta: C
+Explicación: “En el caso de Lectura (Gráfico 23), a nivel regional solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas en esta área. […] apenas el 17% de las niñas y el 18% de los niños de la región logran el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+43. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia el patrón por sexo de Lectura de 3° grado del de Matemática de 3° grado a nivel regional?
+A. En Lectura aventajan las niñas (59 % y 53 %); en Matemática hay casi paridad (52 % y 53 %)
+B. En Lectura aventajan los niños (59 % y 53 %); en Matemática aventajan las niñas (52 % y 53 %)
+C. En Lectura hay casi paridad (52 % y 53 %); en Matemática aventajan las niñas (59 % y 53 %)
+D. En ambas áreas las niñas aventajan a los niños con una diferencia superior a 15 puntos
+Respuesta correcta: A
+Explicación: “…en el indicador 4.1.1a de Lectura en 3° grado más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo de competencias. […] En el caso de Matemática (Gráfico 22), los resultados son similares, con poco más de la mitad de niñas (52%) y niños (53%)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+44. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia el componente b) del componente c) del indicador 4.1.1, según la nota 24?
+A. El b) se refiere a las niñas; el c), a los niños al final de la educación secundaria
+B. El b) se refiere al Grado 2 o 3; el c), al final de la educación primaria de cada país miembro
+C. El b) se refiere a lectura; el c), a matemáticas en todos los grados de la educación
+D. El b) se refiere al final de la educación primaria; el c), al final de la secundaria baja
+Respuesta correcta: D
+Explicación: “[24] […] ‘Proporción de niños y jóvenes: a) en el Grado 2 o 3; b) al final de la educación primaria; y c) al final de la educación secundaria baja…’”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+45. [ERCE 2019 – UNESCO · Sección 3] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE los resultados del indicador 4.1.1b en Matemática?
+A. En los mejores países, más de la mitad de los estudiantes alcanza el nivel mínimo
+B. En algunos países, menos de cinco de cada 100 alcanzan el nivel mínimo esperado
+C. En México, Perú y Uruguay, cerca de cuatro de cada 10 alcanzan el nivel mínimo
+D. En la región, menos de una quinta parte de niñas y niños alcanza el nivel mínimo de competencias
+Respuesta correcta: A
+Explicación: “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+46. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia los resultados de Perú en Lectura y en Matemática de 3° grado por sexo?
+A. En Lectura las niñas aventajan por 20 puntos; en Matemática las niñas aventajan por 10 puntos
+B. En ambas áreas los niños aventajan a las niñas por una diferencia superior a 15 puntos
+C. En Lectura hay casi paridad (76 % y 75 %); en Matemática los niños aventajan (74 % y 67 %)
+D. En Lectura los niños aventajan (76 % y 67 %); en Matemática hay paridad exacta (74 % y 74 %)
+Respuesta correcta: C
+Explicación: “…y Perú (76% niñas y 75% niños). […] En esta área destacan Cuba (76% niñas y 74% niños) y Perú (67% niñas y 74% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+47. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia los resultados de Costa Rica en Lectura entre 3° y 6° grado?
+A. En 3° alcanza 34 % y 28 % en el mínimo; en 6°, sube a 59 % y 53 %
+B. En 3° alcanza 57 % y 51 %; en 6°, sube hasta 77 % y 72 %
+C. En ambos grados alcanza exactamente el 77 % de niñas y el 72 % de niños
+D. En 3° alcanza 77 % y 72 % en el mínimo; en 6°, solo 57 % y 51 %
+Respuesta correcta: D
+Explicación: “…Costa Rica (77% niñas y 72% niños)…” (4.1.1a, Lectura); “Este es el caso de Costa Rica (57% niñas y 51% niños)…” (4.1.1b, Lectura).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+48. [ERCE 2019 – UNESCO · Sección 3] ¿Cuál es la relación jerárquica correcta entre ODS 4, meta 4.1 e indicador 4.1.1 según la sección?
+A. El ODS 4 contiene la meta 4.1, que se monitorea con el indicador 4.1.1
+B. El indicador 4.1.1 abarca el ODS 4, que se mide con la meta 4.1
+C. La meta 4.1 contiene el ODS 4, que se monitorea con el indicador 4.1.1
+D. El ODS 4 y el indicador 4.1.1 son equivalentes y no se relacionan con metas
+Respuesta correcta: A
+Explicación: “Este programa consta de 17 Objetivos de Desarrollo Sostenible (ODS), de los cuales el número 4 propone…”; “Para el monitoreo de la meta 4.1 […]”; “[24] Esta meta es monitoreada con el indicador 4.1.1…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+49. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diferencia el papel del UIS del papel de los estudios del LLECE en el monitoreo de la meta 4.1?
+A. El UIS lidera la definición del MPL; el LLECE es el principal insumo para reportar en la región
+B. Ambos cumplen exactamente el mismo papel y se reemplazan entre sí en cada ciclo del estudio
+C. El LLECE lidera la definición del MPL; el UIS es el principal insumo para reportar en la región de América Latina
+D. El UIS aplica las pruebas en cada país; el LLECE solo financia los estudios en la región
+Respuesta correcta: A
+Explicación: “…la comunidad internacional, bajo el liderazgo del UIS, viene trabajando para establecer un Nivel Mínimo de Competencia […]. […] los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+50. [ERCE 2019 – UNESCO · Sección 3] ¿Qué ciclo del estudio sirvió de base para revisar los descriptores de los niveles de desempeño y alinearlos con el MPL?
+A. El SERCE 2006, primer ciclo del LLECE regional
+B. El PISA 2018, aplicado por la OCDE en la región
+C. El TERCE 2013, ciclo anterior al ERCE 2019
+D. El ERCE 2019, sin referir ciclos previos
+Respuesta correcta: C
+Explicación: “Para esto, se han revisado los descriptores de los niveles de desempeño que fueron establecidos en el ciclo anterior, el TERCE 2013, comparando con los descriptores correspondientes a los MPL…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+51. [ERCE 2019 – UNESCO · Sección 3] Una autoridad afirma que la región va bien encaminada en la meta 4.1 porque más de la mitad de los estudiantes de 3° alcanza el mínimo. ¿Qué análisis crítico se fundamenta en la sección?
+A. Es correcto: la meta 4.1 solo se monitorea con los resultados del 3° grado de primaria
+B. Es incorrecto: en 3° grado menos de una quinta parte alcanza el nivel mínimo esperado
+C. Es correcto: en 6° grado la proporción en el mínimo es todavía mayor que en el 3° grado de primaria
+D. Es parcial: en 6° grado los desafíos son mucho mayores, con proporciones muy inferiores
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso del indicador 4.1.1b, los resultados muestran desafíos mucho mayores para que los países logren que sus estudiantes alcancen las competencias mínimas que se esperan.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+52. [ERCE 2019 – UNESCO · Sección 3] Un analista sostiene que la elección del Nivel II y del Nivel III como MPL fue arbitraria. ¿Qué crítica se apoya en la sección?
+A. Es correcto, pues los niveles se eligieron por sorteo entre los expertos
+B. Se determinó comparando los descriptores de desempeño con los del MPL
+C. Es correcto: cada país eligió libremente el nivel que le convenía
+D. Se determinó con el promedio regional de puntajes de cada una de las pruebas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…comparando con los descriptores correspondientes a los MPL y localizando para cada prueba el nivel de desempeño que cubre adecuadamente los descriptores del MPL respectivo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+53. [ERCE 2019 – UNESCO · Sección 3] Un analista concluye que las brechas por sexo son iguales en todas las áreas y grados. ¿Qué análisis crítico se fundamenta en la sección?
+A. Varían: en Lectura aventajan los niños, mientras en Matemática aventajan las niñas
+B. Es correcto: en todas las áreas y grados los niños aventajan a las niñas
+C. Es correcto: en todas las áreas y grados la diferencia es exactamente de seis puntos
+D. Varían: en Lectura aventajan las niñas, mientras en Matemática hay casi paridad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el indicador 4.1.1a de Lectura en 3° grado […] niñas (59%) y niños (53%) […] niñas (52%) y niños (53%) [Matemática 3°] […] 34% de las niñas y un 28% de los niños [Lectura 6°] […] 17% de las niñas y el 18% de los niños [Matemática 6°].”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+54. [ERCE 2019 – UNESCO · Sección 3] Un funcionario afirma que el bajo logro en Matemática de 6° es un problema solo de los países de peores resultados. ¿Qué crítica se apoya en la sección?
+A. Es erróneo: los peores países ubican a la mayoría de sus estudiantes en el mínimo
+B. Es correcto: en los mejores países más de la mitad supera el nivel mínimo
+C. Es correcto: los mejores países ubican a casi todos sus estudiantes en el mínimo
+D. Es erróneo: incluso en los mejores países no llega a más de cuatro de cada 10
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+55. [ERCE 2019 – UNESCO · Sección 3] Un analista afirma que los resultados de distintas evaluaciones nacionales e internacionales no pueden compararse. ¿Qué crítica se fundamenta en la sección?
+A. El MPL busca precisamente permitir esa comparabilidad mediante un nivel básico común
+B. El MPL solo permite comparar escuelas dentro de un país, no entre evaluaciones
+C. Es correcto, pues cada país usa su propio nivel mínimo sin un referente común
+D. Es correcto, pues el MPL impide comparar los resultados entre distintas evaluaciones de aprendizaje
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…un Nivel Mínimo de Competencia (MPL, por sus siglas en inglés), que refiere al nivel básico de conocimiento en un dominio que permite la comparabilidad entre distintas evaluaciones nacionales e internacionales.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+56. [ERCE 2019 – UNESCO · Sección 3] Un informe de prensa asegura que en Lectura de 6° grado los niños superan a las niñas en la región. ¿Qué análisis crítico corresponde?
+A. Es erróneo: las niñas (34 %) superan a los niños (28 %) en el mínimo
+B. Es correcto: los niños (59 %) superan a las niñas (53 %) en el mínimo
+C. Es correcto: los niños (34 %) superan a las niñas (28 %) en el mínimo
+D. Es erróneo: niñas y niños alcanzan exactamente el 31 % en el mínimo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso de Lectura (Gráfico 23), a nivel regional solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas en esta área.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+57. [ERCE 2019 – UNESCO · Sección 3] Un analista afirma que en Matemática de 3° las niñas superan claramente a los niños en la región. ¿Qué análisis crítico se fundamenta en la sección?
+A. Es correcto: el 59 % de las niñas frente al 53 % de los niños alcanza el mínimo
+B. Es correcto: las niñas superan a los niños por 15 puntos porcentuales
+C. Es erróneo: hay casi paridad, con 52 % de niñas y 53 % de niños en el mínimo
+D. Es erróneo: los niños superan a las niñas por más de 20 puntos porcentuales
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso de Matemática (Gráfico 22), los resultados son similares, con poco más de la mitad de niñas (52%) y niños (53%) logrando alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+58. [ERCE 2019 – UNESCO · Sección 3] Un participante sostiene que la Agenda 2030 es un programa diseñado solo por expertos para los gobiernos. ¿Qué crítica se apoya en la sección?
+A. La sección la presenta como un programa limitado al ámbito educativo de la región latinoamericana
+B. Es correcto: la sección la presenta como un programa de expertos de la UNESCO
+C. La sección la presenta como un programa “de la gente, por la gente y para la gente”
+D. Es correcto: la sección la presenta como un programa exclusivo de los gobiernos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…bajo un programa ‘de la gente, por la gente y para la gente’ que se ha denominado Agenda 2030 para el Desarrollo Sostenible.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+59. [ERCE 2019 – UNESCO · Sección 3] Un analista generaliza que en los indicadores de 3° grado todos los países tienen resultados cercanos al promedio regional. ¿Qué crítica se apoya en la sección?
+A. Es correcto: todos los países se ubican exactamente en el promedio regional en 3° grado
+B. En varios países persisten desafíos importantes, con menos de cuatro de cada 10 en el mínimo
+C. En todos los países más de ocho de cada 10 estudiantes alcanzan el nivel mínimo esperado
+D. Es correcto: la sección no informa diferencias entre países en los indicadores de 3° grado de la región
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En ambas áreas monitoreadas todavía persisten desafíos importantes en varios países, donde menos de cuatro de cada 10 estudiantes logra alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+60. [ERCE 2019 – UNESCO · Sección 3] Un analista sostiene que la heterogeneidad entre países en Matemática de 6° es baja. ¿Qué crítica se fundamenta en los extremos que reporta la sección?
+A. Es nula: todos los países alcanzan exactamente cuatro de cada 10 estudiantes en el mínimo
+B. Es amplia: los mejores superan nueve de cada 10 y los peores rondan la mitad
+C. Es amplia: los mejores rondan cuatro de cada 10 y otros no llegan a cinco de cada 100
+D. Es baja: todos los países se ubican entre el 17 % y el 18 % de estudiantes en el mínimo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10. […] es posible encontrar países donde menos de cinco de cada 100 estudiantes logra el mínimo nivel de competencias en Matemática.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+61. [ERCE 2019 – UNESCO · Sección 3] Un ministerio debe reportar el indicador 4.1.1b en Lectura con datos del ERCE 2019. ¿Qué proporción debe informar?
+A. La de estudiantes de 6° grado que se ubican en el Nivel IV
+B. La de estudiantes de 3° grado que alcanzan al menos el Nivel II del estudio
+C. La de estudiantes de 6° grado que alcanzan al menos el Nivel III
+D. La de estudiantes de 6° grado que alcanzan al menos el Nivel II
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…en las pruebas de Lectura y Matemática de 6° grado el Nivel III es el que mejor se alinea. En consecuencia, los resultados presentados a continuación respecto del monitoreo de los indicadores 4.1.1a y 4.1.1b hacen referencia a estos niveles de desempeño.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+62. [ERCE 2019 – UNESCO · Sección 3] Un ministerio debe reportar el indicador 4.1.1a en Matemática con datos del ERCE 2019. ¿Qué proporción debe informar?
+A. La de estudiantes de 3° grado que se ubican en el Nivel I
+B. La de estudiantes de 3° grado que alcanzan al menos el Nivel II
+C. La de estudiantes de 6° grado que alcanzan al menos el Nivel III
+D. La de estudiantes de 3° grado que alcanzan al menos el Nivel III
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “De esta manera, se ha determinado que en las pruebas de Lectura y Matemática de 3° grado el Nivel II corresponde al MPL…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+63. [ERCE 2019 – UNESCO · Sección 3] Al aplicar la definición del indicador 4.1.1, ¿cómo deben presentarse los resultados de un país?
+A. Desagregados por escuela, solo en el área de lectura
+B. Desagregados por región, en ciencias y escritura
+C. Agregados en un único valor, sin distinguir por sexo
+D. Desagregados por sexo, en lectura y en matemáticas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] […] que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+64. [ERCE 2019 – UNESCO · Sección 3] Un país quiere reportar Ciencias de 6° grado como parte del indicador 4.1.1b. ¿Qué establece la definición del indicador?
+A. Que no procede, pues el indicador solo comprende lectura y matemáticas
+B. Que procede, siempre que se use el Nivel III como nivel mínimo
+C. Que procede, pues el indicador comprende todas las áreas evaluadas por el ERCE
+D. Que procede solo si el país excluye de su reporte a la Lectura
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] Esta meta es monitoreada con el indicador 4.1.1: ‘Proporción de niños y jóvenes […] que han alcanzado al menos el nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+65. [ERCE 2019 – UNESCO · Sección 3] Un país quiere reportar el componente c) del indicador 4.1.1 con datos del ERCE 2019. ¿Qué se desprende de la sección?
+A. Que el ERCE reporta el componente c) mediante su prueba de 6° grado
+B. Que el ERCE reporta los componentes a) y b), no el de secundaria baja
+C. Que el componente c) se refiere al Grado 2 o 3 de la educación primaria
+D. Que el ERCE reporta los tres componentes con su prueba de 3° grado
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado)…”; “[24] […] c) al final de la educación secundaria baja…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+66. [ERCE 2019 – UNESCO · Sección 3] Un país de América Latina busca la fuente principal para reportar de forma comparable los indicadores 4.1.1a y 4.1.1b. ¿Cuál indica la sección?
+A. Los registros de matrícula
+B. Los estudios del LLECE
+C. Las pruebas PISA de la OCDE
+D. Los censos nacionales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el caso de América Latina y el Caribe los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+67. [ERCE 2019 – UNESCO · Sección 3] Al clasificar a un estudiante de 3° grado ubicado en el Nivel III de Lectura para el indicador 4.1.1a, ¿cómo debe computarse?
+A. Como estudiante que debe reportarse en el indicador 4.1.1b
+B. Como estudiante que no alcanza el nivel mínimo esperado
+C. Como estudiante que alcanza al menos el nivel mínimo
+D. Como estudiante excluido del cálculo del indicador
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…en las pruebas de Lectura y Matemática de 3° grado el Nivel II corresponde al MPL…”; “[24] […] que han alcanzado al menos el nivel mínimo de competencia…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+68. [ERCE 2019 – UNESCO · Sección 3] Al clasificar a un estudiante de 6° grado ubicado en el Nivel II de Matemática para el indicador 4.1.1b, ¿cómo debe computarse?
+A. Como estudiante que bordea el nivel mínimo
+B. Como estudiante que se reporta en el indicador 4.1.1a
+C. Como estudiante que supera ampliamente el nivel mínimo
+D. Como estudiante que no alcanza el nivel mínimo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…mientras que en las pruebas de Lectura y Matemática de 6° grado el Nivel III es el que mejor se alinea.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+69. [ERCE 2019 – UNESCO · Sección 3] Un país evalúa a estudiantes del Grado 2. ¿A qué componente del indicador 4.1.1 corresponde ese grado según la nota 24?
+A. A ningún componente del indicador 4.1.1
+B. Al componente c), secundaria baja
+C. Al componente a), en el Grado 2 o 3
+D. Al componente b), al final de primaria
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[24] Esta meta es monitoreada con el indicador 4.1.1: ‘Proporción de niños y jóvenes: a) en el Grado 2 o 3…’”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 (nota al pie 24); página impresa 24; página PDF 24.
+
+70. [ERCE 2019 – UNESCO · Sección 3] Para monitorear la meta 4.1, ¿qué referente común debe utilizarse según la sección?
+A. El puntaje promedio de cada país evaluado
+B. El Nivel IV de desempeño escolar
+C. El Nivel Mínimo de Competencia (MPL)
+D. La tasa de aprobación escolar de cada país
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Para el monitoreo de la meta 4.1, la comunidad internacional, bajo el liderazgo del UIS, viene trabajando para establecer un Nivel Mínimo de Competencia (MPL, por sus siglas en inglés)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+71. [ERCE 2019 – UNESCO · Sección 3] En un distrito, solo tres de cada 10 estudiantes de 3° grado alcanzan el mínimo en Lectura. ¿Cómo se ubica esta situación según la sección?
+A. Entre los países destacados de la región, junto a Brasil, Costa Rica y Perú en 3°
+B. En el promedio regional exacto, que corresponde a tres de cada 10 en el mínimo
+C. Por encima del promedio regional, que es de dos de cada 10 estudiantes en el mínimo de 3° grado
+D. Entre los casos con desafíos importantes, con menos de cuatro de cada 10 en el mínimo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En ambas áreas monitoreadas todavía persisten desafíos importantes en varios países, donde menos de cuatro de cada 10 estudiantes logra alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+72. [ERCE 2019 – UNESCO · Sección 3] Una red escolar logra que el 45 % de sus estudiantes de 6° alcance el mínimo en Matemática. ¿Cómo se compara con lo reportado en la sección?
+A. Queda bajo el promedio regional, que supera la mitad de los estudiantes evaluados
+B. Supera lo que logran los mejores países, que no pasan de cuatro de cada 10
+C. Iguala el resultado de los peores países, que rondan cinco de cada 10
+D. Queda muy bajo los mejores países, que superan ocho de cada 10
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10. Este es el caso de México (39% niñas y 37% niños), Perú (39% niñas y 38% niños) y Uruguay (38% de niñas y niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+73. [ERCE 2019 – UNESCO · Sección 3] En una escuela, las niñas de 6° alcanzan el mínimo en Lectura en mayor proporción que los niños. ¿Cómo debe leerse este resultado según la sección?
+A. Es irrelevante, pues el indicador no se desagrega por sexo en el 6° grado
+B. Es coherente con la región, donde no hay diferencias por sexo
+C. Es coherente con la región (34 % y 28 %) y sugiere reforzar a los niños
+D. Es contrario a la región, donde los niños aventajan a las niñas en Lectura
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso de Lectura (Gráfico 23), a nivel regional solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas en esta área.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+74. [ERCE 2019 – UNESCO · Sección 3] En un país, solo cuatro de cada 100 estudiantes de 6° alcanzan el mínimo en Matemática. ¿Cómo lo caracteriza la sección?
+A. Como un caso donde el avance en la meta 4.1 está mucho más atrás
+B. Como un caso que ya cumplió la meta 4.1 en Matemática de 6° grado
+C. Como un caso destacado de la región, junto a México, Perú y Uruguay
+D. Como un caso ubicado exactamente en el promedio de la región
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En los casos donde el avance en la meta 4.1 está mucho más atrás, es posible encontrar países donde menos de cinco de cada 100 estudiantes logra el mínimo nivel de competencias en Matemática.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+75. [ERCE 2019 – UNESCO · Sección 3] En una escuela, el 15 % de los estudiantes de 6° alcanza el mínimo en Lectura. ¿A qué grupo de países se asemeja según la sección?
+A. Al promedio regional de niñas, con el 34 % en el nivel mínimo
+B. A los países destacados en 3° grado, con más del 70 % en el mínimo
+C. A los de más bajos resultados, con menos de dos de cada 10 en el mínimo
+D. A los de mejores resultados, con apenas la mitad en el nivel mínimo esperado
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre los países con más bajos resultados, menos de dos de cada 10 estudiantes logra alcanzar este nivel de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+76. [ERCE 2019 – UNESCO · Sección 3] Un equipo técnico de Costa Rica compara Lectura de 3° y 6° grado en el monitoreo de la meta 4.1. ¿Qué conclusión se desprende de los datos?
+A. No hay diferencias entre grados: ambos alcanzan el 77 % y 72 %
+B. El desafío es mayor en 6°: baja de 77 % y 72 % a 57 % y 51 %
+C. El desafío es mayor en 3°: de 57 % y 51 % a 77 % y 72 %
+D. El desafío desaparece en 6°: todos sus estudiantes logran el mínimo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…Costa Rica (77% niñas y 72% niños)…” (4.1.1a, Lectura); “…Costa Rica (57% niñas y 51% niños)…” (4.1.1b, Lectura).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+77. [ERCE 2019 – UNESCO · Sección 3] Un equipo técnico de México analiza Matemática de 6° (39 % niñas y 37 % niños). ¿Cómo debe interpretar su posición regional?
+A. Está en el promedio regional exacto, con el 17 % de niñas y 18 % de niños en el mínimo
+B. Está entre los peores casos, con menos de cinco de cada 100 en el mínimo
+C. Está entre los mejores casos, con más de la mitad de sus estudiantes sobre el mínimo
+D. Está entre los mejores casos, pero aún menos de cuatro de cada 10 alcanzan el mínimo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10. Este es el caso de México (39% niñas y 37% niños)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+78. [ERCE 2019 – UNESCO · Sección 3] Un planificador analiza Matemática de 3° por sexo en la región (52 % niñas y 53 % niños). ¿Qué lectura es pertinente?
+A. Hay una brecha amplia, con las niñas 15 puntos por debajo de los niños evaluados
+B. Hay paridad, pero menos de una quinta parte alcanza el nivel mínimo
+C. Hay casi paridad, con poco más de la mitad de ambos sexos en el mínimo
+D. Hay una brecha amplia, con los niños 15 puntos por debajo de las niñas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso de Matemática (Gráfico 22), los resultados son similares, con poco más de la mitad de niñas (52%) y niños (53%) logrando alcanzar el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+79. [ERCE 2019 – UNESCO · Sección 3] Un equipo técnico de Perú analiza Lectura de 6° grado por sexo (53 % niñas y 45 % niños). ¿Qué acción es coherente con los datos?
+A. Reforzar la Lectura de las niñas, que están ocho puntos bajo los niños peruanos
+B. Reforzar solo Matemática, pues en Lectura todos superan el mínimo
+C. Reforzar la Lectura de los niños, que están ocho puntos bajo las niñas
+D. No intervenir, pues niñas y niños alcanzan el mismo porcentaje
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Este es el caso de Costa Rica (57% niñas y 51% niños) y Perú (53% niñas y 45% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+80. [ERCE 2019 – UNESCO · Sección 3] Un equipo técnico de Brasil analiza Lectura de 3° grado (74 % niñas y 71 % niños). ¿Cómo se ubica respecto de la región?
+A. En el promedio regional exacto de niñas y de niños para el indicador 4.1.1a de Lectura
+B. Entre los países con desafíos importantes, con menos de cuatro de cada 10
+C. Por debajo del promedio regional, que es de 59 % en niñas y 53 % en niños
+D. Entre los países destacados, por encima del promedio regional de ambos sexos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo […]. […] entre los países que destacan se encuentran Brasil (74% niñas y 71% niños)…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+81. [ERCE 2019 – UNESCO · Sección 3] Con recursos limitados, una autoridad debe priorizar el indicador con menor proporción de estudiantes en el mínimo. ¿Cuál debe elegir?
+A. El 4.1.1a en Matemática, con 52 % de niñas y 53 % de niños evaluados
+B. El 4.1.1b en Lectura, con 34 % de niñas y 28 % de niños
+C. El 4.1.1a en Lectura, con 59 % de niñas y 53 % de niños
+D. El 4.1.1b en Matemática, con 17 % de niñas y 18 % de niños
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…apenas el 17% de las niñas y el 18% de los niños de la región logran el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+82. [ERCE 2019 – UNESCO · Sección 3] Un ministerio busca referentes regionales para mejorar la Lectura de 6° grado. ¿Qué países debe considerar según la sección?
+A. Costa Rica y Perú, con los mejores resultados en el 4.1.1b
+B. Cuba y Brasil, con los mejores resultados en Matemática de 6°
+C. México y Uruguay, con los mejores resultados en Lectura de 3°
+D. Los de más bajos resultados, con menos de dos de cada 10
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Incluso en los países con mejores resultados, apenas la mitad de los estudiantes logra alcanzar este nivel de desempeño. Este es el caso de Costa Rica (57% niñas y 51% niños) y Perú (53% niñas y 45% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+83. [ERCE 2019 – UNESCO · Sección 3] Un ministerio busca referentes regionales para mejorar Matemática de 6° grado. ¿Qué países debe considerar?
+A. Cuba, Panamá y Brasil
+B. México, Perú y Uruguay
+C. Los de menor avance regional
+D. Argentina, Panamá y Paraguay
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Este es el caso de México (39% niñas y 37% niños), Perú (39% niñas y 38% niños) y Uruguay (38% de niñas y niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+84. [ERCE 2019 – UNESCO · Sección 3] Un ministerio busca referentes para Matemática de 3° grado en el indicador 4.1.1a. ¿Qué países destaca la sección?
+A. Brasil y Cuba
+B. Perú y Brasil
+C. Costa Rica
+D. Cuba y Perú
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En esta área destacan Cuba (76% niñas y 74% niños) y Perú (67% niñas y 74% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+85. [ERCE 2019 – UNESCO · Sección 3] Un ministerio busca referentes para Lectura de 3° grado en el indicador 4.1.1a. ¿Qué países destaca la sección?
+A. Brasil, Costa Rica y Perú
+B. Argentina, Panamá y Paraguay
+C. México, Perú y Uruguay
+D. Cuba, México y Uruguay
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…entre los países que destacan se encuentran Brasil (74% niñas y 71% niños), Costa Rica (77% niñas y 72% niños) y Perú (76% niñas y 75% niños).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+86. [ERCE 2019 – UNESCO · Sección 3] Una autoridad debe decidir hacia qué grupo focalizar estrategias de Lectura en 6° grado en la región. ¿Qué decisión se fundamenta en los datos?
+A. Hacia las niñas, que logran el mínimo en menor proporción (17 %)
+B. Hacia las niñas, que logran el mínimo en menor medida (28 %)
+C. Hacia los niños, que logran el mínimo en menor proporción (28 %)
+D. Hacia ningún grupo, pues ambos sexos superan la mitad en el mínimo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…a nivel regional solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas en esta área.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+87. [ERCE 2019 – UNESCO · Sección 3] Una autoridad regional debe decidir en qué grado concentrar el mayor esfuerzo para avanzar en la meta 4.1. ¿Qué decisión se apoya en la sección?
+A. En ninguno, pues ambos grados ya cumplen la meta 4.1
+B. En 3° grado, donde los desafíos son mucho mayores que en 6° grado
+C. En 3° grado, pues el 4.1.1b no se reporta con el ERCE
+D. En 6° grado, donde los desafíos son mucho mayores que en 3°
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso del indicador 4.1.1b, los resultados muestran desafíos mucho mayores para que los países logren que sus estudiantes alcancen las competencias mínimas que se esperan.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+88. [ERCE 2019 – UNESCO · Sección 3] Un ministerio decide alinear su evaluación nacional de 6° grado con el umbral del ERCE para la meta 4.1. ¿Qué umbral debe adoptar?
+A. El equivalente al Nivel II del ERCE
+B. El equivalente al Nivel I del ERCE
+C. El puntaje promedio nacional del país
+D. El equivalente al Nivel III del ERCE
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…en las pruebas de Lectura y Matemática de 6° grado el Nivel III es el que mejor se alinea.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+89. [ERCE 2019 – UNESCO · Sección 3] Una autoridad debe decidir si diseñar una política de género específica para Matemática de 6° a nivel regional. ¿Qué dato orienta la decisión?
+A. La casi paridad entre niñas (17 %) y niños (18 %) en el mínimo
+B. La amplia ventaja de las niñas (34 %) sobre los niños (28 %) en Lectura
+C. La ausencia total de datos desagregados por sexo en 6° grado
+D. La amplia ventaja de los niños (59 %) sobre las niñas (53 %)
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…apenas el 17% de las niñas y el 18% de los niños de la región logran el nivel mínimo de competencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+90. [ERCE 2019 – UNESCO · Sección 3] Un país debe decidir en qué evaluación participar para reportar de forma comparable en la región los indicadores 4.1.1a y 4.1.1b. ¿Qué decisión se fundamenta en la sección?
+A. Esperar a que el UIS aplique pruebas directamente en el país
+B. Participar en los estudios del LLECE, principal insumo regional
+C. Reportar solo tasas de matrícula como indicador de aprendizaje escolar
+D. Basarse solo en sus pruebas nacionales, sin referente común
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el caso de América Latina y el Caribe los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+91. [ERCE 2019 – UNESCO · Sección 3] ¿Qué país figura entre los destacados en los cuatro indicadores reportados (Lectura y Matemática, 3° y 6° grado)?
+A. Brasil, en ambas áreas y grados
+B. Perú, en ambas áreas y grados
+C. Cuba, en todas las pruebas
+D. Uruguay, en ambas áreas y grados
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] Perú aparece destacado en 4.1.1a Lectura (“Perú (76% niñas y 75% niños)”), 4.1.1a Matemática (“Perú (67% niñas y 74% niños)”), 4.1.1b Lectura (“Perú (53% niñas y 45% niños)”) y 4.1.1b Matemática (“Perú (39% niñas y 38% niños)”).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+92. [ERCE 2019 – UNESCO · Sección 3] ¿Qué diagnóstico estratégico global ofrece la sección sobre el avance hacia la meta 4.1 en la región?
+A. En 3° grado poco más de la mitad logra el mínimo; en 6°, los desafíos son mucho mayores
+B. En 3° y 6° grado la gran mayoría de los estudiantes ya logra el nivel mínimo esperado
+C. En 3° grado los desafíos son mucho mayores; en 6° casi todos logran el nivel mínimo
+D. En ambos grados menos de cinco de cada 100 estudiantes logran el nivel mínimo esperado en la región
+Respuesta correcta: A
+Explicación: “…más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo de competencias. […] En el caso del indicador 4.1.1b, los resultados muestran desafíos mucho mayores…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+93. [ERCE 2019 – UNESCO · Sección 3] ¿Qué componente del ODS 4 orienta la acción educativa más allá de la escolaridad, según su formulación en la sección?
+A. Limitar la oferta educativa a la enseñanza primaria obligatoria
+B. Concentrar la educación en la población de entre 6 y 12 años
+C. Priorizar la formación de élites académicas en cada país
+D. Promover oportunidades de aprendizaje permanente para todos
+Respuesta correcta: D
+Explicación: “…el número 4 propone ‘garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.
+
+94. [ERCE 2019 – UNESCO · Sección 3] ¿Por qué es estratégico para la región contar con un Nivel Mínimo de Competencia común?
+A. Porque garantiza por sí solo que todos los estudiantes alcancen el nivel mínimo
+B. Porque reemplaza la necesidad de aplicar evaluaciones de aprendizaje en los países
+C. Porque permite comparar evaluaciones y monitorear la meta 4.1 con un mismo referente
+D. Porque permite que cada país fije libremente su propio nivel mínimo sin referentes comunes
+Respuesta correcta: C
+Explicación: “Para el monitoreo de la meta 4.1, la comunidad internacional, bajo el liderazgo del UIS, viene trabajando para establecer un Nivel Mínimo de Competencia […], que refiere al nivel básico de conocimiento en un dominio que permite la comparabilidad entre distintas evaluaciones nacionales e internacionales.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+95. [ERCE 2019 – UNESCO · Sección 3] ¿Qué base metodológica garantiza la continuidad del monitoreo de la meta 4.1 entre ciclos del LLECE?
+A. La adopción de nuevos niveles en cada ciclo, sin relación con los ciclos anteriores
+B. La sustitución de los niveles de desempeño por puntajes promedio de cada país
+C. La eliminación de los descriptores de desempeño establecidos en el ciclo anterior
+D. La revisión de los descriptores del TERCE 2013 frente a los descriptores del MPL
+Respuesta correcta: D
+Explicación: “Para esto, se han revisado los descriptores de los niveles de desempeño que fueron establecidos en el ciclo anterior, el TERCE 2013, comparando con los descriptores correspondientes a los MPL…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Alineación de los niveles de desempeño del ERCE 2019 con el MPL; página impresa 25; página PDF 25.
+
+96. [ERCE 2019 – UNESCO · Sección 3] ¿Qué implicancia estratégica tienen los extremos reportados en Matemática de 6° grado para la planificación regional?
+A. Exigen estrategias diferenciadas, pues van de cerca de cuatro de cada 10 a menos de cinco de cada 100
+B. Indican que no se requieren estrategias, pues la región ya cumplió la meta 4.1 en Matemática de 6° grado
+C. Permiten una estrategia única, pues todos los países se ubican en un mismo nivel de logro
+D. Exigen concentrarse solo en los mejores países, pues los demás ya superan el nivel mínimo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En los mejores casos, la cantidad de estudiantes que logra este nivel de desempeño no llega a ser mayor a cuatro de cada 10. […] es posible encontrar países donde menos de cinco de cada 100 estudiantes logra el mínimo nivel de competencias en Matemática.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+97. [ERCE 2019 – UNESCO · Sección 3] ¿Qué importancia estratégica tiene para un país latinoamericano participar en los estudios del LLECE respecto del ODS 4?
+A. Le permite reportar de forma comparable los indicadores 4.1.1a y 4.1.1b de la meta 4.1
+B. Le permite reportar el indicador 4.1.1c de secundaria baja sin otras evaluaciones
+C. Le permite reemplazar el ODS 4 por metas educativas propias definidas por el LLECE
+D. Le exime de cumplir las metas del ODS 4 durante el periodo de vigencia de la Agenda de 2030
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el caso de América Latina y el Caribe los estudios del LLECE son el principal insumo para reportar los indicadores 4.1.1a (3° grado) y 4.1.1b (6° grado) de forma comparable en la región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Monitoreo de la meta 4.1 y Nivel Mínimo de Competencia (MPL); página impresa 24; página PDF 24.
+
+98. [ERCE 2019 – UNESCO · Sección 3] ¿Qué patrón por sexo comparten los indicadores de Lectura en ambos grados a nivel regional?
+A. En ambos grados, niñas y niños alcanzan exactamente la misma proporción
+B. En 3° aventajan los niños y en 6° aventajan las niñas en la región
+C. En ambos grados, los niños alcanzan el mínimo en mayor proporción que las niñas en total
+D. En ambos grados, las niñas alcanzan el mínimo en mayor proporción que los niños
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo…” (Lectura 3°); “…solo un 34% de las niñas y un 28% de los niños logra las competencias mínimas…” (Lectura 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1b (6° grado); página impresa 25; página PDF 25.
+
+99. [ERCE 2019 – UNESCO · Sección 3] ¿Qué síntesis estratégica ofrece la sección sobre los indicadores de 3° grado a nivel regional?
+A. Poco más de la mitad logra el mínimo en Lectura y Matemática, con desafíos en varios países
+B. Menos de una quinta parte logra el mínimo en Lectura y Matemática en todos los países
+C. Casi la totalidad logra el mínimo en Lectura y Matemática, sin desafíos en ningún país evaluado
+D. Más de la mitad logra el mínimo solo en Matemática; en Lectura no llega a un tercio
+Respuesta correcta: A
+Explicación: “…más de la mitad de las niñas (59%) y niños (53%) logra al menos el nivel mínimo […]. […] poco más de la mitad de niñas (52%) y niños (53%) […]. En ambas áreas monitoreadas todavía persisten desafíos importantes en varios países…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Estado del indicador 4.1.1a (3° grado); página impresa 25; página PDF 25.
+
+100. [ERCE 2019 – UNESCO · Sección 3] ¿Qué carácter atribuye la sección a las metas que los Estados se comprometieron a monitorear y cumplir en la Agenda 2030?
+A. Metas técnicas y exclusivas del sector educativo de cada país
+B. Metas ambiciosas y necesarias para el desarrollo de la sociedad
+C. Metas modestas y opcionales para cada uno de los Estados miembros
+D. Metas transitorias y sin seguimiento por parte de la comunidad
+Respuesta correcta: B
+Explicación: “En 2015, los Estados miembros de las Naciones Unidas se comprometieron a monitorear y cumplir metas ambiciosas y necesarias para el desarrollo de nuestra sociedad…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 3. Agenda 2030 – Agenda 2030 y ODS 4; página impresa 24; página PDF 24.

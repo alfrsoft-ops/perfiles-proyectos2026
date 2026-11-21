@@ -1,0 +1,995 @@
+# Fuente: lidei-2022-c4.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Capítulo evaluado: 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva
+# Páginas: impresas 84 a 96 (PDF 82 a 94)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva» del documento LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Alcance
+# Capítulo 4 completo: resumen del estudio OEI-INEE (2019), reflexiones sobre la normativa, resumen del cuestionario a 77 directores, conclusiones generales, liderazgo contextualizado, discordancias entre fuentes y demandas de los directores
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 84–96 = PDF 82–94)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 60 de contenido textual · 40 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 4 del documento LIDEI 2022 (págs. impresas 84 a 96).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: lidei-2022-c4
+
+1. [LIDEI 2022 – OEI · Capítulo 4] ¿Cuántos países participaron en la valoración de los indicadores del modelo teórico de liderazgo, según las conclusiones generales?
+A. Doce países participantes
+B. Seis países participantes
+C. Solo tres países participantes
+D. Nueve países participantes
+Respuesta correcta: D
+Explicación: “Los nueve países participantes en la valoración de los indicadores del modelo teórico de liderazgo, los consideran muy relevantes y apropiados para explorar el modelo predominante en la normativa y en la práctica directiva.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+2. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué países participaron en el estudio Liderazgo directivo: dimensiones para el análisis de la normativa (OEI-INEE, 2019)?
+A. Argentina, Brasil, Cuba, España, Honduras, Nicaragua, Panamá, Portugal y Uruguay
+B. Bolivia, Brasil, Cuba, Ecuador, Honduras, Nicaragua, Panamá, Portugal y Venezuela
+C. Argentina, Chile, Colombia, España, México, Perú, Paraguay, Portugal y Uruguay
+D. Argentina, Brasil, Chile, España, Guatemala, Nicaragua, Panamá, Andorra y Uruguay
+Respuesta correcta: A
+Explicación: “Los países participantes fueron: Argentina, Brasil, Cuba, España, Honduras, Nicaragua, Panamá, Portugal y Uruguay.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+3. [LIDEI 2022 – OEI · Capítulo 4] ¿Con la colaboración de qué institución realizó la OEI las encuestas piloto en las que se basan las reflexiones del capítulo?
+A. El Instituto de Estadística de la UNESCO con sede en Montreal
+B. El Instituto Nacional de Evaluación Educativa (INEE) de España
+C. El Ministerio de Educación de la Nación de la República Argentina
+D. La Agencia de Calidad de la Educación del Gobierno de Chile
+Respuesta correcta: B
+Explicación: “…parten de los resultados de las encuestas piloto realizadas por la OEI –con la colaboración del Instituto Nacional de Evaluación Educativa (INEE) del Ministerio de Educación y Formación Profesional del Gobierno de España–…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Introducción del capítulo; página impresa 84; página PDF 82.
+
+4. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen del estudio OEI-INEE (2019), ¿cuántos países consideran que está cuantificado en la normativa el tiempo dedicado a las diversas tareas directivas?
+A. Solo dos países
+B. Siete países
+C. Los nueve países
+D. Ninguno de ellos
+Respuesta correcta: A
+Explicación: “Solo dos países consideran que está cuantificado en la normativa el tiempo de trabajo dedicado a tareas de gestión administrativa y tratamiento de la información, liderazgo pedagógico, interacción con la comunidad educativa del centro, interacción con otras organizaciones del entorno y gestión de la convivencia escolar.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+5. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen del cuestionario, ¿cuántas horas semanales dedican en promedio los directores de los tres países al conjunto de tareas?
+A. Entre 50 y 55 horas a la semana
+B. Exactamente 37,5 horas a la semana
+C. Entre 30 y 35 horas semanales
+D. Entre 40 y 42 horas a la semana
+Respuesta correcta: D
+Explicación: “En promedio, los directores y directoras de los tres países indican dedicar al conjunto de tareas entre 40 y 42 horas a la semana.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 88; página PDF 86.
+
+6. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen del capítulo, ¿qué porcentaje de directores menciona un programa de acompañamiento (mentoría) a directores noveles en cada país?
+A. Solo el 14 % en Chile, el 33 % en Argentina y el 19 % en España
+B. El 73 % en Chile, 50 % en Argentina y el 36 % en España
+C. El 33 % en Chile, el 31 % en Argentina y el 25 % en España
+D. El 33 % en Chile, el 19 % en Argentina y el 14 % en España
+Respuesta correcta: D
+Explicación: “Llama la atención que pocos directores opinan que la Administración realiza una labor de acompañamiento (mentoría) de los directores noveles. En Chile, el 33% habla de este programa, y solo el 19% en Argentina y el 14% en España.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 88; página PDF 86.
+
+7. [LIDEI 2022 – OEI · Capítulo 4] En el segundo grupo de conclusiones, ¿cómo se distribuyen los países según consideran que su normativa recoge los rasgos del modelo?
+A. Nueve países que recogen plenamente los rasgos del modelo en todas sus dimensiones y subdimensiones
+B. Tres países que no recogen muchos rasgos y seis que los recogen en mayor medida, aunque en grado intermedio
+C. Cuatro países que recogen todos los rasgos y cinco que no recogen ninguno de los rasgos del modelo
+D. Seis países que no recogen muchos rasgos y tres que los recogen plenamente en todas las dimensiones del modelo
+Respuesta correcta: B
+Explicación: “…es consistente la existencia de dos grupos de países: tres países cuyas Administraciones educativas consideran que sus normas sobre liderazgo escolar no recogen muchos de los rasgos-indicadores del modelo teórico […], y un grupo de seis países que consideran en mayor medida –aunque solo en grado intermedio– que su normativa las recoge…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+8. [LIDEI 2022 – OEI · Capítulo 4] Según el capítulo, ¿qué competencia hay que añadir al modelo de liderazgo pedagógico, inclusivo y distribuido a raíz de la pandemia?
+A. El liderazgo contextualizado
+B. El liderazgo transaccional puro
+C. El liderazgo carismático
+D. El liderazgo burocrático
+Respuesta correcta: A
+Explicación: “…ha evidenciado de manera extraordinaria que al modelo de liderazgo pedagógico, inclusivo y distribuido hay que añadirle una competencia más: el liderazgo contextualizado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+9. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen del capítulo, ¿qué porcentaje de directores considera tener entre bastante y mucha autonomía para definir la formación del profesorado?
+A. El 73 % en Chile, el 53 % en España y solo el 38 % en Argentina
+B. Hasta el 86 % en Chile, el 40 % en España y solo el 27 % en Argentina
+C. El 38 % en Chile, el 53 % en España y el 73 % en Argentina
+D. El 53 % en Chile, el 73 % en España y el 38 % en Argentina
+Respuesta correcta: A
+Explicación: “En Chile (73%) y España (53%) los directores opinan que hay entre bastante y mucha autonomía a la hora de definir la formación del profesorado. En Argentina solo el 38% puede influir en su formación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+10. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿qué porcentaje de directores opina que la formación no está diferenciada en función de la experiencia en cada país?
+A. Solo el 47 % en Argentina, el 70 % en España y el 72 % en Chile
+B. El 70 % en Argentina, el 36 % en España y el 67 % en Chile
+C. El 70 % en Argentina, el 72 % en España y el 47 % en Chile
+D. El 50 % en Argentina, 25 % en España y el 33 % en Chile
+Respuesta correcta: C
+Explicación: “Sin embargo, opinan que la formación no está diferenciada en función de la experiencia. Esto es lo que piensan el 70% de los directores en Argentina, el 72% de los directores españoles y el 47% de los chilenos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 88; página PDF 86.
+
+11. [LIDEI 2022 – OEI · Capítulo 4] ¿Cuál fue el propósito del estudio OEI-INEE (2019) resumido en el capítulo?
+A. Analizar en qué grado las políticas sobre dirección escolar expresadas en la normativa fortalecen un modelo u otro
+B. Diseñar una ley única y obligatoria de dirección escolar aplicable a todos los países iberoamericanos participantes del estudio
+C. Medir el rendimiento académico del alumnado en relación con el estilo de liderazgo de su director
+D. Evaluar el desempeño individual de los directores de cada país para asignarles incentivos económicos
+Respuesta correcta: A
+Explicación: “El propósito de este estudio fue analizar el grado en que las políticas públicas sobre dirección escolar expresadas en su normativa estarían fortaleciendo un modelo de liderazgo u otro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+12. [LIDEI 2022 – OEI · Capítulo 4] ¿Cómo caracteriza el capítulo al modelo de liderazgo pedagógico, inclusivo y distribuido respecto de las Administraciones educativas?
+A. Como un horizonte de trabajo para la inmensa mayoría de las Administraciones, no solo iberoamericanas
+B. Como un modelo descartado por la mayoría de las Administraciones por ser poco realista
+C. Como una exigencia exclusiva de la región iberoamericana, sin referencia en otros sistemas
+D. Como un modelo ya plenamente implantado en la normativa de todos y cada uno de los países iberoamericanos
+Respuesta correcta: A
+Explicación: “Es justo comenzar señalando que el modelo de liderazgo pedagógico, inclusivo y distribuido es un horizonte de trabajo para la inmensa mayoría de las Administraciones educativas, no solo de la región iberoamericana.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 86; página PDF 84.
+
+13. [LIDEI 2022 – OEI · Capítulo 4] Dado que el modelo es un horizonte de trabajo, ¿cómo deben considerarse los desajustes y los ajustes entre la normativa y sus rasgos?
+A. Los desajustes deben sancionarse y los ajustes carecen de relevancia para la mejora
+B. Los desajustes son irrelevantes y los ajustes no requieren ningún reconocimiento
+C. Los desajustes son inaceptables y los ajustes son el mínimo exigible a cada país
+D. Los desajustes son esperables y los ajustes deben considerarse importantes logros
+Respuesta correcta: D
+Explicación: “Por lo tanto, los desajustes entre la normativa vigente y los rasgos de este ambicioso modelo de liderazgo son esperables, y los ajustes deben considerarse como importantes logros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+14. [LIDEI 2022 – OEI · Capítulo 4] ¿Cuál ha sido, según el capítulo, el propósito de las encuestas realizadas a los países?
+A. Determinar qué países deben recibir financiación internacional según la calidad de su normativa
+B. Evaluar a los países en materia de liderazgo para clasificarlos en un ranking regional de calidad educativa
+C. Avanzar en el conocimiento del estado de la cuestión para fundamentar decisiones soberanas de los países
+D. Imponer a los países un modelo común de liderazgo escolar mediante recomendaciones vinculantes
+Respuesta correcta: C
+Explicación: “En modo alguno el propósito de las encuestas ha sido evaluar a los países en esta materia, sino avanzar en el conocimiento del estado de la cuestión para fundamentar aquellas decisiones que los países soberanamente decidan acometer.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+15. [LIDEI 2022 – OEI · Capítulo 4] ¿Por qué no sería fácil ni recomendable distribuir por horas las funciones del director en la norma básica, según el capítulo?
+A. Porque los directores trabajan menos horas que las previstas en cualquier norma de carácter básico vigente
+B. Porque las horas de trabajo de los directores ya están fijadas por convenios internacionales
+C. Porque sería contrario a la autonomía de la dirección, al liderazgo distribuido y a la contextualización
+D. Porque la distribución por horas solo es posible en centros privados y no en los centros públicos
+Respuesta correcta: C
+Explicación: “La distribución de funciones por horas no es una práctica habitual en la norma, lo que, por otra parte, ni sería fácil de hacer ni recomendable, pues sería una práctica contraria a la autonomía de la dirección, al liderazgo distribuido y a la contextualización de su tarea.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+16. [LIDEI 2022 – OEI · Capítulo 4] ¿En qué circunstancias el liderazgo contextualizado es una dimensión fundamental, según el capítulo?
+A. Siempre que los sistemas puedan verse afectados por conflictos, desplazamientos o catástrofes
+B. Únicamente en los centros privados con mayores recursos para afrontar cambios rápidos
+C. Solo cuando los centros educativos superan los 1.000 estudiantes matriculados en total
+D. Solo en los sistemas educativos centralizados, donde la autonomía escolar de los centros es muy reducida
+Respuesta correcta: A
+Explicación: “Se trata, sin duda, de una dimensión fundamental siempre que los sistemas educativos puedan verse seriamente afectados por los conflictos armados, los desplazamientos masivos y las catástrofes humanitarias, ambientales o sanitarias.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+17. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué valoración común constituye la primera conclusión del informe, según los países participantes y los expertos consultados?
+A. La plena representatividad estadística de todas las muestras utilizadas en el estudio
+B. La obligación de aplicar de inmediato un modelo común en toda la región
+C. La completa coincidencia entre normativa, Administración y directores
+D. El indiscutible interés conceptual y exploratorio del conjunto de resultados
+Respuesta correcta: D
+Explicación: “Los países participantes y los expertos consultados coinciden en una valoración que también es una primera conclusión de este informe: el indiscutible interés conceptual y exploratorio de este conjunto de resultados…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+18. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué cubre, a juicio de los expertos, la matriz de especificaciones derivada de la revisión conceptual?
+A. Únicamente la evaluación del alumnado, sin indicadores referidos al liderazgo de los directores
+B. Satisfactoriamente el dominio del liderazgo escolar, en una estructura multidimensional de indicadores
+C. Parcialmente el dominio, por lo que fue descartada por los nueve países participantes
+D. Solo los aspectos financieros de la gestión escolar, en una estructura unidimensional de costos y gastos
+Respuesta correcta: B
+Explicación: “La amplia revisión conceptual condujo al diseño de una completa matriz de especificaciones que, a juicio de los expertos consultados, cubre satisfactoriamente el dominio de lo que se desea conocer […], en una estructura multidimensional que operativiza y agrupa un conjunto de indicadores del liderazgo escolar.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+19. [LIDEI 2022 – OEI · Capítulo 4] ¿En qué debería apoyarse la profesionalización de la función directiva, según las conclusiones generales?
+A. En la designación por antigüedad, sin incentivos ni perspectivas de promoción en la carrera directiva futura
+B. En la equiparación total del salario directivo con el del profesorado del mismo centro educativo
+C. En la eliminación de la evaluación del desempeño y la estabilidad indefinida en el cargo de director
+D. En una mejor definición del perfil de competencias, con incentivos y perspectiva de desarrollo profesional
+Respuesta correcta: D
+Explicación: “La profesionalización de la función directiva debería apoyarse en una mejor definición del perfil de competencias del puesto, con incentivos profesionales y salariales, y con perspectiva de desarrollo que les permita promocionar en consonancia con los niveles de desempeño y experiencia.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+20. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen OEI-INEE (2019), ¿qué se entiende por normativa que incentiva la profesionalización de los directores?
+A. Que establece la rotación anual obligatoria del cargo de director entre todo el profesorado
+B. Que permite la designación directa del director por la autoridad, sin méritos ni criterios previos definidos
+C. Que exige al director la docencia a tiempo completo además de las funciones de gestión
+D. Que define méritos y criterios de acceso objetivos, salarios equiparables y un complemento por el cargo
+Respuesta correcta: D
+Explicación: “…la normativa incentiva algo o bastante la profesionalización de directores y directoras, entendiendo por esto que define los méritos y criterios de acceso a la dirección para garantizar la objetividad de los procesos selectivos y que establece salarios para los directores o directoras escolares equiparables a los de otros puestos con responsabilidades similares y un complemento salarial asociado al cargo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+21. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿cuál es el primer criterio más utilizado en la selección de directores en cada país?
+A. Argentina: proyecto de dirección; Chile: años de experiencia; España: habilidades personales de liderazgo
+B. Argentina: años de experiencia; Chile: habilidades de liderazgo; España: proyecto de dirección
+C. Argentina: habilidades de liderazgo; Chile: proyecto de dirección; España: años de experiencia
+D. Argentina: examen escrito; Chile: nombramiento directo; España: antigüedad en el centro
+Respuesta correcta: B
+Explicación: “El primer criterio más utilizado en la selección en Argentina son los años de experiencia; en Chile, las habilidades personales de liderazgo; y, en España, el aspecto más valorado es el proyecto de dirección que presenta el candidato o candidata.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 88; página PDF 86.
+
+22. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿cuál es el factor más utilizado para evaluar el desempeño de los directores?
+A. El número de sanciones aplicadas durante el curso
+B. El resultado de una prueba anual de conocimientos
+C. La consecución de objetivos del Plan Anual de Centro
+D. La tasa de titulación del alumnado al terminar la etapa
+Respuesta correcta: C
+Explicación: “Evaluación del desempeño. De forma mayoritaria, los directores declaran que, entre los factores analizados para evaluar el desempeño, el más utilizado es la consecución de objetivos del Plan Anual de Centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+23. [LIDEI 2022 – OEI · Capítulo 4] ¿Por qué, según el capítulo, las acciones de los directores están mediatizadas por lo impuesto desde las Administraciones educativas?
+A. Porque las Administraciones financian directamente el salario de las familias
+B. Porque los directores carecen de cualquier competencia reconocida por la normativa
+C. Porque los directores son representantes de las Administraciones ante la comunidad escolar
+D. Porque los directores son elegidos directamente por las familias de cada uno de los centros escolares
+Respuesta correcta: C
+Explicación: “En conclusión, las acciones de los directores están mediatizadas por lo impuesto desde las Administraciones educativas (pues son sus representantes ante la comunidad escolar)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+24. [LIDEI 2022 – OEI · Capítulo 4] ¿Cómo dicen propiciar los directores la distribución del liderazgo en sus centros, según el resumen?
+A. Mediante la delegación total de sus funciones en las familias y en las autoridades locales
+B. Mediante la concentración de las decisiones en la dirección y la reducción de los órganos colegiados del centro escolar
+C. Mediante la contratación de gerentes externos que asumen la gestión cotidiana del centro escolar
+D. Mediante los órganos existentes, las figuras intermedias y espacios periódicos de diálogo y trabajo colaborativo
+Respuesta correcta: D
+Explicación: “Los directores consideran que, en la medida de sus posibilidades, propician la distribución del liderazgo en el centro, tanto a través de los órganos (de consulta, participación o coordinación) existentes y de las figuras intermedias como propiciando espacios periódicos de diálogo y trabajo colaborativo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+25. [LIDEI 2022 – OEI · Capítulo 4] ¿Para qué tarea dicen tener menos autonomía los directores, en especial los de Argentina y España?
+A. Para flexibilizar su horario entre las distintas tareas directivas
+B. Para la selección y renovación de la plantilla de docentes
+C. Para liderar la participación de la comunidad educativa
+D. Para decidir las metodologías y los recursos didácticos
+Respuesta correcta: B
+Explicación: “Sin embargo, la tarea para la que menos autonomía dicen tener (en especial los directores de Argentina y España,) es la posibilidad de selección y renovación de la plantilla de docentes, para la que en Chile hay más posibilidades.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+26. [LIDEI 2022 – OEI · Capítulo 4] Durante la pandemia, ¿qué esfuerzos extraordinarios pidió la Administración a los directores, según el resumen?
+A. Menos responsabilidades y funciones, al suspenderse la actividad presencial en los centros educativos
+B. La dedicación exclusiva a la docencia, liberándolos de las tareas de gestión del centro
+C. Más responsabilidades, funciones y tareas de supervisión, no siempre con más personal de apoyo
+D. La delegación de todas sus funciones en las familias y en los servicios de salud locales
+Respuesta correcta: C
+Explicación: “La Administración ha pedido esfuerzos extraordinarios a los directores –más responsabilidades, nuevas funciones, nuevas tareas para supervisar y gestionar el seguimiento de la higiene, comunicación de incidencias, protocolos, etc.–, no siempre proporcionando más personal para apoyarlos, aunque también ha dado mayor autonomía a los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+27. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué priorizó la dirección de los centros durante la pandemia, según el resumen del capítulo?
+A. La atención al alumnado desfavorecido, las medidas de inclusión y las innovaciones metodológicas
+B. La suspensión de las innovaciones para mantener la enseñanza tradicional durante la crisis
+C. La selección del alumnado con mejores resultados para garantizar el rendimiento del centro
+D. La reducción de la comunicación con las familias para concentrarse en tareas administrativas internas
+Respuesta correcta: A
+Explicación: “La dirección ha priorizado la atención al alumnado desfavorecido y han trabajado para propiciar medidas de inclusión, dedicando mucho esfuerzo a impulsar innovaciones metodológicas y pedagógicas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+28. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿qué estructuras buscan conseguir los directores al distribuir el liderazgo y propiciar espacios de encuentro?
+A. Estructuras democráticas que recojan opiniones, analicen datos, sugieran estrategias y fijen metas
+B. Estructuras administrativas que respondan solo a las instrucciones de la inspección educativa
+C. Estructuras informales sin funciones definidas ni relación con los objetivos del centro
+D. Estructuras jerárquicas que concentren las decisiones en la dirección y reduzcan la participación de la comunidad
+Respuesta correcta: A
+Explicación: “…son aspectos que dicen desarrollar los directores y directoras de la muestra para conseguir en los centros educativos estructuras democráticas que recojan opiniones, analicen datos, sugieran estrategias y determinen los objetivos y metas de los centros educativos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+29. [LIDEI 2022 – OEI · Capítulo 4] Según el cierre del capítulo, ¿qué debe ocurrir con la evaluación de la contribución de los directores a los avances del modelo?
+A. Ha de sustituir a la formación continua del director
+B. Ha de utilizarse solo para sancionar a los directores
+C. Ha de mantenerse confidencial y sin efectos
+D. Ha de ser reconocida en su desarrollo profesional
+Respuesta correcta: D
+Explicación: “La evaluación de su contribución a estos avances ha de ser reconocida en su desarrollo profesional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+30. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿qué opina la mayoría de los directores sobre su autonomía para organizar su propio tiempo entre las tareas de dirección?
+A. Que su horario lo deciden las familias en el consejo escolar al inicio de cada curso
+B. Que tienen bastante o mucha autonomía para flexibilizar su horario entre las distintas tareas
+C. Que solo pueden flexibilizar su horario con autorización expresa de la inspección
+D. Que carecen por completo de autonomía, pues su horario está fijado hora a hora por la norma básica
+Respuesta correcta: B
+Explicación: “La mayoría de los directores y directoras de los países participantes opina que tienen bastante o mucha autonomía para flexibilizar su horario y poderlo dedicar a las distintas tareas de dirección.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+31. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué conjunto de resultados previos de la OEI debe tenerse en cuenta al interpretar las respuestas de los directores al cuestionario?
+A. Los resultados de pruebas internacionales de aprendizaje y los rankings de calidad de los sistemas educativos de la región
+B. Las evaluaciones de desempeño individual de los directores y los informes de inspección de cada centro
+C. La revisión conceptual con su matriz de especificaciones y la aplicación piloto de la herramienta a las Administraciones
+D. Las encuestas de satisfacción de las familias y los registros de matrícula de los centros participantes
+Respuesta correcta: C
+Explicación: “…requiere tener en cuenta el conjunto de resultados consecutivos de la iniciativa estratégica de la OEI sobre liderazgo escolar, es decir: 1. La revisión conceptual sobre modelos de liderazgo y buenas prácticas, así como la matriz de especificaciones resultante […]. 2. Los resultados de la valoración y aplicación piloto de ‘la herramienta’ […] a las Administraciones educativas…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Introducción del capítulo; página impresa 84; página PDF 82.
+
+32. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué debería ser objeto de reflexión, según el resumen OEI-INEE (2019), respecto de la docencia directa del director?
+A. Que la mayoría de los países señala que no está cuantificada en la normativa
+B. Que todos los países la han cuantificado con exactitud en su norma básica de dirección
+C. Que la docencia directa ocupa la mayor parte del tiempo de los directores
+D. Que la docencia directa ha sido suprimida de las funciones del director
+Respuesta correcta: A
+Explicación: “La mayoría de los países señala que la docencia directa con el alumnado no está cuantificada en la normativa, lo que debería ser objeto de reflexión.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+33. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué indican las respuestas de los países sobre el incentivo normativo al liderazgo distribuido según el tamaño del centro?
+A. Que la normativa incentiva mucho más el modelo en los centros de menos de 100 alumnos que en los centros mayores
+B. Que la normativa no incentiva el modelo en ningún centro, cualquiera que sea su tamaño
+C. Que la normativa incentiva por igual el modelo en todos los centros, sin importar su tamaño
+D. Que la normativa incentiva más actuaciones coherentes con el modelo en los centros mayores que en los pequeños
+Respuesta correcta: D
+Explicación: “…las respuestas de los países parecen mostrar que la normativa incentiva más en los centros mayores actuaciones coherentes con dicho modelo […] que en los centros pequeños…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+34. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué deja la valoración intermedia que la mayoría de los países hace de su normativa respecto del modelo de liderazgo?
+A. Mucho margen para la mejora
+B. Una norma contraria al modelo
+C. Un modelo ya logrado del todo
+D. Ningún margen de mejora
+Respuesta correcta: A
+Explicación: “La mayoría de los países realiza una valoración intermedia del grado en que su normativa recogía en la fecha en que se aplicó la encuesta los rasgos de un modelo de liderazgo pedagógico, inclusivo y distribuido, lo que deja mucho margen para la mejora.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+35. [LIDEI 2022 – OEI · Capítulo 4] Según el capítulo, ¿de qué forma suele realizarse en la práctica la distribución temporal de las funciones del director?
+A. De forma individual, mediante un contrato firmado entre cada director y la inspección educativa
+B. De forma indirecta, por ejemplo, al establecer el calendario de reuniones de los órganos del centro
+C. De forma externa, mediante una distribución horaria decidida por las familias en asamblea
+D. De forma directa, mediante un horario oficial fijado por la norma básica para todos los directores del país
+Respuesta correcta: B
+Explicación: “La distribución temporal de sus funciones suele realizarse de forma indirecta, por ejemplo, cuando el centro establece el calendario de reuniones de los órganos de gestión, coordinación y participación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+36. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué evidencias pone de manifiesto, en términos generales, el informe OEI-INEE (2019)?
+A. La plena consolidación del modelo de liderazgo escolar en la normativa vigente de todos los países participantes
+B. La inconveniencia de promover el liderazgo pedagógico, inclusivo y distribuido en la región
+C. La necesidad de centralizar todas las decisiones escolares en las Administraciones nacionales
+D. La necesidad de avanzar en políticas que inspiren, faciliten, evalúen y reconozcan un liderazgo más pedagógico
+Respuesta correcta: D
+Explicación: “En términos generales, el informe OEI-INEE, 2019 muestra evidencias que ponen de manifiesto la necesidad de avanzar en políticas públicas que inspiren, faciliten, evalúen y reconozcan la práctica de un liderazgo directivo más pedagógico, inclusivo y distribuido en la región.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+37. [LIDEI 2022 – OEI · Capítulo 4] ¿Por qué resulta difícil comparar los resultados de los tres estudios (normativa, Administración y directores)?
+A. Porque los resultados de los tres estudios fueron declarados confidenciales por los países
+B. Porque el sujeto que responde es distinto y no todos los países participaron en las tres encuestas
+C. Porque los tres estudios usaron el mismo sujeto, lo que impide contrastar distintas perspectivas entre sí
+D. Porque los tres estudios se realizaron en idiomas distintos y no se tradujeron sus resultados
+Respuesta correcta: B
+Explicación: “…pese a que su mayor calado en este momento se obtiene al considerar cada tipo de respuesta, por ser difícil establecer comparaciones habida cuenta de que el sujeto que responde es distinto (normativa/Administración/director/a), y que no todos los países participaron en las tres encuestas piloto.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+38. [LIDEI 2022 – OEI · Capítulo 4] Según las conclusiones, ¿de qué ha dependido la adaptación de los centros a las tecnologías digitales durante la pandemia?
+A. Solo de la cantidad de dispositivos que poseían las familias del alumnado
+B. Únicamente de la edad del director y de sus años de experiencia en el cargo
+C. De los países, pero sin duda también del tipo de centro y de su contexto
+D. Solo del presupuesto nacional asignado a cada sistema educativo
+Respuesta correcta: C
+Explicación: “La adaptación ha sido diferente en función de los países, pero, sin duda, en función del tipo de centro y su contexto.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+39. [LIDEI 2022 – OEI · Capítulo 4] ¿Cómo puede explicarse la discrepancia entre lo que refleja la normativa y la opinión del director, según el capítulo?
+A. Por la mala fe de los directores al responder de forma deliberadamente contraria a la normativa
+B. Por su percepción en el contexto del centro, la cultura organizativa o el desconocimiento de la norma
+C. Por la intervención de las familias, que respondieron los cuestionarios en lugar de los propios directores
+D. Por errores de impresión en los cuestionarios distribuidos a los directores de los tres países
+Respuesta correcta: B
+Explicación: “En definitiva, la discrepancia entre lo que refleja la normativa y la opinión del director o directora puede explicarse aludiendo a su percepción en el contexto de su centro, a la cultura organizativa del establecimiento o, incluso, al desconocimiento de la normativa en todos sus extremos, entre otras causas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+40. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué discrepancia considera el capítulo que más puede llamar la atención y qué causa posible menciona?
+A. La que hay entre directores de distintos países; diferencias de idioma en los cuestionarios aplicados en cada uno de los países
+B. La que hay entre familias y docentes; el escaso interés de las familias por la gestión escolar del centro
+C. La que hay entre lo que la norma establece según la Administración y lo que ella misma responde; personas distintas
+D. La que hay entre directores de centros públicos y privados; diferencias salariales y laborales entre ellos
+Respuesta correcta: C
+Explicación: “Lo que más puede llamar la atención es la discrepancia entre lo que la normativa establece según la Administración, y lo que la misma Administración responde, cuyas causas pueden ser muy diversas, como, por ejemplo, que las encuestas son respondidas por personas distintas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+41. [LIDEI 2022 – OEI · Capítulo 4] El capítulo distingue tres fuentes de información. ¿Qué correspondencia es correcta?
+A. Miradas 2017: lo que opinan las familias; OEI-INEE 2019: los docentes; LIDEI 2022: los estudiantes
+B. Miradas 2017: lo que opinan los directores; OEI-INEE 2019: la normativa vigente; LIDEI 2022: las Administraciones educativas
+C. Miradas 2017: lo que opinan las Administraciones; OEI-INEE 2019: los directores; LIDEI 2022: la normativa
+D. Miradas 2017: lo que refleja la normativa; OEI-INEE 2019: lo que opinan las Administraciones; LIDEI 2022: directores
+Respuesta correcta: D
+Explicación: “∙ Lo que refleja y no refleja la normativa. Miradas sobre la educación en Iberoamérica 2017 […]. ∙ Lo que opinan las Administraciones. Liderazgo directivo: dimensiones para el análisis de la normativa […]. ∙ La opinión de los directores y directoras. En tercer lugar, en este informe se muestran las opiniones de una muestra incidental de directores…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+42. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen OEI-INEE (2019), ¿qué diferencia hay en la autonomía que la normativa concede en convivencia frente a la plantilla y la formación docente?
+A. Prohíbe adaptar la convivencia, pero permite seleccionar libremente la plantilla y orientar la formación
+B. Concede plena autonomía sobre plantilla y formación, pero ninguna para adaptar las normas de convivencia
+C. Concede la misma autonomía en todos los aspectos, sin diferencias entre convivencia, plantilla y formación docente
+D. Permite de forma considerable adaptar la convivencia, pero concede poca autonomía sobre plantilla y formación
+Respuesta correcta: D
+Explicación: “En general, los países de la región consideran que la normativa permite de forma considerable definir o adaptar las normas de convivencia en el centro, pero les concede poca autonomía para seleccionar o renovar la plantilla docente y definir y orientar la formación docente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+43. [LIDEI 2022 – OEI · Capítulo 4] En los centros pequeños (menos de 100 alumnos), ¿qué contempla en menor medida la normativa, según el resumen OEI-INEE (2019)?
+A. La participación de las familias, que la normativa prohíbe expresamente en los centros pequeños
+B. Figuras de liderazgo complementarias al director dentro de cada uno de los centros mayores
+C. Equipos directivos y órganos de participación de zona o distrito que distribuyan el liderazgo
+D. La designación de un director en cada centro, que la norma suprime en los centros pequeños
+Respuesta correcta: C
+Explicación: “…que en los centros pequeños, -menos de 100 alumnos y alumnas) que contemplan en menor medida la creación de equipos directivos de zona o distrito para que el liderazgo directivo se distribuya en un conjunto de escuelas, o la existencia de órganos de participación y coordinación en la zona o distrito escolar…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+44. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen OEI-INEE (2019), ¿qué afirman los países y qué no realizan respecto de la formación de los directores?
+A. Afirman no considerar sus necesidades, pero realizan encuestas anuales sobre sus propuestas
+B. Afirman ofrecer incentivos no salariales en todos los casos, pero no ofrecen formación alguna a los directores
+C. Afirman consultar siempre a los directores, pero no ofrecen oportunidades de promoción
+D. Afirman considerar sus necesidades formativas, pero no realizan encuestas para conocer sus propuestas
+Respuesta correcta: D
+Explicación: “La mayoría de los países que han participado afirma que en sus programas tienen en consideración las necesidades formativas o de desempeño profesional de los directores y directoras. […] Sin embargo, señalan no realizar encuestas para conocer propuestas de formación de los directores y directoras…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+45. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen, ¿cómo se configura el salario directivo en los tres países?
+A. Igual al del profesorado en los tres países, sin ningún complemento por el cargo
+B. Complemento según el desempeño en Argentina; fijo en España y Chile por igual
+C. Fijo en Argentina; complemento salarial según el tipo de centro en España y Chile
+D. Fijo en España; complemento según los resultados del alumnado en Argentina y Chile
+Respuesta correcta: C
+Explicación: “Las respuestas de los directores y directoras participantes acerca de su salario (fijo en Argentina, complemento salarial en función del tipo de centro en España y Chile)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+46. [LIDEI 2022 – OEI · Capítulo 4] ¿En qué país, según el resumen, la evaluación del desempeño prevé una repercusión salarial?
+A. Únicamente en Chile
+B. En los tres países
+C. Únicamente en España
+D. Únicamente en Argentina
+Respuesta correcta: A
+Explicación: “Con la excepción de Chile, la evaluación del desempeño no prevé una repercusión salarial.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+47. [LIDEI 2022 – OEI · Capítulo 4] Respecto de la convivencia, ¿qué diferencia declaran los directores entre dos ámbitos de su autonomía?
+A. Igual autonomía para gestionar conflictos y para adaptar la documentación de convivencia del centro
+B. Más autonomía para gestionar la resolución de conflictos que para adaptar la documentación de convivencia
+C. Mucha más autonomía para adaptar la documentación de convivencia que para gestionar la resolución de conflictos
+D. Ninguna autonomía en convivencia, que depende por completo de las Administraciones educativas
+Respuesta correcta: B
+Explicación: “Los directores declaran tener más autonomía a la hora de gestionar la resolución de conflictos que a la hora de adaptar la documentación que regula la convivencia a las características del centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+48. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué conclusión del informe interpreta ERRÓNEAMENTE la utilidad de los cuestionarios empleados?
+A. El cuestionario a directores ya ha demostrado su fiabilidad y validez y permite generalizar
+B. La matriz de especificaciones cubre satisfactoriamente el dominio del liderazgo escolar
+C. El cuestionario a directores es potencialmente muy valioso para futuros estudios extensivos
+D. El cuestionario a las Administraciones fue una herramienta de gran utilidad para su propósito
+Respuesta correcta: A
+Explicación: “El cuestionario de este informe (ver anexo) aplicado a una muestra de directores y directoras escolares, es igualmente una herramienta potencialmente muy valiosa para futuros estudios extensivos, en los que podrá comprobarse su fiabilidad y validez y cuyos resultados podrán generalizarse a la población de directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+49. [LIDEI 2022 – OEI · Capítulo 4] ¿En qué aspectos de la muestra de directores destaca el capítulo su falta de representatividad?
+A. Especialmente en el sexo, la titularidad del centro (pública/privada) y el tamaño del centro
+B. Especialmente en el salario, la antigüedad docente y la formación universitaria del director escolar
+C. Especialmente en el número de hijos, el estado civil y el lugar de nacimiento del director
+D. Especialmente en la religión, la afiliación política y el idioma materno de los directores
+Respuesta correcta: A
+Explicación: “Aun tratándose de una muestra pequeña y no representativa de la población de los directivos en cada país (especialmente en lo que atañe al sexo, la titularidad del centro –pública/privada– y el tamaño del centro), se aprecian algunos patrones de respuesta…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+50. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen OEI-INEE (2019), ¿qué marca más de la mitad de los países respecto de los incentivos no salariales para los directores?
+A. Que la normativa establece incentivos no salariales generosos para todos los directores
+B. Que la normativa reserva los incentivos no salariales a los directores de centros privados
+C. Que la normativa no establece incentivos no salariales de formación o capacitación
+D. Que la normativa sustituye los incentivos salariales por incentivos no salariales
+Respuesta correcta: C
+Explicación: “…y más de la mitad de los países de la región marca que la normativa no establece incentivos no salariales de formación/capacitación para ellos y ellas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+51. [LIDEI 2022 – OEI · Capítulo 4] Un organismo propone usar los resultados de las encuestas para elaborar un ranking de países según su liderazgo escolar. ¿Qué crítica se fundamenta en el capítulo?
+A. Es acertado, pues las encuestas se diseñaron precisamente para clasificar y evaluar a los países
+B. Es acertado, siempre que el ranking se publique junto con los datos de las pruebas internacionales de aprendizaje
+C. El propósito no fue evaluar a los países, sino conocer el estado de la cuestión para decisiones soberanas
+D. Es inadecuado solo porque faltan datos de algunos países, aunque el propósito fuera evaluarlos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En modo alguno el propósito de las encuestas ha sido evaluar a los países en esta materia, sino avanzar en el conocimiento del estado de la cuestión para fundamentar aquellas decisiones que los países soberanamente decidan acometer.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+52. [LIDEI 2022 – OEI · Capítulo 4] Una autoridad propone fijar por ley el número exacto de horas que cada director debe dedicar a cada función. ¿Qué valoración crítica se apoya en el capítulo?
+A. Sería neutral, pues la distribución horaria no guarda relación con la autonomía del director
+B. Sería poco recomendable, por ir contra la autonomía, el liderazgo distribuido y la contextualización
+C. Sería muy recomendable, pues el capítulo exige distribuir por horas todas las funciones directivas del centro
+D. Sería recomendable solo para los directores con menos de cinco años de experiencia en el cargo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La distribución de funciones por horas no es una práctica habitual en la norma, lo que, por otra parte, ni sería fácil de hacer ni recomendable, pues sería una práctica contraria a la autonomía de la dirección, al liderazgo distribuido y a la contextualización de su tarea.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+53. [LIDEI 2022 – OEI · Capítulo 4] Un informe afirma que el liderazgo pedagógico ya está plenamente garantizado, aunque los directores dedican gran parte de su tiempo a gestión administrativa. ¿Qué crítica se fundamenta en las conclusiones?
+A. La carga administrativa muestra la necesidad de avanzar en políticas que faciliten un liderazgo más pedagógico
+B. La carga administrativa es irrelevante, ya que no influye en el tipo de liderazgo que se ejerce
+C. La carga administrativa demuestra que el liderazgo pedagógico ya está plenamente consolidado en la región iberoamericana
+D. La gestión administrativa es la expresión más alta del liderazgo pedagógico, por lo que no hay problema
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la encuesta pone de manifiesto la necesidad de avanzar –con diferente intensidad según los países– en políticas públicas que inspiren y faciliten en mayor medida la práctica de un liderazgo directivo más pedagógico, inclusivo y distribuido en la región. Muestra de ello es que, según los directores y las directoras, una de las tareas que les requiere más tiempo es la gestión administrativa.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+54. [LIDEI 2022 – OEI · Capítulo 4] Un analista interpreta las respuestas de los directores sin considerar en qué normativa piensan ni la cultura escolar de su sistema. ¿Qué crítica se apoya en las conclusiones?
+A. Es correcto, siempre que se consideren únicamente las respuestas de los directores con más experiencia en el cargo directivo
+B. Debe reflexionarse sobre el contexto político, la normativa de referencia, la cultura escolar y el tipo de centro
+C. Es correcto, pues las respuestas de los directores son independientes de cualquier contexto o cultura
+D. Debe considerarse solo el tamaño del centro, ya que es el único factor que modula las respuestas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La primera es la necesidad de reflexionar en mayor profundidad sobre el contexto político en el que los directores y directoras han respondido a la encuesta, es decir, en qué normativa están pensando cuando responden, qué cultura escolar y de liderazgo está más consolidada en el sistema […] o en qué medida influye el tamaño y tipo de centro…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+55. [LIDEI 2022 – OEI · Capítulo 4] Durante la pandemia, una autoridad exigió nuevas funciones a los directores, pero no aportó recursos. ¿Qué análisis se fundamenta en las conclusiones del capítulo?
+A. Los directores rechazaron todas las nuevas funciones solicitadas por la Administración educativa
+B. La Administración aportó siempre todos los recursos necesarios para todas las nuevas funciones directivas
+C. La Administración no pidió nuevas funciones a los directores durante el periodo de la pandemia
+D. La Administración pidió esfuerzos extraordinarios, en algunos casos sin aportar los recursos necesarios
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En los tres países reconocen que la Administración ha pedido funciones nuevas y esfuerzos extraordinarios a los directores, en algunos casos sin aportar los recursos necesarios, aunque también ha dado mayor autonomía a los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+56. [LIDEI 2022 – OEI · Capítulo 4] Tras la pandemia, un sistema recargó a los docentes con nuevas tareas sin formación para afrontarlas. ¿Qué análisis se apoya en las conclusiones?
+A. Los docentes no experimentaron más carga, pues la enseñanza a distancia redujo su trabajo
+B. Entre los aspectos más negativos están la carga de los docentes, muchas veces sin la formación necesaria
+C. La carga docente fue el aspecto más positivo de la pandemia según los directores encuestados
+D. La formación docente fue suficiente en todos los casos, por lo que la carga no supuso ningún problema adicional
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Como aspectos más negativos destacan el aumento de las desigualdades entre el alumnado, así como la carga y dificultad del trabajo de los docentes muchas veces sin la formación necesaria para acometerlas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+57. [LIDEI 2022 – OEI · Capítulo 4] Se detecta que la Administración de un país valora muy bajo la normativa sobre participación, mientras el 85 % de sus directores considera que se la permite. ¿Qué análisis se fundamenta en el capítulo?
+A. Es una discordancia entre fuentes que no es muy frecuente, pero recomienda reflexionar sobre su significado
+B. Es una contradicción grave que invalida todos los resultados obtenidos en las tres encuestas piloto de la OEI
+C. Es una prueba de que los directores desconocen por completo la normativa de su país
+D. Es una coincidencia exacta entre fuentes, pues ambas valoran la normativa del mismo modo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la Administración de un país considera bajo el grado en que la normativa permite al director o directora liderar y promover la participación […] mientras que el 85% de los directores y las directoras que han participado consideran que la normativa se lo permite. […] Estas discrepancias […] no son demasiado frecuentes, pero sí recomiendan una reflexión sobre su significado y futura mejora…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+58. [LIDEI 2022 – OEI · Capítulo 4] Un director afirma que no puede impulsar proyectos porque los trámites tardan meses y no se siente respaldado. ¿Qué análisis se apoya en el resumen del capítulo?
+A. Los directores prefieren trámites largos, pues les permiten postergar decisiones difíciles
+B. Los procesos administrativos largos y complejos son un gran escollo, y los directores piden más respaldo
+C. Los procesos administrativos no afectan la autonomía y el respaldo de la Administración es plenamente suficiente
+D. La falta de respaldo se debe solo a la inexperiencia del director y no a la Administración
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…donde la complejidad y la larga duración de los procesos administrativos que acompañan a decisiones educativas son un gran escollo además de afirmar que necesitan sentirse más respaldados por la Administración en sus decisiones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+59. [LIDEI 2022 – OEI · Capítulo 4] Una administración regula en la norma básica el número de horas de docencia de todos los directores, sin atender al contexto. ¿Qué análisis se apoya en el capítulo?
+A. La docencia debe suprimirse por completo de las funciones del director en todos los centros
+B. La docencia del director depende de variables contextuales y conviene regularla con normas de menor rango
+C. Es la forma más adecuada, pues la docencia debe fijarse siempre en la norma básica de mayor rango normativo
+D. La docencia del director no requiere ninguna regulación, ni básica ni de menor rango
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Hay solo un indicador en el que, en principio, podría esperarse una mayor regulación: la docencia del director o directora. No obstante, se entiende que esta circunstancia dependerá de muchas variables contextuales (tamaño del centro o suficiencia de docentes por especialidades, entre otras), por lo que parece más indicado regularlo mediante normas de menor rango…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+60. [LIDEI 2022 – OEI · Capítulo 4] Una administración ofrece la misma formación a todos los directores sin importar su experiencia. ¿Qué crítica se fundamenta en las conclusiones?
+A. La formación ofrecida no está diferenciada por experiencia, lo que muestra la necesidad de mejorar las políticas
+B. La formación diferenciada está prohibida por la normativa de los tres países analizados
+C. Es la práctica adecuada, pues los directores prefieren una formación idéntica para todos
+D. La experiencia en el cargo no influye en las necesidades formativas, por lo que la formación no debe diferenciarse
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “No obstante, en términos generales, la encuesta pone de manifiesto la necesidad de avanzar […] en políticas públicas que inspiren y faciliten en mayor medida la práctica de un liderazgo directivo más pedagógico […]. Por otra parte, la formación que se les ofrece no está diferenciada en función de su experiencia en el cargo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+61. [LIDEI 2022 – OEI · Capítulo 4] Al decidir dónde regular la docencia de los directores, ¿qué tipo de norma recomienda el capítulo?
+A. Normas de menor rango y periodo temporal más acotado que la norma básica
+B. Un tratado internacional firmado por todos los países iberoamericanos
+C. La norma básica de obligado cumplimiento en todos los centros del país por igual
+D. Un reglamento interno elaborado solo por las familias de cada centro
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…por lo que parece más indicado regularlo mediante normas de menor rango y periodo temporal más acotado que el que contempla la norma básica de obligado cumplimiento en todos los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+62. [LIDEI 2022 – OEI · Capítulo 4] Al elaborar la norma básica sobre dirección escolar, ¿qué es lógico que establezca, según el capítulo?
+A. La distribución exacta en horas de cada una de las funciones del director en su jornada semanal de trabajo
+B. El reglamento de convivencia completo y único que todos los centros deben aplicar sin cambios
+C. La lista de docentes que cada director debe contratar en su centro durante cada curso escolar
+D. Las principales funciones que la dirección debe acometer en su horario, sin distribuirlas por horas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Puede ser lógico que así sea en la norma básica, en la que se establecen las principales funciones que la dirección escolar debe acometer en su horario de trabajo. La distribución de funciones por horas no es una práctica habitual en la norma…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+63. [LIDEI 2022 – OEI · Capítulo 4] Para promover el liderazgo distribuido en centros grandes, ¿qué actuaciones incentiva más la normativa según el resumen OEI-INEE (2019)?
+A. Concentrar el liderazgo en el director, suprimir órganos colegiados y reducir las figuras intermedias del centro
+B. Delegar el liderazgo en la inspección educativa y en los servicios externos de supervisión
+C. Crear equipos directivos de zona que reemplacen al director de cada centro de gran tamaño
+D. Distribuir el liderazgo, prever órganos de participación y definir figuras complementarias al director
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la normativa incentiva más en los centros mayores actuaciones coherentes con dicho modelo (por ejemplo, permite y estimula que el liderazgo directivo se distribuya dentro de las escuelas; prevé la existencia en el centro de órganos de participación y coordinación que contribuyan al proyecto educativo; y define figuras de liderazgo complementarias al director o directora escolar con perfiles propios y funciones específicas)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+64. [LIDEI 2022 – OEI · Capítulo 4] Para fortalecer el liderazgo en zonas con muchas escuelas pequeñas, ¿qué figura normativa, poco contemplada según el capítulo, podría desarrollarse?
+A. Equipos directivos de zona o distrito que distribuyan el liderazgo en un conjunto de escuelas
+B. Inspectores con funciones exclusivamente sancionadoras sobre las escuelas pequeñas
+C. Directores itinerantes sin funciones definidas que visiten las escuelas pequeñas una vez al año
+D. Consejos de familias que reemplacen a los directores en las escuelas de menor tamaño
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…que en los centros pequeños, -menos de 100 alumnos y alumnas) que contemplan en menor medida la creación de equipos directivos de zona o distrito para que el liderazgo directivo se distribuya en un conjunto de escuelas, o la existencia de órganos de participación y coordinación en la zona o distrito escolar…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+65. [LIDEI 2022 – OEI · Capítulo 4] Al revisar su normativa sobre promoción directiva, ¿qué oportunidades afirman ofrecer la mayoría de los países según el resumen OEI-INEE (2019)?
+A. Promoción exclusiva hacia la docencia universitaria, sin posibilidad de promoción horizontal
+B. Promoción y formación hacia la supervisión o inspección, y la posibilidad de promoción horizontal
+C. Ninguna oportunidad de promoción, pues el cargo de director es definitivo y sin movilidad
+D. Promoción automática a cargos ministeriales tras un año de ejercicio en la dirección escolar del centro
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo apuntan que su normativa les ofrece a los directores y directoras oportunidades de promoción y formación profesional a otros puestos como la supervisión o inspección educativa, así como la posibilidad de promoción horizontal.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 86; página PDF 84.
+
+66. [LIDEI 2022 – OEI · Capítulo 4] Para mejorar futuros estudios sobre normativa de dirección, ¿qué recomienda el capítulo respecto de la herramienta de recogida de información?
+A. Mantenerla sin cambios, pues ya ha demostrado su plena fiabilidad en todos los países
+B. Reducirla a una sola pregunta abierta sobre la opinión general del director acerca de la norma
+C. Sustituirla por entrevistas informales sin indicadores claramente definidos ni estructura multidimensional
+D. Afinarla para aumentar su fiabilidad, garantizando la claridad de lo que se solicita en cada indicador
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Siendo cierto lo anterior, también sería pertinente afinar la herramienta destinada a recoger información sobre la normativa y el modelo, de manera que aumente su fiabilidad garantizando la claridad de la información que se solicita en cada indicador.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+67. [LIDEI 2022 – OEI · Capítulo 4] Al diseñar un sistema de incentivos para directores, ¿qué solicitan estos y que, según el capítulo, aún no se da en los tres países?
+A. Un salario idéntico al del profesorado, sin complementos ni incentivos de ningún tipo
+B. Una evaluación de su desempeño en el clima escolar y el logro de objetivos del Plan, asociada a incentivos
+C. La supresión de toda evaluación externa del desempeño, para garantizar su plena autonomía en el cargo actual
+D. La evaluación exclusiva por los resultados del alumnado en pruebas internacionales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Incentivos salariales y no salariales acordes con el puesto, la dificultad y los resultados. Por ello, también solicitan algo que en este momento no se da en los tres países, a una evaluación de su desempeño en la mejora del clima escolar y la consecución de objetivos de los Planes del Centro, asociada a incentivos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+68. [LIDEI 2022 – OEI · Capítulo 4] Al regular la profesionalización directiva, ¿qué elementos, además de incentivos, exige según el resumen del capítulo?
+A. Estabilidad vitalicia en el cargo y exención de toda rendición de cuentas
+B. Selección por antigüedad y supresión de los procesos de formación continua
+C. Rendición de cuentas, posibilidad de mejora y evaluación de la realización del trabajo
+D. Designación directa por la Administración educativa y ausencia total de evaluación externa
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La profesionalización también exige una rendición de cuentas, la posibilidad de mejora y la evaluación de la realización del trabajo. Además, se podría asociar a complementos económicos en función de la evaluación del desempeño.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+69. [LIDEI 2022 – OEI · Capítulo 4] Al valorar la coherencia de las políticas de dirección con el modelo, ¿cómo califican los países, en general, el grado de ajuste de selección, elección, formación y evaluación?
+A. Como excelente en selección y nulo en todas las demás políticas
+B. Como nulo en todos los aspectos, incluida la formación directiva
+C. Como intermedio (algo o bastante), especialmente en formación
+D. Como pleno, especialmente en evaluación del desempeño
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En general, consideran intermedio (algo o bastante) el grado de ajuste entre las políticas relativas a la selección, elección, formación y evaluación de directores y directoras escolares al modelo de liderazgo pedagógico, inclusivo y distribuido, especialmente en formación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+70. [LIDEI 2022 – OEI · Capítulo 4] Según el resumen OEI-INEE (2019), ¿en qué aspecto del perfil normativo del director hay más consenso entre los países?
+A. En la cuantificación de la docencia del director
+B. En el perfil de las funciones del director o directora
+C. En la promoción de la investigación por parte del director
+D. En el perfil específico definido para cada tipo de centro
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los países participantes, de manera mayoritaria, realizan una valoración intermedia del grado en que la normativa establece el perfil del director […], habiendo más consenso en el perfil de las funciones del director o directora.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados OEI-INEE (2019); página impresa 85; página PDF 83.
+
+71. [LIDEI 2022 – OEI · Capítulo 4] Una inundación obliga a cerrar varias escuelas de una región durante semanas. ¿Qué competencia directiva, incorporada por el capítulo al modelo, resulta clave?
+A. El liderazgo carismático, basado solo en las cualidades personales del director
+B. El liderazgo transaccional, basado en premios y sanciones al personal docente
+C. El liderazgo contextualizado, fundamental ante catástrofes ambientales o sanitarias
+D. El liderazgo burocrático, centrado en cumplir las normas sin ninguna adaptación al contexto
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…al modelo de liderazgo pedagógico, inclusivo y distribuido hay que añadirle una competencia más: el liderazgo contextualizado. Se trata, sin duda, de una dimensión fundamental siempre que los sistemas educativos puedan verse seriamente afectados por los conflictos armados, los desplazamientos masivos y las catástrofes humanitarias, ambientales o sanitarias.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+72. [LIDEI 2022 – OEI · Capítulo 4] Tras la reapertura, un grupo de docentes quiere acelerar contenidos, mientras otros priorizan el bienestar emocional. ¿Qué orientación ofrece la mayoría de los directores?
+A. Que el acompañamiento emocional corresponde solo a los servicios de salud y no a la escuela
+B. Que ambos aspectos carecen de importancia frente a la recuperación del calendario escolar
+C. Que la enseñanza de contenidos debe priorizarse siempre por encima de cualquier acompañamiento emocional
+D. Que el acompañamiento emocional de los estudiantes es más importante que la enseñanza de contenidos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es importante destacar que, muy mayoritariamente, los directores señalan que el acompañamiento emocional de los estudiantes es más importante que la enseñanza de los contenidos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+73. [LIDEI 2022 – OEI · Capítulo 4] Durante la emergencia, un director observa mayor comunicación con las familias y disposición del profesorado a trabajar en red. ¿Cómo debería aprovecharlo, según los aspectos positivos destacados?
+A. Volver a reducir la comunicación con las familias una vez superada por completo la emergencia sanitaria
+B. Suspender los proyectos innovadores para concentrarse en la recuperación de contenidos
+C. Consolidar la comunicación familia-escuela y el trabajo colaborativo e innovador del profesorado
+D. Desalentar el trabajo en red del profesorado para recuperar la organización tradicional
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Otros aspectos positivos acentuados por la pandemia, los directores y directoras destacan el aumento de la comunicación familia-escuela, el empoderamiento e interés por colaborar del alumnado y, desde luego, la vocación, implicación y motivación del profesorado para superar dificultades, seguir las directrices de los líderes escolares, trabajar colaborativamente y en red y apostar por proyectos innovadores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+74. [LIDEI 2022 – OEI · Capítulo 4] En un consejo escolar, un docente sostiene que, si el órgano es decisorio, el director pierde liderazgo. ¿Qué respuesta se fundamenta en el resumen del capítulo?
+A. Un órgano consultivo o decisorio no tiene por qué restarle liderazgo, sino dar respaldo a lo decidido
+B. Tiene razón, por lo que deben suprimirse los órganos decisorios en todos los centros
+C. Tiene razón, pues todo órgano decisorio elimina por completo el liderazgo del director en el centro escolar
+D. El liderazgo del director depende solo de la Administración, no de los órganos del centro
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Un órgano de participación consultivo o un órgano de participación decisorio no tiene porqué restar liderazgo al director o directora, sino propiciar el respaldo de la comunidad educativa a las decisiones tomadas conjuntamente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 89; página PDF 87.
+
+75. [LIDEI 2022 – OEI · Capítulo 4] Un director valora que la normativa le permite adaptar la convivencia, pero su Administración lo considera bajo. ¿Cómo debe interpretarse esta divergencia?
+A. Como un error del director, pues la Administración siempre tiene la valoración correcta
+B. Como una coincidencia plena y total, pues ambas fuentes valoran la normativa vigente exactamente de la misma forma
+C. Como una discrepancia entre fuentes que puede deberse a la percepción contextual o a la cultura del centro
+D. Como una prueba de que el director incumple la normativa y debe ser sancionado de inmediato
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Este caso se da, por ejemplo, cuando una Administración considera bajo el grado en que la norma permite al director o directora definir o adaptar la documentación que regula la convivencia, mientras que los directores y las directoras lo valoran en un grado intermedio […]. En definitiva, la discrepancia […] puede explicarse aludiendo a su percepción en el contexto de su centro, a la cultura organizativa del establecimiento…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+76. [LIDEI 2022 – OEI · Capítulo 4] Un director recién nombrado se siente desbordado por los retos de la dirección actual. ¿Qué demanda de los directores recogida en las conclusiones responde a su situación?
+A. Una reducción progresiva de sus funciones a tareas solo administrativas y de control interno
+B. Un traslado inmediato a la docencia de aula, sin funciones de dirección
+C. Una línea de formación en liderazgo pedagógico, inclusivo, distribuido y contextualizado
+D. Una evaluación sancionatoria que identifique sus errores en el primer año
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Un línea o programa de formación sobre liderazgo pedagógico, inclusivo y distribuido (además de contextualizado), que les ayude a afrontar los retos de la dirección en las escuelas actuales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+77. [LIDEI 2022 – OEI · Capítulo 4] Cada año rota gran parte del profesorado de una Unidad Educativa y el proyecto pedagógico no se consolida. ¿Qué demanda de los directores aborda este problema?
+A. Delegación de la asignación docente en las familias para reducir la rotación anual
+B. Supresión del proyecto pedagógico, ya que la rotación lo hace imposible de sostener
+C. Mayor rotación del profesorado para evitar la acomodación del personal docente en el centro educativo
+D. Autonomía para crear plantillas estables y no depender de la rotación de docentes cada curso
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Autonomía del director y de los centros en la gestión de los recursos humanos. La posibilidad de promocionar a los mejores profesores, de crear plantillas estables en los centros, de gestionar comunidades de profesores que se alineen en un proyecto de futuro, así como no depender de la rotación de docentes cada curso.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+78. [LIDEI 2022 – OEI · Capítulo 4] Durante la enseñanza a distancia, estudiantes con medidas inclusivas específicas se quedaron rezagados. ¿Qué lectura ofrece el resumen del capítulo?
+A. Las desigualdades disminuyeron gracias al uso generalizado de las tecnologías digitales
+B. El aumento de las desigualdades afectó en especial al alumnado que necesitaba medidas inclusivas
+C. La enseñanza a distancia favoreció especialmente al alumnado que necesitaba medidas inclusivas específicas
+D. El alumnado con medidas inclusivas no se vio afectado por el cierre de los centros educativos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…destacan como aspectos muy negativos la carga de trabajo de los docentes y el aumento de las desigualdades entre el alumnado, especialmente aquellos que necesitaron medidas inclusivas específicas, como corroboran también los estudios internacionales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+79. [LIDEI 2022 – OEI · Capítulo 4] Un director de Chile percibe, tras la pandemia, que muchas familias se han desentendido de la educación de sus hijos. ¿Con qué tendencia del resumen se relaciona su percepción?
+A. Con la pérdida de interés del profesorado, destacada exclusivamente por los directores españoles
+B. Con la pérdida de interés de las familias por la educación, destacada especialmente en Chile
+C. Con el aumento del interés de las familias, destacado especialmente por los directores chilenos
+D. Con la ausencia de cambios en la relación familia-escuela durante la pandemia en Chile
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…y, especialmente para los directores y directoras de Chile, las familias han perdido interés por la educación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+80. [LIDEI 2022 – OEI · Capítulo 4] Un director quiere elaborar un Proyecto de Centro con amplia implicación. ¿Qué principios, compartidos por los directores encuestados, debe incorporar?
+A. Selección del alumnado, exigencia académica y prestigio institucional ante la comunidad
+B. Competencia entre docentes, jerarquía estricta y concentración de las decisiones en el equipo directivo del centro
+C. Cumplimiento formal de las instrucciones, sin ninguna participación de la comunidad educativa
+D. Cooperación, reparto y distribución de responsabilidades e inclusión, compartidos por toda la comunidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En general, los directores y directoras participantes quieren impulsar Proyectos de Centro en los que se implique toda la comunidad educativa, y que los principios de cooperación, reparto y distribución de responsabilidades e inclusión sean compartidos por todos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+81. [LIDEI 2022 – OEI · Capítulo 4] Una Administración debe decidir qué hacer ante las demandas que recogen las conclusiones. ¿Qué actitud se espera de ella según el capítulo?
+A. Que esas demandas la lleven a la reflexión y a la toma de decisiones
+B. Que espere un estudio extensivo antes de considerar cualquier demanda
+C. Que archive las demandas por provenir de una muestra no representativa
+D. Que atienda solo las demandas que no impliquen recursos económicos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Parece oportuno finalizar el capítulo de conclusiones destacando los aspectos que los directores y directoras consideran más necesarios para poder desarrollar un liderazgo pedagógico, inclusivo y distribuido, que debería llevarnos a la reflexión y toma de decisiones, especialmente por parte de las Administraciones educativas de los países iberoamericanos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+82. [LIDEI 2022 – OEI · Capítulo 4] Un ministerio planea un estudio extensivo sobre liderazgo directivo. ¿Qué decisión metodológica se apoya en las conclusiones?
+A. Aplicar el cuestionario solo a las familias, que son la fuente más fiable sobre el liderazgo escolar
+B. Generalizar de inmediato los resultados del piloto sin realizar ningún estudio adicional
+C. Descartar el cuestionario a directores, pues ya se demostró que carece de toda utilidad
+D. Usar el cuestionario a directores como base, comprobando su fiabilidad y validez para generalizar
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El cuestionario de este informe (ver anexo) aplicado a una muestra de directores y directoras escolares, es igualmente una herramienta potencialmente muy valiosa para futuros estudios extensivos, en los que podrá comprobarse su fiabilidad y validez y cuyos resultados podrán generalizarse a la población de directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+83. [LIDEI 2022 – OEI · Capítulo 4] Con recursos limitados, una Administración debe elegir qué demandas de los directores atender. ¿Cuál de estas figura entre sus demandas principales?
+A. Una estructura organizativa distinta con nuevos órganos de gobierno escolar
+B. Una mayor autonomía para elegir libremente la formación del profesorado
+C. Tiempos y espacios que propicien el trabajo colaborativo de la comunidad educativa
+D. Una nueva definición de funciones y una normativa más flexible para el cargo directivo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “∙ Tiempos y espacios que propicien el trabajo colaborativo entre los miembros de la comunidad educativa, lo cual está alineado con el anterior punto.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 95; página PDF 93.
+
+84. [LIDEI 2022 – OEI · Capítulo 4] Una Administración piensa reformar la definición de funciones y la estructura organizativa de los centros para responder a los directores. ¿Qué indica el capítulo sobre esa decisión?
+A. Que los directores no expresaron ninguna demanda en relación con su trabajo directivo
+B. Que esas son las demandas más urgentes y prioritarias señaladas por todos los directores encuestados
+C. Que los directores dejaron aparte esas demandas y confían en que el marco normativo es adecuado
+D. Que los directores exigen suprimir por completo el marco normativo vigente en sus países
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Han dejado aparte demandas como definición de funciones y responsabilidades, procesos de elección, estructura organizativa, autonomía en la formación o normativa más flexible, existiendo confianza en que el marco normativo es el adecuado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+85. [LIDEI 2022 – OEI · Capítulo 4] En España, una Administración debe priorizar una medida. ¿Cuál es la principal demanda de los directores españoles según el resumen?
+A. Mayor autonomía del director en la gestión de los recursos humanos
+B. La reducción de la jornada laboral semanal de los directores
+C. Un programa de mentoría para los directores noveles del sistema
+D. La definición de nuevas funciones y responsabilidades del director escolar
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En España, la principal demanda es mayor autonomía del director o directora en la gestión de los recursos humanos de los centros, seguida de un programa de formación pedagógica y de liderazgo educativo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+86. [LIDEI 2022 – OEI · Capítulo 4] En Argentina, una Administración decide qué atender primero. ¿Qué demanda casi la totalidad de los directores argentinos?
+A. Un aumento de la docencia directa a cargo del director
+B. Un programa de formación pedagógica y liderazgo educativo
+C. Una reducción de los órganos de participación del centro
+D. Una autonomía plena en la gestión del presupuesto escolar anual
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En Argentina, casi la totalidad de los directores demandan un programa de formación pedagógica y liderazgo educativo, seguido de incentivos económicos y no económicos acordes con el desempeño profesional…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+87. [LIDEI 2022 – OEI · Capítulo 4] Una Administración debe decidir cómo relacionarse con sus directores tras la pandemia. ¿Qué decisión se apoya en el cierre del capítulo?
+A. Valorar y acompañar más su trabajo, confiar en ellos, escuchar sus opiniones y cubrir sus necesidades
+B. Aumentar el control y la supervisión sobre los directores para garantizar el cumplimiento normativo estricto
+C. Sustituir a los directores con más demandas por otros más dispuestos a seguir instrucciones
+D. Reducir la comunicación con los directores para no generar nuevas demandas difíciles de atender
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Es necesario valorar y acompañar su trabajo en mayor medida, depositar confianza en ellos, tener en cuenta sus opiniones y cubrir sus necesidades para desempeñar la dirección de un centro dentro de los valores y objetivos del liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+88. [LIDEI 2022 – OEI · Capítulo 4] Al diseñar una política de autonomía escolar, ¿qué ámbitos presentan, según las conclusiones, bastante disparidad entre países y requieren decisiones específicas?
+A. La flexibilidad horaria del director, la participación de la comunidad y la convivencia escolar del centro
+B. La gestión del presupuesto, la selección y formación del profesorado y el desarrollo curricular
+C. La duración de la jornada escolar, el calendario de vacaciones y el uniforme escolar
+D. El uso de tecnologías digitales, la comunicación con las familias y el apoyo emocional
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…y se observa que, en el grado de autonomía para gestionar el presupuesto, definir la selección y formación del profesorado de su centro o liderar el desarrollo curricular hay bastante disparidad entre países.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+89. [LIDEI 2022 – OEI · Capítulo 4] En Chile, una Administración analiza las demandas de sus directores. ¿Cuáles son las tres principales según el resumen?
+A. Autonomía presupuestaria plena, selección del alumnado y control total de la oferta educativa del centro escolar
+B. Nueva definición de funciones, normativa más flexible y nuevos órganos de participación escolar
+C. Formación pedagógica y de liderazgo, autonomía en recursos humanos y tiempos para el trabajo colaborativo
+D. Mayor salario fijo, reducción de la jornada laboral y supresión de la evaluación del desempeño
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En Chile, las tres principales demandas son un programa de formación pedagógica y liderazgo educativo, autonomía del director o directora en la gestión de los recursos humanos de los centros, y tiempos y espacios que propicien el trabajo colaborativo entre los miembros de la comunidad educativa.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 91; página PDF 89.
+
+90. [LIDEI 2022 – OEI · Capítulo 4] Un país quiere decidir en qué medidas avanzar para promover el modelo de liderazgo. ¿Qué utilidad le ofrecen los resultados de las encuestas, según el capítulo?
+A. Una calificación final que lo ubica en un ranking regional de calidad del liderazgo
+B. Un mandato vinculante que obliga a adoptar una normativa común en toda la región
+C. Información valiosa sobre las medidas en que más ha avanzado y en las que podría avanzar
+D. Una lista de sanciones aplicables a los directores que no cumplen el modelo de liderazgo propuesto
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los resultados de las encuestas proporcionan información valiosa de aquellas medidas en las que cada país ha avanzado más, así como en las que podría avanzar si deseara promover un liderazgo escolar más pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+91. [LIDEI 2022 – OEI · Capítulo 4] Al planificar estratégicamente la política de liderazgo, ¿qué grandes disparidades entre países y subdimensiones constata el capítulo?
+A. En el número de estudiantes por aula, en el calendario escolar y en el horario de las clases
+B. En la autonomía para la plantilla, en el incentivo al modelo y en la profesionalización de los directores
+C. En el idioma de los cuestionarios, en la duración del curso escolar y en el uniforme del alumnado
+D. En la edad de los directores, en su género y en la antigüedad de los edificios escolares públicos de cada país
+Respuesta correcta: B
+Explicación: “Asimismo, se constatan grandes disparidades entre países y subdimensiones, por ejemplo, en la valoración del grado de autonomía que la normativa otorga al director o directora para seleccionar o renovar la plantilla docente, el grado en que la normativa incentiva actuaciones coherentes con el modelo de liderazgo pedagógico, inclusivo y distribuido, o la profesionalización de directores y directoras.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 93; página PDF 91.
+
+92. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué valoración hacen los nueve países participantes de los indicadores del modelo teórico de liderazgo, útil para la planificación futura?
+A. Los consideran muy relevantes y apropiados para explorar el modelo en la normativa y la práctica
+B. Los consideran útiles únicamente para la normativa, pero no para la práctica directiva
+C. Los consideran irrelevantes y proponen sustituirlos por indicadores de rendimiento académico del alumnado
+D. Los consideran adecuados solo para centros privados y no para la educación pública
+Respuesta correcta: A
+Explicación: “Los nueve países participantes en la valoración de los indicadores del modelo teórico de liderazgo, los consideran muy relevantes y apropiados para explorar el modelo predominante en la normativa y en la práctica directiva.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+93. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué balance hace el capítulo del cuestionario construido para que las Administraciones validaran y verificaran los indicadores?
+A. Que fue una herramienta inútil, que no permitió verificar ningún indicador del modelo propuesto
+B. Que cumplió su propósito solo en los países con mayor número de centros privados
+C. Que ha sido una herramienta de gran utilidad que ha cumplido sobradamente su propósito
+D. Que debe descartarse por completo y reemplazarse por evaluaciones del alumnado
+Respuesta correcta: C
+Explicación: “El cuestionario construido para que las Administraciones educativas de los países validaran la relevancia de los indicadores y, muy importante, para que verificaran su presencia o ausencia en la normativa vigente, ha sido una herramienta de gran utilidad que ha cumplido sobradamente su propósito.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.
+
+94. [LIDEI 2022 – OEI · Capítulo 4] Al proyectar el marco normativo, ¿qué percepción general existe sobre lo que este permite o apoya, según las conclusiones?
+A. Que impide impulsar proyectos comunes y bloquea cualquier práctica de equidad e integración escolar
+B. Que solo permite la gestión administrativa, sin espacio para el apoyo al profesorado
+C. Que favorece la competencia entre centros y la selección del alumnado más destacado
+D. Que permite impulsar proyectos comunes, apoyar al profesorado, el compromiso común y la equidad
+Respuesta correcta: D
+Explicación: “En general, existe una percepción positiva de que el marco normativo permite o proporciona apoyo para impulsar proyectos comunes, apoyar al profesorado, promover el compromiso común, así como impulsar prácticas de equidad e integración.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+95. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué papel estratégico atribuyen las conclusiones a la autonomía de los directores?
+A. Es contraproducente, pues dispersa las decisiones y debilita el liderazgo pedagógico
+B. Es irrelevante para la mejora del trabajo docente y para el desarrollo de planes
+C. Es secundaria, pues los proyectos dependen solo de los recursos que asigna la Administración educativa
+D. Es esencial para impulsar proyectos, mejorar el trabajo docente y desarrollar planes de trabajo
+Respuesta correcta: D
+Explicación: “La autonomía es esencial para poder impulsar proyectos, mejorar la calidad del trabajo del profesorado y desarrollar planes de trabajo, todo ello íntimamente ligado al liderazgo pedagógico, inclusivo y distribuido que se desea promover…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 94; página PDF 92.
+
+96. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué idea final destaca el capítulo como conclusión, pese a los obstáculos y demandas no reconocidas?
+A. Que la mayoría de los directores participantes dicen que volverían a ser directores
+B. Que la mayoría de los directores desea abandonar el cargo cuanto antes
+C. Que la mayoría de los directores rechaza el modelo de liderazgo distribuido propuesto
+D. Que la mayoría de los directores prefiere volver a la docencia de aula sin funciones
+Respuesta correcta: A
+Explicación: “Como concusión final nos quedamos con la idea de que, pese a todos los obstáculos y demandas no reconocidas –especialmente durante la pandemia–, la mayoría de los directores y directoras participantes dicen que volverían a ser directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 96; página PDF 94.
+
+97. [LIDEI 2022 – OEI · Capítulo 4] Al diseñar la estrategia regional, ¿qué constata el capítulo sobre un grupo de Administraciones respecto de las cuatro dimensiones del modelo?
+A. Que su normativa recoge plenamente todos los rasgos del modelo en las 4 dimensiones consideradas del modelo
+B. Que aprecian que su normativa aún no recoge suficientemente los rasgos del modelo en las 4 dimensiones
+C. Que rechazan explícitamente el modelo y han derogado su normativa sobre dirección escolar
+D. Que no respondieron a ninguna de las dimensiones del cuestionario aplicado por la OEI
+Respuesta correcta: B
+Explicación: “Sin embargo, hay un grupo de Administraciones educativas –con diferencias importantes dependiendo de la subdimensión de liderazgo valorada– que, en mayor medida, aprecian que su normativa no recoge aun suficientemente los rasgos del modelo de liderazgo pedagógico, inclusivo y distribuido en las 4 dimensiones consideradas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Reflexiones sobre la presencia de indicadores en la normativa; página impresa 87; página PDF 85.
+
+98. [LIDEI 2022 – OEI · Capítulo 4] Al definir la carrera directiva, ¿qué se infiere de las respuestas sobre salarios e incentivos no salariales, según el resumen?
+A. Una designación vitalicia, con incentivos fijos independientes del desempeño y la experiencia en el puesto
+B. Una equiparación total con el salario docente, sin incentivos ni perspectiva de promoción
+C. Una supresión de los incentivos no salariales, que ningún director considera relevantes
+D. Una categorización definida del puesto, con incentivos y perspectiva profesional acorde al desempeño
+Respuesta correcta: D
+Explicación: “…se infiere que la profesionalización de la función directiva debería apoyarse en una categorización definida del puesto, con incentivos profesionales y salariales, con perspectiva profesional de futuro que oferte puestos en consonancia con los niveles de desempeño desarrollados y experiencia en el puesto.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Resumen de resultados del cuestionario a directores; página impresa 90; página PDF 88.
+
+99. [LIDEI 2022 – OEI · Capítulo 4] Para valorar los resultados de la encuesta a los 77 directores, ¿qué trabajo previo considera el capítulo especialmente útil?
+A. Las pruebas internacionales de aprendizaje aplicadas al alumnado de los tres países analizados
+B. Las encuestas de satisfacción aplicadas a las familias de los centros de la muestra
+C. La aplicación piloto de la herramienta a las Administraciones educativas (OEI-INEE, 2019)
+D. Los informes de inspección educativa de cada uno de los centros participantes
+Respuesta correcta: C
+Explicación: “Estos trabajos han servido de referencia para valorar los resultados de la encuesta piloto […]. Es especialmente útil considerar el segundo punto, por lo que procede recoger sus principales conclusiones de manera sintética.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Introducción del capítulo; página impresa 85; página PDF 83.
+
+100. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué se espera de las conclusiones referidas a los tres estudios de la OEI (normativa 2017, Administraciones 2019 y directores 2022)?
+A. Que sustituyan de inmediato la normativa vigente en cada uno de los países
+B. Que de ellas puedan derivarse algunas propuestas para el futuro
+C. Que sirvan para sancionar a los países con peores resultados
+D. Que se mantengan reservadas y sin difusión entre los países
+Respuesta correcta: B
+Explicación: “Hay un primer grupo de conclusiones referidas a los dos estudios ya publicados por la OEI (sobre la normativa en el 2017 y sobre las administraciones en el 2019), y a este estudio actual (opinión directores y directoras) de los que pueden derivarse algunas propuestas para el futuro…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva – Conclusiones generales y prospectiva; página impresa 92; página PDF 90.

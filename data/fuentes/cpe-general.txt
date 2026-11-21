@@ -1,0 +1,1097 @@
+# Fuente: cpe-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Constitución Política del Estado (7 de febrero de 2009)
+# Primera Parte: Bases fundamentales del Estado. Derechos, deberes y garantías (Arts. 1 al 144)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar las disposiciones de la Primera Parte de la Constitución Política del Estado en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto constitucional proporcionado, sin incorporar fuentes externas.
+# Criterios documentales aplicados
+# Alcance de la fuente. La Primera Parte comprende los Títulos I a V (Arts. 1 al 144). En el archivo PDF proporcionado ocupa las páginas 2 a 35; la Segunda Parte inicia en la página PDF 36.
+# Página impresa. El PDF proporcionado (texto de consulta de la Gaceta Oficial de Bolivia) no tiene numeración impresa en sus páginas. Por ello, cada referencia consigna «Página impresa: s/n» y la página PDF exacta. No se ha supuesto ninguna paginación impresa no verificable.
+# Rótulo «Aplicación razonada». Distingue las situaciones derivadas (escenarios institucionales construidos a partir de una disposición) de las preguntas de conocimiento textual, rotuladas «Conceptual» o «Interpretativa». Los casos prácticos se rotulan «Caso práctico (Aplicación razonada)».
+# Competencias directivas. La Primera Parte de la Constitución no regula funciones ni atribuciones específicas de directoras o directores de unidades educativas: «No respaldado por el documento fuente». Por ello, la dimensión 3 evalúa únicamente deberes, prohibiciones y responsabilidades que el texto impone de forma expresa al Estado, a los servidores públicos, a los docentes, a las bolivianas y los bolivianos o a los centros educativos, y que enmarcan la actuación directiva.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 23 preguntas y la más corta en 7, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Numeración
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–5)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada fundamentación remite a artículos y parágrafos verificables de la Primera Parte, con su página PDF.
+# Contenido limitado exclusivamente a la fuente proporcionada; no se atribuyen a la Constitución competencias directivas que no contiene.
+
+CAPÍTULO: cpe-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. Según el Artículo 1 de la Constitución Política del Estado, Bolivia se constituye en un Estado:
+A. Federal Social de Derecho Plurinacional Comunitario, descentralizado y con autonomías.
+B. Unitario Social de Derecho Plurinacional Comunitario, descentralizado y con autonomías.
+C. Unitario Democrático de Derecho Intercultural, centralizado, soberano y sin autonomías territoriales.
+D. Plurinacional Social de Derecho Autonómico, federado, comunitario y descentralizado.
+Respuesta correcta: B
+Explicación: El Artículo 1 define a Bolivia como Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. Las demás opciones alteran el carácter unitario o la existencia de autonomías.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. I: Modelo de Estado. Art. 1; pág. PDF: 2. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. El Artículo 13.I establece que los derechos reconocidos por la Constitución son:
+A. Inviolables, universales, jerarquizados, indivisibles y progresivos.
+B. Inalienables, universales, interdependientes, divisibles y progresivos en su goce.
+C. Inviolables, universales, interdependientes, indivisibles y progresivos.
+D. Inviolables, nacionales, interdependientes, indivisibles y graduales.
+Respuesta correcta: C
+Explicación: El Artículo 13.I enumera textualmente los caracteres: inviolables, universales, interdependientes, indivisibles y progresivos, y añade el deber estatal de promoverlos, protegerlos y respetarlos.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 13, parágrafo I; pág. PDF: 5. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. De acuerdo con el Artículo 78.I, la educación es:
+A. Unitaria, pública, universal, democrática, competitiva, comunitaria, descolonizadora y de calidad.
+B. Diversa, pública, selectiva, democrática, participativa, comunitaria, descolonizadora y de calidad integral.
+C. Unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.
+D. Unitaria, estatal, universal, representativa, participativa, comunitaria, neutral y de calidad.
+Respuesta correcta: C
+Explicación: El Artículo 78.I enumera ocho caracteres: unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad. Los distractores introducen rasgos ajenos al texto (competitiva, selectiva, representativa, neutral).
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 78, parágrafo I; pág. PDF: 20. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. ¿Qué establece el Artículo 81 respecto a la obligatoriedad y la gratuidad de la educación?
+A. Es obligatoria hasta el nivel primario; la fiscal es gratuita en todos sus niveles hasta el secundario.
+B. Es obligatoria hasta el bachillerato; la fiscal es gratuita solo en los niveles inicial y primario.
+C. Es obligatoria hasta el nivel superior; la fiscal es gratuita en todos sus niveles hasta el bachillerato.
+D. Es obligatoria hasta el bachillerato; la fiscal es gratuita en todos sus niveles hasta el superior.
+Respuesta correcta: D
+Explicación: El Artículo 81.I dispone que la educación es obligatoria hasta el bachillerato, y el 81.II, que la educación fiscal es gratuita en todos sus niveles hasta el superior.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 81, parágrafos I y II; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. ¿Cuál de los siguientes principios ético-morales del Artículo 8.I aparece acompañado de su significado correcto según el propio texto constitucional?
+A. Teko kavi, que significa tierra sin mal.
+B. Ivi maraei, que significa camino o vida noble.
+C. Ñandereko, que significa vida armoniosa.
+D. Qhapaj ñan, que significa vida buena.
+Respuesta correcta: C
+Explicación: El Artículo 8.I traduce ñandereko como «vida armoniosa». En el mismo texto, teko kavi es «vida buena», ivi maraei es «tierra sin mal» y qhapaj ñan es «camino o vida noble»; los distractores cruzan esos significados.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. II: Principios, valores y fines del Estado. Art. 8, parágrafo I; pág. PDF: 3. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. ¿Qué caracterización de la soberanía corresponde al Artículo 7?
+A. Reside en el pueblo boliviano, se ejerce de forma directa y delegada, y es inalienable e imprescriptible.
+B. Reside en los órganos del poder público, se ejerce por delegación y es inalienable e imprescriptible.
+C. Reside en el pueblo boliviano, se ejerce solo de forma delegada y es prescriptible por ley expresa.
+D. Reside en la Asamblea Legislativa, se ejerce de forma directa y delegada, y es inalienable e indivisible en su ejercicio.
+Respuesta correcta: A
+Explicación: El Artículo 7 señala que la soberanía reside en el pueblo boliviano, se ejerce de forma directa y delegada, y es inalienable e imprescriptible; de ella emanan, por delegación, las funciones de los órganos del poder público.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. II: Principios, valores y fines del Estado. Art. 7; pág. PDF: 3. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. ¿Qué relación conceptual establece el Artículo 98.I entre diversidad cultural e interculturalidad?
+A. La interculturalidad es la base esencial del Estado y la diversidad cultural, el instrumento de cohesión social.
+B. La diversidad cultural es la base esencial del Estado y la interculturalidad, el instrumento de cohesión y convivencia.
+C. La diversidad cultural es un fin del Estado y la interculturalidad, un valor ético-moral de carácter facultativo y subsidiario.
+D. La unidad lingüística es la base esencial del Estado y la interculturalidad, un mecanismo de integración gradual.
+Respuesta correcta: B
+Explicación: Según el Artículo 98.I, la diversidad cultural constituye la base esencial del Estado Plurinacional Comunitario y la interculturalidad es el instrumento para la cohesión y la convivencia armónica y equilibrada entre todos los pueblos y naciones.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección III: Culturas. Art. 98, parágrafo I; pág. PDF: 24. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. En relación con la clasificación de los derechos y con los derechos no enunciados, la Constitución establece que:
+A. La clasificación establece jerarquía y solo se protegen los derechos enunciados expresamente.
+B. La clasificación no determina jerarquía y lo proclamado no niega otros derechos no enunciados.
+C. La clasificación no determina jerarquía, pero solo se protegen los derechos enunciados en el texto.
+D. La clasificación establece jerarquía, aunque lo proclamado no niega otros derechos no enunciados.
+Respuesta correcta: B
+Explicación: El Artículo 13.II dispone que los derechos proclamados no se entenderán como negación de otros no enunciados, y el 13.III, que la clasificación de los derechos no determina jerarquía ni superioridad de unos sobre otros.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 13, parágrafos II y III; pág. PDF: 5. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. Según el Artículo 12.I, la organización del Estado está fundamentada en:
+A. La subordinación, separación, coordinación y cooperación de los órganos.
+B. La independencia, concentración, coordinación y cooperación de los órganos.
+C. La independencia, separación, jerarquía y delegación entre los órganos.
+D. La independencia, separación, coordinación y cooperación de los órganos.
+Respuesta correcta: D
+Explicación: El Artículo 12.I fundamenta la organización estatal en la independencia, separación, coordinación y cooperación de los órganos Legislativo, Ejecutivo, Judicial y Electoral; el 12.III prohíbe reunir o delegar sus funciones.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. III: Sistema de gobierno. Art. 12, parágrafos I y III; pág. PDF: 4. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. ¿Qué rasgo conceptual comparten la educación (Art. 77.I) y la salud (Art. 37) en el texto constitucional?
+A. Ambas se definen como función suprema y primera responsabilidad financiera del Estado.
+B. Ambas se definen como competencias concurrentes delegables a los gobiernos autónomos departamentales.
+C. Ambas se definen como servicios públicos sujetos a concesión bajo control social.
+D. Ambas se definen como deberes de la sociedad con financiamiento estatal subsidiario.
+Respuesta correcta: A
+Explicación: El Artículo 77.I califica la educación como función suprema y primera responsabilidad financiera del Estado; el Artículo 37 emplea idéntica fórmula para el derecho a la salud.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 77, parágrafo I (pág. PDF 20) y Art. 37 (pág. PDF 12). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+11. Una madre presenta por escrito una petición ante la dirección de una unidad educativa fiscal. ¿Qué exigencia constitucional enmarca la actuación de la autoridad que la recibe?
+A. Dar respuesta en el plazo del reglamento interno, previa acreditación de su interés legal y directo.
+B. Dar respuesta formal y pronta, sin exigir más requisito que la identificación de la peticionaria.
+C. Responder solo si la petición es colectiva, pues la individual carece de tutela expresa.
+D. Dar respuesta formal y pronta, siempre que la petición cuente con patrocinio de abogado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 24 reconoce el derecho de petición individual o colectiva, oral o escrita, y a obtener respuesta formal y pronta, sin exigir más requisito que la identificación del peticionario. La Constitución no regula atribuciones específicas del cargo directivo; la exigencia deriva del derecho reconocido.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección I: Derechos civiles. Art. 24; pág. PDF: 8. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+12. En la gestión de inscripciones, ¿qué prohíbe expresamente el Artículo 86 en los centros educativos?
+A. Impartir enseñanza de religión, por ser el Estado independiente de toda religión o creencia espiritual.
+B. Reconocer la espiritualidad de las NPIOC fuera de las unidades educativas de convenio.
+C. Discriminar en la aceptación y permanencia de las alumnas y los alumnos por su opción religiosa.
+D. Admitir estudiantes de opciones religiosas distintas a la de la entidad administradora.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 86 garantiza en los centros educativos la libertad de conciencia y de fe y la enseñanza de religión, y dispone que no se discriminará en la aceptación y permanencia de los estudiantes por su opción religiosa.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 86; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+13. Una autoridad educativa consiente que un funcionario ejerza coacción y violencia moral sobre estudiantes. Según el Artículo 114.I, ¿qué consecuencia prevé la Constitución para los servidores públicos que consientan tales prácticas?
+A. Destitución, sin perjuicio de las sanciones determinadas por la ley.
+B. Amonestación escrita, sin perjuicio de las sanciones administrativas.
+C. Suspensión temporal, sujeta a valoración de la autoridad superior.
+D. Traslado de funciones, sin perjuicio de la reparación a la víctima.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 114.I prohíbe toda forma de coacción y violencia física o moral, y dispone que los servidores o autoridades públicas que las apliquen, instiguen o consientan serán destituidos, sin perjuicio de las sanciones de ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 114, parágrafo I; pág. PDF: 28. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+14. Un directivo conoce que un servidor público desvió recursos del Estado y causó grave daño económico. ¿Qué afirmación integra correctamente los Artículos 108.8 y 112?
+A. Existe el deber de denunciarlo, y ese delito es imprescriptible y no admite régimen de inmunidad.
+B. Existe el deber de denunciarlo, pero ese delito prescribe conforme a los plazos de la ley penal.
+C. Solo la víctima directa puede denunciarlo, y ese delito es imprescriptible y no admite régimen de inmunidad.
+D. Existe la facultad de denunciarlo, y ese delito admite inmunidad si el autor es autoridad electa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 108.8 impone a bolivianas y bolivianos el deber de denunciar y combatir los actos de corrupción. El Artículo 112 declara imprescriptibles y sin régimen de inmunidad los delitos de servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico.
+Sustento: Constitución Política del Estado, Primera Parte. Título III: Deberes. Art. 108, num. 8 (pág. PDF 27) y Art. 112 (pág. PDF 28). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. Al planificar la gestión pedagógica, ¿qué obligación impone el Artículo 96.II a los docentes del magisterio?
+A. Financiar con recursos propios su formación de posgrado universitario.
+B. Acreditar formación en universidad privada para conservar su inamovilidad.
+C. Participar en procesos de actualización y capacitación pedagógica continua.
+D. Participar en procesos de evaluación externa a cargo del Ministerio del ramo.
+Respuesta correcta: C
+Explicación: El Artículo 96.II dispone que los docentes del magisterio deberán participar en procesos de actualización y capacitación pedagógica continua; el 96.I atribuye al Estado la formación docente a través de escuelas superiores.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 96, parágrafo II; pág. PDF: 24. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+16. Respecto a la participación de madres y padres de familia en el sistema educativo, la Constitución:
+A. La reconoce como facultad consultiva, cuya composición y atribuciones fija cada unidad educativa.
+B. La garantiza solo en el nivel central del Estado, mediante organismos designados por el Ministerio del ramo.
+C. La reconoce y garantiza mediante organismos representativos, cuya composición y atribuciones fija la ley.
+D. La reconoce y garantiza mediante organismos representativos con atribución de acreditar la calidad.
+Respuesta correcta: C
+Explicación: El Artículo 83 reconoce y garantiza la participación social, comunitaria y de los padres de familia mediante organismos representativos en todos los niveles del Estado y en las NPIOC, y remite a la ley su composición y atribuciones.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 83; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+17. Si el Estado es condenado a reparar patrimonialmente daños causados por la omisión de un servidor público del sector educativo, ¿qué debe hacer según el Artículo 113.II?
+A. Interponer la acción de cumplimiento contra la autoridad o servidor público responsable.
+B. Interponer la acción de repetición contra la autoridad o servidor público responsable.
+C. Asumir el daño con cargo al presupuesto institucional, sin accionar contra el responsable.
+D. Interponer la acción popular contra la autoridad o servidor público responsable del daño.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 113.II dispone que, si el Estado es condenado a la reparación patrimonial de daños y perjuicios, deberá interponer la acción de repetición contra la autoridad o servidor público responsable de la acción u omisión.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 113, parágrafo II; pág. PDF: 28. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+18. En la atención de servicios dentro de una institución educativa, el interés superior de la niña, niño y adolescente comprende, según el Artículo 60:
+A. La prioridad en la atención solo de los servicios públicos y la primacía en recibir sanción formativa.
+B. La equivalencia de sus derechos con los de adultos y la prioridad en servicios estrictamente privados.
+C. La prioridad en la atención de los servicios públicos, condicionada a la autorización de progenitores.
+D. La prioridad en la atención de los servicios públicos y privados y la primacía en recibir protección.
+Respuesta correcta: D
+Explicación: El Artículo 60 establece como deber del Estado, la sociedad y la familia garantizar el interés superior, que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro, la prioridad en la atención de servicios públicos y privados y el acceso a una justicia pronta.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección V: Derechos de la niñez, adolescencia y juventud. Art. 60; pág. PDF: 17. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+19. Un funcionario sin designación ni competencia emite una resolución que separa a un estudiante de la unidad educativa. Según el Artículo 122, ese acto:
+A. Es nulo, por provenir de quien usurpa funciones que no le competen.
+B. Es anulable, hasta que la autoridad competente decida convalidarlo.
+C. Es válido, mientras no sea impugnado por los padres de la familia.
+D. Es nulo, solo si causa un daño económico verificado contra el Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 122 declara nulos los actos de las personas que usurpen funciones que no les competen y los de quienes ejercen jurisdicción o potestad que no emane de la ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 122; pág. PDF: 30. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+20. Al organizar actividades extracurriculares, ¿qué parámetro fija el Artículo 61.II para las actividades de niñas, niños y adolescentes en el marco familiar y social?
+A. Deben orientarse a la generación de ingresos familiares bajo supervisión de un adulto.
+B. Deben orientarse a su formación integral como ciudadanos y tener una función formativa.
+C. Pueden incluir trabajo forzado si existe consentimiento expreso de sus progenitores.
+D. Deben orientarse a su formación técnica y tener una finalidad estrictamente productiva y laboral.
+Respuesta correcta: B
+Explicación: El Artículo 61.II prohíbe el trabajo forzado y la explotación infantil, y dispone que las actividades de niñas, niños y adolescentes en el marco familiar y social estarán orientadas a su formación integral como ciudadanas y ciudadanos y tendrán una función formativa.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección V: Derechos de la niñez, adolescencia y juventud. Art. 61, parágrafo II; pág. PDF: 17. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. ¿Cuál es la interpretación correcta del Artículo 13.IV en su segunda oración?
+A. Los tratados de derechos humanos solo se aplican si la ley interna los reglamenta de forma expresa, previa y específica.
+B. Los derechos constitucionales se interpretan conforme a los tratados de derechos humanos ratificados por Bolivia.
+C. Los derechos constitucionales se interpretan conforme a la ley ordinaria, que prevalece sobre todo tratado.
+D. Los tratados de derechos humanos prevalecen únicamente durante la vigencia de un estado de excepción.
+Respuesta correcta: B
+Explicación: El Artículo 13.IV dispone que los derechos y deberes consagrados en la Constitución se interpretarán de conformidad con los tratados internacionales de derechos humanos ratificados por Bolivia; además, los tratados que prohíben su limitación en estados de excepción prevalecen en el orden interno.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 13, parágrafo IV; pág. PDF: 5. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Aplicación razonada
+22. Un reglamento interno obliga a los estudiantes a una conducta que ni la Constitución ni las leyes mandan. Desde el Artículo 14.IV, ¿qué interpretación corresponde?
+A. La exigencia es válida si fue aprobada por la mayoría de la comunidad educativa reunida en asamblea.
+B. En el ejercicio de derechos, toda obligación es válida mientras no esté prohibida de manera expresa.
+C. En el ejercicio de derechos, nadie puede ser obligado a hacer lo que la Constitución y las leyes no manden.
+D. La exigencia es válida siempre que se aplique por igual a todos los estudiantes de la unidad educativa, sin excepción.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 14.IV establece que, en el ejercicio de los derechos, nadie será obligado a hacer lo que la Constitución y las leyes no manden, ni a privarse de lo que éstas no prohíban.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 14, parágrafo IV; pág. PDF: 5. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. El Artículo 109 establece que todos los derechos reconocidos en la Constitución:
+A. Son directamente aplicables, gozan de iguales garantías y solo pueden ser regulados por la ley.
+B. Son aplicables previa reglamentación, gozan de iguales garantías y pueden regularse por decreto.
+C. Son directamente aplicables, pero gozan de garantías diferenciadas según su clasificación.
+D. Son de carácter programático, gozan de iguales garantías y solo pueden ser regulados por la ley.
+Respuesta correcta: A
+Explicación: El Artículo 109.I declara que todos los derechos son directamente aplicables y gozan de iguales garantías para su protección; el 109.II, que los derechos y sus garantías solo podrán ser regulados por la ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 109, parágrafos I y II (págs. PDF 27-28); pág. PDF: 27. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. Según el Artículo 123, la ley tiene efecto retroactivo, entre otros casos:
+A. En materia de corrupción, para investigar, procesar y sancionar delitos de servidores públicos contra el Estado.
+B. En materia administrativa, para sancionar faltas disciplinarias de servidores públicos contra el Estado y la sociedad.
+C. En materia laboral, cuando lo determine expresamente a favor del empleador o de la entidad pública.
+D. En materia penal, cuando agrave la situación de la imputada o del imputado por delitos de corrupción.
+Respuesta correcta: A
+Explicación: El Artículo 123 dispone que la ley solo rige para lo venidero, salvo en materia laboral a favor de los trabajadores, en materia penal cuando beneficie al imputado, en materia de corrupción para investigar, procesar y sancionar delitos de servidores públicos contra el Estado, y en los demás casos señalados por la Constitución.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 123; pág. PDF: 30. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. ¿Cuál es el objetivo de la educación según el Artículo 80.I?
+A. La formación especializada de las personas y el fortalecimiento de la competitividad en el mercado laboral.
+B. La formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.
+C. La formación integral de las personas y la homogeneización cultural y lingüística de toda la población.
+D. La formación cívica de las personas y el fortalecimiento de la obediencia institucional en la vida escolar.
+Respuesta correcta: B
+Explicación: El Artículo 80.I fija como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 80, parágrafo I; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. ¿Qué interpretación del Artículo 82 es correcta respecto al apoyo estudiantil?
+A. Prioriza a estudiantes con menos posibilidades económicas y estimula con becas el excelente aprovechamiento.
+B. Prioriza a estudiantes de excelente aprovechamiento y condiciona todo apoyo económico a su rendimiento.
+C. Prioriza a estudiantes del área urbana y estimula con becas solo a quienes cursan la educación superior universitaria.
+D. Prioriza a estudiantes con menos posibilidades económicas, pero excluye las becas en el nivel regular.
+Respuesta correcta: A
+Explicación: El Artículo 82.II ordena apoyar con prioridad a los estudiantes con menos posibilidades económicas; el 82.III dispone estimular con becas a estudiantes de excelente aprovechamiento en todos los niveles del sistema educativo.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 82, parágrafos II y III; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. ¿Cómo se armoniza el derecho de madres y padres a elegir la educación de sus hijos con el régimen de las unidades educativas privadas?
+A. Se respeta esa elección, y las unidades privadas se rigen por sus propios planes, con autonomía plena frente al sistema educativo.
+B. Se respeta esa elección, y las unidades privadas se rigen por las políticas, planes, programas y autoridades del sistema.
+C. Se subordina esa elección a la oferta fiscal, y las unidades privadas funcionan solo en el nivel secundario.
+D. Se respeta esa elección, siempre que las unidades privadas reciban subvención y tuición de los padres.
+Respuesta correcta: B
+Explicación: El Artículo 88.I reconoce las unidades educativas privadas en todos los niveles y modalidades, sujetas a las políticas, planes, programas y autoridades del sistema educativo; el 88.II respeta el derecho de madres y padres a elegir la educación que convenga a sus hijos.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 88, parágrafos I y II; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. ¿Qué alcance tiene el Artículo 89?
+A. Encarga la evaluación y acreditación de la calidad educativa a una dirección técnica dependiente del Ministerio.
+B. Encarga la evaluación y acreditación de la calidad educativa a cada unidad educativa en ejercicio de su autonomía.
+C. Encarga la evaluación y acreditación de la calidad educativa a una institución pública técnica independiente del Ministerio.
+D. Encarga la evaluación y acreditación de la calidad educativa a la Universidad Boliviana mediante su organismo central de coordinación.
+Respuesta correcta: C
+Explicación: El Artículo 89 asigna el seguimiento, la medición, evaluación y acreditación de la calidad educativa a una institución pública, técnica especializada e independiente del Ministerio del ramo, cuya composición y funcionamiento determina la ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 89; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Conceptual
+29. Según el Artículo 79, los valores que fomenta la educación incorporarán:
+A. La equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.
+B. La equidad de género, la complementariedad de roles, la disciplina y la vigencia plena de los derechos humanos.
+C. La igualdad formal, la no diferencia de roles, la no violencia y la vigencia progresiva de los deberes cívicos.
+D. La equidad de género, la no diferencia de roles, la obediencia y la vigencia preferente de los valores patrios.
+Respuesta correcta: A
+Explicación: El Artículo 79 dispone que la educación fomentará el civismo, el diálogo intercultural y los valores ético-morales, que incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 79; pág. PDF: 20. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. Sobre la tuición del sistema educativo, el Artículo 77.II dispone que:
+A. Solo el Estado tiene tuición plena sobre un sistema que comprende la educación regular, alternativa y especial, y superior.
+B. El Estado y la sociedad tienen tuición plena sobre un sistema que comprende la educación regular, alternativa y especial, y superior.
+C. El Estado y la sociedad tienen tuición compartida sobre la educación regular, quedando la superior bajo tuición privada.
+D. El Estado y las familias tienen tuición plena sobre un sistema que comprende únicamente la educación regular y especial.
+Respuesta correcta: B
+Explicación: El Artículo 77.II establece que el Estado y la sociedad tienen tuición plena sobre el sistema educativo, que comprende la educación regular, la alternativa y especial, y la educación superior de formación profesional.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 77, parágrafo II; pág. PDF: 20. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. ¿Qué distingue la Acción de Cumplimiento de la Acción de Amparo Constitucional?
+A. La primera procede contra actos de particulares que restrinjan derechos; la segunda, solo contra normas jurídicas contrarias a la Constitución en abstracto.
+B. La primera procede por amenazas a derechos colectivos del medio ambiente; la segunda, por la persecución ilegal o la privación indebida de la libertad.
+C. La primera procede por incumplimiento de normas constitucionales o legales por servidores públicos; la segunda, contra actos u omisiones ilegales que restrinjan derechos.
+D. La primera procede para rectificar datos en bancos de datos públicos; la segunda, contra el incumplimiento de la ley por parte de servidores públicos.
+Respuesta correcta: C
+Explicación: El Artículo 134.I hace proceder la Acción de Cumplimiento ante el incumplimiento de disposiciones constitucionales o legales por servidores públicos; el Artículo 128 hace proceder el Amparo contra actos u omisiones ilegales o indebidos que restrinjan, supriman o amenacen derechos.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección V: Acción de Cumplimiento. Art. 128 (pág. PDF 31) y Art. 134, parágrafo I (pág. PDF 33). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. ¿Qué rasgo propio de la Acción Popular la diferencia de la Acción de Amparo Constitucional?
+A. Puede interponerse en el plazo máximo de seis meses, computable desde la última decisión administrativa.
+B. Puede interponerse solo por la persona directamente afectada, previo agotamiento de la vía administrativa y judicial.
+C. Puede interponerse ante cualquier juez en materia penal, sin formalidad procesal alguna y de manera oral.
+D. Puede interponerse mientras subsista la vulneración, sin necesidad de agotar la vía judicial o administrativa.
+Respuesta correcta: D
+Explicación: El Artículo 136.I permite interponer la Acción Popular durante el tiempo que subsista la vulneración o amenaza, sin agotar la vía judicial o administrativa. El Amparo, en cambio, tiene plazo de seis meses y es subsidiario (Art. 129.I-II).
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección VI: Acción Popular. Art. 136, parágrafo I (pág. PDF 33) y Art. 129 (pág. PDF 31). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. ¿Qué afirmación diferencia correctamente nacionalidad y ciudadanía?
+A. La nacionalidad se adquiere por nacimiento o matrimonio; la ciudadanía se ejerce desde los 18 años, según el nivel de instrucción alcanzado.
+B. La nacionalidad se adquiere solo por nacimiento; la ciudadanía se ejerce desde los 16 años, sin importar instrucción, ocupación o renta.
+C. La nacionalidad se pierde al adquirir otra ciudadanía; la ciudadanía se ejerce desde los 18 años, sin importar ocupación o renta.
+D. La nacionalidad se adquiere por nacimiento o naturalización; la ciudadanía se ejerce desde los 18 años, sin importar instrucción, ocupación o renta.
+Respuesta correcta: D
+Explicación: El Artículo 141.I dispone que la nacionalidad se adquiere por nacimiento o naturalización; el Artículo 144.I, que la ciudadanía se ejerce a partir de los 18 años, cualesquiera sean los niveles de instrucción, ocupación o renta. El Artículo 143.I aclara que la nacionalidad no se pierde por adquirir otra ciudadanía.
+Sustento: Constitución Política del Estado, Primera Parte. Título V, Cap. I: Nacionalidad. Arts. 141.I (págs. PDF 34-35), 143.I y 144.I (pág. PDF 35). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. Respecto al Artículo 8, ¿qué opción ubica correctamente un elemento como principio ético-moral y otro como valor del Estado?
+A. Principio: complementariedad; valor: suma qamaña (vivir bien).
+B. Principio: suma qamaña (vivir bien); valor: complementariedad.
+C. Principio: reciprocidad; valor: ama llulla (no seas mentiroso).
+D. Principio: transparencia; valor: teko kavi (vida buena).
+Respuesta correcta: B
+Explicación: El Artículo 8.I enumera los principios ético-morales (entre ellos suma qamaña, vivir bien). El Artículo 8.II enumera los valores en que se sustenta el Estado, entre ellos complementariedad, reciprocidad y transparencia.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. II: Principios, valores y fines del Estado. Art. 8, parágrafos I y II; pág. PDF: 3. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. ¿Qué diferencia establece la Constitución entre universidades públicas y privadas en materia de titulación?
+A. Ambas extienden diplomas y títulos con validez nacional, pero las privadas requieren tribunales del Ministerio.
+B. Las privadas extienden diplomas y títulos con validez nacional; las públicas requieren aprobación legislativa.
+C. Las públicas extienden solo diplomas académicos; los títulos de ambas los otorga el Ministerio del ramo.
+D. Las públicas extienden diplomas y títulos con validez en todo el Estado; en las privadas, los títulos los otorga el Estado.
+Respuesta correcta: D
+Explicación: El Artículo 92.III autoriza a las universidades públicas a extender diplomas académicos y títulos profesionales con validez en todo el Estado. El Artículo 94.II autoriza a las privadas a expedir diplomas académicos, mientras que los títulos profesionales con validez nacional los otorga el Estado.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 92, parágrafo III (pág. PDF 23) y Art. 94, parágrafo II (pág. PDF 24). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+36. Una unidad educativa condiciona la permanencia de una estudiante a que abandone el turno regular por estar embarazada, alegando «protección institucional». ¿Cuál es la valoración constitucional más fundamentada?
+A. La medida es discriminatoria: el embarazo es causa prohibida y la educación debe recibirse sin discriminación.
+B. La medida es legítima: la protección institucional prevalece cuando se trata de estudiantes adolescentes menores de edad.
+C. La medida es válida si se ofrece a la estudiante una modalidad alternativa con igual carga horaria semanal.
+D. La medida es discriminatoria solo si la estudiante es mayor de edad y ejerce plenamente su ciudadanía.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 14.II prohíbe y sanciona la discriminación fundada, entre otras causas, en el embarazo; el Artículo 17 reconoce el derecho a recibir educación sin discriminación, y el 82.I garantiza el acceso y la permanencia en condiciones de plena igualdad.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 14.II (pág. PDF 5), Art. 17 (pág. PDF 6) y Art. 82.I (pág. PDF 21). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+37. Para sustentar un proceso disciplinario se presentan mensajes privados obtenidos revisando, sin autorización, el teléfono de un estudiante. ¿Qué análisis es correcto?
+A. Esa información es válida, pues el interés institucional justifica conocer comunicaciones de menores.
+B. Esa información es válida si el estudiante no la objeta en el plazo previsto por el reglamento interno.
+C. Esa información no produce efecto legal, pues fue obtenida con violación de comunicaciones privadas.
+D. Esa información solo pierde valor si fue obtenida por un tercero ajeno a la unidad educativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 25.I garantiza el secreto de las comunicaciones privadas salvo autorización judicial, y el 25.IV dispone que la información y prueba obtenidas con violación de comunicaciones en cualquiera de sus formas no producirán efecto legal.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección I: Derechos civiles. Art. 25, parágrafos I y IV; pág. PDF: 8. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+38. En un conflicto institucional, un consejo sostiene que los derechos civiles «están por encima» de los derechos sociales porque figuran antes en el texto constitucional. ¿Qué crítica es pertinente?
+A. Es errada: la clasificación de los derechos en la Constitución no determina jerarquía ni superioridad entre ellos.
+B. Es correcta: el orden de los capítulos expresa la jerarquía que el constituyente asignó a cada derecho.
+C. Es errada: los derechos sociales prevalecen siempre, por ser función suprema y responsabilidad estatal.
+D. Es correcta solo para los derechos de las NPIOC, que poseen rango superior al de los derechos sociales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 13.III establece que la clasificación de los derechos no determina jerarquía alguna ni superioridad de unos derechos sobre otros; por tanto, ningún argumento basado en el orden del texto es válido.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 13, parágrafo III; pág. PDF: 5. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+39. Un trabajador de una unidad educativa aplica a estudiantes una medida humillante y alega que cumplía una orden de su superior. ¿Qué análisis corresponde según los Artículos 15.I y 110.III?
+A. Queda exento, pues la responsabilidad recae solo en quien emitió la orden superior.
+B. Responde como autor inmediato; haber actuado por orden superior no le sirve de excusa.
+C. Responde solo si la orden superior fue verbal y no consta por escrito en la institución.
+D. Responde de forma subsidiaria, siempre que la autoridad superior resulte insolvente.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 15.I prohíbe los tratos crueles, inhumanos, degradantes o humillantes. El Artículo 110.III establece que los atentados contra la seguridad personal hacen responsables a sus autores inmediatos, sin que pueda servirles de excusa el haberlos cometido por orden superior.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 15.I (pág. PDF 6) y Art. 110.III (pág. PDF 28). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+40. Una unidad educativa impone a todo el estudiantado la participación obligatoria en el culto de una sola confesión religiosa. ¿Qué análisis es correcto?
+A. Vulnera la libertad de conciencia y de fe, pues la convivencia religiosa debe fomentarse sin imposición dogmática.
+B. Es válida, porque la Constitución reconoce la enseñanza de religión y esta incluye la práctica obligatoria del culto.
+C. Es válida en unidades fiscales, pues el Estado puede promover un credo mayoritario si respeta a las minorías.
+D. Vulnera derechos solo en unidades privadas, pues en las fiscales el Estado define la orientación religiosa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 86 garantiza en los centros educativos la libertad de conciencia y de fe y fomenta el respeto y la convivencia entre personas con diversas opciones religiosas, sin imposición dogmática. El Artículo 4 declara al Estado independiente de la religión.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 86 (págs. PDF 21-22) y Art. 4 (pág. PDF 2). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+41. El director de una unidad situada en un territorio indígena originario campesino decide impartir toda la enseñanza exclusivamente en castellano. ¿Qué análisis crítico corresponde?
+A. Es coherente, porque el castellano es el único idioma oficial exigible en el ámbito educativo nacional.
+B. Es coherente, siempre que la lengua indígena se enseñe en el nivel superior de formación profesional.
+C. Contradice solo el derecho de los docentes a enseñar en su lengua materna sin restricción alguna.
+D. Contradice el carácter intracultural, intercultural y plurilingüe de la educación en todo el sistema educativo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 78.II dispone que la educación es intracultural, intercultural y plurilingüe en todo el sistema educativo; el Artículo 30.II.12 reconoce a las NPIOC ese mismo tipo de educación, y el 5.I declara oficiales también los idiomas de las NPIOC.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 78.II (pág. PDF 20), Art. 30.II.12 (pág. PDF 10) y Art. 5.I (pág. PDF 2). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+42. Un responsable administrativo propone despedir a una trabajadora de la institución por su estado de embarazo, alegando necesidades de servicio. ¿Qué valoración es correcta?
+A. Es válida si se justifica en una reorganización administrativa y se paga la indemnización correspondiente.
+B. Es inconstitucional: se garantiza la inamovilidad laboral de la mujer embarazada hasta que su hija o hijo cumpla un año.
+C. Es inconstitucional solo si la trabajadora cuenta con más de un año de antigüedad laboral en la entidad.
+D. Es válida, porque la inamovilidad laboral se garantiza únicamente al personal docente del magisterio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 48.VI prohíbe discriminar o despedir a las mujeres por su situación de embarazo y garantiza la inamovilidad laboral de las mujeres embarazadas y de los progenitores hasta que la hija o el hijo cumpla un año de edad.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección III: Derecho al trabajo y al empleo. Art. 48, parágrafo VI; pág. PDF: 14. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+43. Un estudiante es expulsado sin haber sido escuchado ni haber podido presentar descargos. ¿Qué análisis es el más fundamentado en la Constitución?
+A. Es válida, porque el debido proceso rige solo en materia penal ante autoridades jurisdiccionales del Estado.
+B. Es válida si la sanción fue aprobada por mayoría absoluta del consejo de maestras y maestros.
+C. Afecta solo la reputación del estudiante, lo cual se corrige con una rectificación posterior.
+D. Afecta el derecho al debido proceso y el derecho inviolable a la defensa que el Estado garantiza.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 115.II garantiza el derecho al debido proceso y a la defensa, y el 119.II reconoce a toda persona el derecho inviolable a la defensa. La Constitución no limita la garantía del debido proceso a la materia penal.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 115.II (pág. PDF 28) y Art. 119.II (pág. PDF 29). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+44. Una unidad educativa fiscal retiene el diploma de bachiller de un estudiante hasta que pague aportes pendientes. ¿Qué análisis es correcto?
+A. Es válida, pues la gratuidad del diploma se limita a quienes acreditan bajos recursos económicos en la unidad educativa fiscal.
+B. Es válida si el cobro fue aprobado por el organismo de participación de madres y padres de familia.
+C. Es contraria al Artículo 81.III, que dispone otorgar el diploma de bachiller con carácter gratuito e inmediato.
+D. Es contraria a la Constitución solo si el estudiante obtuvo un excelente aprovechamiento académico.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 81.III dispone que, a la culminación del nivel secundario, se otorgará el diploma de bachiller con carácter gratuito e inmediato; el 81.II establece la gratuidad de la educación fiscal.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 81, parágrafos II y III; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+45. Durante un estado de excepción por desastre natural, se instruye suspender toda información pública sobre la situación de las unidades educativas afectadas. ¿Qué análisis es correcto?
+A. Es válida mientras la Asamblea Legislativa no se pronuncie dentro de las setenta y dos horas siguientes a la declaración.
+B. Es inconstitucional: el estado de excepción no puede suspender, en ningún caso, el derecho a la información.
+C. Es válida, pues el estado de excepción suspende los derechos fundamentales en la parte del territorio.
+D. Es inconstitucional solo si la declaración de excepción abarca la totalidad del territorio nacional.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 137 dispone que la declaración del estado de excepción no podrá en ningún caso suspender las garantías de los derechos, los derechos fundamentales, el debido proceso, el derecho a la información ni los derechos de las personas privadas de libertad.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. III: Estados de excepción. Art. 137 (págs. PDF 33-34); pág. PDF: 33. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. Una unidad educativa recibe a una estudiante con talentos extraordinarios en el aprendizaje. ¿Qué disposición resulta aplicable?
+A. El Estado derivará su educación a un subsistema independiente, con estructura y principios propios.
+B. El Estado promoverá su educación solo en el nivel superior, mediante becas de universidades públicas.
+C. El Estado promoverá su educación permanente fuera del sistema, con desarrollo curricular a cargo de la familia y la comunidad.
+D. El Estado promoverá su educación permanente bajo la misma estructura del sistema, con desarrollo curricular especial.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 85 dispone que el Estado promoverá y garantizará la educación permanente de niñas, niños y adolescentes con discapacidad o con talentos extraordinarios, bajo la misma estructura, principios y valores del sistema educativo, con una organización y desarrollo curricular especial.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 85; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. Ingresa a la unidad educativa un estudiante con discapacidad que requiere un lenguaje alternativo para comunicarse. ¿Qué derechos del Artículo 70 se aplican directamente?
+A. A la comunicación en castellano y a una educación diferenciada de costo reducido.
+B. A la comunicación asistida solo en el nivel superior y a una educación gratuita.
+C. A la comunicación en lenguaje alternativo, siempre que la familia asuma su costo.
+D. A la comunicación en lenguaje alternativo y a una educación integral gratuita.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 70 reconoce a toda persona con discapacidad, entre otros, el derecho a una educación y salud integral gratuita (num. 2) y a la comunicación en lenguaje alternativo (num. 3).
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección VIII: Derechos de las personas con discapacidad. Art. 70, numerales 2 y 3 (págs. PDF 18-19); pág. PDF: 18. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. Al conformar las selecciones deportivas escolares se excluye a estudiantes por razón de género y de ubicación territorial. ¿Qué disposición se aplica?
+A. El Artículo 104, que garantiza el acceso al deporte sin distinción de género ni de ubicación territorial.
+B. El Artículo 105, que limita la práctica deportiva competitiva a quienes se forman en el nivel superior de formación profesional.
+C. El Artículo 104, que reconoce el deporte como actividad optativa sujeta a los criterios de cada unidad.
+D. El Artículo 105, que prioriza la práctica deportiva competitiva sobre la preventiva y la recreativa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 104 reconoce el derecho al deporte, la cultura física y la recreación, y garantiza el acceso al deporte sin distinción de género, idioma, religión, orientación política, ubicación territorial, pertenencia social, cultural o de cualquier otra índole.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección V: Deporte y recreación. Art. 104; pág. PDF: 26. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. Se planifica aplicar exámenes de laboratorio a todos los estudiantes sin su consentimiento ni el de sus representantes legales, y sin peligro inminente para su vida. ¿Qué regla se aplica?
+A. Ninguna persona será sometida a examen de laboratorio sin su consentimiento o el de terceros autorizados.
+B. La medida es válida, porque los exámenes preventivos se presumen consentidos en el ámbito educativo regular.
+C. La medida requiere solo la aprobación del consejo educativo, sin consentimiento individual alguno.
+D. Ninguna persona será sometida a examen médico sin orden judicial escrita y motivada de autoridad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 44.I dispone que ninguna persona será sometida a intervención quirúrgica, examen médico o de laboratorio sin su consentimiento o el de terceros legalmente autorizados, salvo peligro inminente de su vida.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección II: Derecho a la salud y a la seguridad social. Art. 44, parágrafo I; pág. PDF: 13. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. Un grupo de ciudadanos pretende fiscalizar los actos de una dirección distrital de educación. ¿Qué disposición respalda su pretensión?
+A. El derecho de petición, que comprende la facultad de revocar los actos de la función pública.
+B. El derecho de participación, que comprende la fiscalización de los actos de la función pública.
+C. El derecho de asociación, que comprende la potestad de sancionar los actos de la función pública.
+D. El derecho de participación, que comprende la aprobación previa de los actos de la función pública.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 26.II.5 establece que el derecho a la participación comprende la fiscalización de los actos de la función pública.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección II: Derechos políticos. Art. 26, parágrafo II, numeral 5; pág. PDF: 9. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. Un docente considera vulnerado un derecho por una decisión administrativa notificada hace cuatro meses y no dispone de otro medio legal de protección inmediata. ¿Puede interponer Acción de Amparo Constitucional?
+A. No, porque el plazo máximo es de tres meses computables desde la comisión de la vulneración alegada.
+B. Sí, porque el plazo máximo es de seis meses desde la vulneración o la notificación de la última decisión.
+C. Sí, porque la acción puede interponerse mientras subsista la vulneración, sin plazo alguno.
+D. No, porque el amparo solo procede contra actos de particulares y no contra servidores públicos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 129.I exige que no exista otro medio o recurso legal de protección inmediata, y el 129.II fija un plazo máximo de seis meses desde la vulneración o desde la notificación de la última decisión administrativa o judicial. El Artículo 128 lo hace procedente contra actos de servidores públicos.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección II: Acción de Amparo Constitucional. Arts. 128 y 129, parágrafos I y II; pág. PDF: 31. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. Una institución publica en internet datos personales de estudiantes registrados en sus archivos y se niega a eliminarlos o rectificarlos. ¿Qué acción corresponde?
+A. Acción Popular, para obtener la eliminación o rectificación de los datos como interés colectivo.
+B. Acción de Libertad, para obtener la eliminación o rectificación de los datos ante un juez penal.
+C. Acción de Protección de Privacidad, para obtener la eliminación o rectificación de los datos registrados.
+D. Acción de Inconstitucionalidad, para obtener la eliminación de los datos con efectos para todos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 130.I habilita la Acción de Protección de Privacidad a quien esté impedido de conocer, objetar u obtener la eliminación o rectificación de datos registrados en archivos públicos o privados; el 131.II prevé que el juez ordene su revelación, eliminación o rectificación.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección III: Acción de Protección de Privacidad. Art. 130, parágrafo I y Art. 131, parágrafo II; pág. PDF: 32. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. Una autoridad educativa omite ejecutar una disposición legal expresa que la obliga a emitir un acto, en perjuicio de un colectivo docente. ¿Qué acción corresponde y con qué objeto?
+A. Acción de Cumplimiento, para garantizar la ejecución de la norma omitida.
+B. Acción de Amparo, para declarar la inconstitucionalidad de la norma omitida.
+C. Acción Popular, para obtener una indemnización por la norma omitida.
+D. Acción de Inconstitucionalidad, para dejar sin efecto la norma omitida.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 134.I hace proceder la Acción de Cumplimiento ante el incumplimiento de disposiciones constitucionales o de la ley por servidores públicos, con el objeto de garantizar la ejecución de la norma omitida; puede interponerla la persona individual o colectiva afectada (134.II).
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección V: Acción de Cumplimiento. Art. 134, parágrafos I y II; pág. PDF: 33. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. Una actividad particular contaminante, cercana a una unidad educativa, amenaza la salubridad pública y el medio ambiente de la zona. ¿Qué acción de defensa corresponde?
+A. Acción de Amparo, por afectar derechos individuales vinculados a la salud de cada estudiante matriculado en la unidad.
+B. Acción de Cumplimiento, por amenazar derechos colectivos vinculados al medio ambiente y a la salubridad.
+C. Acción Popular, por amenazar derechos e intereses colectivos vinculados a la salubridad y al medio ambiente.
+D. Acción de Libertad, por poner en peligro la vida de la comunidad educativa expuesta al riesgo ambiental.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 135 hace proceder la Acción Popular contra actos u omisiones de autoridades o de personas individuales o colectivas que violen o amenacen derechos e intereses colectivos relacionados con la seguridad y salubridad pública y el medio ambiente.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección VI: Acción Popular. Art. 135; pág. PDF: 33. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. Un estudiante mayor de edad es privado de libertad sin mandamiento y su familia quiere acudir de inmediato ante un juez. Según el Artículo 125:
+A. Cualquiera a su nombre puede interponer Acción de Libertad, oral o escrita, sin formalidad procesal alguna.
+B. Solo el afectado puede interponer Acción de Libertad, por escrito y con patrocinio de un abogado.
+C. Cualquiera a su nombre puede interponer Acción de Amparo, previa acreditación de poder suficiente.
+D. Solo el Defensor del Pueblo puede interponer Acción de Libertad, oral o escrita, ante un juez penal competente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 125 permite interponer la Acción de Libertad, de manera oral o escrita, por sí o por cualquiera a su nombre y sin ninguna formalidad procesal, ante cualquier juez o tribunal competente en materia penal.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. II, Sección I: Acción de Libertad. Art. 125; pág. PDF: 30. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. Un trabajador de la unidad educativa sorprende en delito flagrante a una persona adulta que sustrae bienes de la institución. ¿Qué permite el Artículo 23.IV?
+A. Retenerla en la institución hasta setenta y dos horas, mientras se reúnen las pruebas documentales del delito.
+B. Aprehenderla solo con mandamiento escrito emitido por la autoridad educativa de mayor jerarquía.
+C. Aprehenderla aun sin mandamiento, con el único objeto de conducirla ante autoridad judicial competente.
+D. Aprehenderla aun sin mandamiento, con el objeto de imponerle una sanción disciplinaria inmediata.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 23.IV permite que toda persona encontrada en delito flagrante sea aprehendida por cualquier otra persona, aun sin mandamiento, con el único objeto de conducirla ante autoridad judicial competente, que resolverá en el plazo máximo de veinticuatro horas.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección I: Derechos civiles. Art. 23, parágrafo IV; pág. PDF: 8. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. Una entidad religiosa que administra una unidad educativa de convenio pretende aplicar planes y programas propios, al margen del sistema. ¿Qué dispone el Artículo 87?
+A. Esas unidades funcionan bajo tuición pública y se rigen por las mismas normas, planes y programas del sistema.
+B. Esas unidades funcionan bajo tuición de la entidad religiosa y se rigen por planes y programas propios de su credo.
+C. Esas unidades funcionan con fines de lucro moderado y se rigen por las mismas normas del sistema.
+D. Esas unidades funcionan bajo tuición pública, pero sus planes y programas los aprueban las familias.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 87 reconoce las unidades de convenio con fines de servicio social, acceso libre y sin fines de lucro, que funcionan bajo la tuición de las autoridades públicas, respetando el derecho de administración de entidades religiosas, y se rigen por las mismas normas, políticas, planes y programas del sistema educativo.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 87; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. ¿Qué disposición constitucional se aplica cuando se discute la estabilidad del personal docente del magisterio?
+A. Se garantiza la carrera docente, pero la inamovilidad se reconoce solo al personal de unidades privadas.
+B. Se garantiza la inamovilidad del personal docente, salvo decisión motivada de la junta escolar del lugar o del distrito.
+C. Se garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley.
+D. Se garantiza la carrera docente y la inamovilidad del personal, conforme al reglamento de cada unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 96.III garantiza la carrera docente y la inamovilidad del personal docente del magisterio, conforme con la ley, y dispone que los docentes gozarán de un salario digno.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 96, parágrafo III; pág. PDF: 24. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. Se pretende despedir a una dirigente sindical del personal de una institución educativa tres meses después de concluida su gestión. ¿Qué regla se aplica?
+A. No puede despedírsele hasta un año después de finalizada su gestión, ni disminuírsele sus derechos sociales.
+B. No puede despedírsele mientras dure su gestión, pero sus derechos sociales pueden ajustarse por necesidad del servicio.
+C. No puede despedírsele hasta dos años después de finalizada su gestión, salvo acuerdo con la entidad.
+D. Puede despedírsele por actos sindicales, siempre que se respete el debido proceso administrativo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 51.VI reconoce el fuero sindical: no se despedirá a dirigentes sindicales hasta un año después de finalizada su gestión, no se disminuirán sus derechos sociales ni se les perseguirá por actos realizados en cumplimiento de su labor sindical.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección III: Derecho al trabajo y al empleo. Art. 51, parágrafo VI; pág. PDF: 15. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. En un área rural dispersa, estudiantes de escasos recursos abandonan sus estudios por la distancia. ¿Qué medidas prevé el Artículo 82.II?
+A. Apoyo exclusivo mediante becas de excelencia, condicionadas al rendimiento académico del estudiante.
+B. Apoyo prioritario mediante recursos, alimentación, transporte, material escolar y residencias estudiantiles.
+C. Apoyo prioritario mediante traslado obligatorio a unidades urbanas con internados de gestión privada o de convenio.
+D. Apoyo prioritario mediante residencias estudiantiles financiadas en su totalidad por las familias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 82.II ordena apoyar con prioridad a los estudiantes con menos posibilidades económicas mediante recursos económicos, programas de alimentación, vestimenta, transporte, material escolar y, en áreas dispersas, residencias estudiantiles, de acuerdo con la ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 82, parágrafo II; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+61. Caso: en una unidad educativa urbana, un docente reduce sistemáticamente las calificaciones de estudiantes que se expresan en quechua durante las clases, argumentando que así «acelera» el aprendizaje del castellano. ¿Cuál es la calificación constitucional del hecho?
+A. Es una medida pedagógica válida para garantizar el aprendizaje del castellano como idioma común.
+B. Es discriminación solo si afecta a estudiantes de una NPIOC con territorio titulado colectivamente por el Estado.
+C. Es discriminación por idioma, que el Estado prohíbe y sanciona, contraria a la educación plurilingüe.
+D. Es una falta leve, cuya corrección depende exclusivamente de la solicitud expresa de los padres.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 14.II prohíbe y sanciona toda discriminación fundada en el idioma; el Artículo 78.II define la educación como intracultural, intercultural y plurilingüe en todo el sistema, y el 5.I reconoce el quechua como idioma oficial.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 14.II (pág. PDF 5), Art. 78.II (pág. PDF 20) y Art. 5.I (pág. PDF 2). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+62. Caso: un estudiante de 12 años relata a su maestra que sufre violencia física y psicológica por parte de un familiar. La maestra informa a la dirección. ¿Qué respuesta es coherente con la Constitución?
+A. Abstenerse de intervenir, porque la violencia en el ámbito familiar pertenece a la esfera privada de la familia.
+B. Esperar una denuncia formal de ambos progenitores, pues sin ella no existe deber institucional de actuar.
+C. Activar la protección solo si la violencia es física, pues la violencia psicológica carece de tutela expresa.
+D. Activar la protección prioritaria del estudiante, pues toda violencia contra niños en la familia está prohibida y sancionada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 61.I prohíbe y sanciona toda forma de violencia contra niñas, niños y adolescentes en la familia y la sociedad; el 60 impone al Estado, la sociedad y la familia garantizar su interés superior, con primacía en recibir protección; el 15.II protege frente a la violencia física, sexual o psicológica.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección V: Derechos de la niñez, adolescencia y juventud. Art. 60, Art. 61.I (pág. PDF 17) y Art. 15.II (pág. PDF 6). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+63. Caso: una comunidad afroboliviana solicita que la unidad educativa de su zona incorpore una educación intracultural, intercultural y plurilingüe análoga a la reconocida a las NPIOC. ¿Tiene respaldo constitucional la solicitud?
+A. No, porque el pueblo afroboliviano no figura en la conformación de la nación boliviana según el texto constitucional vigente.
+B. Sí, porque el pueblo afroboliviano goza, en lo que corresponda, de los derechos reconocidos a las NPIOC.
+C. Sí, pero solo respecto de los derechos políticos, excluyéndose los derechos culturales y sociales.
+D. No, porque los derechos de las NPIOC exigen una existencia anterior a la invasión colonial española.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 32 dispone que el pueblo afroboliviano goza, en todo lo que corresponda, de los derechos económicos, sociales, políticos y culturales reconocidos a las NPIOC, entre ellos la educación del Art. 30.II.12. El Artículo 3 incluye a las comunidades afrobolivianas en la nación boliviana.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. IV: Derechos de las naciones y pueblos indígena originario campesinos. Art. 32 (pág. PDF 11), Art. 30.II.12 (pág. PDF 10) y Art. 3 (pág. PDF 2). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+64. Caso: los promotores de una unidad educativa privada pretenden iniciar actividades alegando la libertad de enseñanza, sin someterse a verificación previa alguna. ¿Qué dispone la Constitución?
+A. Su funcionamiento se garantiza previa verificación de condiciones y cumplimiento de requisitos legales.
+B. Su funcionamiento se garantiza con la sola inscripción ante el organismo de participación social.
+C. Su funcionamiento se garantiza sin verificación, en respeto a la libertad de enseñanza privada.
+D. Su funcionamiento se autoriza por decreto supremo, previa verificación de requisitos legales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 88.I dispone que el Estado garantiza el funcionamiento de las unidades educativas privadas previa verificación de las condiciones y cumplimiento de los requisitos establecidos por la ley. La autorización por decreto supremo corresponde a las universidades privadas (Art. 94.I).
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 88, parágrafo I (pág. PDF 22) y Art. 94, parágrafo I (pág. PDF 23). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+65. Caso: en una unidad educativa fiscal, la organización de padres de familia acuerda un cobro obligatorio por «derecho de inscripción» y condiciona la matrícula a su pago. ¿Qué solución es constitucionalmente correcta?
+A. El cobro es válido, porque la participación social en educación incluye fijar aportes obligatorios.
+B. El cobro es válido si los recursos se destinan a infraestructura y se rinde cuentas a la comunidad.
+C. El cobro contraviene la gratuidad de la educación fiscal y el derecho a una educación sin discriminación.
+D. El cobro contraviene la gratuidad solo en el nivel superior, pues en el regular rige la corresponsabilidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 81.II dispone que la educación fiscal es gratuita en todos sus niveles hasta el superior; el Artículo 17 reconoce el derecho a una educación gratuita sin discriminación. El Artículo 83 garantiza la participación de los padres, pero remite a la ley sus atribuciones y no autoriza cobros.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 81.II (pág. PDF 21), Art. 17 (pág. PDF 6) y Art. 83 (pág. PDF 21). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+66. Caso: una instancia estatal prevé una medida administrativa que afectará la organización educativa de un territorio indígena originario campesino. ¿Qué exige el Artículo 30.II.15?
+A. Consultar a la nación o pueblo mediante procedimientos apropiados y, en particular, a través de sus instituciones.
+B. Informar a la nación o pueblo una vez ejecutada la medida, mediante publicación oficial en su idioma.
+C. Consultar a la nación o pueblo solo si la medida implica explotar recursos naturales no renovables.
+D. Consultar a cada miembro de la nación o pueblo mediante voto universal, directo, individual y secreto.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 30.II.15 reconoce a las NPIOC el derecho a ser consultadas mediante procedimientos apropiados, y en particular a través de sus instituciones, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles. La consulta previa obligatoria sobre recursos no renovables es un supuesto adicional, no el único.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. IV: Derechos de las naciones y pueblos indígena originario campesinos. Art. 30, parágrafo II, numeral 15 (pág. PDF 11). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+67. Caso: una secretaria de la institución denuncia hostigamiento reiterado de su superior inmediato, sin que exista despido. ¿Qué respaldo constitucional tiene su reclamo?
+A. La Constitución tolera el acoso laboral cuando deriva de la relación jerárquica propia del servicio.
+B. La Constitución prohíbe solo el acoso laboral que culmina en el despido injustificado del trabajador afectado por el acoso.
+C. La Constitución prohíbe toda forma de acoso laboral y remite a la ley la determinación de las sanciones.
+D. La Constitución prohíbe el acoso laboral y fija directamente la sanción de destitución inmediata.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 49.III dispone que el Estado protegerá la estabilidad laboral, prohíbe el despido injustificado y toda forma de acoso laboral, y remite a la ley la determinación de las sanciones.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección III: Derecho al trabajo y al empleo. Art. 49, parágrafo III; pág. PDF: 15. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+68. Caso: un estudiante con discapacidad es excluido de una salida pedagógica «por precaución», sin evaluar ajustes que permitan su participación. ¿Cómo se resuelve constitucionalmente?
+A. La exclusión es válida si se fundamenta en la seguridad del grupo y se comunica antes a la familia.
+B. La exclusión es inconstitucional solo si el estudiante acredita una certificación de discapacidad grave.
+C. La exclusión es válida, porque la acción positiva se limita a los ámbitos productivo y económico.
+D. La exclusión contraría la prohibición de discriminación y el deber estatal de adoptar medidas de acción positiva.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 71.I prohíbe y sanciona cualquier tipo de discriminación contra personas con discapacidad; el 71.II obliga al Estado a adoptar medidas de acción positiva para su efectiva integración en los ámbitos productivo, económico, político, social y cultural.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección VIII: Derechos de las personas con discapacidad. Art. 71, parágrafos I y II; pág. PDF: 19. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+69. Caso: concluido un estado de excepción que obligó a suspender clases presenciales, se anuncia la declaración de otro estado de excepción a los siete meses. ¿Qué exige el Artículo 138.II?
+A. Aprobación posterior del Tribunal Constitucional dentro de las setenta y dos horas.
+B. Consulta previa a la comunidad educativa, por afectar la continuidad del servicio.
+C. Ningún requisito adicional, pues basta la decisión de la Presidenta o el Presidente del Estado.
+D. Autorización legislativa previa, pues no puede declararse otro dentro del año siguiente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 138.II dispone que, finalizado el estado de excepción, no podrá declararse otro dentro del siguiente año, salvo autorización legislativa previa.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. III: Estados de excepción. Art. 138, parágrafo II; pág. PDF: 34. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+70. Caso: una unidad educativa rechaza inscribir a una niña extranjera que reside en Bolivia, aduciendo que la educación es un derecho reservado a nacionales. ¿Qué solución es correcta?
+A. Las personas extranjeras acceden a la educación solo si residen más de tres años bajo supervisión estatal en el país.
+B. Las personas extranjeras tienen derechos civiles, pero no derechos sociales como el acceso a la educación fiscal.
+C. Las personas extranjeras tienen los derechos constitucionales, salvo restricciones expresas, y la nacionalidad es causa prohibida de discriminación.
+D. Las personas extranjeras acceden a la educación previa reciprocidad acreditada con su país de origen o residencia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 14.VI reconoce a los extranjeros en territorio boliviano los derechos establecidos en la Constitución, salvo las restricciones que ésta contenga; el 14.II prohíbe discriminar por nacionalidad; el 17 reconoce a toda persona el derecho a la educación. Los tres años de residencia corresponden a la naturalización (Art. 142.I).
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. I: Disposiciones generales. Art. 14.II y VI (pág. PDF 5) y Art. 17 (pág. PDF 6). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. Caso: para cerrar una investigación interna, un regente obtiene la «confesión» de un estudiante amenazándolo con perder el año escolar. ¿Qué valor tiene esa declaración?
+A. Es válida si el estudiante la ratifica luego por escrito ante la dirección.
+B. Es anulable, salvo que el estudiante acepte los hechos con posterioridad.
+C. Es válida, porque la nulidad alcanza solo a declaraciones ante un juez.
+D. Es nula de pleno derecho, por haber sido obtenida mediante coacción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 114.II dispone que las declaraciones, acciones u omisiones obtenidas mediante tortura, coacción, exacción o cualquier forma de violencia son nulas de pleno derecho.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 114, parágrafo II; pág. PDF: 28. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. Caso: el consejo de una universidad pública decide contratar un empréstito con garantía de sus bienes para ampliar sus institutos. ¿Qué condición establece el Artículo 92.I?
+A. Puede negociar empréstitos libremente, pues su autonomía excluye todo control legislativo o ministerial.
+B. No puede negociar empréstitos, pues su autonomía se limita a la administración académica.
+C. Puede negociar empréstitos con garantía de sus bienes, previa autorización del Ministerio.
+D. Puede negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 92.I define la autonomía universitaria (libre administración de recursos, nombramiento de autoridades, estatutos, planes y presupuestos, contratos) y establece que las universidades públicas podrán negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 92, parágrafo I; pág. PDF: 23. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. Caso: un grupo de estudiantes difunde fotografías y comentarios ofensivos sobre una compañera en redes sociales del curso. ¿Qué derechos de la afectada se comprometen directamente?
+A. Solo su derecho de petición, pues puede solicitar formalmente el retiro de las imágenes difundidas.
+B. Derechos colectivos de la comunidad educativa, tutelables únicamente mediante la Acción Popular.
+C. Sus derechos a la privacidad, intimidad, honra, honor, propia imagen y dignidad del Artículo 21.2.
+D. Ningún derecho, pues la libertad de expresión ampara difundir imágenes por cualquier medio.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 21.2 reconoce el derecho a la privacidad, intimidad, honra, honor, propia imagen y dignidad. Además, el Artículo 22 declara inviolable la dignidad de la persona y el 61.I prohíbe toda forma de violencia contra niñas, niños y adolescentes.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección I: Derechos civiles. Art. 21, numeral 2 y Art. 22 (pág. PDF 7). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. Caso: la dirección toma conocimiento de que un estudiante adolescente fue detenido y permanece en el mismo recinto que personas adultas. ¿Cuál es la valoración correcta?
+A. No se vulnera norma alguna si la detención no supera el plazo máximo de veinticuatro horas de ley.
+B. Se vulnera el Artículo 23.II solo si el adolescente no fue informado del motivo de su detención.
+C. No se vulnera norma alguna, pues la separación por edad rige solo tras una sentencia ejecutoriada.
+D. Se vulnera el Artículo 23.II: la detención de adolescentes debe cumplirse en recintos distintos de los de adultos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 23.II dispone que se evitará imponer a los adolescentes medidas privativas de libertad, que recibirán atención preferente y que la detención deberá cumplirse en recintos distintos de los asignados para adultos, considerando las necesidades de su edad.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. III, Sección I: Derechos civiles. Art. 23, parágrafo II; pág. PDF: 8. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. Caso: el personal docente de un distrito anuncia una huelga para defender derechos laborales y una autoridad la declara «prohibida» por tratarse del servicio educativo. ¿Qué establece la Constitución?
+A. Prohíbe la huelga en servicios educativos, por ser la educación función suprema del Estado boliviano.
+B. Garantiza la huelga como facultad legal de suspender labores para defender derechos, de acuerdo con la ley.
+C. Garantiza la huelga solo a trabajadores del sector privado, conforme a sus propios estatutos internos y a la ley laboral.
+D. Garantiza la huelga como facultad ilimitada, sin sujeción a regulación legal de ninguna naturaleza.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 53 garantiza el derecho a la huelga como el ejercicio de la facultad legal de las trabajadoras y los trabajadores de suspender labores para la defensa de sus derechos, de acuerdo con la ley. La Constitución no contiene una prohibición específica para el sector educativo.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección III: Derecho al trabajo y al empleo. Art. 53; pág. PDF: 16. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. Caso: una autoridad pretende obligar a una familia a inscribir a su hijo en una unidad fiscal, pese a que la familia eligió una unidad privada debidamente autorizada. ¿Qué solución corresponde?
+A. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.
+B. Prevalece la asignación estatal, pues la educación fiscal es obligatoria hasta el bachillerato.
+C. Se respeta su elección solo si la unidad privada recibe subvención del Estado para funcionar.
+D. Prevalece la decisión del organismo de participación social de la comunidad educativa local.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 88.II respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos. La obligatoriedad del Artículo 81.I se refiere a la educación hasta el bachillerato, no a la educación fiscal en particular.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 88, parágrafo II; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. Caso: una universidad privada que ofrece carreras de formación docente solicita subvención estatal argumentando su contribución social. ¿Procede la solicitud según la Constitución?
+A. Sí, siempre que la universidad privada cumpla funciones de interés social en áreas rurales dispersas.
+B. Sí, porque las universidades son subvencionadas obligatoriamente por el Estado, sin distinción alguna.
+C. No, porque la Constitución dispone expresamente que el Estado no subvencionará a las universidades privadas.
+D. No, salvo aprobación legislativa previa y presentación de estados financieros a la Contraloría General del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 94.III establece que el Estado no subvencionará a las universidades privadas. La subvención obligatoria y suficiente del Artículo 93.I se refiere solo a las universidades públicas.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 94, parágrafo III (pág. PDF 24) y Art. 93, parágrafo I (pág. PDF 23). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. Caso: se pretende sancionar disciplinariamente a un servidor educativo por un hecho anterior a la norma que lo tipifica, sin que se trate de un caso de corrupción. ¿Qué solución es correcta según los Artículos 116.II y 123?
+A. No procede: toda sanción debe fundarse en una ley anterior al hecho y la ley solo dispone para lo venidero.
+B. Procede, porque la retroactividad se admite en toda materia administrativa vinculada al servicio público educativo.
+C. Procede, siempre que la nueva norma resulte más gravosa y proteja intereses del sistema educativo.
+D. No procede, salvo que la sanción sea aprobada por la máxima autoridad ejecutiva de la entidad pública.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 116.II dispone que cualquier sanción debe fundarse en una ley anterior al hecho punible; el 123 establece que la ley solo dispone para lo venidero, con excepciones taxativas (laboral a favor del trabajador, penal en beneficio del imputado, corrupción y otros casos constitucionales).
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 116.II (pág. PDF 29) y Art. 123 (pág. PDF 30). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. Caso: durante una obra en una unidad educativa se hallan piezas arqueológicas, y se propone venderlas para financiar infraestructura escolar. ¿Qué solución es correcta?
+A. Es posible, si los recursos se destinan prioritariamente a la conservación de la infraestructura escolar.
+B. No es posible: el patrimonio cultural, incluida la riqueza arqueológica, es inalienable, inembargable e imprescriptible.
+C. Es posible, previa autorización de la comunidad educativa y registro del bien ante la autoridad estatal.
+D. No es posible, salvo que las piezas carezcan de registro oficial como patrimonio cultural de la humanidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 99.I declara inalienable, inembargable e imprescriptible el patrimonio cultural del pueblo boliviano, y el 99.III incluye en él la riqueza arqueológica. El Artículo 108.14 impone además el deber de resguardar y proteger el patrimonio cultural.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección III: Culturas. Art. 99, parágrafos I y III (pág. PDF 25) y Art. 108.14 (pág. PDF 27). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. Caso: estudiantes y docentes detectan un atentado ambiental en las cercanías de la unidad educativa y deciden actuar. ¿Qué establece el Artículo 34?
+A. Solo las instituciones públicas pueden ejercitar acciones legales, previa denuncia formal de la comunidad afectada.
+B. Cualquier persona puede ejercitar acciones legales, siempre que acredite un daño patrimonial directo y personal.
+C. Solo quienes representan a una colectividad pueden ejercitar acciones, previa autorización de la autoridad ambiental.
+D. Cualquier persona puede ejercitar acciones legales, sin perjuicio del deber de las instituciones públicas de actuar de oficio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 34 faculta a cualquier persona, a título individual o en representación de una colectividad, para ejercitar las acciones legales en defensa del medio ambiente, sin perjuicio de la obligación de las instituciones públicas de actuar de oficio.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección I: Derecho al medio ambiente. Art. 34; pág. PDF: 11. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. Con recursos limitados para material escolar, ¿qué criterio de asignación es más coherente con el Artículo 82.II?
+A. Priorizar a los estudiantes con menos posibilidades económicas, conforme al apoyo preferente previsto.
+B. Distribuir los recursos por orden de inscripción, para garantizar una igualdad estrictamente formal.
+C. Priorizar a los estudiantes de mejor rendimiento, como incentivo directo al excelente aprovechamiento.
+D. Asignar los recursos a quienes aportan a la asociación de padres, en reconocimiento a su participación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 82.II ordena al Estado apoyar con prioridad a los estudiantes con menos posibilidades económicas, mediante recursos económicos, alimentación, vestimenta, transporte y material escolar, entre otros.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 82, parágrafo II; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. Al definir la planificación curricular anual, ¿qué decisión se alinea con el Artículo 79?
+A. Incorporar contenidos de civismo, diálogo intercultural, equidad de género y no violencia en la planificación.
+B. Incorporar contenidos de civismo y disciplina, sustituyendo el diálogo intercultural por la unidad lingüística.
+C. Incorporar contenidos de equidad de género solo en el nivel secundario, como materia optativa y evaluable.
+D. Incorporar contenidos de no violencia mediante la enseñanza obligatoria de un credo religioso determinado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 79 dispone que la educación fomentará el civismo, el diálogo intercultural y los valores ético-morales, que incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 79; pág. PDF: 20. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. Una estudiante denuncia agresión física de un docente. ¿Qué decisión institucional resulta más coherente con los Artículos 15, 60 y 61?
+A. Mediar en privado entre el docente y la familia, evitando la denuncia para preservar la imagen institucional de la unidad.
+B. Adoptar protección inmediata y canalizar la denuncia, pues toda violencia contra niños está prohibida y sancionada.
+C. Esperar el cierre de la gestión escolar para evaluar el caso, a fin de no alterar el calendario académico.
+D. Trasladar a la estudiante a otro curso como única medida, pues la sanción del docente compete al sindicato.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 61.I prohíbe y sanciona toda forma de violencia contra niñas, niños y adolescentes; el 60 otorga primacía a su protección; el 15.III obliga al Estado a prevenir, eliminar y sancionar la violencia de género y generacional. La Constitución no regula el procedimiento interno, que corresponde a la ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección V: Derechos de la niñez, adolescencia y juventud. Art. 15.III (pág. PDF 6), Arts. 60 y 61.I (pág. PDF 17). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. Un niño cuyos progenitores no se conocen es inscrito por la persona responsable de su cuidado, que consulta qué apellido registrar. ¿Qué decisión se ajusta al Artículo 59.IV?
+A. Asignar el apellido que determine la dirección, hasta conocer a los progenitores.
+B. Registrarlo sin apellido, hasta que una autoridad judicial establezca su filiación definitiva.
+C. Asignar el apellido de la persona responsable, solo si acredita una adopción legal.
+D. Reconocer el apellido convencional elegido por la persona responsable de su cuidado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 59.IV reconoce a toda niña, niño y adolescente el derecho a la identidad y la filiación, y dispone que, cuando no se conozcan los progenitores, utilizarán el apellido convencional elegido por la persona responsable de su cuidado.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección V: Derechos de la niñez, adolescencia y juventud. Art. 59, parágrafo IV; pág. PDF: 17. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. Un centro de educación alternativa evalúa ofrecer programas a personas recluidas en un centro penitenciario. ¿Qué disposición respalda esa decisión?
+A. Las personas privadas de libertad podrán estudiar solo después de cumplir su condena, como medida de rehabilitación.
+B. Las personas privadas de libertad tendrán la oportunidad de estudiar, previa autorización de la víctima.
+C. Las personas privadas de libertad podrán estudiar solo en modalidades a distancia, sin acceso presencial.
+D. Las personas privadas de libertad tendrán la oportunidad de trabajar y estudiar en los centros penitenciarios.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 74.II dispone que las personas privadas de libertad tendrán la oportunidad de trabajar y estudiar en los centros penitenciarios; el 118.III orienta las sanciones privativas de libertad a la educación, habilitación e inserción social.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección IX: Derechos de las personas privadas de libertad. Art. 74.II (pág. PDF 19) y Art. 118.III (pág. PDF 29). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. Al diseñar un programa de alfabetización para la comunidad de la unidad educativa, ¿qué decisión se ajusta al Artículo 84?
+A. Diseñar programas uniformes en castellano, para asegurar resultados comparables en todo el país.
+B. Diseñar programas acordes con la realidad cultural y lingüística de la población destinataria.
+C. Diseñar programas exclusivamente estatales, pues la sociedad no tiene deber alguno en la materia.
+D. Diseñar programas acordes con la demanda laboral, priorizando a la población económicamente activa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 84 establece que el Estado y la sociedad tienen el deber de erradicar el analfabetismo a través de programas acordes con la realidad cultural y lingüística de la población.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 84; pág. PDF: 21. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. Una unidad educativa decide crear un medio de comunicación escolar de alcance comunitario. ¿Qué orientación del Artículo 107 resulta más pertinente para su línea editorial?
+A. Producir programas exclusivamente en castellano, para asegurar la comprensión de toda la audiencia escolar y comunitaria.
+B. Producir programas sin revisión de veracidad, pues la libertad de expresión excluye toda responsabilidad.
+C. Producir programas comerciales, concentrando la difusión con otros medios para ampliar su alcance local.
+D. Producir programas educativos plurilingües y en lenguaje alternativo, que promuevan valores éticos y cívicos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 107.I dispone que los medios de comunicación social contribuirán a promover los valores éticos, morales y cívicos con programas educativos plurilingües y en lenguaje alternativo para discapacitados; el 107.II exige veracidad y responsabilidad, y el 107.III prohíbe monopolios u oligopolios.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VII: Comunicación social. Art. 107, parágrafos I a III; pág. PDF: 26. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. Un superior ordena a un servidor de la unidad educativa encerrar a estudiantes en un aula como castigo. ¿Qué decisión corresponde al servidor según los Artículos 110.III y 114.I?
+A. Ejecutarla, dejando constancia escrita de la orden para trasladar toda la responsabilidad al superior.
+B. Abstenerse de ejecutarla, pues el confinamiento está prohibido y la orden superior no exime de responsabilidad.
+C. Ejecutarla solo por un tiempo breve, siempre que los estudiantes estén bajo la supervisión de un adulto responsable.
+D. Consultar a los padres y ejecutarla si la mayoría de ellos otorga su consentimiento expreso y escrito.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 114.I prohíbe toda forma de confinamiento, coacción o violencia física o moral; el Artículo 110.III dispone que los autores inmediatos de atentados contra la seguridad personal son responsables, sin que les sirva de excusa la orden superior.
+Sustento: Constitución Política del Estado, Primera Parte. Título IV, Cap. I: Garantías jurisdiccionales. Art. 110.III y Art. 114.I (pág. PDF 28). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. Una comunidad convoca a un cabildo y pretende que sus conclusiones sean vinculantes para reorganizar una unidad educativa. ¿Qué decisión se ajusta al Artículo 11.II.1?
+A. Reconocer el cabildo como forma de democracia representativa con carácter vinculante para toda autoridad.
+B. Reconocer el cabildo como forma de democracia directa y participativa con carácter deliberativo, conforme a Ley.
+C. Desconocer el cabildo, pues la democracia directa se limita al referendo y a la revocatoria de mandato.
+D. Reconocer el cabildo como forma de democracia comunitaria con potestad normativa sobre la unidad educativa del lugar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 11.II.1 incluye la asamblea y el cabildo entre las formas de democracia directa y participativa, y establece que las asambleas y cabildos tendrán carácter deliberativo conforme a Ley.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. III: Sistema de gobierno. Art. 11, parágrafo II, numeral 1; pág. PDF: 4. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. Un trabajador administrativo firma un documento por el que renuncia a sus beneficios sociales a cambio de mantener su puesto. ¿Qué decisión institucional es correcta?
+A. Considerarlo válido, pues la renuncia fue voluntaria y consta en un documento firmado por el trabajador.
+B. Considerarlo válido solo si el trabajador recibe a cambio un incentivo económico de valor equivalente.
+C. Considerarlo nulo solo si el trabajador demuestra haber firmado bajo coacción o violencia moral grave.
+D. Considerarlo nulo: los derechos y beneficios laborales son irrenunciables y son nulas las convenciones contrarias.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 48.III establece que los derechos y beneficios reconocidos en favor de las trabajadoras y los trabajadores no pueden renunciarse, y que son nulas las convenciones contrarias o que tiendan a burlar sus efectos.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. V, Sección III: Derecho al trabajo y al empleo. Art. 48, parágrafo III; pág. PDF: 14. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. Al formular el proyecto institucional, ¿qué orientación articula mejor los fines esenciales del Estado del Artículo 9 con la gestión educativa?
+A. Promover la competencia entre unidades educativas y el diálogo monolingüe, con criterios de selectividad académica.
+B. Promover la uniformidad cultural y el acceso condicionado a la educación, según el rendimiento previo.
+C. Promover el acceso a la educación y el diálogo intracultural, intercultural y plurilingüe, sin discriminación.
+D. Promover el acceso a la educación privada como fin esencial del Estado y la neutralidad cultural plena.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 9 señala como fines del Estado constituir una sociedad sin discriminación (num. 1), fomentar el diálogo intracultural, intercultural y plurilingüe (num. 2) y garantizar el acceso de las personas a la educación (num. 5).
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. II: Principios, valores y fines del Estado. Art. 9, numerales 1, 2 y 5; pág. PDF: 3. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. Para el diseño del modelo de gestión participativa de una institución educativa, ¿qué opción es coherente con la Constitución?
+A. Concentrar las decisiones en la dirección, limitando la participación de padres a actividades festivas, culturales y deportivas.
+B. Delegar la conducción pedagógica a los padres de familia, como expresión de la tuición plena de la sociedad.
+C. Institucionalizar la participación solo en unidades privadas, donde los padres financian el servicio educativo.
+D. Institucionalizar la participación social, comunitaria y de padres mediante organismos representativos, conforme a la ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 83 reconoce y garantiza la participación social, comunitaria y de padres de familia mediante organismos representativos, con composición y atribuciones fijadas por ley; el 78.I define la educación como democrática, participativa y comunitaria.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 83 (pág. PDF 21) y Art. 78.I (pág. PDF 20). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. En la planificación de la mejora de la calidad educativa, ¿qué referencia institucional debe considerarse según el Artículo 89?
+A. Las autoevaluaciones internas de cada unidad, con valor de acreditación oficial en todo el sistema.
+B. La evaluación que realicen las universidades privadas acreditadas mediante tribunales examinadores.
+C. La evaluación y acreditación a cargo de una institución pública técnica, independiente del Ministerio.
+D. Las certificaciones de organismos internacionales de calidad, en sustitución de la acreditación pública.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 89 asigna el seguimiento, la medición, evaluación y acreditación de la calidad educativa en todo el sistema a una institución pública, técnica especializada, independiente del Ministerio del ramo.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 89; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. Una dirección distrital proyecta fortalecer la formación técnica en el nivel secundario. ¿Qué enfoque estratégico es coherente con los Artículos 78 y 80?
+A. Separar la teoría de la práctica productiva, reservando la educación técnica para la educación superior.
+B. Vincular la teoría con la práctica productiva, orientando la formación técnica solo hacia los varones.
+C. Vincular la teoría con la práctica productiva y fortalecer la enseñanza técnica humanística para hombres y mujeres.
+D. Priorizar la formación teórica humanista, prescindiendo de la educación vocacional en el nivel regular.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 78.III-IV fundamenta el sistema en una educación productiva, teórica y práctica, y garantiza la educación vocacional y la enseñanza técnica humanística para hombres y mujeres; el 80.I orienta la educación a desarrollar competencias que vinculen la teoría con la práctica productiva.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 78, parágrafos III y IV (pág. PDF 20) y Art. 80.I (pág. PDF 21). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. Al proyectar la incorporación de tecnologías en la gestión pedagógica, ¿qué lineamiento del Artículo 103.II debe orientar la estrategia?
+A. Limitar el uso de tecnologías de información a la educación superior, por exigencia del sistema estatal de ciencia.
+B. Implementar tecnologías de información solo mediante contratos privados, al margen de toda política estatal.
+C. Postergar la incorporación de tecnologías de información hasta que lo disponga cada familia del estudiante.
+D. Implementar estrategias para incorporar el conocimiento y la aplicación de nuevas tecnologías de información y comunicación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 103.II establece que el Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de nuevas tecnologías de información y comunicación.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección IV: Ciencia, tecnología e investigación. Art. 103, parágrafo II; pág. PDF: 25. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. Una región rural evalúa crear una universidad comunitaria pluricultural. ¿Qué criterio estratégico exige el Artículo 93.V?
+A. Responder a la demanda de matrícula urbana, en función de la capacidad de pago de los estudiantes.
+B. Responder a la iniciativa privada exclusiva, sin coordinación con las universidades públicas del país ni con el Estado.
+C. Responder a las necesidades de fortalecimiento productivo de la región, en función de sus potencialidades.
+D. Responder a la oferta académica tradicional, en función de los planes de organismos internacionales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 93.V dispone que el Estado, en coordinación con las universidades públicas, promoverá en áreas rurales universidades e institutos comunitarios pluriculturales, asegurando la participación social; su apertura y funcionamiento responderán a las necesidades del fortalecimiento productivo de la región, en función de sus potencialidades.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección II: Educación superior. Art. 93, parágrafo V; pág. PDF: 23. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. Al definir la política de convivencia institucional en un contexto de alta diversidad cultural, ¿qué enfoque es coherente con el Artículo 98?
+A. Asumir las culturas indígena originario campesinas como objeto de asimilación gradual hacia una cultura nacional única.
+B. Asumir la interculturalidad como tarea exclusiva de las unidades ubicadas en territorios indígena originario campesinos.
+C. Asumir la diversidad cultural como factor de riesgo institucional, que debe ser controlado mediante normas disciplinarias internas.
+D. Asumir las culturas indígena originario campesinas como fortaleza y promover interculturalidad con respeto a las diferencias.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 98.I establece que la interculturalidad tendrá lugar con respeto a las diferencias y en igualdad de condiciones; el 98.II dispone que el Estado asumirá como fortaleza la existencia de culturas indígena originario campesinas.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección III: Culturas. Art. 98, parágrafos I (pág. PDF 24) y II (pág. PDF 25). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. Para fortalecer la integridad en la gestión de recursos educativos, ¿qué combinación de fundamentos constitucionales resulta más sólida?
+A. El valor de reciprocidad del Artículo 8.II y el deber de tributar en proporción a la capacidad del Artículo 108.7.
+B. El valor de transparencia del Artículo 8.II y el deber de denunciar y combatir la corrupción del Artículo 108.8.
+C. El principio de equilibrio del Artículo 8.I y la facultad discrecional de denunciar actos irregulares del Artículo 108.
+D. El valor de transparencia del Artículo 8.II y el régimen de inmunidad de servidores públicos del Artículo 112.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 8.II incluye la transparencia y la responsabilidad entre los valores del Estado, y el Artículo 108.8 establece el deber de denunciar y combatir todos los actos de corrupción. El equilibrio figura como valor (8.II), no como principio; denunciar es deber, no facultad; y el 112 excluye la inmunidad.
+Sustento: Constitución Política del Estado, Primera Parte. Título I, Cap. II: Principios, valores y fines del Estado. Art. 8.II (pág. PDF 3) y Art. 108.8 (pág. PDF 27). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. Para atender a jóvenes y adultos que no culminaron su escolaridad, ¿qué línea estratégica respalda el Artículo 90.III?
+A. Programas educativos a distancia y populares no escolarizados, para elevar el nivel cultural y la conciencia plurinacional.
+B. Programas educativos presenciales y escolarizados de pago, para elevar la competitividad laboral de la población.
+C. Programas educativos a distancia administrados por universidades privadas, sin vínculo con el sistema educativo.
+D. Programas populares no escolarizados de carácter religioso, para elevar el nivel moral de la población adulta.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 90.III dispone que el Estado, a través del sistema educativo, promoverá programas educativos a distancia y populares no escolarizados, con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 90, parágrafo III; pág. PDF: 22. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. Al proyectar una política distrital de mejora educativa, ¿qué alcance institucional es coherente con los Artículos 77.III, 87 y 88.I?
+A. Incluir solo a las instituciones fiscales, pues las privadas y de convenio funcionan al margen de la tuición pública del Estado.
+B. Incluir a las instituciones fiscales y de convenio, excluyendo a las privadas por no integrar el sistema educativo.
+C. Incluir a las instituciones fiscales y privadas, excluyendo a las de convenio por su administración religiosa.
+D. Incluir a las instituciones fiscales, privadas y de convenio, que integran el sistema y se rigen por sus políticas y planes.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 77.III dispone que el sistema educativo está compuesto por instituciones fiscales, privadas y de convenio; los Artículos 87 y 88.I someten a las de convenio y a las privadas a las normas, políticas, planes, programas y autoridades del sistema.
+Sustento: Constitución Política del Estado, Primera Parte. Título II, Cap. VI, Sección I: Educación. Art. 77.III (pág. PDF 20), Art. 87 y Art. 88.I (pág. PDF 22). Página impresa: s/n (el documento no tiene numeración impresa).

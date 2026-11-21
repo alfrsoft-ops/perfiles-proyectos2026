@@ -1,0 +1,995 @@
+# Fuente: ods-2030-c1.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Capítulo evaluado: I. Visión, justificación y principios
+# Páginas: impresas 24 a 28 (PDF 22 a 26)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «I. Visión, justificación y principios» del documento Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Alcance
+# Sección I, párrafos 4 a 10 y nota 4; se usa además el párrafo 3 (Introducción), impreso en la página 24
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 24–28 = PDF 22–26)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 42 de contenido textual · 58 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados; toda fundamentación procede del capítulo I (y del párrafo 3 de la página impresa 24).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: ods-2030-c1
+
+1. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Según la Sección I del Marco de Acción, además de constituir un objetivo en sí mismo (ODS 4), se integran metas sobre educación en varios ODS más. ¿En cuáles se pone especial énfasis?
+A. En los referidos a la salud; el crecimiento y el empleo; el consumo y la producción sostenibles; y el cambio climático
+B. En los referidos a la paz y la justicia; la industria; el agua y el saneamiento; y el cambio climático
+C. En los referidos al hambre cero; el crecimiento y el empleo; las ciudades sostenibles; y la reducción de las desigualdades
+D. En los referidos a la salud; la igualdad de género; la seguridad alimentaria; y la protección de los ecosistemas terrestres
+Respuesta correcta: A
+Explicación: “…se integran metas sobre educación en varios ODS más, en especial los que se refieren a la salud; el crecimiento y el empleo; el consumo y la producción sostenibles; y el cambio climático.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+2. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Con qué conjunto de atributos caracteriza el documento a la agenda sobre educación renovada que engloba el ODS 4?
+A. Amplia, sectorial, prudente, orientada a resultados y regional, inspirada en una visión que moderniza escuelas
+B. Gradual, focalizada, realista, centrada en el acceso y nacional, inspirada en una visión que amplía la cobertura
+C. Amplia, integral, ambiciosa, llena de aspiraciones y universal, inspirada en una visión que transforma las vidas
+D. Integral, selectiva, ambiciosa, basada en indicadores y global, inspirada en una visión que optimiza los recursos
+Respuesta correcta: C
+Explicación: “La agenda sobre educación renovada que engloba el ODS 4 es amplia, integral, ambiciosa, llena de aspiraciones y universal, y se inspira en una visión de la educación que transforma las vidas de las personas, las comunidades y las sociedades, sin dejar a nadie rezagado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+3. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] De acuerdo con el párrafo 4, ¿qué aspectos inacabados retoma la agenda de educación del ODS 4?
+A. Los aspectos inacabados de los objetivos de la EPT y de los ODM relativos a la educación
+B. Los aspectos inacabados de la Agenda 21 y de los compromisos regionales de calidad educativa
+C. Los aspectos inacabados de los planes nacionales y de las metas de alfabetización
+D. Los aspectos inacabados de la Declaración de Jomtien y del Foro Mundial de Dakar sobre educación
+Respuesta correcta: A
+Explicación: “La agenda retoma los aspectos inacabados de los objetivos de la EPT y los ODM relativos a la educación, al tiempo que hace frente eficazmente a desafíos mundiales y nacionales en materia de educación, tanto actuales como futuros.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+4. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Para lograr la universalidad de la educación básica de aquí a 2030, ¿qué niveles comprende esta según el documento?
+A. La enseñanza preescolar, la primaria y el ciclo superior de educación secundaria
+B. La enseñanza primaria y el ciclo completo de educación secundaria obligatoria
+C. La enseñanza preescolar y primaria, y el ciclo inicial de educación secundaria
+D. La atención a la primera infancia, la primaria y la educación técnica inicial
+Respuesta correcta: C
+Explicación: “…los sistemas educativos deberán atender a cientos de millones más de niños y adolescentes para lograr la universalidad de la educación básica (enseñanza preescolar y primaria, y ciclo inicial de educación secundaria)…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+5. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿En qué consiste, según el párrafo 5, la novedad del ODS 4-Educación 2030?
+A. En afianzar la gobernanza educativa, la financiación pública y la evaluación estandarizada en los niveles obligatorios
+B. En ampliar el acceso a la educación superior y técnica, y vincular los resultados escolares con el empleo productivo
+C. En afianzar y ampliar el acceso, la inclusión y la equidad, y la calidad y los resultados del aprendizaje en todos los niveles
+D. En universalizar la educación primaria gratuita y obligatoria y reducir la deserción escolar en los países de ingresos bajos y medianos
+Respuesta correcta: C
+Explicación: “La novedad del ODS 4-Educación 2030 es que se centra en el afianzamiento y ampliación del acceso, de la inclusión y la equidad, y de la calidad y los resultados del aprendizaje en todos los niveles, como parte de un enfoque de aprendizaje a lo largo de la vida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+6. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué artículo de la Declaración Universal de Derechos Humanos se menciona expresamente como fuente de los principios del Marco de Acción?
+A. El Artículo 26 de la Declaración Universal de Derechos Humanos
+B. El Artículo 7 de la Declaración Universal de Derechos Humanos
+C. El Artículo 28 de la Declaración Universal de Derechos Humanos de 1948
+D. El Artículo 19 de la Declaración Universal de Derechos Humanos
+Respuesta correcta: A
+Explicación: “Los principios en los que reposa este Marco de Acción provienen de instrumentos y acuerdos internacionales, incluidos el Artículo 26 de la Declaración Universal de Derechos Humanos…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+7. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Entre los instrumentos de los que provienen los principios del Marco, figura una resolución de la Asamblea General de las Naciones Unidas. ¿Sobre qué trata?
+A. Sobre el derecho a la educación en situaciones de emergencia
+B. Sobre la financiación sostenible de la educación pública mundial
+C. Sobre la educación para la ciudadanía mundial y la paz
+D. Sobre el derecho a la educación de los pueblos indígenas
+Respuesta correcta: A
+Explicación: “…la Convención sobre el Estatuto de los Refugiados y la resolución de la Asamblea General de las Naciones Unidas sobre el derecho a la educación en situaciones de emergencia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+8. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Según el párrafo 8, ¿qué afirma textualmente el documento respecto de la relación entre la educación y la igualdad entre hombres y mujeres?
+A. Que la educación es uno de varios medios auxiliares para reducir la brecha salarial
+B. Que la educación es el medio más eficaz de lograr la igualdad entre hombres y mujeres
+C. Que la educación es una condición secundaria frente a las reformas legales de igualdad
+D. Que la educación es el medio más rápido de lograr la paridad numérica en la matrícula
+Respuesta correcta: B
+Explicación: “La educación es el medio más eficaz de lograr la igualdad entre hombres y mujeres, propiciar la plena participación social y política de las niñas y las mujeres y empoderarlas económicamente.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+9. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Desde qué año toma en cuenta las enseñanzas extraídas el ODS 4-Educación 2030, partiendo del movimiento de la EPT?
+A. Desde el año 2000
+B. A partir de 2015
+C. Desde fines de 1990
+D. Desde el año 1948
+Respuesta correcta: A
+Explicación: “Partiendo del movimiento de la EPT y siguiendo en su cauce, el ODS 4-Educación 2030 toma en cuenta las enseñanzas extraídas desde 2000.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+10. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué garantizará el ODS 4-Educación 2030 que adquieran o desarrollen todas las personas, según el párrafo 6?
+A. Una sólida base de conocimientos, pensamiento creativo y crítico, habilidades para la colaboración, curiosidad, valor y resiliencia
+B. Una sólida base de conocimientos, pensamiento científico, habilidades digitales avanzadas, obediencia, orden y productividad
+C. Una sólida formación técnica, pensamiento lógico y analítico, habilidades para la competencia, disciplina, esfuerzo y constancia
+D. Una amplia cultura general, pensamiento abstracto y crítico, habilidades para el liderazgo, iniciativa, autonomía y rendimiento académico
+Respuesta correcta: A
+Explicación: “El ODS 4-Educación 2030 garantizará que todas las personas adquieran una sólida base de conocimientos, desarrollen un pensamiento creativo y crítico y habilidades para la colaboración, y estimulen su curiosidad, valor y resiliencia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+11. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El documento afirma que la agenda “reposa en los derechos y aplica un enfoque humanista de la educación y el desarrollo”. ¿En qué principios se basa ese enfoque?
+A. Equidad y pertinencia, justicia social, desarrollo productivo, integración y orden, identidad nacional y disciplina
+B. Eficiencia y eficacia, competitividad, innovación, meritocracia y calidad, autonomía escolar y rendición de cuentas
+C. Derechos humanos y libertad, crecimiento económico, seguridad, cobertura y gratuidad, descentralización y control
+D. Derechos humanos y dignidad, justicia social, paz, inclusión y protección, diversidad y responsabilidad compartida
+Respuesta correcta: D
+Explicación: “…aplica un enfoque humanista de la educación y el desarrollo, basado en los principios de derechos humanos y dignidad, justicia social, paz, inclusión y protección, así como de diversidad cultural, lingüística y étnica y de responsabilidad y rendición de cuentas compartidas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+12. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cómo se relaciona la visión holística y humanista del ODS 4 con el enfoque utilitarista de la educación?
+A. La visión va más allá del enfoque utilitarista e integra las múltiples dimensiones de la existencia humana
+B. La visión complementa el enfoque utilitarista y prioriza la dimensión económica de la existencia humana
+C. La visión subordina el enfoque utilitarista a la formación moral y a las dimensiones espirituales del alumno
+D. La visión sustituye por completo el enfoque utilitarista y descarta la preparación para el mundo del trabajo
+Respuesta correcta: A
+Explicación: “Esta visión va más allá de un enfoque utilitarista de la educación e integra las múltiples dimensiones de la existencia humana.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+13. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál es, según el párrafo 7, uno de los rasgos que definen el ODS 4-agenda Educación 2030?
+A. El creciente interés por la medición y la estandarización de la educación en favor de la comparabilidad internacional
+B. El renovado interés por la gestión y la descentralización de la educación en favor de la autonomía de cada escuela
+C. El renovado interés por el propósito y la pertinencia de la educación en favor del desarrollo humano y la sostenibilidad
+D. El renovado interés por la cobertura y la eficiencia de la educación en favor del crecimiento económico y la productividad
+Respuesta correcta: C
+Explicación: “El renovado interés por el propósito y la pertinencia de la educación en favor del desarrollo humano y la sostenibilidad económica, social y ambiental es uno de los rasgos que definen el ODS 4-agenda Educación 2030.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+14. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué enseñanza clave de los últimos años señala el documento sobre la relación entre la agenda mundial de educación y el marco global internacional de desarrollo?
+A. Que debe desarrollarse en paralelo, como ocurrió con los objetivos de la EPT y los ODM
+B. Que debe subordinarse a él, renunciando a metas propias en favor de metas económicas
+C. Que debe inscribirse en él, manteniendo sólidos vínculos con la respuesta humanitaria
+D. Que debe independizarse de él, priorizando la autonomía técnica del sector educativo
+Respuesta correcta: C
+Explicación: “Una enseñanza clave de los últimos años es que la labor de la agenda mundial de educación, en lugar de llevarse a cabo paralelamente al marco global internacional de desarrollo, como ocurrió con los distintos objetivos de la EPT y los ODM relativos a la educación, debe inscribirse en él, manteniendo sólidos vínculos con la respuesta humanitaria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+15. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En el primer principio del Marco, ¿con qué doble carácter se define la educación?
+A. Como un bien común privado y un derecho de carácter social
+B. Como un derecho humano fundamental y un deber ciudadano
+C. Como un servicio público esencial y un derecho de realización progresiva
+D. Como un derecho humano fundamental y un derecho habilitador
+Respuesta correcta: D
+Explicación: “La educación es un derecho humano fundamental y un derecho habilitador.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+16. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cómo define el segundo principio la naturaleza de la educación y quién es su principal garante?
+A. Como un bien común, cuyo principal garante es la comunidad
+B. Como un bien privado, cuyo principal garante es la familia
+C. Como un servicio social, cuyo garante es la sociedad
+D. Como un bien público, cuyo principal garante es el Estado
+Respuesta correcta: D
+Explicación: “La educación es un bien público, cuyo principal garante es el Estado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+17. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Según el primer principio, ¿cuál deberá ser la finalidad de la educación?
+A. El desarrollo pleno de la personalidad humana y promover el entendimiento mutuo, la tolerancia, la amistad y la paz
+B. El desarrollo de competencias laborales básicas y promover la disciplina, la obediencia, el orden y la estabilidad
+C. La formación de capital humano calificado y promover la competitividad, la innovación, el empleo y el crecimiento
+D. La transmisión del patrimonio cultural nacional y promover la identidad, la lealtad cívica, la unidad y la soberanía
+Respuesta correcta: A
+Explicación: “La educación deberá tener por finalidad el desarrollo pleno de la personalidad humana y promover el entendimiento mutuo, la tolerancia, la amistad y la paz.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+18. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué exige, según el tercer principio, lograr la igualdad de género en relación con el derecho a la educación?
+A. Un enfoque basado en cuotas que garantice igual número de niñas y niños matriculados en cada nivel de enseñanza
+B. Un enfoque basado en derechos que garantice acceso, culminación exitosa y adquisición de las mismas competencias
+C. Un enfoque basado en derechos que garantice acceso universal, aunque con currículos diferenciados según el género
+D. Un enfoque compensatorio que garantice becas exclusivas para niñas en los niveles secundario y superior de enseñanza
+Respuesta correcta: B
+Explicación: “Lograrla requiere un enfoque basado en los derechos que garantice no solo que las niñas, los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+19. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué función atribuye el documento a la educación respecto de la diversidad cultural, religiosa y lingüística?
+A. Garantiza la enseñanza en lengua materna y separa esa diversidad en sistemas educativos propios para cada pueblo
+B. Promueve la tolerancia entre culturas y relega esa diversidad al ámbito privado para asegurar la neutralidad escolar
+C. Facilita la integración en una cultura común y reduce progresivamente esa diversidad, que dificulta la cohesión social y la justicia
+D. Facilita el diálogo intercultural y promueve el respeto de esa diversidad, vital para la cohesión social y la justicia
+Respuesta correcta: D
+Explicación: “La educación facilita el diálogo intercultural y promueve el respeto de la diversidad cultural, religiosa y lingüística, que son vitales para la cohesión social y la justicia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+20. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿En qué consiste el carácter universal del ODS 4-agenda Educación 2030 señalado en el párrafo 5?
+A. En que se aplica prioritariamente a los países en desarrollo con mayores rezagos en la cobertura
+B. En que pertenece al mundo entero, tanto a los países desarrollados como a los países en desarrollo
+C. En que establece un currículo único obligatorio para los sistemas educativos de todos los países del mundo
+D. En que su financiación corresponde por igual a todos los organismos multilaterales del sistema ONU
+Respuesta correcta: B
+Explicación: “Otro aspecto novedoso del ODS 4-agenda Educación 2030 es que reviste un carácter universal y pertenece al mundo entero, tanto a los países desarrollados como en desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+21. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Según el segundo principio, ¿qué actores cumplen funciones clave para hacer efectivo el derecho a una educación de calidad?
+A. La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños
+B. Solo el Estado, los ministerios de educación, las direcciones departamentales y distritales, los directores y los docentes de aula
+C. La sociedad civil, los docentes, las iglesias, los partidos políticos, las empresas y los medios de comunicación
+D. Los organismos internacionales, los donantes, las universidades, los sindicatos docentes y las juntas escolares
+Respuesta correcta: A
+Explicación: “La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave para hacer efectivo el derecho a una educación de calidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+22. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué participación del Estado considera esencial el segundo principio del Marco de Acción?
+A. La participación del Estado para ejecutar directamente toda la enseñanza pública
+B. La participación del Estado para financiar solo a las escuelas privadas
+C. La participación del Estado para establecer y regular estándares y normas
+D. La participación del Estado para delegar la regulación en las comunidades
+Respuesta correcta: C
+Explicación: “La participación del Estado es esencial para establecer y regular estándares y normas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+23. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un director debe conducir la elaboración del plan institucional de su Unidad Educativa. Conforme al principio que concibe la educación como causa común de la sociedad, ¿cómo debería proceder?
+A. Promover un proceso participativo con docentes, familias, estudiantes y comunidad en la formulación y aplicación
+B. Encargar el plan a un consultor externo y someterlo después a la aprobación formal de la junta escolar del centro
+C. Adoptar el plan modelo de la dirección distrital sin cambios para garantizar la uniformidad entre los centros
+D. Elaborar el plan con el equipo directivo y luego difundirlo a docentes, familias y estudiantes para su ejecución
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es una causa común de la sociedad, que conlleva un proceso participativo de formulación y aplicación de políticas públicas. La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+24. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una directora informa que su Unidad Educativa alcanzó plena asistencia escolar. Desde la enseñanza que el documento extrae sobre el foco en la calidad, ¿cuál es su responsabilidad prioritaria?
+A. Mantener los índices de asistencia y reportarlos como la principal evidencia de calidad institucional
+B. Determinar si los estudiantes que asisten están aprendiendo y adquiriendo competencias pertinentes
+C. Ampliar la matrícula a nuevos cursos, pues el acceso constituye el indicador central del ODS 4
+D. Reducir la carga curricular para asegurar que la asistencia se sostenga durante toda la gestión
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…el peligro de concentrarse en el acceso a la educación, sin prestar la debida atención a determinar si los alumnos están aprendiendo y adquiriendo competencias pertinentes una vez que ya asisten a la escuela.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+25. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Tras una inundación, la infraestructura de una Unidad Educativa queda inhabilitada por semanas. Según el párrafo 9, ¿qué responsabilidad debe asumir el director?
+A. Trasladar la responsabilidad a las familias para que continúen la enseñanza de manera autónoma
+B. Garantizar que se mantenga la educación durante la emergencia, con alternativas que den continuidad
+C. Priorizar la entrega de ayuda humanitaria y postergar toda acción educativa a la siguiente gestión
+D. Suspender las actividades educativas hasta que concluyan las obras de rehabilitación de la infraestructura escolar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…es crucial crear sistemas educativos más resilientes y con mayor capacidad de reacción ante los conflictos, las tensiones sociales y los peligros naturales, así como garantizar que se mantenga la educación durante las emergencias y las situaciones de conflicto y postconflicto.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+26. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una familia solicita inscribir a su hijo con discapacidad y un docente sugiere derivarlo a otro centro. ¿Qué decisión del director es coherente con la Sección I?
+A. Inscribirlo condicionalmente hasta comprobar que su presencia no afecta el rendimiento del curso
+B. Aceptarlo solo como oyente, sin evaluación, para no alterar los estándares de aprendizaje del grupo
+C. Asegurar su acceso a una educación de calidad inclusiva y equitativa en la misma Unidad Educativa
+D. Derivarlo a un centro especializado, pues la Sección I recomienda atención separada por discapacidad
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Todas las personas […] así como las personas con discapacidad […] deben tener acceso a una educación de calidad inclusiva y equitativa…” (párr. 5); “Además, promueve la inclusión de las personas con discapacidad.” (párr. 8)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25 / Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+27. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El enfoque humanista del ODS 4 se basa, entre otros, en el principio de “responsabilidad y rendición de cuentas compartidas”. ¿Qué implica para la gestión de un director?
+A. Que la responsabilidad por los resultados recae solo en el director, quien rinde cuentas a la autoridad superior
+B. Que la responsabilidad por los resultados educativos se comparte y se rinde cuentas ante los demás actores
+C. Que la responsabilidad se transfiere a los docentes, quienes rinden cuentas individualmente por aula
+D. Que la rendición de cuentas se limita a informes financieros anuales presentados a la junta de padres
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…basado en los principios de derechos humanos y dignidad, justicia social, paz, inclusión y protección, así como de diversidad cultural, lingüística y étnica y de responsabilidad y rendición de cuentas compartidas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+28. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En una Unidad Educativa mixta, la matrícula de niñas y niños es paritaria. ¿Qué responsabilidad adicional le corresponde al director según el principio de igualdad de género?
+A. Mantener la paridad de matrícula, que acredita por sí sola el cumplimiento del principio
+B. Priorizar la orientación vocacional diferenciada para niñas y niños según sus intereses habituales
+C. Organizar cursos separados por sexo para garantizar que cada grupo progrese según su propio ritmo
+D. Verificar que niñas y niños cursen con éxito y adquieran las mismas competencias en la educación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Lograrla requiere un enfoque basado en los derechos que garantice no solo que las niñas, los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+29. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En una Unidad Educativa periurbana existen estudiantes migrantes y de pueblos indígenas con bajo rendimiento. ¿Qué responsabilidad directiva se desprende de la enseñanza señalada en el párrafo 5?
+A. Esperar a que la autoridad distrital disponga programas antes de adoptar medidas propias
+B. Concentrar los recursos en los estudiantes con mejor rendimiento para elevar el promedio institucional
+C. Aplicar las mismas estrategias a todos los estudiantes, ya que la igualdad excluye tratos diferenciados
+D. Redoblar los esfuerzos dirigidos a llegar a las personas marginadas o en situación de vulnerabilidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…pone de relieve otra enseñanza, esto es, lo necesario que resulta redoblar los esfuerzos, en especial aquellos dirigidos a llegar a las personas marginadas o que se hallan en situación de vulnerabilidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+30. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al revisar la oferta formativa de su Unidad Educativa, ¿qué criterio del párrafo 6 debe orientar la responsabilidad del director?
+A. Que la educación replique los contenidos de los países desarrollados para asegurar estándares de calidad
+B. Que la educación sea pertinente y se adapte a los cambios del contexto, como el mercado laboral y la tecnología
+C. Que la educación se mantenga estable y ajena a los cambios del contexto para preservar su rigor académico
+D. Que la educación se oriente solo al mercado laboral local, dejando de lado los demás desafíos del contexto actual
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los sistemas educativos deben ser pertinentes y adaptarse a los mercados laborales en rápida evolución, los avances tecnológicos, la urbanización, la migración…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+31. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál es la interpretación correcta de la enseñanza según la cual, de “seguir con lo habitual”, la educación de calidad para todos no se hará nunca realidad?
+A. Es suficiente sostener los ritmos actuales de avance, pues la mayoría de los países alcanzará las nuevas metas en 2030
+B. Es conveniente mantener las prácticas vigentes y aumentar de forma gradual los recursos hasta alcanzar las metas de 2030
+C. Es necesario postergar las metas de calidad hasta lograr primero la plena cobertura en los países más rezagados y empobrecidos del mundo
+D. Es de importancia capital cambiar las prácticas vigentes y movilizar esfuerzos y recursos a una velocidad sin precedentes
+Respuesta correcta: D
+Explicación: “…de ‘seguir con lo habitual’ la educación de calidad para todos no se hará nunca realidad. Si se mantienen los ritmos actuales de avance, muchos de los países más rezagados no alcanzarán las nuevas metas en 2030. Esto significa que es de importancia capital cambiar las prácticas vigentes y movilizar esfuerzos y recursos a una velocidad sin precedentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+32. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Por qué, según el documento, la educación debe formar parte de las estrategias para alcanzar cada uno de los ODS?
+A. Porque la educación puede acelerar los avances orientados a conseguir todos los ODS
+B. Porque la educación concentra la mayor parte de la financiación destinada a todos los ODS
+C. Porque la educación es el único ODS con metas cuantificables y verificables
+D. Porque la educación sustituye a las políticas sectoriales de los demás ODS
+Respuesta correcta: A
+Explicación: “Ciertamente, la educación puede acelerar los avances orientados a conseguir todos los ODS y, por ende, debe formar parte de las estrategias para alcanzar cada uno de ellos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+33. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] La nota 4 del documento precisa el alcance de la expresión “grupos marginados y vulnerables”. ¿Cuál es su interpretación correcta?
+A. Abarca a los grupos que cada escuela determine, sin relación con la Agenda 2030 para el Desarrollo Sostenible
+B. Abarca a todos los grupos listados, pero la lista es taxativa y no admite otros tipos de vulnerabilidad
+C. Abarca solo a las personas con discapacidad y a los migrantes, y la lista es cerrada para todos los países y regiones
+D. Abarca a todos los grupos listados, la lista no es exhaustiva y pueden definirse otros tipos de vulnerabilidad
+Respuesta correcta: D
+Explicación: “En adelante, la expresión ‘grupos marginados y vulnerables’ hace referencia a todos los grupos de esta lista. Cabe señalar que la lista […] no es exhaustiva, y que los países y regiones podrían definir y tener en cuenta otros tipos de vulnerabilidad, marginación, discriminación y exclusión en la educación…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, nota 4 (párr. 5); página impresa 25; página PDF 23.
+
+34. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué relación causal establece el párrafo 9 entre las situaciones de conflicto y la necesidad de sistemas educativos resilientes?
+A. Los conflictos afectan la infraestructura escolar, pero no generan desigualdades educativas de carácter duradero
+B. Las desigualdades educativas se originan sobre todo en la pobreza urbana, y la resiliencia es una meta secundaria
+C. Muchas de las mayores desigualdades educativas se originan en conflictos y emergencias, por eso urge la resiliencia
+D. Las emergencias son excepcionales, por eso la resiliencia debe atenderse solo cuando el conflicto ya se ha producido
+Respuesta correcta: C
+Explicación: “Muchas de las mayores desigualdades en materia de educación tienen su origen en situaciones de conflicto y emergencia. Por ende, es crucial crear sistemas educativos más resilientes y con mayor capacidad de reacción…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+35. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué riesgo advierte el documento al poner el foco en la calidad de la educación, el aprendizaje y las aptitudes?
+A. Concentrarse en las evaluaciones externas sin atender a la formación inicial y continua de los docentes de aula
+B. Concentrarse en las aptitudes laborales sin atender a la enseñanza de los contenidos disciplinares
+C. Concentrarse en el acceso sin atender a si los alumnos aprenden y adquieren competencias pertinentes
+D. Concentrarse en la calidad sin atender a la ampliación del acceso en los países más empobrecidos
+Respuesta correcta: C
+Explicación: “Centrarse en la calidad de la educación, el aprendizaje y las aptitudes también pone de relieve otra importante enseñanza, a saber, el peligro de concentrarse en el acceso a la educación, sin prestar la debida atención a determinar si los alumnos están aprendiendo y adquiriendo competencias pertinentes una vez que ya asisten a la escuela.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+36. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué alcance temporal atribuye el párrafo 8 a los efectos de la educación sobre la salud?
+A. Mejora la salud de las personas adultas, aunque sus beneficios no se extienden a sus descendientes
+B. Mejora la salud pública a corto plazo, siempre que se acompañe de campañas sanitarias específicas
+C. Mejora la salud de los estudiantes solo mientras permanecen escolarizados en los niveles obligatorios del sistema
+D. Mejora la salud de las personas y garantiza que los beneficios se transmitan a las generaciones futuras
+Respuesta correcta: D
+Explicación: “Por otra parte, es una de las maneras más poderosas de mejorar la salud de las personas y garantizar que los beneficios se transmitan a las generaciones futuras.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+37. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En el primer principio, ¿qué deben garantizar los países para hacer realidad el derecho a la educación?
+A. Un acceso progresivo y focalizado a una educación básica, con aportes familiares según la capacidad de pago
+B. Un acceso universal e igualitario a una educación inclusiva, equitativa y de calidad, gratuita y obligatoria
+C. Un acceso igualitario a una educación de calidad, voluntaria y financiada mediante alianzas con el sector privado
+D. Un acceso universal a la educación primaria, dejando los demás niveles a la oferta privada o comunitaria
+Respuesta correcta: B
+Explicación: “Para hacer realidad este derecho, los países deben garantizar un acceso universal e igualitario a una educación y un aprendizaje inclusivos y equitativos de calidad, que deberán ser gratuitos y obligatorios, sin dejar a nadie rezagado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+38. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué demanda el párrafo 6 a los sistemas educativos de aquí a 2030 respecto de los distintos niveles educativos?
+A. Universalizar la educación básica, dar acceso equitativo a la secundaria superior y oportunidades de estudios superiores
+B. Universalizar toda la educación secundaria, dar acceso gratuito a la universidad y suprimir la educación preescolar
+C. Universalizar la educación superior, dar acceso focalizado a la secundaria y priorizar la formación técnica para adultos
+D. Universalizar la primaria, dar acceso selectivo a la secundaria superior y reservar los estudios superiores a los mejores
+Respuesta correcta: A
+Explicación: “De aquí a 2030, los sistemas educativos deberán atender a cientos de millones más de niños y adolescentes para lograr la universalidad de la educación básica […], así como brindar un acceso equitativo al ciclo superior de educación secundaria y oportunidades para todos de cursar estudios superiores.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+39. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál es la finalidad de la importancia que la agenda de educación empieza a dar a la inclusión y la equidad?
+A. Uniformar los resultados de aprendizaje de todos los alumnos
+B. Brindar a los mejores estudiantes oportunidades de excelencia
+C. Brindar a todos iguales oportunidades y no dejar a nadie atrás
+D. Reducir el gasto educativo mediante la focalización de recursos
+Respuesta correcta: C
+Explicación: “La importancia que se empieza a dar en la agenda de educación a la inclusión y la equidad, cuya finalidad es brindar a todos iguales oportunidades y no dejar a nadie atrás, pone de relieve otra enseñanza…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+40. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cómo interpreta el documento el papel de la educación para quienes han visto sus vidas destruidas por crisis y conflictos?
+A. Constituye intrínsecamente una protección y les da herramientas para reconstruir sus vidas y comunidades
+B. Constituye un apoyo psicológico temporal, ajeno a la reconstrucción material de las comunidades afectadas
+C. Constituye una prioridad secundaria frente a la asistencia alimentaria y sanitaria de carácter humanitario
+D. Constituye un servicio postergable que debe reanudarse una vez superada por completo la etapa de crisis
+Respuesta correcta: A
+Explicación: “Intrínsecamente, la educación constituye también una protección para los niños, jóvenes y adultos cuyas vidas han sido destruidas por crisis y conflictos, y les proporciona las herramientas necesarias para reconstruir sus vidas y comunidades.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+41. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El Marco de Acción se organiza en tres secciones. ¿Cuál de las siguientes atribuciones de contenido es correcta?
+A. Sección I: justificación y gobernanza; Sección II: visión, diez metas y dos modalidades de aplicación
+B. Sección I: visión, justificación y principios; Sección II: objetivo, siete metas y tres modalidades
+C. Sección I: visión, metas y financiación; Sección II: principios, alianzas y modalidades de aplicación
+D. Sección I: objetivo, siete metas y principios; Sección II: gobernanza, financiación y seguimiento
+Respuesta correcta: B
+Explicación: “En la Sección I se define la visión, la justificación y los principios del ODS 4-Educación 2030. En la Sección II se describen el objetivo mundial relativo a la educación y sus siete metas conexas y tres modalidades de aplicación, así como posibles estrategias.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Introducción (párr. 3); página impresa 24; página PDF 22.
+
+42. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué diferencia establece el párrafo 4 entre el lugar de la educación en el ODS 4 y en los demás ODS?
+A. En el ODS 4 la educación es un medio auxiliar; en otros ODS constituye su objetivo central y prioritario
+B. En el ODS 4 la educación es un objetivo regional; en otros ODS se convierte en un objetivo mundial
+C. En el ODS 4 se fijan metas de cobertura; en otros ODS se fijan exclusivamente metas de financiación
+D. En el ODS 4 la educación es un objetivo en sí mismo; en otros ODS se integran metas sobre educación
+Respuesta correcta: D
+Explicación: “…en la Agenda 2030 para el Desarrollo Sostenible se pone de relieve la educación como un objetivo en sí mismo (ODS 4); además, se integran metas sobre educación en varios ODS más…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+43. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué distingue la forma en que se trabajó la agenda de educación en la EPT y los ODM de la forma que plantea el ODS 4-Educación 2030?
+A. Antes era una agenda universal; ahora pertenece únicamente a los países en desarrollo con mayores rezagos
+B. Antes se llevó a cabo paralelamente al marco de desarrollo; ahora debe inscribirse en él con un único objetivo
+C. Antes se centraba en la calidad del aprendizaje; ahora debe centrarse solo en el acceso a la educación básica universal
+D. Antes se inscribía en el marco de desarrollo; ahora debe llevarse a cabo en paralelo con objetivos propios
+Respuesta correcta: B
+Explicación: “…en lugar de llevarse a cabo paralelamente al marco global internacional de desarrollo, como ocurrió con los distintos objetivos de la EPT y los ODM relativos a la educación, debe inscribirse en él […]. Al aprobar la Declaración de Incheon, la comunidad educativa fijó un único objetivo renovado de educación, de acuerdo con el marco global de desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+44. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál de las siguientes afirmaciones constituye un error de interpretación de la visión descrita en el párrafo 7?
+A. La visión del ODS 4 contribuye a un nuevo modelo de desarrollo de carácter holístico y humanista
+B. La visión del ODS 4 considera la educación un factor crucial para promover la democracia
+C. La visión del ODS 4 integra las múltiples dimensiones de la existencia humana en el proceso educativo
+D. La visión del ODS 4 concibe la educación ante todo como un instrumento utilitario para el empleo
+Respuesta correcta: D
+Explicación: “Esto forma parte integral de su visión holística y humanista, que contribuye a un nuevo modelo de desarrollo. Esta visión va más allá de un enfoque utilitarista de la educación e integra las múltiples dimensiones de la existencia humana.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+45. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El párrafo 6 asigna compromisos diferenciados por nivel educativo. ¿Qué combinación es correcta?
+A. Básica: universalidad; secundaria superior: obligatoriedad; estudios superiores: gratuidad para todos
+B. Básica: gratuidad focalizada; secundaria superior: oportunidades; estudios superiores: universalidad
+C. Básica: universalidad; secundaria superior: acceso equitativo; estudios superiores: oportunidades para todos
+D. Básica: acceso equitativo; secundaria superior: universalidad; estudios superiores: acceso por méritos académicos
+Respuesta correcta: C
+Explicación: “…lograr la universalidad de la educación básica […], así como brindar un acceso equitativo al ciclo superior de educación secundaria y oportunidades para todos de cursar estudios superiores.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+46. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué diferencia establece el segundo principio entre el rol del Estado y el de otros actores educativos?
+A. El Estado es el principal garante y regula estándares; los demás actores cumplen funciones clave
+B. El Estado es un actor más entre otros; los demás actores son garantes principales del derecho educativo
+C. El Estado delega la regulación; los demás actores fijan y regulan los estándares y las normas
+D. El Estado ejecuta toda la enseñanza; los demás actores solo financian la educación de calidad
+Respuesta correcta: A
+Explicación: “La educación es un bien público, cuyo principal garante es el Estado. […] La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave […]. La participación del Estado es esencial para establecer y regular estándares y normas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+47. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál de las siguientes afirmaciones interpreta erróneamente el principio de igualdad de género del Marco?
+A. Requiere que niñas, niños, mujeres y hombres cursen con éxito los niveles de enseñanza
+B. Requiere un enfoque basado en los derechos que abarque a niñas, niños, mujeres y hombres
+C. Basta con que niñas y niños obtengan acceso a los distintos niveles de enseñanza para lograrla
+D. Requiere que las niñas y los niños adquieran las mismas competencias en la educación y mediante ella
+Respuesta correcta: C
+Explicación: “Lograrla requiere un enfoque basado en los derechos que garantice no solo que las niñas, los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+48. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál de las siguientes afirmaciones NO corresponde a lo que el párrafo 5 señala sobre el ODS 4-Educación 2030?
+A. Se centra en la calidad y los resultados del aprendizaje en todos los niveles educativos
+B. Toma en cuenta las enseñanzas extraídas desde 2000, siguiendo el cauce del movimiento de la EPT
+C. Su novedad reside en concentrarse en el acceso a la primaria, como continuación de la EPT
+D. Reviste un carácter universal y pertenece tanto a países desarrollados como en desarrollo
+Respuesta correcta: C
+Explicación: “La novedad del ODS 4-Educación 2030 es que se centra en el afianzamiento y ampliación del acceso, de la inclusión y la equidad, y de la calidad y los resultados del aprendizaje en todos los niveles, como parte de un enfoque de aprendizaje a lo largo de la vida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+49. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Cuál de los siguientes instrumentos NO figura entre aquellos de los que provienen los principios del Marco de Acción?
+A. La resolución de la Asamblea General sobre el derecho a la educación en situaciones de emergencia
+B. El Convenio sobre pueblos indígenas y tribales de la Organización Internacional del Trabajo
+C. La Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas
+D. La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza
+Respuesta correcta: B
+Explicación: “…el Artículo 26 de la Declaración Universal de Derechos Humanos, la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza, la Convención sobre los Derechos del Niño, el Pacto Internacional de Derechos Económicos, Sociales y Culturales, la Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas, la Convención sobre la eliminación de todas las formas de discriminación contra la mujer, la Convención sobre el Estatuto de los Refugiados y la resolución de la Asamblea General…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+50. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] La afirmación “la educación es una causa común de la sociedad, que conlleva un proceso participativo” pertenece a uno de los principios del Marco. ¿A cuál?
+A. Al principio que vincula la igualdad de género con el derecho a la educación para todas las personas
+B. Al principio que define la educación como un bien público cuyo principal garante es el Estado
+C. Al principio que define la educación como un derecho humano fundamental y habilitador
+D. Al principio que vincula la educación en emergencias con la Convención sobre el Estatuto de Refugiados
+Respuesta correcta: B
+Explicación: “La educación es un bien público, cuyo principal garante es el Estado. La educación es una causa común de la sociedad, que conlleva un proceso participativo de formulación y aplicación de políticas públicas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+51. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una Unidad Educativa reporta 98 % de asistencia, pero las evaluaciones internas muestran que la mayoría no comprende lo que lee. ¿Qué análisis es más fundamentado según la Sección I?
+A. La institución incurre en el peligro de concentrarse en el acceso sin atender a si los estudiantes aprenden
+B. La institución debe priorizar aún más la asistencia, ya que el aprendizaje mejora de forma automática con ella
+C. La institución cumple el ODS 4, pues la asistencia elevada es el indicador principal de calidad educativa
+D. La institución enfrenta un problema ajeno a su gestión, atribuible únicamente al contexto familiar del alumno
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…el peligro de concentrarse en el acceso a la educación, sin prestar la debida atención a determinar si los alumnos están aprendiendo y adquiriendo competencias pertinentes una vez que ya asisten a la escuela.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+52. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un consejo técnico propone mantener las mismas estrategias pedagógicas de los últimos años porque los resultados mejoraron levemente. ¿Qué valoración crítica se ajusta al documento?
+A. Es insuficiente, pues lo único que el documento exige es aumentar la cobertura y no revisar las prácticas pedagógicas
+B. Es adecuada, siempre que se incremente la carga horaria sin modificar los métodos de enseñanza vigentes
+C. Es adecuada, pues una mejora leve demuestra que el ritmo actual basta para alcanzar las metas de calidad
+D. Es insuficiente, pues de seguir con lo habitual la calidad para todos no se logrará y deben cambiarse prácticas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…de ‘seguir con lo habitual’ la educación de calidad para todos no se hará nunca realidad. […] Esto significa que es de importancia capital cambiar las prácticas vigentes y movilizar esfuerzos y recursos a una velocidad sin precedentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+53. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un plan distrital propone reorientar el currículo exclusivamente hacia competencias de empleabilidad, eliminando contenidos de ciudadanía y convivencia. ¿Qué crítica es más pertinente?
+A. Es coherente con el ODS 4, siempre que los contenidos de ciudadanía se trasladen a la educación superior universitaria
+B. Adopta un enfoque utilitarista que la visión holística y humanista supera al integrar las dimensiones humanas
+C. Adopta un enfoque humanista, pues el empleo es la principal dimensión de la existencia humana a atender
+D. Es coherente con la visión del ODS 4, que prioriza la preparación para el empleo sobre otras finalidades
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Esta visión va más allá de un enfoque utilitarista de la educación e integra las múltiples dimensiones de la existencia humana. Considera la educación un factor inclusivo y crucial para promover la democracia y los derechos humanos y afianzar la ciudadanía mundial, la tolerancia y el compromiso cívico…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+54. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un municipio formula su plan de desarrollo y la Unidad Educativa elabora su plan de manera totalmente separada, sin vínculos entre ambos. ¿Qué análisis se deriva de la Sección I?
+A. Es la práctica recomendada, pues la educación requiere planificarse con plena independencia del desarrollo local
+B. Es indiferente, ya que el documento no establece relación alguna entre educación y desarrollo local
+C. Es adecuado, porque la agenda de educación debe mantenerse paralela al marco global de desarrollo
+D. Reproduce el error de trabajar en paralelo al marco de desarrollo; la educación debe inscribirse en él
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Una enseñanza clave de los últimos años es que la labor de la agenda mundial de educación, en lugar de llevarse a cabo paralelamente al marco global internacional de desarrollo […], debe inscribirse en él…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+55. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En una Unidad Educativa, niñas y niños se matriculan por igual, pero las niñas obtienen resultados muy inferiores en matemática. ¿Qué diagnóstico es más fundamentado?
+A. La diferencia es natural y no compete al principio de igualdad de género, centrado solo en el acceso escolar
+B. La igualdad de género no se ha logrado, porque no se adquieren las mismas competencias en la educación
+C. La igualdad de género está lograda, siempre que las niñas terminen el nivel aunque tengan menor logro
+D. La igualdad de género está lograda, porque la paridad en la matrícula basta para cumplir el principio
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…que garantice no solo que las niñas, los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+56. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Tras un deslizamiento, una Unidad Educativa suspendió las clases durante dos meses sin ofrecer alternativa alguna. ¿Qué valoración crítica corresponde según el párrafo 9?
+A. Fue adecuada, pues el documento recomienda suspender la educación hasta superar el desastre
+B. Fue inadecuada, pero solo porque debió suspenderse la gestión completa y no únicamente dos meses
+C. Fue adecuada, porque las emergencias naturales están fuera de las previsiones del ODS 4
+D. Fue inadecuada, pues debía garantizarse que se mantenga la educación durante la emergencia
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…es crucial crear sistemas educativos más resilientes y con mayor capacidad de reacción ante los conflictos, las tensiones sociales y los peligros naturales, así como garantizar que se mantenga la educación durante las emergencias…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+57. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una Unidad Educativa rechaza inscribir a niños migrantes alegando que su prioridad son los estudiantes de la zona. ¿Qué análisis es coherente con el párrafo 5?
+A. La negativa contradice que todas las personas, incluidos los migrantes, deben acceder a educación de calidad
+B. La negativa es válida, porque el ODS 4 prioriza a los estudiantes nacionales sobre los grupos de migrantes extranjeros
+C. La negativa es válida, siempre que la escuela derive a los niños migrantes a programas no formales
+D. La negativa es irrelevante para el ODS 4, que no se pronuncia sobre la situación de las personas migrantes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Todas las personas, sea cual sea su sexo, edad, raza, color, origen étnico, idioma, religión, opinión política o de otro tipo, origen nacional o social, posición económica o nacimiento, así como las personas con discapacidad, los migrantes, los pueblos indígenas y los niños y jóvenes […] deben tener acceso a una educación de calidad inclusiva y equitativa…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+58. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En una reunión, los padres de familia sostienen que la educación es asunto exclusivo del Estado y se niegan a participar. ¿Qué análisis se ajusta al segundo principio?
+A. Aunque el Estado es el principal garante, la educación es causa común y las familias cumplen funciones clave
+B. Aunque la educación es causa común, el principio libera al Estado de su función de garante principal
+C. Su postura es correcta, pues el principio asigna al Estado la responsabilidad exclusiva por la educación de calidad
+D. Su postura es correcta, porque las familias solo intervienen en la financiación y no en las políticas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es un bien público, cuyo principal garante es el Estado. La educación es una causa común de la sociedad, que conlleva un proceso participativo […]. La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+59. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una institución privada que presta servicios educativos pretende fijar sus propios estándares sin sujetarse a la regulación pública. ¿Qué valoración crítica corresponde?
+A. Es procedente, porque el sector privado cumple funciones clave y puede autorregularse plenamente
+B. Es procedente, porque la educación es causa común y cada actor define sus propias normas y estándares de calidad
+C. Es improcedente, pero solo si la institución recibe financiamiento público para su funcionamiento
+D. Es improcedente, porque la participación del Estado es esencial para establecer y regular estándares y normas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La participación del Estado es esencial para establecer y regular estándares y normas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+60. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una Unidad Educativa centra toda su enseñanza en la memorización y repetición de contenidos. ¿Qué crítica se fundamenta en el párrafo 6?
+A. Es coherente con el ODS 4, que prioriza la acumulación de información sobre las demás competencias del estudiante
+B. Es suficiente, ya que una sólida base de conocimientos es lo único que exige el párrafo 6
+C. Descuida solo las habilidades digitales, que son la única competencia exigida en el párrafo 6
+D. Descuida el pensamiento creativo y crítico, la colaboración, la curiosidad, el valor y la resiliencia
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El ODS 4-Educación 2030 garantizará que todas las personas adquieran una sólida base de conocimientos, desarrollen un pensamiento creativo y crítico y habilidades para la colaboración, y estimulen su curiosidad, valor y resiliencia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+61. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una estudiante es excluida de un programa de ciencias por ser mujer. ¿Cuál de los instrumentos citados en el párrafo 10 se vincula de manera más directa con la situación?
+A. La Convención sobre la eliminación de todas las formas de discriminación contra la mujer
+B. La Convención sobre el Estatuto de los Refugiados de las Naciones Unidas de alcance mundial
+C. La resolución de la Asamblea General sobre educación en situaciones de emergencia
+D. La Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la Convención sobre la eliminación de todas las formas de discriminación contra la mujer…”; “La igualdad de género está estrechamente relacionada con el derecho a la educación para todos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+62. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una familia que huyó de su país por persecución solicita matricular a sus hijos. ¿Qué instrumento citado en el párrafo 10 sustenta de modo específico su derecho?
+A. La Convención contra la discriminación de la mujer
+B. El Pacto Internacional de Derechos Políticos
+C. La Convención sobre derechos de personas con discapacidad
+D. La Convención sobre el Estatuto de los Refugiados
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la Convención sobre el Estatuto de los Refugiados y la resolución de la Asamblea General de las Naciones Unidas sobre el derecho a la educación en situaciones de emergencia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+63. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un estudiante con discapacidad auditiva requiere ajustes para participar en clase. ¿Qué instrumento citado en el párrafo 10 se aplica de forma más específica?
+A. La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza
+B. La Convención sobre el Estatuto de los Refugiados en situaciones de desplazamiento forzado
+C. La resolución de la Asamblea General sobre el derecho a la educación en emergencias
+D. La Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas…”; “Además, promueve la inclusión de las personas con discapacidad.” (párr. 8)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26 / Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+64. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una región afectada por un conflicto armado mantiene cerradas sus escuelas. ¿Qué instrumento citado en el párrafo 10 respalda específicamente la continuidad educativa?
+A. La Convención sobre la eliminación de todas las formas de discriminación contra la mujer de la ONU
+B. La resolución de la Asamblea General sobre el derecho a la educación en situaciones de emergencia
+C. La Convención sobre los derechos de las personas con discapacidad de las Naciones Unidas vigente
+D. El Artículo 26 de la Declaración Universal de Derechos Humanos sobre la educación elemental
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…la resolución de la Asamblea General de las Naciones Unidas sobre el derecho a la educación en situaciones de emergencia.”; “…garantizar que se mantenga la educación durante las emergencias y las situaciones de conflicto y postconflicto.” (párr. 9)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26 / Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+65. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En la admisión, una Unidad Educativa da preferencia a postulantes según su origen étnico. ¿Qué instrumento citado en el párrafo 10 se refiere de manera directa a esta situación?
+A. La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza
+B. La resolución de la Asamblea General sobre el derecho a la educación en emergencias
+C. La Convención sobre el Estatuto de los Refugiados y su protocolo adicional de alcance internacional
+D. La Convención sobre la eliminación de todas las formas de discriminación contra la mujer
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza…”; “Todas las personas, sea cual sea su […] origen étnico […] deben tener acceso a una educación de calidad inclusiva y equitativa…” (párr. 5)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26 / Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+66. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Se condiciona la inscripción en el nivel obligatorio al pago de un aporte económico. ¿Qué disposición del primer principio resulta vulnerada?
+A. Que la educación de calidad solo es gratuita para los grupos marginados y vulnerables de la lista
+B. Que la educación debe financiarse con aportes voluntarios de las madres y padres de familia según su capacidad de pago
+C. Que la educación y el aprendizaje inclusivos y equitativos de calidad deberán ser gratuitos y obligatorios
+D. Que la educación es una causa común en la que las familias deben cofinanciar la calidad del servicio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…los países deben garantizar un acceso universal e igualitario a una educación y un aprendizaje inclusivos y equitativos de calidad, que deberán ser gratuitos y obligatorios, sin dejar a nadie rezagado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+67. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un reglamento interno de convivencia tolera expresiones de desprecio entre estudiantes de distintas culturas. ¿Con qué disposición del primer principio entra en contradicción?
+A. Con la obligación de garantizar la gratuidad de la educación en los niveles obligatorios
+B. Con la finalidad de promover el entendimiento mutuo, la tolerancia, la amistad y la paz
+C. Con la exigencia de adquirir las mismas competencias en la educación y mediante ella
+D. Con el deber del Estado de establecer y regular estándares y normas para la enseñanza
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación deberá tener por finalidad el desarrollo pleno de la personalidad humana y promover el entendimiento mutuo, la tolerancia, la amistad y la paz.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+68. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una dirección departamental desea incluir a los estudiantes trabajadores como grupo vulnerable en su plan, aunque no figuran en la lista del párrafo 5. ¿Es procedente según la nota 4?
+A. Sí, porque la lista no es exhaustiva y los países y regiones pueden definir otros tipos de vulnerabilidad
+B. Sí, pero solo si se suprime de la lista alguno de los grupos ya reconocidos para mantener su extensión
+C. No, porque únicamente las Naciones Unidas pueden definir nuevos grupos marginados y vulnerables
+D. No, porque la lista del párrafo 5 es taxativa y solo la Agenda 2030 puede ampliar o modificar sus categorías
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Cabe señalar que la lista […] no es exhaustiva, y que los países y regiones podrían definir y tener en cuenta otros tipos de vulnerabilidad, marginación, discriminación y exclusión en la educación en función de la situación de las personas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, nota 4 (párr. 5); página impresa 25; página PDF 23.
+
+69. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al fundamentar normativamente un proyecto institucional basado en el Marco de Acción, ¿qué afirmación sobre el origen de sus principios es correcta?
+A. Provienen de las legislaciones nacionales de los países firmantes, armonizadas por la UNESCO
+B. Provienen de instrumentos y acuerdos internacionales, como el Artículo 26 de la Declaración Universal
+C. Provienen exclusivamente de la Declaración de Incheon, sin referencia a otros instrumentos internacionales previos
+D. Provienen de recomendaciones técnicas del Banco Mundial y de otros organismos de financiación
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los principios en los que reposa este Marco de Acción provienen de instrumentos y acuerdos internacionales, incluidos el Artículo 26 de la Declaración Universal de Derechos Humanos…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+70. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un docente se niega a atender a estudiantes que hablan una lengua originaria distinta a la de enseñanza. ¿Qué disposición de la Sección I resulta inobservada?
+A. Que la atención por idioma corresponde únicamente a escuelas especializadas en educación indígena
+B. Que todas las personas, sea cual sea su idioma, deben acceder a una educación de calidad inclusiva
+C. Que la educación debe impartirse solo en la lengua oficial para asegurar la cohesión social del país
+D. Que la diversidad lingüística se atiende solo en la educación superior y no en la educación básica
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Todas las personas, sea cual sea su sexo, edad, raza, color, origen étnico, idioma, religión […], así como […] los pueblos indígenas […] deben tener acceso a una educación de calidad inclusiva y equitativa…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+71. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un grupo de padres exige retirar del curso a un estudiante con discapacidad porque “retrasa el avance”. ¿Cómo debe resolver el director el conflicto?
+A. Trasladar al estudiante a un horario distinto para que no coincida con el resto de sus compañeros
+B. Someter la permanencia del estudiante a votación de los padres para resolver el conflicto en paz
+C. Mantener al estudiante, dialogar con las familias y reafirmar que la educación promueve la inclusión
+D. Atender la demanda de los padres, pues el rendimiento del grupo prevalece sobre el caso individual del estudiante
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Además, promueve la inclusión de las personas con discapacidad.” (párr. 8); “…las personas con discapacidad […] deben tener acceso a una educación de calidad inclusiva y equitativa…” (párr. 5)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25 / Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+72. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Dos docentes discrepan sobre incluir en una feria escolar expresiones de distintas confesiones religiosas presentes en la comunidad. ¿Qué resolución es coherente con el párrafo 7?
+A. Postergar la feria hasta que toda la comunidad comparta una misma confesión religiosa y cultural
+B. Excluirlas, pues la educación debe evitar toda referencia a la diversidad religiosa de la comunidad
+C. Incluir solo la confesión mayoritaria, para preservar la cohesión social y evitar conflictos internos en la escuela
+D. Incluirlas, pues la educación facilita el diálogo intercultural y el respeto de la diversidad religiosa
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación facilita el diálogo intercultural y promueve el respeto de la diversidad cultural, religiosa y lingüística, que son vitales para la cohesión social y la justicia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+73. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Llega a la Unidad Educativa un adolescente desplazado por un conflicto social violento, con interrupciones en su escolaridad. ¿Qué respuesta es la más adecuada?
+A. Inscribirlo solo si presenta toda la documentación académica previa completa, actualizada y debidamente legalizada
+B. Acogerlo de inmediato, entendiendo la educación como protección y herramienta para reconstruir su vida
+C. Derivarlo a un servicio de asistencia social, ya que la escuela no tiene funciones ante las crisis
+D. Postergar su inscripción hasta la próxima gestión para que primero supere la situación de crisis
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Intrínsecamente, la educación constituye también una protección para los niños, jóvenes y adultos cuyas vidas han sido destruidas por crisis y conflictos, y les proporciona las herramientas necesarias para reconstruir sus vidas y comunidades.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+74. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Madres y padres de una comunidad rural solicitan a la Unidad Educativa apoyo para alfabetizarse. ¿Qué respuesta del director se fundamenta en el párrafo 6?
+A. Apoyar la iniciativa, ya que los sistemas deben velar por que también los adultos alcancen la alfabetización
+B. Postergar la solicitud hasta garantizar plenamente la cobertura de los niños en la educación básica
+C. Derivar la solicitud a organizaciones privadas, pues la alfabetización adulta no compete a la educación
+D. Rechazar la solicitud, ya que el párrafo 6 limita la alfabetización a los niños y niñas en edad escolar obligatoria
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Resulta también fundamental que los sistemas educativos velen por que todos los niños, jóvenes y adultos aprendan y adquieran aptitudes pertinentes, incluido un nivel adecuado de alfabetización.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+75. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Algunas familias se oponen a que sus hijas continúen la secundaria por considerarla innecesaria. ¿Qué argumento del documento debe sostener el director al dialogar con ellas?
+A. Que la educación secundaria es optativa para las niñas, aunque resulta recomendable en zonas urbanas
+B. Que la educación de las niñas beneficia sobre todo a la escuela, al elevar sus indicadores anuales de matrícula
+C. Que la educación de las niñas es útil solo si se orienta a oficios tradicionalmente femeninos del lugar
+D. Que la educación es el medio más eficaz para la igualdad y el empoderamiento económico de las mujeres
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es el medio más eficaz de lograr la igualdad entre hombres y mujeres, propiciar la plena participación social y política de las niñas y las mujeres y empoderarlas económicamente.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+76. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En la comunidad de una Unidad Educativa aumentan los casos de desnutrición infantil y enfermedades prevenibles. ¿Qué acción se fundamenta en el párrafo 8?
+A. Abstenerse de intervenir, pues la salud comunitaria es competencia exclusiva del sector sanitario local y departamental
+B. Fortalecer acciones educativas en salud, pues la educación ayuda a prevenir enfermedades y la malnutrición
+C. Limitar la respuesta a campañas informativas puntuales, pues la educación no incide en la malnutrición
+D. Reducir las horas de clase para que los estudiantes acudan con regularidad a los centros de salud
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación salva la vida de millones de madres y niños, ayuda a prevenir y controlar enfermedades, y es un elemento esencial de los esfuerzos orientados a reducir la malnutrición.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+77. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Tras un conflicto entre dos comunidades vecinas, persisten tensiones entre sus estudiantes. ¿Qué enfoque resolutivo es coherente con el párrafo 9?
+A. Separar a los estudiantes de ambas comunidades en turnos distintos hasta que cesen por completo las tensiones
+B. Sancionar a los estudiantes involucrados sin abrir espacios de diálogo para no avivar el conflicto
+C. Aprovechar la educación para atenuar el conflicto y promover la paz mediante el trabajo conjunto
+D. Evitar abordar el tema en la escuela, pues los conflictos comunitarios son ajenos a ella
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Una mejor educación es también fundamental para prevenir y atenuar los conflictos y las crisis y promover la paz.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+78. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] La directiva de padres pretende excluir a los representantes estudiantiles de la comisión que define las normas de convivencia. ¿Qué resolución es coherente con el segundo principio?
+A. Incluir a los estudiantes, pues los jóvenes y los niños cumplen funciones clave en el derecho a la educación
+B. Excluir a los estudiantes, porque las decisiones normativas corresponden solo a los adultos de la comunidad escolar
+C. Incluir a los estudiantes con voz, pero sin voto, ya que el principio reserva las decisiones a las familias
+D. Excluir a los estudiantes, porque el principio reconoce funciones clave solo al Estado y a los docentes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es una causa común de la sociedad, que conlleva un proceso participativo […]. La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave para hacer efectivo el derecho a una educación de calidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+79. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En una comunidad sin oferta de educación inicial, algunos padres consideran innecesario que los niños pequeños asistan antes de la primaria. ¿Qué argumento debe ofrecer el director?
+A. Que la educación inicial importa solo para adelantar contenidos de lectura y escritura de la primaria
+B. Que la educación de la primera infancia es opcional y solo conveniente para familias en las que ambos padres trabajan
+C. Que la primera infancia debe atenderse exclusivamente en el hogar hasta el inicio de la primaria
+D. Que la atención y educación de la primera infancia es esencial para el desarrollo, aprendizaje y salud
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Al mismo tiempo, es esencial proporcionar atención y educación de la primera infancia para garantizar el desarrollo, el aprendizaje y la salud de los niños a largo plazo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+80. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Varios adolescentes abandonan la Unidad Educativa para trabajar y luego desean retomar estudios. ¿Qué respuesta se fundamenta en la Sección I?
+A. Derivarlos a capacitaciones laborales breves, pues su edad ya no corresponde a la educación formal básica
+B. Negarles la reincorporación, pues el abandono voluntario extingue su derecho a la educación en la escuela regular
+C. Ofrecerles oportunidades de reincorporación, pues deben adquirir aptitudes y competencias a lo largo de la vida
+D. Admitirles solo si renuncian a su trabajo, ya que el ODS 4 exige dedicación exclusiva al estudio regular
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Es urgente que los niños, jóvenes y adultos adquieran a lo largo de la vida las aptitudes y competencias flexibles necesarias para vivir y trabajar…” (párr. 6); “…oportunidades de aprendizaje a lo largo de la vida.” (párr. 5)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24 / Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+81. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Con un presupuesto limitado para apoyo pedagógico, el director debe decidir su destino. ¿Qué decisión es más coherente con la enseñanza del párrafo 5?
+A. Reservar el presupuesto para infraestructura, ya que el apoyo pedagógico no influye en la equidad
+B. Distribuir el monto por igual entre todos los cursos, sin considerar las necesidades específicas de cada grupo
+C. Destinar el apoyo a los estudiantes destacados para fortalecer la imagen académica de la escuela
+D. Priorizar a los estudiantes en situación de vulnerabilidad o marginación para que nadie quede atrás
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…lo necesario que resulta redoblar los esfuerzos, en especial aquellos dirigidos a llegar a las personas marginadas o que se hallan en situación de vulnerabilidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+82. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Ante la rápida expansión de las tecnologías en la comunidad, ¿qué decisión curricular es la más fundamentada según el párrafo 6?
+A. Prohibir el uso de tecnologías en la escuela para proteger la enseñanza basada en contenidos clásicos
+B. Desarrollar competencias flexibles para vivir y trabajar en un mundo impulsado por la tecnología
+C. Sustituir todas las áreas curriculares por programación, pues la tecnología es el único eje del ODS 4
+D. Esperar a que la tecnología se estabilice antes de introducir cambios en el plan de estudios
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Es urgente que los niños, jóvenes y adultos adquieran a lo largo de la vida las aptitudes y competencias flexibles necesarias para vivir y trabajar en un mundo más seguro, sostenible, interdependiente, basado en el conocimiento e impulsado por la tecnología.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+83. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El diagnóstico revela rezagos graves de aprendizaje. El equipo debe elegir entre un plan inmediato de transformación o mejoras graduales en cinco años. ¿Qué decisión respalda el documento?
+A. Optar por mejoras graduales, porque los cambios rápidos contravienen el enfoque humanista del ODS 4
+B. Optar por mejoras graduales, pues el documento recomienda mantener los ritmos actuales de avance
+C. Optar por no intervenir, pues los rezagos se corregirán con el paso de los años escolares
+D. Optar por el plan inmediato, movilizando esfuerzos y recursos a una velocidad sin precedentes
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Si se mantienen los ritmos actuales de avance, muchos de los países más rezagados no alcanzarán las nuevas metas en 2030. Esto significa que es de importancia capital cambiar las prácticas vigentes y movilizar esfuerzos y recursos a una velocidad sin precedentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+84. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una Unidad Educativa en zona de riesgo de desastres y tensiones sociales debe aprobar su plan de gestión de riesgos. ¿Qué decisión es más pertinente?
+A. Delegar el plan a la defensa civil, porque la resiliencia del sistema educativo no compete al director ni a los docentes
+B. Fortalecer su resiliencia y capacidad de reacción ante conflictos, tensiones sociales y peligros naturales
+C. Limitar el plan a simulacros de evacuación, ya que las tensiones sociales no competen a la escuela
+D. Postergar el plan hasta que ocurra una emergencia, para ajustarlo a la situación real que se presente
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Por ende, es crucial crear sistemas educativos más resilientes y con mayor capacidad de reacción ante los conflictos, las tensiones sociales y los peligros naturales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+85. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al definir el indicador principal de éxito del plan anual, el director duda entre la tasa de asistencia y los resultados de aprendizaje. ¿Qué decisión es más coherente con la Sección I?
+A. Priorizar la tasa de promoción de curso, porque garantiza por sí sola el aprendizaje de los alumnos
+B. Priorizar exclusivamente la tasa de asistencia, porque refleja de forma directa la calidad educativa
+C. Priorizar las actividades extracurriculares, porque reflejan el compromiso institucional
+D. Priorizar los resultados del aprendizaje y las competencias adquiridas, sin descuidar el acceso
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La novedad del ODS 4-Educación 2030 es que se centra en el afianzamiento y ampliación del acceso, de la inclusión y la equidad, y de la calidad y los resultados del aprendizaje en todos los niveles…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+86. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Para el seguimiento del logro académico, el director debe decidir qué información analizar. ¿Qué decisión responde mejor al principio de igualdad de género?
+A. Verificar solo el número de niñas y niños inscritos, pues la paridad numérica satisface el principio
+B. Verificar el logro de los varones, pues las niñas ya superan en matrícula a sus compañeros
+C. Verificar si niñas y niños adquieren por igual las competencias previstas en cada nivel de enseñanza
+D. Verificar el logro del curso en su conjunto, pues desagregar por sexo contraviene la idea de igualdad
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…que garantice no solo que las niñas, los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+87. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] El Ministerio pide a las Unidades Educativas proponer ajustes a una política local de convivencia. ¿Qué decisión metodológica del director es coherente con el segundo principio?
+A. Remitir la consulta a la junta escolar para que decida sola, sin participación de estudiantes ni docentes
+B. Redactar la propuesta en la dirección y enviarla directamente al Ministerio para evitar demoras en el proceso de consulta
+C. Convocar un proceso participativo con docentes, familias, estudiantes y comunidad para formular la propuesta
+D. Encargar la propuesta solo al plantel docente, pues los demás actores carecen de funciones en las políticas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es una causa común de la sociedad, que conlleva un proceso participativo de formulación y aplicación de políticas públicas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+88. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Concluida la gestión, el director debe decidir cómo dar a conocer los resultados institucionales. ¿Qué decisión es coherente con el principio de responsabilidad y rendición de cuentas compartidas?
+A. Reservar los resultados para el equipo directivo, a fin de evitar conflictos con las familias y los docentes del centro
+B. Publicar únicamente los resultados positivos, para preservar la confianza de la comunidad en la escuela
+C. Remitir los resultados solo a la autoridad distrital, pues la comunidad no participa de la rendición
+D. Presentar los resultados ante la comunidad educativa y analizar con ella las responsabilidades de mejora
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…basado en los principios de […] responsabilidad y rendición de cuentas compartidas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+89. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] En los recreos se registran burlas xenófobas contra estudiantes de otras regiones y países. ¿Qué decisión institucional se fundamenta mejor en el párrafo 7?
+A. Minimizar los hechos como juegos propios de la edad, sin intervención institucional de ningún tipo
+B. Aplicar solo sanciones disciplinarias inmediatas, pues la formación en valores no es tarea escolar
+C. Impulsar acciones formativas que afiancen la ciudadanía mundial, la tolerancia y el compromiso cívico
+D. Separar a los estudiantes de otras regiones en grupos propios para evitar nuevos episodios de burla y agresión
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Considera la educación un factor inclusivo y crucial para promover la democracia y los derechos humanos y afianzar la ciudadanía mundial, la tolerancia y el compromiso cívico, así como el desarrollo sostenible.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+90. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Una Unidad Educativa urbana de buen desempeño decide no incorporar el ODS 4 en su planificación por considerarlo una agenda para países pobres. ¿Qué decisión corresponde revisar?
+A. Incorporarlo solo en la sección de proyección social, pues no afecta la gestión pedagógica interna del centro
+B. Incorporarlo, pues el ODS 4 es universal y pertenece tanto a países desarrollados como en desarrollo
+C. Mantener la exclusión hasta que la escuela registre indicadores bajos de aprendizaje o de acceso
+D. Mantener la exclusión, pues el ODS 4 se dirige solo a los países y escuelas con mayores rezagos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Otro aspecto novedoso del ODS 4-agenda Educación 2030 es que reviste un carácter universal y pertenece al mundo entero, tanto a los países desarrollados como en desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+91. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al diagnosticar el contexto para un plan estratégico institucional, ¿qué factores del párrafo 6 debe considerar el equipo directivo?
+A. Mercado laboral estable, crecimiento económico sostenido, urbanización lenta y reducción de la pobreza
+B. Rankings internacionales, preferencias de las familias, prestigio escolar y competencia entre escuelas de la zona
+C. Mercado laboral cambiante, avances tecnológicos, migración, degradación ambiental y desigualdad creciente
+D. Calendario escolar, carga horaria docente, infraestructura disponible y número de estudiantes por curso
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los sistemas educativos deben ser pertinentes y adaptarse a los mercados laborales en rápida evolución, los avances tecnológicos, la urbanización, la migración, la inestabilidad política, la degradación ambiental […], la persistencia de la pobreza, la desigualdad creciente…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+92. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un equipo directivo diseña proyectos transversales vinculados a otros ODS. ¿Qué ejes respaldan directamente las metas de educación integradas en ellos?
+A. Salud; crecimiento y empleo; consumo y producción sostenibles; y cambio climático
+B. Deporte; turismo y cultura; comercio y exportación; y transformación digital
+C. Arte; emprendimiento y finanzas; infraestructura vial; y minería responsable
+D. Salud; seguridad ciudadana; transporte y vivienda social; y gobierno electrónico local
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…se integran metas sobre educación en varios ODS más, en especial los que se refieren a la salud; el crecimiento y el empleo; el consumo y la producción sostenibles; y el cambio climático.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+93. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al formular la visión institucional de una Unidad Educativa alineada con el ODS 4, ¿qué enunciado recoge mejor la visión de la educación del párrafo 4?
+A. Una educación que selecciona a los mejores talentos de la comunidad para liderar el desarrollo económico regional
+B. Una educación que transmite contenidos estandarizados para lograr resultados comparables en pruebas internacionales de rendimiento
+C. Una educación que transforma las vidas de las personas, las comunidades y las sociedades, sin dejar a nadie rezagado
+D. Una educación que prepara mano de obra calificada para responder a las demandas inmediatas del mercado laboral
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…se inspira en una visión de la educación que transforma las vidas de las personas, las comunidades y las sociedades, sin dejar a nadie rezagado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 4; página impresa 24; página PDF 22.
+
+94. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al definir los objetivos estratégicos institucionales, ¿qué combinación de dimensiones expresa con mayor fidelidad la novedad del ODS 4?
+A. Acceso, permanencia y promoción, eficiencia y eficacia administrativa, con enfoque de gestión por metas
+B. Infraestructura, equipamiento y tecnología, horas de clase y matrícula, con enfoque de modernización
+C. Acceso, inclusión y equidad, calidad y resultados del aprendizaje, con enfoque de aprendizaje permanente
+D. Cobertura, disciplina y orden, rendimiento en pruebas y eficiencia del gasto, con enfoque de resultados medibles
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La novedad del ODS 4-Educación 2030 es que se centra en el afianzamiento y ampliación del acceso, de la inclusión y la equidad, y de la calidad y los resultados del aprendizaje en todos los niveles, como parte de un enfoque de aprendizaje a lo largo de la vida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 5; página impresa 25; página PDF 23.
+
+95. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un plan estratégico propone abrir programas para jóvenes y adultos además de la oferta regular. ¿Qué fundamento estratégico del párrafo 6 lo respalda?
+A. La urgencia de que niños, jóvenes y adultos adquieran a lo largo de la vida aptitudes y competencias flexibles
+B. La recomendación de sustituir la educación regular por programas flexibles para todas las edades
+C. La necesidad de generar ingresos propios para la escuela mediante la venta de cursos a la comunidad
+D. La prioridad de concentrar los recursos en la educación de los adultos por encima de la educación infantil y juvenil
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Es urgente que los niños, jóvenes y adultos adquieran a lo largo de la vida las aptitudes y competencias flexibles necesarias para vivir y trabajar en un mundo más seguro, sostenible, interdependiente, basado en el conocimiento e impulsado por la tecnología.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.
+
+96. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al incorporar la gestión de riesgos en la planificación estratégica, ¿qué orientación del párrafo 9 debe guiar al equipo directivo?
+A. Restringir la planificación a riesgos naturales, excluyendo las tensiones sociales y los conflictos locales
+B. Crear capacidad de reacción y asegurar la continuidad educativa en emergencias, conflicto y postconflicto
+C. Prever la suspensión indefinida de clases como medida principal ante cualquier situación de emergencia
+D. Asumir que la gestión de riesgos corresponde solo a la autoridad nacional y no a la institución educativa
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…es crucial crear sistemas educativos más resilientes y con mayor capacidad de reacción ante los conflictos, las tensiones sociales y los peligros naturales, así como garantizar que se mantenga la educación durante las emergencias y las situaciones de conflicto y postconflicto.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 9; página impresa 27; página PDF 25.
+
+97. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al justificar ante la comunidad un proyecto de formación técnica productiva, ¿qué argumento del párrafo 8 vincula la educación con la erradicación de la pobreza?
+A. Reduce la pobreza solo cuando se orienta a la educación superior universitaria de carácter profesional
+B. Ayuda a conseguir trabajo decente, incrementa los ingresos y genera mayor productividad para el desarrollo
+C. Erradica la pobreza al sustituir los programas sociales por becas exclusivas para los mejores estudiantes
+D. Garantiza empleo inmediato a todos los egresados y elimina la necesidad de otras políticas contra la pobreza
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación desempeña un papel clave para erradicar la pobreza, ya que ayuda a las personas a conseguir trabajo decente, incrementa sus ingresos y genera una mayor productividad que sirve de motor para el desarrollo económico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 8; página impresa 27; página PDF 25.
+
+98. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Un equipo directivo quiere que su proyecto educativo contribuya al “nuevo modelo de desarrollo” mencionado en el párrafo 7. ¿Qué orientación estratégica es la adecuada?
+A. Vincular la educación con la eficiencia administrativa, priorizando la reducción de costos escolares
+B. Vincular la educación con la conservación ambiental, dejando de lado las dimensiones sociales
+C. Vincular la educación con el desarrollo humano y la sostenibilidad económica, social y ambiental
+D. Vincular la educación solo con el crecimiento económico, priorizando la competitividad productiva
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El renovado interés por el propósito y la pertinencia de la educación en favor del desarrollo humano y la sostenibilidad económica, social y ambiental es uno de los rasgos que definen el ODS 4-agenda Educación 2030. Esto forma parte integral de su visión holística y humanista, que contribuye a un nuevo modelo de desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 7; página impresa 26; página PDF 24.
+
+99. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al organizar la estructura de gestión participativa de una Unidad Educativa, ¿qué combinación de roles es coherente con el segundo principio?
+A. Normas y estándares definidos por el sector privado, y participación de la comunidad solo en actos festivos
+B. Normas y estándares definidos por las familias, y participación del Estado reducida al financiamiento escolar
+C. Normas y estándares definidos por el Estado, y participación activa de docentes, familias, estudiantes y comunidad
+D. Normas y estándares definidos por cada escuela, y participación limitada al equipo directivo y al plantel docente del centro
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación es una causa común de la sociedad, que conlleva un proceso participativo […]. La sociedad civil, los docentes y educadores, el sector privado, las comunidades, las familias, los jóvenes y los niños cumplen todos funciones clave […]. La participación del Estado es esencial para establecer y regular estándares y normas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 10; página impresa 28; página PDF 26.
+
+100. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] Al evaluar el plan institucional al cierre de la gestión, ¿qué criterio estratégico del párrafo 6 permite valorar si la formación es pertinente?
+A. Que todos aprendan y adquieran aptitudes pertinentes, incluido un nivel adecuado de alfabetización
+B. Que todos participen en actividades extracurriculares y eventos cívicos organizados por la escuela
+C. Que todos aprueben el curso, independientemente de las aptitudes que hayan logrado desarrollar
+D. Que todos asistan regularmente y completen el calendario escolar sin faltas ni interrupciones significativas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Resulta también fundamental que los sistemas educativos velen por que todos los niños, jóvenes y adultos aprendan y adquieran aptitudes pertinentes, incluido un nivel adecuado de alfabetización.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios, párr. 6; página impresa 26; página PDF 24.

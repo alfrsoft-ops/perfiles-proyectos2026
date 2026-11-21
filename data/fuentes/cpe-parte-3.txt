@@ -1,0 +1,1099 @@
+# Fuente: cpe-parte-3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Constitución Política del Estado (7 de febrero de 2009)
+# Tercera Parte: Estructura y organización territorial del Estado (Arts. 269 al 305)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar las disposiciones de la Tercera Parte de la Constitución Política del Estado en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto constitucional proporcionado, sin incorporar fuentes externas.
+# Criterios documentales aplicados
+# Alcance de la fuente. La Tercera Parte comprende un solo título, Organización territorial del Estado (Arts. 269 al 305), con ocho capítulos: disposiciones generales; autonomías departamental, regional, municipal e indígena originaria campesina; órganos ejecutivos y legislativos de los gobiernos autónomos; y distribución de competencias. En el archivo PDF proporcionado ocupa las páginas 68 a 84.
+# Página impresa. El PDF proporcionado (texto de consulta de la Gaceta Oficial de Bolivia) no tiene numeración impresa en sus páginas. Por ello, cada referencia consigna «Página impresa: s/n» y la página PDF exacta. No se ha supuesto ninguna paginación impresa no verificable.
+# Rótulo «Aplicación razonada». Distingue las situaciones derivadas (escenarios institucionales construidos a partir de una disposición) de las preguntas de conocimiento textual, rotuladas «Conceptual» o «Interpretativa». Los casos prácticos se rotulan «Caso práctico (Aplicación razonada)».
+# Competencias directivas. La Tercera Parte no regula funciones ni atribuciones de directoras o directores de unidades educativas: «No respaldado por el documento fuente». Lo que sí regula es la distribución de competencias entre el nivel central y las entidades territoriales autónomas. Por ello, la dimensión 3 evalúa la identificación del nivel de gobierno y del tipo de competencia que corresponde a materias vinculadas con la gestión educativa (políticas y gestión del sistema de educación, niñez y adolescencia, infraestructura, deporte, bibliotecas, control gubernamental, ciencia y tecnología, entre otras). En los casos y decisiones, la pregunta es ante qué nivel corresponde gestionar algo; nunca se atribuye a la Constitución una competencia del director.
+# Etiqueta de trazabilidad. Cada enunciado inicia con el documento y el apartado de procedencia, por ejemplo: [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias], para su integración en plataformas de simulación que combinan preguntas de varios documentos.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 18 preguntas y la más corta en 16, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Numeración
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–5)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta de documento y apartado de procedencia.
+# Cada fundamentación remite a artículos, parágrafos y numerales verificables de la Tercera Parte, con su página PDF.
+# Contenido limitado exclusivamente a la fuente proporcionada; no se atribuyen a la Constitución competencias directivas que no contiene.
+
+CAPÍTULO: cpe-parte-3
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] Según el Artículo 269.I, Bolivia se organiza territorialmente en:
+A. Departamentos, regiones, municipios y distritos educativos indígena originarios.
+B. Departamentos, provincias, cantones y territorios indígena originario campesinos del país.
+C. Regiones, provincias, municipios y mancomunidades indígena originario campesinas.
+D. Departamentos, provincias, municipios y territorios indígena originario campesinos.
+Respuesta correcta: D
+Explicación: El Artículo 269.I dispone que Bolivia se organiza territorialmente en departamentos, provincias, municipios y territorios indígena originario campesinos. Las regiones forman parte de la organización territorial en los términos que determine la ley (269.III).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 269, parágrafos I (pág. PDF 68) y III (pág. PDF 69). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] El Artículo 297.I clasifica las competencias definidas en la Constitución en:
+A. Privativas, exclusivas, delegadas y transferidas.
+B. Privativas, exclusivas, concurrentes y compartidas.
+C. Originarias, exclusivas, concurrentes y residuales del Estado.
+D. Privativas, autónomas, concurrentes y coordinadas.
+Respuesta correcta: B
+Explicación: El Artículo 297.I establece cuatro tipos de competencias: privativas, exclusivas, concurrentes y compartidas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 297, parágrafo I; pág. PDF: 74. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos] Según el Artículo 285.I, ¿qué edad mínima se exige para ser candidata o candidato a Alcaldesa o Alcalde y a Gobernadora o Gobernador?
+A. Dieciocho años para Alcaldía y autoridad regional; veintiún años para Gobernación o Prefectura.
+B. Veinticinco años para Alcaldía y autoridad regional; treinta años para Gobernación o Prefectura departamental.
+C. Veintiún años para Alcaldía y Gobernación; dieciocho años para la autoridad regional y concejo.
+D. Veintiún años para Alcaldía y autoridad regional; veinticinco años para Gobernación o Prefectura.
+Respuesta correcta: D
+Explicación: El Artículo 285.I.2 exige haber cumplido veintiún años para la elección de la Alcaldesa o del Alcalde y de la autoridad regional; el 285.I.3, veinticinco años para Prefecta o Prefecto y Gobernador o Gobernadora.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos. Art. 285, parágrafo I, numerales 2 y 3; pág. PDF: 71. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] ¿Cuál de los siguientes grupos contiene solo principios que rigen la organización territorial según el Artículo 270?
+A. Unidad, obligatoriedad, solidaridad, jerarquía, gradualidad y subordinación institucional.
+B. Unidad, voluntariedad, solidaridad, subsidiariedad, gradualidad y lealtad institucional.
+C. Unidad, voluntariedad, competitividad, centralidad, gradualidad y lealtad partidaria.
+D. Soberanía, voluntariedad, uniformidad, subsidiariedad, rentabilidad y lealtad institucional.
+Respuesta correcta: B
+Explicación: El Artículo 270 enumera como principios: unidad, voluntariedad, solidaridad, equidad, bien común, autogobierno, igualdad, complementariedad, reciprocidad, equidad de género, subsidiariedad, gradualidad, coordinación y lealtad institucional, transparencia, participación y control social, provisión de recursos económicos y preexistencia de las NPIOC.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 270; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] Según el Artículo 280.I, ¿en qué caso podrán conformarse regiones metropolitanas?
+A. En las capitales de departamento con más de 300.000 habitantes.
+B. En los municipios mayores a 1.000.000 de habitantes.
+C. En las conurbaciones que abarquen dos o más departamentos.
+D. En las conurbaciones mayores a 500.000 habitantes.
+Respuesta correcta: D
+Explicación: El Artículo 280.I dispone que en las conurbaciones mayores a 500.000 habitantes podrán conformarse regiones metropolitanas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 280, parágrafo I; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] Según el Artículo 272, la autonomía implica:
+A. La designación de sus autoridades por el nivel central, la administración de sus recursos y el ejercicio de las facultades reglamentaria y ejecutiva.
+B. La elección directa de sus autoridades, la recaudación de impuestos nacionales y el ejercicio de las facultades jurisdiccional, fiscalizadora y ejecutiva.
+C. La elección indirecta de sus autoridades, la administración de recursos transferidos y el ejercicio exclusivo de la facultad ejecutiva y reglamentaria.
+D. La elección directa de sus autoridades, la administración de sus recursos y el ejercicio de las facultades legislativa, reglamentaria, fiscalizadora y ejecutiva.
+Respuesta correcta: D
+Explicación: El Artículo 272 establece que la autonomía implica la elección directa de sus autoridades por las ciudadanas y los ciudadanos, la administración de sus recursos económicos y el ejercicio de las facultades legislativa, reglamentaria, fiscalizadora y ejecutiva por sus órganos, en el ámbito de su jurisdicción, competencias y atribuciones.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 272; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] ¿Qué relación establece el Artículo 276 entre las entidades territoriales autónomas?
+A. Los municipios están subordinados a los departamentos de su territorio.
+B. No están subordinadas entre ellas y tienen igual rango constitucional.
+C. Tienen igual rango, pero las regiones dependen de las autonomías indígenas.
+D. Están subordinadas al departamento y tienen rango legal, no constitucional.
+Respuesta correcta: B
+Explicación: El Artículo 276 dispone que las entidades territoriales autónomas no estarán subordinadas entre ellas y tendrán igual rango constitucional.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 276; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] ¿En qué consiste la autonomía indígena originaria campesina según el Artículo 289?
+A. En el autogobierno como ejercicio de la libre determinación de las naciones y pueblos indígena originario campesinos.
+B. En la desconcentración administrativa del municipio hacia las comunidades indígena originario campesinas del lugar respectivo.
+C. En el autogobierno delegado por el gobierno departamental a las comunidades con población indígena mayoritaria.
+D. En la independencia territorial de las naciones y pueblos indígena originario campesinos respecto del Estado.
+Respuesta correcta: A
+Explicación: El Artículo 289 define la autonomía indígena originaria campesina como el autogobierno como ejercicio de la libre determinación de las NPIOC, cuya población comparte territorio, cultura, historia, lenguas y organización o instituciones jurídicas, políticas, sociales y económicas propias.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 289; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué dispone el Artículo 297.II respecto a las competencias no incluidas en la Constitución?
+A. Se atribuyen a los gobiernos departamentales, que podrán delegarlas a los municipios.
+B. Se atribuyen a la entidad territorial que primero las ejerza dentro de su jurisdicción territorial.
+C. Se atribuyen a los municipios, por aplicación directa del principio de subsidiariedad.
+D. Se atribuyen al nivel central del Estado, que podrá transferirlas o delegarlas por Ley.
+Respuesta correcta: D
+Explicación: El Artículo 297.II establece que toda competencia que no esté incluida en la Constitución será atribuida al nivel central del Estado, que podrá transferirla o delegarla por Ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 297, parágrafo II; pág. PDF: 74. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué exige el Artículo 305 a toda asignación o transferencia de competencias?
+A. Que esté acompañada de la aprobación por referendo de la población de la entidad territorial que recibe la competencia asignada.
+B. Que esté acompañada de un informe del Tribunal Constitucional sobre la capacidad institucional de la entidad receptora.
+C. Que esté acompañada de la renuncia del nivel central a toda facultad legislativa sobre la materia que se transfiere.
+D. Que esté acompañada de la definición de la fuente de los recursos económicos y financieros necesarios para su ejercicio.
+Respuesta correcta: D
+Explicación: El Artículo 305 dispone que toda asignación o transferencia de competencias deberá estar acompañada de la definición de la fuente de los recursos económicos y financieros necesarios para su ejercicio.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 305; pág. PDF: 84. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué tipo de competencia es la «gestión del sistema de salud y educación» según el Artículo 299.II?
+A. Exclusiva municipal: el municipio legisla, reglamenta y ejecuta sobre la gestión del sistema educativo en su territorio municipal.
+B. Concurrente: la legislación corresponde al nivel central y los otros niveles reglamentan y ejecutan simultáneamente.
+C. Compartida: la Asamblea dicta una ley básica y las entidades autónomas dictan la legislación de desarrollo.
+D. Privativa: el nivel central legisla, reglamenta y ejecuta, sin posibilidad de transferirla ni delegarla.
+Respuesta correcta: B
+Explicación: El Artículo 299.II.2 incluye la gestión del sistema de salud y educación entre las competencias concurrentes; el Artículo 297.I.3 define las concurrentes como aquellas en que la legislación corresponde al nivel central y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva. La Constitución no asigna competencias a las direcciones de unidades educativas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299.II.2 (pág. PDF 77) y Art. 297.I.3 (pág. PDF 74). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué competencia en materia educativa pueden ejercer las autonomías indígena originario campesinas según el Artículo 304.III.2?
+A. Exclusiva: formulación de la política educativa propia y emisión de títulos de bachiller con independencia de la legislación del Estado Plurinacional.
+B. Concurrente: organización, planificación y ejecución de planes, programas y proyectos de educación, en el marco de la legislación del Estado.
+C. Compartida: dictado de la legislación de desarrollo del currículo nacional y de la carrera docente en el ámbito de su jurisdicción.
+D. Privativa: administración del magisterio de su territorio y definición de sus planes de estudio, sin sujeción a la normativa estatal.
+Respuesta correcta: B
+Explicación: El Artículo 304.III.2 reconoce a las autonomías indígena originario campesinas la competencia concurrente de organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo III, numeral 2; pág. PDF: 84. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué niveles tienen como competencia exclusiva la «promoción y desarrollo de proyectos y políticas para niñez y adolescencia, mujer, adulto mayor y personas con discapacidad»?
+A. Solo el nivel central del Estado, como parte de las políticas del sistema de educación y salud.
+B. Los gobiernos municipales y las autonomías regionales, como competencia concurrente con el nivel central.
+C. Los gobiernos departamentales y los gobiernos municipales autónomos, cada uno en su jurisdicción.
+D. Solo los gobiernos departamentales, que pueden transferir su ejecución a los municipios por convenio.
+Respuesta correcta: C
+Explicación: El Artículo 300.I.30 asigna esa competencia como exclusiva a los gobiernos departamentales autónomos, y el Artículo 302.I.39, como exclusiva a los gobiernos municipales autónomos, en sus respectivas jurisdicciones.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300.I.30 (pág. PDF 79) y Art. 302.I.39 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Según el Artículo 302.I.28, ¿qué competencia exclusiva tienen los gobiernos municipales sobre infraestructura?
+A. Diseñar, construir, equipar y mantener la infraestructura y obras de interés público y bienes de dominio municipal.
+B. Diseñar y construir la infraestructura de interés del nivel central, previa delegación del Ministerio del ramo.
+C. Construir y mantener la infraestructura departamental, en coordinación con la Asamblea Departamental respectiva del lugar.
+D. Diseñar, construir y administrar la infraestructura de la Red Fundamental de carreteras dentro de su territorio.
+Respuesta correcta: A
+Explicación: El Artículo 302.I.28 asigna a los gobiernos municipales autónomos la competencia exclusiva de diseñar, construir, equipar y mantener la infraestructura y obras de interés público y bienes de dominio municipal, dentro de su jurisdicción territorial.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 28; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Respecto al deporte, ¿qué competencia asigna el Artículo 300.I.17 a los gobiernos departamentales autónomos?
+A. Deporte de alto rendimiento nacional, como competencia privativa delegada al departamento.
+B. Deporte escolar en todo el país, como competencia concurrente con el Ministerio del ramo.
+C. Deporte en el ámbito de su jurisdicción, como competencia compartida con las regiones.
+D. Deporte en el ámbito de su jurisdicción, como competencia exclusiva departamental.
+Respuesta correcta: D
+Explicación: El Artículo 300.I.17 incluye entre las competencias exclusivas de los gobiernos departamentales autónomos el deporte en el ámbito de su jurisdicción. El Artículo 302.I.14 asigna la misma competencia a los municipios en su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo I, numeral 17; pág. PDF: 79. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué tipo de competencia es el «sistema de control gubernamental» según el Artículo 299.II.14?
+A. Privativa del nivel central del Estado, sin posibilidad de transferencia ni delegación.
+B. Exclusiva de los gobiernos departamentales, que la ejercen sobre sus municipios.
+C. Compartida, con legislación de desarrollo a cargo de cada gobierno municipal autónomo.
+D. Concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+Respuesta correcta: D
+Explicación: El Artículo 299.II.14 incluye el sistema de control gubernamental entre las competencias que se ejercen de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo II, numeral 14; pág. PDF: 78. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿A qué nivel y tipo de competencia corresponde el Registro Civil según el Artículo 298?
+A. Es competencia exclusiva de los gobiernos municipales.
+B. Es competencia privativa del nivel central del Estado.
+C. Es competencia concurrente del nivel central y los departamentos.
+D. Es competencia compartida con las autonomías indígenas.
+Respuesta correcta: B
+Explicación: El Artículo 298.I.15 incluye el Registro Civil entre las competencias privativas del nivel central del Estado, cuya legislación, reglamentación y ejecución no se transfiere ni delega (297.I.1).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298, parágrafo I, numeral 15 (pág. PDF 75). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+18. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un municipio proyecta crear una biblioteca pública municipal para el uso de estudiantes. ¿Qué competencia constitucional respalda la iniciativa?
+A. La competencia privativa del nivel central sobre bibliotecas, que solo puede ejercer el Ministerio del ramo en todo el territorio del país.
+B. La competencia compartida sobre bibliotecas, cuya legislación básica dicta la Asamblea y desarrolla cada municipio.
+C. La competencia exclusiva municipal sobre centros de información y documentación, archivos, bibliotecas y museos municipales.
+D. La competencia exclusiva departamental sobre bibliotecas, que el municipio solo puede ejecutar por delegación expresa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.25 asigna a los gobiernos municipales autónomos, como competencia exclusiva, los centros de información y documentación, archivos, bibliotecas, museos, hemerotecas y otros municipales. Los de interés departamental y central se rigen por los Artículos 300.I.28 y 298.II.27.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 25; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué tipo de competencia es «ciencia, tecnología e investigación» según el Artículo 299.II?
+A. Privativa del nivel central del Estado, reservada al sistema estatal de ciencia y tecnología.
+B. Exclusiva de las universidades públicas, en ejercicio de su autonomía institucional reconocida.
+C. Compartida, con legislación básica de la Asamblea y legislación de desarrollo departamental.
+D. Concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+Respuesta correcta: D
+Explicación: El Artículo 299.II.3 incluye ciencia, tecnología e investigación entre las competencias que se ejercen de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo II, numeral 3; pág. PDF: 77. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué competencia exclusiva comparten, cada uno en su jurisdicción, los gobiernos departamentales y municipales según los Artículos 300.I.2 y 302.I.2?
+A. Planificar y promover el desarrollo humano en su jurisdicción.
+B. Definir las políticas del sistema de educación en su jurisdicción.
+C. Administrar el Registro Civil y los censos oficiales en su territorio.
+D. Establecer la política monetaria y fiscal de su jurisdicción territorial.
+Respuesta correcta: A
+Explicación: Los Artículos 300.I.2 y 302.I.2 asignan como competencia exclusiva, a los gobiernos departamentales y municipales respectivamente, planificar y promover el desarrollo humano en su jurisdicción. Las políticas del sistema de educación son exclusivas del nivel central (298.II.17).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300.I.2 (pág. PDF 78) y Art. 302.I.2 (pág. PDF 80). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] ¿Cómo se interpreta el Artículo 269.II respecto a la creación, modificación y delimitación de las unidades territoriales?
+A. Se hará por decisión exclusiva del nivel central, mediante decreto supremo y sin consulta previa a sus habitantes.
+B. Se hará por acuerdo de los gobiernos departamentales colindantes, sin intervención de los habitantes.
+C. Se hará por voluntad democrática de sus habitantes, de acuerdo a las condiciones de la Constitución y la ley.
+D. Se hará por voluntad de las autoridades municipales, mediante resolución aprobada por mayoría simple.
+Respuesta correcta: C
+Explicación: El Artículo 269.II dispone que la creación, modificación y delimitación de las unidades territoriales se hará por voluntad democrática de sus habitantes, de acuerdo a las condiciones establecidas en la Constitución y la ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 269, parágrafo II (pág. PDF 69). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Según el Artículo 290, ¿en qué se basa la conformación de la autonomía indígena originaria campesina y cómo se ejerce su autogobierno?
+A. En los territorios ancestrales habitados y la voluntad de su población en consulta; su autogobierno sigue sus normas, en armonía con la Constitución.
+B. En la delimitación municipal vigente y la voluntad del Concejo; su autogobierno sigue la Carta Orgánica, sin sujeción a sus normas propias.
+C. En los territorios ancestrales habitados y la decisión departamental; su autogobierno sigue la ley departamental de autonomías indígenas.
+D. En la densidad poblacional indígena y la voluntad del nivel central; su autogobierno sigue sus normas, con independencia de la Constitución.
+Respuesta correcta: A
+Explicación: El Artículo 290.I dispone que la conformación de la autonomía indígena originaria campesina se basa en los territorios ancestrales, actualmente habitados por esos pueblos y naciones, y en la voluntad de su población expresada en consulta; el 290.II, que su autogobierno se ejercerá de acuerdo a sus normas, instituciones, autoridades y procedimientos, en armonía con la Constitución y la ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 290, parágrafos I y II; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VI: Órganos legislativos, deliberativos y fiscalizadores de los gobiernos autónomos] ¿Qué dispone el Artículo 287.II sobre la elección de las Asambleas y Concejos de los gobiernos autónomos?
+A. Que tendrá lugar en listas separadas de las de los órganos ejecutivos.
+B. Que tendrá lugar en listas únicas encabezadas por el candidato ejecutivo.
+C. Que tendrá lugar en una fecha distinta a la elección de los ejecutivos.
+D. Que tendrá lugar mediante elección indirecta del órgano ejecutivo electo.
+Respuesta correcta: A
+Explicación: El Artículo 287.II dispone que la elección de las Asambleas y Concejos de los gobiernos autónomos tendrá lugar en listas separadas de los ejecutivos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VI: Órganos legislativos, deliberativos y fiscalizadores de los gobiernos autónomos. Art. 287, parágrafo II; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] Según el Artículo 275, ¿qué pasos sigue un Estatuto autonómico o una Carta Orgánica para entrar en vigencia?
+A. Elaboración técnica, aprobación por mayoría absoluta de presentes, control legislativo de la Asamblea y promulgación ejecutiva.
+B. Elaboración participativa, aprobación por dos tercios de presentes, consulta al Órgano Electoral y publicación en la Gaceta.
+C. Elaboración participativa, aprobación por dos tercios del total de miembros, control de constitucionalidad y referendo aprobatorio.
+D. Elaboración por el órgano ejecutivo, aprobación por referendo, control de constitucionalidad posterior y ratificación legislativa nacional.
+Respuesta correcta: C
+Explicación: El Artículo 275 dispone que cada órgano deliberativo elaborará de manera participativa el proyecto de Estatuto o Carta Orgánica, que deberá ser aprobado por dos tercios del total de sus miembros y, previo control de constitucionalidad, entrará en vigencia mediante referendo aprobatorio en su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 275; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos] ¿Qué regla establece el Artículo 286.II ante la renuncia, muerte, inhabilidad permanente o revocatoria de la máxima autoridad ejecutiva de un gobierno autónomo?
+A. Nueva elección en todos los casos, sin importar el tiempo transcurrido del mandato, convocada por el Órgano Electoral en noventa días.
+B. Nueva elección si no transcurrió la mitad del mandato; de lo contrario, la sustituye una autoridad ya electa según su Estatuto o Carta Orgánica.
+C. Sustitución por el miembro de mayor edad del Concejo o Asamblea en todos los casos, sin necesidad de convocar a una nueva elección.
+D. Nueva elección si ya transcurrió la mitad del mandato; de lo contrario, la sustituye la autoridad que designe el nivel central del Estado Plurinacional.
+Respuesta correcta: B
+Explicación: El Artículo 286.II dispone que, en caso de renuncia o muerte, inhabilidad permanente o revocatoria de la máxima autoridad ejecutiva, se procederá a una nueva elección siempre y cuando no hubiere transcurrido la mitad de su mandato; en caso contrario, la sustituta o sustituto será una autoridad ya electa definida según el Estatuto Autonómico o la Carta Orgánica.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos. Art. 286, parágrafo II; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] ¿Cómo se constituye una autonomía regional según el Artículo 280.III?
+A. A iniciativa del gobierno departamental, por decreto, con competencias conferidas por mayoría absoluta del Concejo Municipal de la capital del departamento.
+B. A iniciativa de los municipios que la integran, vía ley nacional, con competencias conferidas por la Asamblea Legislativa Plurinacional.
+C. A iniciativa de las provincias que la integran, vía consulta, con competencias conferidas por dos tercios de los concejos municipales.
+D. A iniciativa de los municipios que la integran, vía referendo, con competencias conferidas por dos tercios del órgano deliberativo departamental.
+Respuesta correcta: D
+Explicación: El Artículo 280.III dispone que la región podrá constituirse en autonomía regional, a iniciativa de los municipios que la integran, vía referendo en sus jurisdicciones, y que sus competencias deben ser conferidas por dos tercios de votos del total de los miembros del órgano deliberativo departamental.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 280, parágrafo III; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Según el Artículo 293.I, ¿cuál es el único requisito exigible para constituir una autonomía indígena basada en territorios indígenas consolidados?
+A. La aprobación de su Estatuto por dos tercios de la Asamblea Legislativa Plurinacional del Estado boliviano.
+B. La voluntad expresada de su población en consulta, conforme a sus normas y procedimientos propios.
+C. La voluntad expresada de su población mediante referendo organizado por el Órgano Electoral.
+D. La acreditación de un mínimo de población certificado por el censo oficial del nivel central.
+Respuesta correcta: B
+Explicación: El Artículo 293.I dispone que la autonomía indígena basada en territorios indígenas consolidados, y en los que estén en proceso una vez consolidados, se constituirá por la voluntad expresada de su población en consulta, conforme a sus normas y procedimientos propios, como único requisito exigible.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 293, parágrafo I; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] ¿Cómo se adopta la decisión de constituir una autonomía indígena originaria campesina, según el Artículo 294.I?
+A. Mediante resolución del gobierno departamental, previa consulta no vinculante a las comunidades de su territorio.
+B. Mediante decreto supremo del Órgano Ejecutivo, previo informe técnico del Ministerio de Autonomías del Estado.
+C. De acuerdo a la decisión del Concejo Municipal, aprobada por dos tercios de sus miembros y sin consulta previa.
+D. De acuerdo a las normas y procedimientos de consulta, conforme a los requisitos y condiciones de la Constitución y la ley.
+Respuesta correcta: D
+Explicación: El Artículo 294.I dispone que la decisión de constituir una autonomía indígena originaria campesina se adoptará de acuerdo a las normas y procedimientos de consulta, conforme a los requisitos y condiciones establecidos por la Constitución y la ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 294, parágrafo I; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué interpretación corresponde al Artículo 303.I respecto a las competencias de la autonomía indígena originaria campesina?
+A. Ejerce solo las competencias que le transfiera el gobierno departamental, sin asumir las de los municipios de su territorio.
+B. Asume de inmediato todas las competencias departamentales y municipales, sin proceso alguno de desarrollo institucional.
+C. Además de las suyas, asume las competencias de los municipios según un proceso de desarrollo institucional y sus características culturales.
+D. Además de las suyas, asume las competencias privativas del nivel central que se refieran a recursos de su territorio.
+Respuesta correcta: C
+Explicación: El Artículo 303.I dispone que la autonomía indígena originaria campesina, además de sus competencias, asumirá las de los municipios, de acuerdo con un proceso de desarrollo institucional y con las características culturales propias, conforme a la Constitución y la Ley Marco de Autonomías y Descentralización.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 303, parágrafo I; pág. PDF: 82. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] ¿Qué regula la Ley Marco de Autonomías y Descentralización y con qué mayoría se aprueba, según el Artículo 271?
+A. Estatutos y Cartas Orgánicas, transferencia y delegación, régimen económico financiero y coordinación; se aprueba por dos tercios de presentes.
+B. Elección de autoridades autónomas, régimen tributario nacional y control de constitucionalidad; se aprueba por mayoría absoluta.
+C. Estatutos y Cartas Orgánicas, jurisdicción indígena y régimen electoral; se aprueba por dos tercios del total de los miembros.
+D. Transferencia de competencias privativas, régimen de fronteras y coordinación; se aprueba por referendo nacional vinculante.
+Respuesta correcta: A
+Explicación: El Artículo 271.I dispone que la Ley Marco de Autonomías y Descentralización regulará el procedimiento para la elaboración de Estatutos autonómicos y Cartas Orgánicas, la transferencia y delegación competencial, el régimen económico financiero y la coordinación entre el nivel central y las entidades territoriales; el 271.II exige su aprobación por dos tercios de votos de los miembros presentes de la Asamblea.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 271, parágrafos I y II; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué diferencia a las competencias privativas de las exclusivas, según el Artículo 297.I?
+A. En las privativas se pueden delegar la reglamentación y ejecución; en las exclusivas no se transfiere ni delega ninguna de las facultades.
+B. En las privativas no se transfiere ni delega ninguna facultad; en las exclusivas se pueden transferir y delegar la reglamentación y ejecución.
+C. En las privativas legislan las entidades autónomas; en las exclusivas legisla solo el nivel central, sin posibilidad de transferir facultades a otros niveles.
+D. En las privativas el nivel central solo legisla; en las exclusivas las entidades autónomas reglamentan y ejecutan de manera simultánea.
+Respuesta correcta: B
+Explicación: El Artículo 297.I.1 define las privativas como aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega, reservadas al nivel central; el 297.I.2 define las exclusivas como aquellas en que un nivel tiene las tres facultades y puede transferir y delegar la reglamentaria y la ejecutiva.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 297, parágrafo I, numerales 1 y 2; pág. PDF: 74. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué distingue una competencia concurrente de una compartida?
+A. En la concurrente las entidades autónomas dictan la ley de desarrollo; en la compartida legisla solo el nivel central del Estado.
+B. En la concurrente legisla el nivel central; en la compartida, la Asamblea dicta la ley básica y las entidades autónomas, la de desarrollo.
+C. En la concurrente no hay facultad reglamentaria; en la compartida el nivel central reglamenta y ejecuta junto con las autonomías.
+D. En la concurrente legisla cada entidad autónoma; en la compartida la Asamblea legisla, reglamenta y ejecuta en todo el país.
+Respuesta correcta: B
+Explicación: El Artículo 297.I.3 reserva al nivel central la legislación en las competencias concurrentes, mientras los otros niveles reglamentan y ejecutan; el 297.I.4 establece en las compartidas una legislación básica de la Asamblea y una legislación de desarrollo, reglamentación y ejecución de las entidades territoriales autónomas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 297, parágrafo I, numerales 3 y 4; pág. PDF: 74. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. II: Autonomía departamental] ¿Qué diferencia existe entre la Asamblea Departamental y la Asamblea Regional en cuanto a sus facultades?
+A. La regional tiene facultad legislativa; la departamental tiene facultad normativo-administrativa, ambas con funciones deliberativas y fiscalizadoras propias.
+B. Ambas tienen facultad legislativa plena, pero solo la departamental ejerce funciones fiscalizadoras sobre el órgano ejecutivo de su jurisdicción.
+C. La departamental tiene facultad legislativa; la regional tiene facultad normativo-administrativa, ambas con funciones deliberativas y fiscalizadoras.
+D. La departamental tiene solo facultad deliberativa; la regional tiene facultad legislativa y fiscalizadora sobre los municipios que la integran.
+Respuesta correcta: C
+Explicación: El Artículo 277 atribuye a la Asamblea Departamental facultad deliberativa, fiscalizadora y legislativa departamental; el Artículo 281 atribuye a la Asamblea Regional facultad deliberativa, normativo-administrativa y fiscalizadora, en el ámbito de sus competencias.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. II: Autonomía departamental. Art. 277 (pág. PDF 69) y Art. 281 (pág. PDF 70). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] ¿Qué distingue la región de la autonomía regional según el Artículo 280?
+A. La región es un espacio de planificación y gestión; la autonomía regional se constituye por referendo a iniciativa de sus municipios.
+B. La región es una entidad autónoma con gobierno propio; la autonomía regional es un espacio de planificación sin órganos de gobierno propios.
+C. La región se conforma por decreto departamental; la autonomía regional se constituye por ley nacional aprobada por dos tercios.
+D. La región puede trascender límites departamentales; la autonomía regional debe limitarse a una sola provincia del departamento.
+Respuesta correcta: A
+Explicación: El Artículo 280.I establece que la región, conformada por varios municipios o provincias con continuidad geográfica y sin trascender límites departamentales, se constituye como un espacio de planificación y gestión; el 280.III dispone que podrá constituirse en autonomía regional, a iniciativa de los municipios que la integran, vía referendo.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 280, parágrafos I y III; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] ¿Qué diferencia establece la Constitución entre el régimen electoral nacional y el régimen electoral departamental y municipal?
+A. El nacional es competencia compartida con los departamentos; el departamental y municipal es exclusivo municipal.
+B. Ambos son competencias privativas del nivel central, sin posibilidad de transferir ni delegar facultad alguna.
+C. El nacional es competencia exclusiva del nivel central; el departamental y municipal es competencia compartida.
+D. El nacional es competencia concurrente; el departamental y municipal es exclusivo de cada gobierno departamental.
+Respuesta correcta: C
+Explicación: El Artículo 298.II.1 asigna como competencia exclusiva del nivel central el régimen electoral nacional para la elección de autoridades nacionales y subnacionales y consultas nacionales; el Artículo 299.I.1 incluye el régimen electoral departamental y municipal entre las competencias compartidas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298.II.1 (pág. PDF 75) y Art. 299.I.1 (pág. PDF 77). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+36. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. IV: Autonomía municipal] Una Carta Orgánica Municipal fija el número de concejales sin atender los criterios generales establecidos por la ley. ¿Qué análisis corresponde según el Artículo 284.III?
+A. Es válido: la Carta Orgánica define de forma exclusiva y sin sujeción a la ley el número de concejales del municipio respectivo.
+B. Es improcedente: la ley determina los criterios generales y la Carta Orgánica define su aplicación a la realidad local.
+C. Es improcedente: el número de concejales lo fija de manera directa el gobierno departamental mediante su Estatuto.
+D. Es válido si el número de concejales se aprueba en referendo, aunque no respete los criterios generales de la ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 284.III dispone que la Ley determinará los criterios generales para la elección y cálculo del número de concejalas y concejales municipales, y que la Carta Orgánica Municipal definirá su aplicación de acuerdo a la realidad y condiciones específicas de su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. IV: Autonomía municipal. Art. 284, parágrafo III; pág. PDF: 71. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+37. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una Asamblea Departamental aprueba un impuesto departamental cuyo hecho imponible es análogo al de un impuesto nacional vigente. ¿Qué análisis corresponde?
+A. Es válido: la creación de impuestos es competencia exclusiva departamental sin restricción respecto a los hechos imponibles que establezca.
+B. Excede su competencia: los impuestos departamentales no pueden tener hechos imponibles análogos a los nacionales o municipales.
+C. Es válido si el impuesto se destina a educación y salud, por ser competencias concurrentes con el nivel central del Estado.
+D. Excede su competencia solo si el impuesto grava actividades municipales, pues la analogía con los nacionales está permitida.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 300.I.22 asigna a los gobiernos departamentales la creación y administración de impuestos de carácter departamental cuyos hechos imponibles no sean análogos a los impuestos nacionales o municipales.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo I, numeral 22; pág. PDF: 79. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+38. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] Se afirma que un departamento descentralizado puede convertirse en autonomía departamental por decreto supremo. ¿Qué análisis es correcto según el Artículo 274?
+A. Es correcto: la autonomía departamental se otorga por decreto supremo a solicitud del prefecto electo.
+B. Es errado: la autonomía departamental solo puede otorgarla la Asamblea Legislativa por dos tercios.
+C. Es errado: los departamentos descentralizados pueden acceder a la autonomía departamental mediante referendo.
+D. Es correcto si el Consejo Departamental aprueba previamente la solicitud por mayoría absoluta.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 274 dispone que en los departamentos descentralizados se elegirá a prefectos y consejeros departamentales mediante sufragio universal, y que estos departamentos podrán acceder a la autonomía departamental mediante referendo.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 274; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+39. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un gobierno departamental emite una norma propia sobre políticas migratorias para regular la permanencia de extranjeros en su territorio. ¿Qué análisis es correcto?
+A. Es válida: las políticas migratorias son competencia exclusiva departamental en el ámbito de su jurisdicción.
+B. Es válida si coordina con los municipios, pues las políticas migratorias son competencia compartida con ellos en su jurisdicción.
+C. Excede su competencia solo si la norma alcanza a zonas de frontera, pues en el resto del territorio es válida.
+D. Excede su competencia: la regulación y políticas migratorias son competencia privativa del nivel central del Estado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 298.I.11 incluye la regulación y políticas migratorias entre las competencias privativas del nivel central del Estado, cuya legislación, reglamentación y ejecución no se transfiere ni delega (297.I.1).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298, parágrafo I, numeral 11 (pág. PDF 74). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+40. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] En una región ya conformada, se convoca a la elección de autoridades provinciales. ¿Qué análisis corresponde según el Artículo 280.II?
+A. Es contrario a la Constitución: donde se conformen regiones no se podrá elegir autoridades provinciales.
+B. Es válido: las autoridades provinciales coexisten con la región como instancias de planificación.
+C. Es válido si la región aún no se constituyó en autonomía regional mediante referendo en su territorio regional.
+D. Es contrario a la Constitución solo si la región es metropolitana y supera los 500.000 habitantes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 280.II dispone que la Ley Marco de Autonomías establecerá los términos para la conformación de las regiones y que, donde se conformen regiones, no se podrá elegir autoridades provinciales.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 280, parágrafo II; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+41. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. II: Autonomía departamental] Un proyecto de Estatuto Departamental regula la elección de asambleístas sin paridad ni alternancia de género. ¿Qué análisis es correcto según el Artículo 278.II?
+A. Es contrario a la Constitución: los criterios de elección incluyen paridad y alternancia de género, que el Estatuto debe aplicar.
+B. Es válido: los Estatutos definen libremente los criterios de elección, sin sujeción a los criterios generales de la ley.
+C. Es válido si el Estatuto garantiza la representación territorial, pues la paridad solo rige para la Asamblea Legislativa.
+D. Es contrario a la Constitución solo si el departamento tiene minorías indígenas, pues únicamente allí rige la paridad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 278.II dispone que la Ley determinará los criterios generales para la elección de asambleístas departamentales, tomando en cuenta representación poblacional, territorial, de identidad cultural y lingüística cuando son minorías indígenas, y paridad y alternancia de género; los Estatutos definirán su aplicación según la realidad de su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. II: Autonomía departamental. Art. 278, parágrafo II; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+42. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Una autoridad del nivel central exige que el gobierno de una autonomía indígena originaria campesina adopte la denominación de «alcaldía». ¿Qué análisis corresponde?
+A. Es válido: toda autonomía indígena debe adoptar la estructura y denominación de los gobiernos municipales autónomos.
+B. Es válido si la autonomía indígena se conformó a partir de un municipio convertido mediante referendo previo.
+C. Es contrario a la Constitución: ese gobierno se ejerce con la denominación que corresponda a cada pueblo, según sus estatutos.
+D. Es contrario a la Constitución solo si la autonomía indígena abarca territorios de más de un departamento del país.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 296 dispone que el gobierno de las autonomías indígena originario campesinas se ejercerá a través de sus propias normas y formas de organización, con la denominación que corresponda a cada pueblo, nación o comunidad, establecidas en sus estatutos y en sujeción a la Constitución y la Ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 296; pág. PDF: 74. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+43. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una Asamblea Departamental proyecta aprobar un «código penal departamental» para sancionar la violencia escolar. ¿Qué análisis es correcto?
+A. Es válido: la codificación penal es competencia exclusiva departamental en el ámbito de su jurisdicción territorial departamental.
+B. Excede su competencia: la codificación sustantiva y adjetiva en materia penal es privativa del nivel central del Estado.
+C. Es válido si coordina con los municipios, pues la codificación penal es competencia concurrente con ellos.
+D. Excede su competencia solo si las sanciones superan las previstas en las Cartas Orgánicas de sus municipios.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 298.I.21 incluye la codificación sustantiva y adjetiva en materia civil, familiar, penal, tributaria, laboral, comercial, minería y electoral entre las competencias privativas del nivel central del Estado, cuya legislación, reglamentación y ejecución no se transfiere ni delega (297.I.1).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298, parágrafo I, numeral 21 (pág. PDF 75). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+44. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un analista sostiene que un Estatuto Autonómico Departamental no puede definir como concurrentes algunas de sus competencias exclusivas con otras entidades del departamento. ¿Qué crítica es pertinente?
+A. Es correcta: las competencias exclusivas departamentales solo pueden convertirse en concurrentes mediante ley nacional.
+B. Es correcta: las competencias exclusivas departamentales son intransferibles y no admiten ninguna forma de concurrencia.
+C. Es errada solo para las competencias de educación, que los Estatutos pueden compartir con el nivel central del Estado.
+D. Es errada: los Estatutos Departamentales pueden definir como concurrentes algunas de sus competencias exclusivas con esas entidades.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 300.II dispone que los Estatutos Autonómicos Departamentales podrán a su vez definir como concurrentes algunas de sus competencias exclusivas, con otras entidades territoriales del departamento.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo II; pág. PDF: 80. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+45. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] La conformación de una autonomía indígena originaria campesina afectaría los límites de un municipio, y se pretende consolidarla sin intervención de la Asamblea Legislativa Plurinacional. ¿Qué análisis corresponde?
+A. Es procedente: basta el acuerdo entre la nación o pueblo indígena y el gobierno municipal afectado por la medida.
+B. Es improcedente: si afecta límites municipales, debe seguirse un procedimiento ante la Asamblea Legislativa Plurinacional.
+C. Es procedente si la población lo aprueba en consulta, pues ese es el único requisito para modificar límites municipales vigentes.
+D. Es improcedente: si afecta límites municipales, debe resolverlo el gobierno departamental mediante decreto propio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 293.II dispone que, si la conformación de una autonomía indígena afectase límites de distritos municipales, el pueblo y el gobierno municipal deberán acordar una nueva delimitación distrital; si afectase límites municipales, deberá seguirse un procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 293, parágrafo II; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos] Una directora de unidad educativa reside desde hace dieciocho meses en un municipio y desea postularse a Alcaldesa. ¿Qué requisito del Artículo 285.I no cumple?
+A. Haber residido de forma permanente al menos los cinco años inmediatamente anteriores a la elección en el municipio.
+B. Haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en el municipio.
+C. Haber cumplido veinticinco años de edad al día de la elección y residir permanentemente en el municipio.
+D. Haber ejercido funciones públicas en el municipio durante al menos dos años antes de la elección.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 285.I.1 exige a quienes postulen a cargos electivos de los órganos ejecutivos de los gobiernos autónomos haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en el departamento, región o municipio correspondiente.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos. Art. 285, parágrafo I, numeral 1; pág. PDF: 71. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VI: Órganos legislativos, deliberativos y fiscalizadores de los gobiernos autónomos] Un joven de 19 años, que vive desde hace tres años en su municipio, quiere postularse a concejal. ¿Qué dispone el Artículo 287?
+A. Cumple: se exigen 18 años cumplidos al día de la elección y dos años de residencia permanente en la jurisdicción.
+B. No cumple: se exigen 21 años cumplidos al día de la elección y dos años de residencia permanente en la jurisdicción.
+C. No cumple: se exigen 18 años cumplidos y cinco años de residencia permanente en la jurisdicción correspondiente.
+D. Cumple: se exigen 18 años cumplidos al día de la elección, sin requisito alguno de residencia en la jurisdicción.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 287.I exige a las candidatas y los candidatos a los concejos y asambleas de los gobiernos autónomos cumplir las condiciones generales de acceso al servicio público, haber residido de forma permanente al menos los dos años anteriores a la elección en la jurisdicción y tener 18 años cumplidos al día de la elección.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VI: Órganos legislativos, deliberativos y fiscalizadores de los gobiernos autónomos. Art. 287, parágrafo I; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos] Un gobernador fue reelecto de manera continua una vez y pretende postularse a un tercer periodo consecutivo. ¿Qué dispone el Artículo 285.II?
+A. Puede: el mandato es de cinco años y la reelección continua procede hasta por dos veces.
+B. Puede: el mandato es de cuatro años y no existe límite para la reelección de los gobernadores.
+C. No puede: el mandato es de cinco años y la reelección continua procede por una sola vez.
+D. No puede: el mandato es de seis años y la reelección procede solo después de un periodo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 285.II dispone que el periodo de mandato de las máximas autoridades ejecutivas de los gobiernos autónomos es de cinco años, y que podrán ser reelectas o reelectos de manera continua por una sola vez.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos. Art. 285, parágrafo II; pág. PDF: 71. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. IV: Autonomía municipal] En un municipio habita un pueblo indígena originario campesino que no constituye una autonomía indígena. ¿Cómo puede elegir a sus representantes ante el Concejo Municipal?
+A. De forma directa, mediante normas y procedimientos propios y de acuerdo a la Carta Orgánica Municipal.
+B. Solo mediante listas de partidos políticos, en igualdad de condiciones con el resto de la población municipal.
+C. De forma directa, mediante designación del gobierno departamental a propuesta de sus autoridades.
+D. Mediante elección indirecta del propio Concejo, que reserva un escaño conforme a la ley nacional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 284.II dispone que en los municipios donde existan naciones o pueblos indígena originario campesinos que no constituyan una autonomía indígena, éstos podrán elegir sus representantes ante el Concejo Municipal de forma directa, mediante normas y procedimientos propios y de acuerdo a la Carta Orgánica Municipal.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. IV: Autonomía municipal. Art. 284, parágrafo II; pág. PDF: 71. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. II: Autonomía departamental] Al conformarse la Asamblea Departamental, ¿cómo se integran los representantes de las naciones y pueblos indígena originario campesinos, según el Artículo 278.I?
+A. Como asambleístas departamentales designados por el Gobernador, a propuesta de las organizaciones indígenas del lugar respectivo.
+B. Como asambleístas elegidos por voto universal en listas especiales de partidos políticos y agrupaciones ciudadanas.
+C. Como observadores sin voto, elegidos por sus naciones y pueblos de acuerdo a sus propias normas y procedimientos.
+D. Como asambleístas departamentales elegidos por esas naciones y pueblos, de acuerdo a sus propias normas y procedimientos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 278.I dispone que la Asamblea Departamental estará compuesta por asambleístas elegidos por votación universal, directa, libre, secreta y obligatoria, y por asambleístas departamentales elegidos por las naciones y pueblos indígena originario campesinos, de acuerdo a sus propias normas y procedimientos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. II: Autonomía departamental. Art. 278, parágrafo I; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. II: Autonomía departamental] En un conflicto sobre quién ejerce la conducción del órgano ejecutivo departamental, ¿qué dispone el Artículo 279?
+A. Lo dirige la Gobernadora o el Gobernador, en condición de máxima autoridad ejecutiva.
+B. Lo dirige la Presidenta o el Presidente de la Asamblea Departamental, como autoridad máxima.
+C. Lo dirige un consejo colegiado de secretarios departamentales, sin una autoridad máxima.
+D. Lo dirige la Prefecta o el Prefecto designado por la Presidenta o el Presidente del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 279 dispone que el órgano ejecutivo departamental está dirigido por la Gobernadora o el Gobernador, en condición de máxima autoridad ejecutiva.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. II: Autonomía departamental. Art. 279; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] Una región se constituye en autonomía regional. ¿Cómo se elige a las y los miembros de su Asamblea Regional según el Artículo 282.I?
+A. En una circunscripción regional única, en listas separadas de las municipales, según criterios de población.
+B. Por designación de los Concejos Municipales que integran la región, según criterios territoriales y de género.
+C. En cada provincia, junto con las listas de asambleístas departamentales, según criterios de identidad cultural y lingüística.
+D. En cada municipio, junto con las listas de candidatos a concejales, según criterios poblacionales y territoriales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 282.I dispone que las y los miembros de la Asamblea Regional serán elegidos en cada municipio junto con las listas de candidatos a concejales municipales, de acuerdo a criterios poblacionales y territoriales.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 282, parágrafo I; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una unidad educativa urbana desea implementar un programa de educación vial con apoyo institucional. ¿Qué nivel tiene competencia exclusiva sobre ordenamiento y educación vial?
+A. El gobierno departamental autónomo, junto con el transporte interprovincial y los aeropuertos departamentales.
+B. El nivel central del Estado, como parte de las políticas del sistema de educación y de salud.
+C. El gobierno municipal autónomo, junto con el transporte urbano y el control del tránsito urbano.
+D. La autonomía regional, como competencia compartida con los municipios de su jurisdicción.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.18 asigna a los gobiernos municipales autónomos, como competencia exclusiva, el transporte urbano, registro de propiedad automotor, ordenamiento y educación vial, y la administración y control del tránsito urbano.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 18; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Se detectan alimentos en mal estado en los puestos de venta cercanos a una unidad educativa. ¿Qué nivel tiene competencia exclusiva para controlar la calidad y sanidad en la venta de productos alimenticios?
+A. El gobierno departamental autónomo, que controla la sanidad e inocuidad de los alimentos de venta en las ciudades.
+B. El nivel central del Estado, que controla en forma privativa la calidad y sanidad de los alimentos de todo el país sin excepción.
+C. La autonomía regional, que controla la calidad de los alimentos por delegación del Ministerio de Salud y Deportes.
+D. El gobierno municipal autónomo, que controla la calidad y sanidad en la elaboración, transporte y venta de alimentos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 302.I.13 asigna a los gobiernos municipales autónomos la competencia exclusiva de controlar la calidad y sanidad en la elaboración, transporte y venta de productos alimenticios para el consumo humano y animal.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 13; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una fundación sin fines de lucro que ejecuta programas educativos en tres departamentos solicita su personalidad jurídica. ¿Qué nivel es competente para otorgarla?
+A. El nivel central del Estado, porque desarrolla actividades en más de un departamento.
+B. El gobierno departamental de su sede, porque allí tiene su domicilio legal principal.
+C. El gobierno municipal de su sede, porque allí desarrolla la mayor parte de sus actividades.
+D. Cada gobierno departamental, porque debe obtener una personalidad jurídica por departamento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 298.II.15 asigna al nivel central, como competencia exclusiva, la otorgación y registro de personalidad jurídica a ONG, fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en más de un departamento; el 300.I.13 la asigna al departamento cuando actúan en el departamento.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298.II.15 (pág. PDF 76) y Art. 300.I.13 (pág. PDF 79). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un municipio pretende declarar y conservar como patrimonio cultural una edificación histórica de interés municipal donde funcionó la primera escuela del lugar. ¿Qué competencia lo respalda?
+A. La competencia privativa del nivel central sobre todo el patrimonio cultural, histórico y arquitectónico del país.
+B. La competencia exclusiva municipal de promoción y conservación del patrimonio cultural, histórico y arquitectónico municipal.
+C. La competencia compartida sobre patrimonio cultural, cuya legislación básica corresponde a la Asamblea Departamental.
+D. La competencia exclusiva departamental sobre el patrimonio histórico, que el municipio solo puede ejecutar por convenio interinstitucional.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 302.I.16 asigna a los gobiernos municipales autónomos la promoción y conservación de cultura y patrimonio cultural, histórico, artístico, monumental, arquitectónico, arqueológico, paleontológico, científico, tangible e intangible municipal. El de interés departamental y central se rige por los Artículos 300.I.19 y 298.II.25.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 16; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Ante hechos de inseguridad en los alrededores de varias unidades educativas, ¿qué tipo de competencia es la seguridad ciudadana según el Artículo 299.II?
+A. Concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+B. Privativa del nivel central del Estado, como parte de la seguridad del Estado y la Policía.
+C. Exclusiva de los gobiernos municipales autónomos, ejercida por medio de la Guardia Municipal.
+D. Compartida, con legislación básica de la Asamblea y legislación de desarrollo departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 299.II.13 incluye la seguridad ciudadana entre las competencias que se ejercen de forma concurrente por el nivel central del Estado y las entidades territoriales autónomas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo II, numeral 13; pág. PDF: 78. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un municipio desea organizar un festival artístico estudiantil abierto a la comunidad. ¿Qué competencia exclusiva municipal lo respalda?
+A. La política general de turismo, que comparte con el nivel central del Estado.
+B. La conservación del patrimonio cultural de interés del nivel central del Estado.
+C. La promoción de la cultura y actividades artísticas en el ámbito de su jurisdicción.
+D. La promoción de la cultura en todo el departamento, por delegación departamental expresa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.31 asigna a los gobiernos municipales autónomos, como competencia exclusiva, la promoción de la cultura y actividades artísticas en el ámbito de su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 31; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Vecinos de una unidad educativa mantienen un conflicto sobre un asunto de carácter municipal y se propone una instancia de conciliación ciudadana. ¿Qué tipo de competencia es su establecimiento?
+A. Privativa del nivel central del Estado, como parte de la administración de justicia del Estado.
+B. Exclusiva de la jurisdicción indígena originaria campesina en todo el territorio.
+C. Concurrente, con legislación departamental y ejecución a cargo de cada municipio.
+D. Compartida entre el nivel central del Estado y las entidades territoriales autónomas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 299.I.6 incluye el establecimiento de instancias de conciliación ciudadana para la resolución de conflictos entre vecinos sobre asuntos de carácter municipal entre las competencias que se ejercen de forma compartida.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo I, numeral 6; pág. PDF: 77. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un municipio y el nivel central evalúan un programa de vivienda social para maestras y maestros rurales. ¿Qué tipo de competencia es «vivienda y vivienda social» según el Artículo 299.II?
+A. Concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+B. Exclusiva de los gobiernos municipales, sin intervención del nivel central del Estado Plurinacional.
+C. Privativa del nivel central, que la ejerce a través del Ministerio de Educación.
+D. Compartida, con legislación básica municipal y ejecución del gobierno departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 299.II.15 incluye vivienda y vivienda social entre las competencias concurrentes. El Artículo 298.II.36 asigna además al nivel central, como exclusivas, las políticas generales de vivienda.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo II, numeral 15 (pág. PDF 78). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+61. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: una Asamblea Departamental aprueba una ley departamental que define una «política propia del sistema educativo», distinta de la nacional. ¿Cómo se resuelve?
+A. Excede su competencia: las políticas del sistema de educación son competencia exclusiva del nivel central del Estado.
+B. Es válida: la educación es competencia exclusiva departamental, por lo que puede legislar su propia política del sistema.
+C. Es válida si la ley departamental fue aprobada por dos tercios y sometida a control de constitucionalidad previo.
+D. Excede su competencia solo si la política departamental contradice la Carta Orgánica de los municipios del departamento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 298.II.17 incluye las políticas del sistema de educación y salud entre las competencias exclusivas del nivel central del Estado. La gestión del sistema de salud y educación es concurrente (299.II.2), con legislación del nivel central (297.I.3).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298.II.17 (pág. PDF 76) y Art. 299.II.2 (pág. PDF 77). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+62. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: un Concejo Municipal crea un impuesto municipal cuyo hecho imponible es análogo al de un impuesto departamental vigente. ¿Cómo se resuelve?
+A. Es procedente: el municipio puede crear impuestos sin restricción, porque es una competencia exclusiva municipal.
+B. Es procedente si el impuesto se destina a infraestructura educativa y se aprueba por dos tercios del Concejo.
+C. Es improcedente solo si el gobierno departamental impugna el impuesto ante la Asamblea Legislativa Plurinacional.
+D. Es improcedente: los impuestos municipales no pueden tener hechos imponibles análogos a los nacionales o departamentales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 302.I.19 asigna a los gobiernos municipales la creación y administración de impuestos de carácter municipal cuyos hechos imponibles no sean análogos a los impuestos nacionales o departamentales.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 19; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+63. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: en una autonomía indígena originaria campesina surge un conflicto entre familias de una comunidad que afecta la convivencia en la escuela local. ¿Qué competencia de la autonomía permite abordarlo?
+A. La delegación del caso al gobierno departamental, que resuelve los conflictos comunitarios en su territorio de forma exclusiva y definitiva.
+B. La remisión obligatoria del caso al Concejo Municipal más cercano, que conoce los conflictos entre familias de la comunidad.
+C. El ejercicio de la jurisdicción indígena originaria campesina para resolver conflictos mediante normas y procedimientos propios.
+D. El ejercicio de la jurisdicción ordinaria por las autoridades comunales, que aplican la codificación penal y civil del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 304.I.8 reconoce a las autonomías indígena originario campesinas, como competencia exclusiva, el ejercicio de la jurisdicción indígena originaria campesina para la aplicación de justicia y resolución de conflictos a través de normas y procedimientos propios, de acuerdo a la Constitución y la ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo I, numeral 8; pág. PDF: 83. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+64. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: una organización externa ejecuta proyectos educativos y culturales en una autonomía indígena sin coordinación con sus autoridades. ¿Qué competencia puede ejercer la autonomía?
+A. Expulsión inmediata de la organización externa, como competencia privativa sobre la política exterior.
+B. Ninguna, porque el control de organizaciones externas corresponde siempre al gobierno departamental.
+C. Otorgamiento de personalidad jurídica a la organización externa, como competencia exclusiva indígena.
+D. Control y regulación de las instituciones y organizaciones externas que desarrollen actividades en su jurisdicción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 304.II.4 reconoce a las autonomías indígena originario campesinas, como competencia compartida, el control y regulación a las instituciones y organizaciones externas que desarrollen actividades en su jurisdicción, inherentes al desarrollo de su institucionalidad, cultura, medio ambiente y patrimonio natural.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo II, numeral 4 (pág. PDF 84). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+65. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: el nivel central prevé una medida administrativa que afectará a una autonomía indígena originaria campesina. ¿Qué competencia exclusiva de la autonomía resulta aplicable?
+A. Vetar de forma definitiva la medida administrativa del nivel central, sin necesidad de procedimiento de consulta alguno con la población.
+B. Participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada sobre las medidas que los afecten.
+C. Solicitar al gobierno departamental que suspenda la medida, por ser la instancia competente en materia de consultas.
+D. Aprobar la medida administrativa mediante referendo nacional, organizado por el Órgano Electoral Plurinacional.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 304.I.21 reconoce a las autonomías indígena originario campesinas, como competencia exclusiva, participar, desarrollar y ejecutar los mecanismos de consulta previa, libre e informada relativos a la aplicación de medidas legislativas, ejecutivas y administrativas que los afecten.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo I, numeral 21; pág. PDF: 83. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+66. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Caso: dos pueblos indígenas originarios campesinos vecinos deciden conformar una sola autonomía indígena para gestionar juntos sus servicios. ¿Es posible?
+A. No, porque cada pueblo indígena debe conformar su propia autonomía sin agregarse a otros pueblos.
+B. Sí, porque dos o más pueblos indígenas originarios campesinos pueden conformar una sola autonomía indígena.
+C. Sí, pero solo si ambos pueblos pertenecen a un mismo municipio y lo autoriza el Concejo Municipal.
+D. No, porque la agregación de pueblos indígenas solo procede para conformar regiones metropolitanas.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 291.II dispone que dos o más pueblos indígenas originarios campesinos podrán conformar una sola autonomía indígena originaria campesina.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 291, parágrafo II; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+67. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Caso: la población de un municipio quiere convertirlo en autonomía indígena originaria campesina. ¿Cómo debe adoptarse la decisión, según el Artículo 294.II?
+A. Mediante resolución del Concejo Municipal aprobada por dos tercios de sus miembros.
+B. Mediante ley departamental aprobada por la Asamblea a solicitud de la Alcaldía.
+C. Mediante referendo, conforme a los requisitos y condiciones establecidos por ley.
+D. Mediante decreto supremo, previa consulta no vinculante a la población municipal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 294.II dispone que la decisión de convertir un municipio en autonomía indígena originaria campesina se adoptará mediante referendo conforme a los requisitos y condiciones establecidos por ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 294, parágrafo II; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+68. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos] Caso: la Alcaldesa de un municipio es revocada cuando ha cumplido dos años de su mandato de cinco. ¿Qué procede según el Artículo 286.II?
+A. La sustitución por una autoridad ya electa, según su Carta Orgánica.
+B. La designación de un sustituto por el gobierno departamental respectivo.
+C. La asunción definitiva del cargo por la concejala o el concejal más votado.
+D. Una nueva elección, porque aún no transcurrió la mitad de su mandato.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 286.II dispone que, en caso de revocatoria de la máxima autoridad ejecutiva, se procederá a una nueva elección siempre y cuando no hubiere transcurrido la mitad de su mandato; solo en caso contrario la sustituye una autoridad ya electa según el Estatuto o la Carta Orgánica.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. V: Órganos ejecutivos de los gobiernos autónomos. Art. 286, parágrafo II; pág. PDF: 72. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+69. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. III: Autonomía regional] Caso: varios municipios de dos departamentos distintos, con cultura y economía compartidas, pretenden conformar una región. ¿Cómo se resuelve según el Artículo 280.I?
+A. No es posible: la región no puede trascender los límites departamentales.
+B. Es posible si los municipios comparten cultura, lenguas, historia y economía.
+C. Es posible si la región supera los 500.000 habitantes y es metropolitana.
+D. No es posible, salvo autorización de ambos gobiernos departamentales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 280.I define la región como conformada por varios municipios o provincias con continuidad geográfica y sin trascender límites departamentales, que compartan cultura, lenguas, historia, economía y ecosistemas en cada departamento.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. III: Autonomía regional. Art. 280, parágrafo I; pág. PDF: 70. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+70. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Caso: la conformación de una autonomía indígena originaria campesina afecta los límites de un distrito municipal donde funciona una red de unidades educativas. ¿Qué dispone el Artículo 293.II?
+A. El gobierno departamental debe fijar por decreto la nueva delimitación del distrito municipal.
+B. La Asamblea Legislativa debe aprobar por ley la nueva delimitación del distrito municipal afectado.
+C. El pueblo o nación indígena y el gobierno municipal deben acordar una nueva delimitación distrital.
+D. El Ministerio de Educación debe redefinir el distrito según la ubicación de las unidades educativas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 293.II dispone que, si la conformación de una autonomía indígena afectase límites de distritos municipales, el pueblo o nación indígena originario campesino y el gobierno municipal deberán acordar una nueva delimitación distrital; si afectase límites municipales, interviene la Asamblea Legislativa.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 293, parágrafo II; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Caso: en un municipio existen comunidades campesinas con estructuras organizativas propias que las articulan y con continuidad geográfica, que desean formar un nuevo municipio. ¿Qué procedimiento prevé el Artículo 294.III?
+A. Un referendo departamental convocado por la Gobernación, sin intervención de la Asamblea Legislativa Plurinacional del Estado.
+B. Una resolución del Concejo Municipal de origen, aprobada por dos tercios de sus miembros en sesión ordinaria.
+C. Un procedimiento ante la Asamblea Legislativa Plurinacional, previo cumplimiento de requisitos y condiciones de ley.
+D. Una consulta organizada por el Tribunal Supremo Electoral, cuyo resultado se aplica sin otro trámite adicional.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 294.III dispone que en los municipios donde existan comunidades campesinas con estructuras organizativas propias que las articulen y con continuidad geográfica podrá conformarse un nuevo municipio, siguiendo el procedimiento ante la Asamblea Legislativa Plurinacional para su aprobación, previo cumplimiento de requisitos y condiciones.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 294, parágrafo III; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VII: Autonomía indígena originaria campesina] Caso: varios municipios y autonomías indígenas desean agregarse para conformar una región indígena originaria campesina. ¿Cómo se decide la agregación según el Artículo 295.II?
+A. Mediante decreto del gobierno departamental, previo informe técnico de los municipios afectados.
+B. Mediante ley nacional aprobada por mayoría absoluta, sin necesidad de consulta a la población.
+C. Mediante acuerdo de los Concejos Municipales, sin intervención de las comunidades indígenas.
+D. Mediante referendo y/o de acuerdo a sus normas y procedimientos de consulta, según corresponda.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 295.II dispone que la agregación de municipios, distritos municipales y/o autonomías indígena originario campesinas para conformar una región indígena originaria campesina se decidirá mediante referendo y/o de acuerdo a sus normas y procedimientos de consulta, según corresponda.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VII: Autonomía indígena originaria campesina. Art. 295, parágrafo II; pág. PDF: 73. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: un gobierno departamental necesita expropiar un inmueble para construir un centro de formación técnica de interés departamental. ¿Qué competencia lo habilita?
+A. La expropiación de inmuebles en todo el país, como competencia privativa delegada por el nivel central del Estado Plurinacional.
+B. La expropiación de inmuebles en su jurisdicción por utilidad y necesidad pública departamental, conforme a la Ley.
+C. La expropiación de inmuebles municipales, por ser competencia compartida con los municipios de su departamento.
+D. La expropiación de inmuebles sin procedimiento legal, por tratarse de una obra destinada al servicio educativo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 300.I.25 asigna a los gobiernos departamentales la expropiación de inmuebles en su jurisdicción por razones de utilidad y necesidad pública departamental, conforme al procedimiento establecido por Ley, así como establecer limitaciones administrativas y de servidumbre a la propiedad.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo I, numeral 25; pág. PDF: 79. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: un gobierno municipal quiere suscribir un convenio con una institución privada para ejecutar un proyecto de apoyo escolar. ¿Qué competencia municipal lo respalda?
+A. Suscribir convenios y/o contratos con personas naturales o colectivas, públicas y privadas, para cumplir sus fines.
+B. Suscribir convenios solo con entidades públicas, pues los acuerdos con privados son competencia del nivel central.
+C. Suscribir contratos con privados solo por delegación del gobierno departamental, previa autorización de su Asamblea.
+D. Suscribir convenios con privados solo en materia de transporte urbano, por tratarse de servicios de alcance local.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 302.I.35 asigna a los gobiernos municipales autónomos, como competencia exclusiva, celebrar convenios y/o contratos con personas naturales o colectivas, públicas y privadas, para el desarrollo y cumplimiento de sus atribuciones, competencias y fines.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 35 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: la Asamblea Departamental aprueba una ley departamental de promoción del empleo juvenil para bachilleres. ¿Qué disposiciones respaldan esa decisión?
+A. Su facultad legislativa departamental y la competencia exclusiva de promoción del empleo, en el marco de las políticas nacionales.
+B. Su facultad normativo-administrativa y la competencia privativa de políticas laborales, delegada por el nivel central del Estado Plurinacional.
+C. Su facultad legislativa departamental y la competencia compartida de régimen laboral, con legislación básica de la Asamblea.
+D. Su facultad reglamentaria y la competencia concurrente de empleo, cuya legislación corresponde al gobierno departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 277 atribuye a la Asamblea Departamental facultad legislativa departamental en el ámbito de sus competencias; el Artículo 300.I.4 asigna a los gobiernos departamentales la promoción del empleo y mejora de las condiciones laborales, en el marco de las políticas nacionales.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 277 (pág. PDF 69) y Art. 300.I.4 (pág. PDF 78). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: el Estado transfiere competencias a una autonomía indígena, pero los recursos para ejercerlas no llegan. ¿Qué dispone el Artículo 304.IV?
+A. Los recursos necesarios deben ser gestionados por la propia autonomía ante el gobierno departamental mediante convenio anual.
+B. Los recursos necesarios se transfieren solo si la autonomía demuestra capacidad institucional ante el Ministerio de Economía.
+C. Los recursos necesarios para sus competencias serán transferidos automáticamente por el Estado Plurinacional, de acuerdo a la ley.
+D. Los recursos necesarios deben ser generados por la autonomía mediante impuestos propios, sin transferencia del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 304.IV dispone que los recursos necesarios para el cumplimiento de las competencias de las autonomías indígena originario campesinas serán transferidos automáticamente por el Estado Plurinacional de acuerdo a la ley.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo IV; pág. PDF: 84. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: comerciantes ambulantes ocupan las aceras de ingreso a una unidad educativa, incumpliendo normas municipales. ¿Qué competencia municipal permite atender el cumplimiento de esas normas?
+A. Constituir y reglamentar la Guardia Municipal para coadyuvar al cumplimiento de las normas y resoluciones municipales.
+B. Constituir y dirigir unidades de la Policía Boliviana, como competencia exclusiva municipal de seguridad del Estado Plurinacional.
+C. Solicitar a las Fuerzas Armadas el control de las aceras, por tratarse de un asunto de seguridad del Estado.
+D. Constituir tribunales municipales de faltas, como competencia exclusiva municipal de administración de justicia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 302.I.36 asigna a los gobiernos municipales autónomos constituir y reglamentar la Guardia Municipal para coadyuvar el cumplimiento, ejercicio y ejecución de sus competencias, así como el cumplimiento de las normas municipales y de sus resoluciones.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 36 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: la acumulación de basura frente a una unidad educativa genera riesgos sanitarios. ¿Qué nivel tiene competencia exclusiva sobre el aseo urbano y el manejo de residuos sólidos?
+A. El gobierno departamental autónomo, en el marco de su Estatuto Autonómico.
+B. El nivel central del Estado, como competencia privativa e indelegable.
+C. La autonomía regional, como competencia compartida con el nivel central.
+D. El gobierno municipal autónomo, en el marco de la política del Estado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 302.I.27 asigna a los gobiernos municipales autónomos, como competencia exclusiva, el aseo urbano, manejo y tratamiento de residuos sólidos en el marco de la política del Estado.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 27; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: una unidad educativa rural carece de energía eléctrica y la comunidad gestiona un proyecto de electrificación rural. ¿Qué nivel tiene competencia exclusiva sobre proyectos de electrificación rural?
+A. El gobierno municipal autónomo.
+B. El gobierno departamental autónomo.
+C. La autonomía regional respectiva.
+D. El Ministerio de Educación del Estado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 300.I.15 incluye los proyectos de electrificación rural entre las competencias exclusivas de los gobiernos departamentales autónomos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo I, numeral 15 (pág. PDF 79). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Caso: en un territorio indígena se descubren restos arqueológicos al ampliar una escuela comunitaria. ¿Qué competencia exclusiva de la autonomía indígena originaria campesina es aplicable?
+A. Ninguna, porque el patrimonio arqueológico es competencia privativa del nivel central en todo el territorio.
+B. Patrimonio cultural tangible e intangible, con resguardo y promoción de centros arqueológicos y lugares culturales.
+C. Gestión del patrimonio arqueológico por delegación del gobierno municipal, previa aprobación departamental.
+D. Venta de los restos para financiar la escuela, como competencia exclusiva de administración de sus recursos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 304.I.10 reconoce a las autonomías indígena originario campesinas, como competencia exclusiva, el patrimonio cultural, tangible e intangible, y el resguardo, fomento y promoción de sus culturas, arte, identidad, centros arqueológicos, lugares religiosos, culturales y museos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo I, numeral 10 (pág. PDF 83). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] El camino vecinal de acceso a una unidad educativa rural está intransitable. ¿A qué nivel de gobierno corresponde dirigir la solicitud de mantenimiento, según el Artículo 302.I.7?
+A. Al nivel central, que planifica, diseña, construye y administra las carreteras de la Red Fundamental del país.
+B. Al gobierno departamental, que construye y conserva todos los caminos vecinales del departamento.
+C. Al gobierno municipal, que planifica, diseña, construye, conserva y administra los caminos vecinales.
+D. A la autonomía regional, que administra los caminos vecinales por delegación del nivel central.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.7 asigna a los gobiernos municipales autónomos planificar, diseñar, construir, conservar y administrar caminos vecinales en coordinación con los pueblos indígena originario campesinos cuando corresponda. La Red Fundamental corresponde al nivel central (298.II.9).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 7; pág. PDF: 80. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una escuela comunitaria de una autonomía indígena quiere recuperar el sistema de microriego de su huerto escolar. ¿Qué competencia exclusiva de la autonomía orienta la decisión?
+A. Política general de recursos hídricos y servicios de todo el país.
+B. Proyectos de riego de alcance departamental y nacional.
+C. Mantenimiento y administración de sus sistemas de microriego.
+D. Régimen general de biodiversidad y medio ambiente nacional.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 304.I.18 reconoce a las autonomías indígena originario campesinas, como competencia exclusiva, el mantenimiento y administración de sus sistemas de microriego. El régimen general de recursos hídricos es exclusivo del nivel central (298.II.5).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo I, numeral 18; pág. PDF: 83. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] La falta de alumbrado público en la calle de ingreso a una unidad educativa genera inseguridad en el turno noche. ¿Ante qué nivel corresponde gestionar la solución?
+A. Ante el gobierno municipal, competente en el servicio de alumbrado público de su jurisdicción.
+B. Ante el gobierno departamental, competente en electrificación urbana de todo el departamento respectivo.
+C. Ante el nivel central, competente en forma privativa sobre el servicio de alumbrado público.
+D. Ante la autonomía regional, competente en alumbrado público por delegación departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 302.I.30 asigna a los gobiernos municipales autónomos, como competencia exclusiva, el servicio de alumbrado público de su jurisdicción.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 30; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Para planificar la oferta educativa nacional, una instancia necesita estadísticas oficiales del país. ¿Qué nivel elabora y aprueba las estadísticas oficiales, según el Artículo 298.II.13?
+A. Cada gobierno municipal, como competencia concurrente.
+B. Los gobiernos departamentales, como competencia privativa.
+C. Las autonomías regionales, como competencia compartida.
+D. El nivel central del Estado, como competencia exclusiva.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 298.II.13 incluye la elaboración y aprobación de estadísticas oficiales entre las competencias exclusivas del nivel central. Las estadísticas departamentales y municipales corresponden a esos niveles (300.I.11 y 302.I.9).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298, parágrafo II, numeral 13 (pág. PDF 76). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una unidad educativa desea organizar en un espacio público un espectáculo abierto a la comunidad. ¿Ante qué nivel corresponde tramitarlo, según el Artículo 302.I.32?
+A. Ante el gobierno municipal, competente en espectáculos públicos y juegos recreativos.
+B. Ante el gobierno departamental, competente en espectáculos públicos de su territorio.
+C. Ante el nivel central, competente en forma privativa sobre los espectáculos públicos.
+D. Ante la Policía Boliviana, competente en forma exclusiva sobre los espectáculos públicos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 302.I.32 asigna a los gobiernos municipales autónomos, como competencia exclusiva, los espectáculos públicos y juegos recreativos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 32; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Junto a una unidad educativa se instala propaganda urbana inapropiada para estudiantes. ¿Qué nivel de gobierno es competente sobre publicidad y propaganda urbana?
+A. El gobierno departamental, como competencia exclusiva.
+B. El nivel central del Estado, como competencia privativa.
+C. El gobierno municipal autónomo, como competencia exclusiva.
+D. El Ministerio de Educación, como competencia concurrente nacional.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.33 incluye la publicidad y propaganda urbana entre las competencias exclusivas de los gobiernos municipales autónomos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 33; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una institución educativa organiza un viaje de estudios en transporte terrestre que recorrerá tres departamentos. ¿Qué nivel tiene competencia exclusiva sobre ese transporte?
+A. El nivel central del Estado, por alcanzar a más de un departamento.
+B. El gobierno departamental de origen, por ser transporte interprovincial.
+C. El gobierno municipal de origen, por ser transporte urbano y rural.
+D. Cada gobierno departamental, por tratarse de competencia concurrente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 298.II.32 asigna al nivel central, como competencia exclusiva, el transporte terrestre, aéreo, fluvial y otros cuando alcance a más de un departamento. El transporte interprovincial dentro del departamento es exclusivo departamental (300.I.9).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 298, parágrafo II, numeral 32 (pág. PDF 77). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una organización social de madres y padres que actúa solo en un departamento solicita su personalidad jurídica. ¿Ante qué nivel corresponde tramitarla?
+A. Ante el nivel central, que otorga personalidad jurídica a toda organización social, sin distinción de alcance.
+B. Ante el gobierno municipal, que otorga personalidad jurídica a organizaciones sociales de su jurisdicción.
+C. Ante el gobierno departamental, que otorga personalidad jurídica a organizaciones sociales del departamento.
+D. Ante el Ministerio de Educación, que otorga personalidad jurídica a las organizaciones del sector educativo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 300.I.12 asigna a los gobiernos departamentales otorgar personalidad jurídica a organizaciones sociales que desarrollen actividades en el departamento; el 298.II.14 la reserva al nivel central cuando actúan en más de un departamento.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 300, parágrafo I, numeral 12 (pág. PDF 78). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una unidad educativa rural requiere conectividad telefónica y de telecomunicaciones. ¿Qué tipo de competencia son los servicios de telefonía fija, móvil y telecomunicaciones?
+A. Privativa del nivel central del Estado, sin participación de las entidades territoriales autónomas.
+B. Exclusiva de los gobiernos municipales, dentro de los límites de su jurisdicción.
+C. Compartida entre el nivel central del Estado y las entidades territoriales autónomas.
+D. Concurrente, con legislación departamental y ejecución a cargo de los municipios.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 299.I.2 incluye los servicios de telefonía fija, móvil y telecomunicaciones entre las competencias compartidas. El régimen general de las comunicaciones y telecomunicaciones es exclusivo del nivel central (298.II.2).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 299, parágrafo I, numeral 2; pág. PDF: 77. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un gobierno municipal debe decidir cómo complementar la atención de servicios básicos en zonas con unidades educativas sin agua potable. ¿Qué competencia exclusiva municipal respalda la acción?
+A. Políticas de servicios básicos de todo el país, como competencia exclusiva del municipio.
+B. Régimen general de recursos hídricos y sus servicios, por delegación del nivel central.
+C. Servicios básicos departamentales, como competencia compartida con el gobierno departamental.
+D. Servicios básicos, así como la aprobación de las tasas que correspondan en su jurisdicción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 302.I.40 asigna a los gobiernos municipales autónomos, como competencia exclusiva, los servicios básicos así como la aprobación de las tasas que correspondan en su jurisdicción. Las políticas de servicios básicos son exclusivas del nivel central (298.II.30).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 40 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Al formular un plan municipal de mejora educativa, ¿qué criterio constitucional de planificación debe respetarse según el Artículo 302.I.42?
+A. Planificar el desarrollo municipal con independencia de la planificación departamental y nacional.
+B. Planificar el desarrollo municipal en concordancia con la planificación departamental y nacional.
+C. Planificar el desarrollo municipal subordinado a la aprobación previa de la Asamblea Departamental.
+D. Planificar el desarrollo municipal solo en materias que no sean competencia del nivel central.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 302.I.42 asigna a los gobiernos municipales autónomos la planificación del desarrollo municipal en concordancia con la planificación departamental y nacional.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 42 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Para definir la ubicación de nuevas unidades educativas en un municipio, ¿qué lineamiento constitucional orienta la elaboración del Plan de Ordenamiento Territorial municipal?
+A. Elaborarlo en coordinación con los planes del nivel central, departamentales e indígenas.
+B. Elaborarlo con exclusividad, sin coordinación con los planes de otros niveles de gobierno.
+C. Elaborarlo por delegación del gobierno departamental, que lo aprueba en forma definitiva.
+D. Elaborarlo solo a partir de los planes del Ministerio de Educación para la red escolar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 302.I.6 asigna a los gobiernos municipales la elaboración de Planes de Ordenamiento Territorial y de uso de suelos, en coordinación con los planes del nivel central del Estado, departamentales e indígenas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 6; pág. PDF: 80. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Varios municipios pequeños buscan unir esfuerzos para sostener servicios de apoyo educativo comunes. ¿Qué mecanismo constitucional respalda esa estrategia?
+A. Fusionar los municipios mediante resolución conjunta de sus concejos, sin intervención de otras instancias.
+B. Promover y suscribir convenios de asociación o mancomunidad municipal con otros municipios, según la ley.
+C. Solicitar al gobierno departamental que asuma por decreto las competencias de los municipios afectados.
+D. Conformar una región metropolitana, aunque los municipios no superen los 500.000 habitantes en conjunto.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 302.I.34 asigna a los municipios promover y suscribir convenios de asociación o mancomunidad municipal con otros municipios; el Artículo 273 dispone que la ley regulará la conformación de mancomunidades entre municipios, regiones y territorios indígena originario campesinos.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302.I.34 (pág. PDF 81) y Art. 273 (pág. PDF 69). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. I: Disposiciones generales] Al diseñar un proyecto educativo intergubernamental entre el nivel central, un departamento y varios municipios, ¿qué principios del Artículo 270 orientan mejor la relación entre ellos?
+A. Coordinación y lealtad institucional, subsidiariedad, complementariedad y transparencia.
+B. Jerarquía y subordinación institucional, centralidad, uniformidad y reserva administrativa.
+C. Competencia entre niveles, discrecionalidad, autosuficiencia, reserva y control jerárquico.
+D. Coordinación partidaria, gradualidad, dependencia financiera, obediencia y confidencialidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 270 enumera, entre los principios de la organización territorial, la complementariedad, la subsidiariedad, la coordinación y lealtad institucional, la transparencia y la participación y control social.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. I: Disposiciones generales. Art. 270; pág. PDF: 69. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Para que las necesidades educativas de su jurisdicción se reflejen en recursos, ¿qué competencia municipal debe considerar una estrategia de gestión?
+A. Aprobar el Presupuesto General del Estado en lo que corresponda a educación.
+B. Ejecutar el presupuesto departamental de educación por delegación de la Gobernación.
+C. Elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto.
+D. Elaborar el presupuesto del Ministerio de Educación para las unidades de su territorio.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.23 asigna a los gobiernos municipales autónomos, como competencia exclusiva, elaborar, aprobar y ejecutar sus programas de operaciones y su presupuesto. Los departamentos tienen la misma competencia (300.I.26).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 23; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una autonomía indígena diseña un proyecto educativo propio vinculado a su visión de desarrollo. ¿Qué competencia exclusiva del Artículo 304.I respalda esa orientación estratégica?
+A. Definición de la política nacional del sistema educativo, con independencia de la legislación del Estado Plurinacional.
+B. Gestión de las competencias privativas del nivel central del Estado sobre educación, salud y planificación nacional.
+C. Definición del régimen electoral y de comunicaciones de su territorio, según la identidad de cada pueblo indígena.
+D. Definición y gestión de formas propias de desarrollo económico, social, político, organizativo y cultural, según su identidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 304.I.2 reconoce a las autonomías indígena originario campesinas, como competencia exclusiva, la definición y gestión de formas propias de desarrollo económico, social, político, organizativo y cultural, de acuerdo con su identidad y visión de cada pueblo.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 304, parágrafo I, numeral 2 (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Un gobierno municipal y las unidades educativas de su jurisdicción planifican un programa ambiental escolar. ¿Qué competencia municipal sustenta esa estrategia?
+A. Definir la política general de biodiversidad y medio ambiente, que la Constitución reserva a los gobiernos municipales.
+B. Administrar las áreas protegidas bajo responsabilidad del nivel central, por delegación del Ministerio de Medio Ambiente.
+C. Preservar, conservar y contribuir a la protección del medio ambiente y recursos naturales, fauna silvestre y animales domésticos.
+D. Establecer el régimen general de recursos forestales y bosques de su jurisdicción, sin coordinación con el nivel central.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.5 asigna a los gobiernos municipales autónomos, como competencia exclusiva, preservar, conservar y contribuir a la protección del medio ambiente y recursos naturales, fauna silvestre y animales domésticos. La política general de biodiversidad y medio ambiente es privativa del nivel central (298.I.20).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 5; pág. PDF: 80. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Al planificar la gestión de recursos para un programa municipal de becas escolares, ¿qué competencia exclusiva municipal permite estructurar su financiamiento?
+A. Creación de impuestos nacionales con destino específico a becas escolares en su jurisdicción municipal.
+B. Administración del sistema financiero y de la política monetaria para el sector educativo de su territorio.
+C. Fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos inherentes a sus competencias.
+D. Deuda pública interna y externa para becas, como competencia exclusiva de los gobiernos municipales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 302.I.24 asigna a los gobiernos municipales autónomos, como competencia exclusiva, los fondos fiduciarios, fondos de inversión y mecanismos de transferencia de recursos necesarios e inherentes a los ámbitos de sus competencias. El sistema financiero y la deuda pública corresponden al nivel central (298.I.1 y 298.II.34).
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo I, numeral 24; pág. PDF: 81. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una dirección distrital proyecta acciones con un gobierno municipal que todavía no recibe una competencia del nivel central. ¿Qué criterio constitucional debe considerar la planificación respecto a esa competencia?
+A. Que el municipio puede ejercer cualquier competencia del nivel central sin transferencia ni delegación.
+B. Que las competencias transferidas o delegadas también serán de ejecución municipal una vez asignadas.
+C. Que las competencias del nivel central nunca pueden ser transferidas ni delegadas a los municipios.
+D. Que el municipio asume las competencias del nivel central con la sola aprobación de su Concejo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 302.II dispone que serán también de ejecución municipal las competencias que le sean transferidas o delegadas. El Artículo 297.I.2 permite transferir y delegar la reglamentación y ejecución de las competencias exclusivas, y el 297.I.1 lo prohíbe para las privativas.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 302, parágrafo II (pág. PDF 82). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Constitución Política del Estado – TERCERA PARTE – Título I, Cap. VIII: Distribución de competencias] Una región constituida como autonomía regional planifica servicios de apoyo educativo. ¿Qué limitación constitucional debe considerar su estrategia respecto a sus competencias?
+A. Que la región ejerce todas las competencias exclusivas del departamento.
+B. Que la región recibe las competencias que le sean transferidas o delegadas.
+C. Que la región asume de pleno derecho las competencias de sus municipios.
+D. Que la región define sus competencias en su Estatuto, sin intervención alguna.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 301 dispone que la región, una vez constituida como autonomía regional, recibirá las competencias que le sean transferidas o delegadas; el 280.III exige que sus competencias sean conferidas por dos tercios del órgano deliberativo departamental.
+Sustento: Constitución Política del Estado, Tercera Parte. Título I, Cap. VIII: Distribución de competencias. Art. 301 (pág. PDF 80) y Art. 280.III (pág. PDF 70). Página impresa: s/n (el documento no tiene numeración impresa).

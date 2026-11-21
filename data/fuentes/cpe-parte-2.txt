@@ -1,0 +1,1099 @@
+# Fuente: cpe-parte-2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Constitución Política del Estado (7 de febrero de 2009)
+# Segunda Parte: Estructura y organización funcional del Estado (Arts. 145 al 268)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar las disposiciones de la Segunda Parte de la Constitución Política del Estado en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto constitucional proporcionado, sin incorporar fuentes externas.
+# Criterios documentales aplicados
+# Alcance de la fuente. La Segunda Parte comprende los Títulos I a VIII (Arts. 145 al 268): Órgano Legislativo, Órgano Ejecutivo, Órgano Judicial y Tribunal Constitucional Plurinacional, Órgano Electoral, funciones de control y defensa, participación y control social, Fuerzas Armadas y Policía, y relaciones internacionales. En el archivo PDF proporcionado ocupa las páginas 36 a 68.
+# Página impresa. El PDF proporcionado (texto de consulta de la Gaceta Oficial de Bolivia) no tiene numeración impresa en sus páginas. Por ello, cada referencia consigna «Página impresa: s/n» y la página PDF exacta. No se ha supuesto ninguna paginación impresa no verificable.
+# Rótulo «Aplicación razonada». Distingue las situaciones derivadas (escenarios institucionales construidos a partir de una disposición) de las preguntas de conocimiento textual, rotuladas «Conceptual» o «Interpretativa». Los casos prácticos se rotulan «Caso práctico (Aplicación razonada)».
+# Competencias directivas. La Segunda Parte no regula funciones ni atribuciones específicas de directoras o directores de unidades educativas: «No respaldado por el documento fuente». Sí regula el régimen de las servidoras y los servidores públicos (Arts. 232–240): personas que desempeñan funciones públicas (Art. 233). Por ello, la dimensión 3 evalúa requisitos, obligaciones, prohibiciones e incompatibilidades que el texto impone expresamente a todo servidor público y que enmarcan la actuación directiva en el sector público, así como sus deberes frente a la Defensoría del Pueblo y al control social.
+# Etiqueta de trazabilidad. Cada enunciado inicia con el documento y el apartado de procedencia, por ejemplo: [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos], para su integración en plataformas de simulación que combinan preguntas de varios documentos.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 25 preguntas y la más corta en 16, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Numeración
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–5)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta de documento y apartado de procedencia.
+# Cada fundamentación remite a artículos y parágrafos verificables de la Segunda Parte, con su página PDF.
+# Contenido limitado exclusivamente a la fuente proporcionada; no se atribuyen a la Constitución competencias directivas que no contiene.
+
+CAPÍTULO: cpe-parte-2
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Según el Artículo 145, la Asamblea Legislativa Plurinacional:
+A. Está compuesta por una cámara única y comparte con el Ejecutivo la facultad de sancionar leyes nacionales.
+B. Está compuesta por dos cámaras y es la única con facultad de aprobar y sancionar leyes para todo el territorio.
+C. Está compuesta por dos cámaras, pero comparte con los gobiernos autónomos la sanción de leyes nacionales.
+D. Está compuesta por tres cámaras y es la única con facultad de aprobar y promulgar leyes para todo el país.
+Respuesta correcta: B
+Explicación: El Artículo 145 dispone que la Asamblea Legislativa Plurinacional está compuesta por la Cámara de Diputados y la Cámara de Senadores, y es la única con facultad de aprobar y sancionar leyes que rigen para todo el territorio boliviano.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 145; pág. PDF: 36. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] ¿Cuál es la composición numérica de las cámaras de la Asamblea Legislativa Plurinacional?
+A. La Cámara de Diputados tiene 130 miembros y la de Senadores 27, con 3 por departamento.
+B. La Cámara de Diputados tiene 130 miembros y la de Senadores 36, con 4 por departamento.
+C. La Cámara de Diputados tiene 120 miembros y la de Senadores 36, con 4 por departamento.
+D. La Cámara de Diputados tiene 136 miembros y la de Senadores 45, con 5 por departamento.
+Respuesta correcta: B
+Explicación: El Artículo 146.I fija en 130 los miembros de la Cámara de Diputados; el Artículo 148.I-II fija en 36 los de la Cámara de Senadores, con 4 senadores elegidos en cada departamento.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 146.I (pág. PDF 36) y Art. 148.I-II (pág. PDF 37). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. I: Disposiciones generales] El Artículo 178.I establece que la potestad de impartir justicia emana del pueblo boliviano y se sustenta, entre otros, en los principios de:
+A. Independencia, jerarquía, seguridad jurídica, uniformidad jurídica e interculturalidad.
+B. Dependencia funcional, imparcialidad, reserva procesal, pluralismo jurídico y equidad.
+C. Independencia, imparcialidad, onerosidad, pluralismo jurídico y monismo intercultural.
+D. Independencia, imparcialidad, seguridad jurídica, pluralismo jurídico e interculturalidad.
+Respuesta correcta: D
+Explicación: El Artículo 178.I enumera como principios: independencia, imparcialidad, seguridad jurídica, publicidad, probidad, celeridad, gratuidad, pluralismo jurídico, interculturalidad, equidad, servicio a la sociedad, participación ciudadana, armonía social y respeto a los derechos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. I: Disposiciones generales. Art. 178, parágrafo I; pág. PDF: 47. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Según el Artículo 232, la Administración Pública se rige, entre otros, por los principios de:
+A. Legitimidad, discrecionalidad, imparcialidad, reserva, calidad, calidez, honestidad y resultados.
+B. Legitimidad, legalidad, jerarquía, confidencialidad, calidad, eficiencia, lealtad y obediencia.
+C. Oportunidad, legalidad, imparcialidad, transparencia, rentabilidad, calidez, unidad y jerarquía.
+D. Legitimidad, legalidad, imparcialidad, transparencia, calidad, calidez, honestidad y resultados.
+Respuesta correcta: D
+Explicación: El Artículo 232 dispone que la Administración Pública se rige por los principios de legitimidad, legalidad, imparcialidad, publicidad, compromiso e interés social, ética, transparencia, igualdad, competencia, eficiencia, calidad, calidez, honestidad, responsabilidad y resultados.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 232; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Constitución Política del Estado – SEGUNDA PARTE – Título IV, Cap. I: Órgano Electoral Plurinacional] De acuerdo con el Artículo 205.I, el Órgano Electoral Plurinacional está compuesto por:
+A. El Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, los Juzgados Electorales, los Jurados de las Mesas de sufragio y los Notarios Electorales.
+B. El Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, los Juzgados Electorales, el Registro Civil y el Padrón Electoral Biométrico.
+C. El Tribunal Supremo Electoral, los Tribunales Electorales Municipales, las Cortes Electorales, los Jurados de las Mesas de sufragio y los Notarios de Fe Pública del Estado.
+D. El Consejo Supremo Electoral, los Tribunales Electorales Departamentales, los Juzgados Electorales, los Delegados de Mesa y los Notarios Electorales.
+Respuesta correcta: A
+Explicación: El Artículo 205.I enumera cinco componentes: el Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, los Juzgados Electorales, los Jurados de las Mesas de sufragio y los Notarios Electorales.
+Sustento: Constitución Política del Estado, Segunda Parte. Título IV, Cap. I: Órgano Electoral Plurinacional. Art. 205, parágrafo I; pág. PDF: 54. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. I: Disposiciones generales] ¿Qué planteamiento recoge el Artículo 179 sobre la función judicial?
+A. La función judicial es plural, y la jurisdicción ordinaria tiene jerarquía superior a la indígena originaria campesina.
+B. La función judicial es única, pero la jurisdicción indígena originaria campesina se subordina a la agroambiental.
+C. La función judicial es descentralizada, y el Consejo de la Magistratura es un órgano ajeno al Órgano Judicial.
+D. La función judicial es única, y la jurisdicción ordinaria y la indígena originaria campesina gozan de igual jerarquía.
+Respuesta correcta: D
+Explicación: El Artículo 179.I declara que la función judicial es única; el 179.II, que la jurisdicción ordinaria y la indígena originaria campesina gozan de igual jerarquía; y el 179.IV, que el Consejo de la Magistratura es parte del Órgano Judicial.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. I: Disposiciones generales. Art. 179, parágrafos I, II y IV; pág. PDF: 47. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] Según el Artículo 196, en su función interpretativa el Tribunal Constitucional Plurinacional aplicará con preferencia:
+A. La voluntad del constituyente, de acuerdo con sus documentos, actas y resoluciones, así como el tenor literal del texto.
+B. La jurisprudencia comparada, de acuerdo con los fallos de tribunales extranjeros, así como el tenor literal del texto.
+C. La voluntad del legislador ordinario, de acuerdo con sus leyes y reglamentos, así como la costumbre administrativa.
+D. La doctrina mayoritaria, de acuerdo con los tratados de derecho constitucional, así como la finalidad de cada órgano.
+Respuesta correcta: A
+Explicación: El Artículo 196.II establece que el TCP aplicará como criterio de interpretación, con preferencia, la voluntad del constituyente, de acuerdo con sus documentos, actas y resoluciones, así como el tenor literal del texto. El 196.I le asigna velar por la supremacía de la Constitución.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 196, parágrafos I y II; pág. PDF: 52. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] En el Título V de la Segunda Parte, ¿qué asociación entre funciones estatales e instituciones es correcta?
+A. Control: Contraloría; defensa de la sociedad: Defensoría y Ministerio Público; defensa del Estado: Procuraduría.
+B. Control: Procuraduría; defensa de la sociedad: Defensoría y Contraloría; defensa del Estado: Ministerio Público.
+C. Control: Contraloría y Ministerio Público; defensa de la sociedad: Defensoría; defensa del Estado: Policía.
+D. Control: Defensoría; defensa de la sociedad: Ministerio Público y Procuraduría; defensa del Estado: Contraloría.
+Respuesta correcta: A
+Explicación: El Título V organiza la función de control en la Contraloría General del Estado (Cap. I), la función de defensa de la sociedad en la Defensoría del Pueblo y el Ministerio Público (Cap. II) y la función de defensa del Estado en la Procuraduría General del Estado (Cap. III).
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Título V, Caps. I a III: Arts. 213 (pág. PDF 56), 218 y 225 (págs. PDF 57-58) y 229 (pág. PDF 59). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] ¿Qué alcance tiene el control social según el Artículo 241?
+A. Se ejerce solo sobre la gestión pública del nivel central y excluye a las entidades privadas aunque administren recursos fiscales.
+B. Se ejerce sobre las entidades privadas en general y excluye la gestión pública de las entidades territoriales autónomas del país.
+C. Se ejerce sobre la gestión pública en todos los niveles y sobre entidades públicas, mixtas y privadas que administren recursos fiscales.
+D. Se ejerce sobre la gestión pública en todos los niveles, pero excluye la calidad de los servicios públicos por su carácter técnico y especializado.
+Respuesta correcta: C
+Explicación: El Artículo 241.II dispone que la sociedad civil organizada ejercerá el control social a la gestión pública en todos los niveles del Estado y a las empresas e instituciones públicas, mixtas y privadas que administren recursos fiscales; el 241.III añade el control social a la calidad de los servicios públicos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241, parágrafos II y III; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. I: Relaciones internacionales] ¿Qué relación establecen los Artículos 256 y 257 entre los tratados internacionales y la Constitución?
+A. Todos los tratados ratificados tienen rango constitucional, y los de derechos humanos se aplican solo si los reglamenta una ley.
+B. Los tratados de derechos humanos más favorables tienen rango de ley; los demás ratificados se aplican con preferencia a la Constitución.
+C. Los tratados ratificados tienen rango reglamentario, y los de derechos humanos solo sirven como criterio auxiliar de interpretación.
+D. Los tratados de derechos humanos más favorables se aplican con preferencia a la Constitución; los demás ratificados tienen rango de ley.
+Respuesta correcta: D
+Explicación: El Artículo 256.I dispone que los tratados de derechos humanos que declaren derechos más favorables se aplicarán de manera preferente sobre la Constitución; el 257.I establece que los tratados internacionales ratificados forman parte del ordenamiento interno con rango de ley.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. I: Relaciones internacionales. Art. 256.I (pág. PDF 66) y Art. 257.I (pág. PDF 66). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Según el Artículo 233, ¿quiénes son servidoras y servidores públicos y quiénes quedan fuera de la carrera administrativa?
+A. Quienes desempeñan funciones públicas; quedan fuera los electos, los designados y los de libre nombramiento.
+B. Quienes perciben salario del Estado; quedan fuera los docentes, los electos y los contratados por consultoría.
+C. Quienes desempeñan funciones públicas; quedan fuera solo los electos y quienes trabajan en unidades de convenio.
+D. Quienes ingresan por concurso de méritos; quedan fuera los designados y los que ejercen funciones directivas.
+Respuesta correcta: A
+Explicación: El Artículo 233 define como servidoras y servidores públicos a las personas que desempeñan funciones públicas y dispone que forman parte de la carrera administrativa, excepto quienes desempeñen cargos electivos, los designados y quienes ejerzan funciones de libre nombramiento. La Constitución no regula de forma específica el cargo de director de unidad educativa.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 233; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] ¿Cuál de los siguientes es un requisito constitucional para acceder al desempeño de funciones públicas según el Artículo 234?
+A. Estar afiliada o afiliado a una organización política y haber cumplido con el servicio social.
+B. Contar con título profesional en provisión nacional y haber cumplido con los deberes militares.
+C. Estar inscrita o inscrito en el padrón electoral y haber cumplido con los deberes militares.
+D. Estar inscrita o inscrito en el padrón electoral y acreditar residencia de diez años en el país.
+Respuesta correcta: C
+Explicación: El Artículo 234 exige: nacionalidad boliviana, mayoría de edad, haber cumplido los deberes militares, no tener pliego de cargo ni sentencia condenatoria ejecutoriados pendientes, no estar en casos de prohibición o incompatibilidad, estar inscrito en el padrón electoral y hablar al menos dos idiomas oficiales.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 234, numerales 3 y 6 (págs. PDF 60-61); pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. III, Sección I: Procuraduría General del Estado] ¿Qué atribución reconoce el Artículo 231.4 a la Procuraduría General del Estado frente a las servidoras y los servidores públicos?
+A. Requerirles información solo con orden judicial, pudiendo negarse la que sea calificada como reservada.
+B. Requerirles la información necesaria, que pueden negar si afecta la gestión interna de su propia entidad.
+C. Solicitarles información de forma facultativa, cuya entrega queda a criterio de la máxima autoridad.
+D. Requerirles la información necesaria para sus atribuciones, que no se le podrá negar por ninguna causa.
+Respuesta correcta: D
+Explicación: El Artículo 231.4 atribuye a la Procuraduría requerir a las servidoras y los servidores públicos, y a las personas particulares, la información que considere necesaria para el ejercicio de sus atribuciones; esta información no se le podrá negar por ninguna causa ni motivo, y la ley establecerá las sanciones.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. III, Sección I: Procuraduría General del Estado. Art. 231, numeral 4; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+14. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Una servidora pública con facultad de nombramiento pretende designar como secretario a su sobrino (tercer grado de consanguinidad). ¿Qué dispone el Artículo 236?
+A. Está permitido, porque la prohibición alcanza solo hasta el segundo grado de consanguinidad y afinidad.
+B. Está prohibido nombrar a parientes hasta el cuarto grado de consanguinidad y el segundo de afinidad.
+C. Está prohibido solo si el pariente carece de idoneidad acreditada mediante concurso público de méritos.
+D. Está permitido si el nombramiento es temporal y lo aprueba la máxima autoridad ejecutiva de la entidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 236.III prohíbe, para el ejercicio de la función pública, nombrar en la función pública a personas con las cuales se tenga parentesco hasta el cuarto grado de consanguinidad y segundo de afinidad.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 236, parágrafo III; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Respecto a los documentos propios de la función pública, el Artículo 237.I.1 obliga a las servidoras y los servidores públicos a:
+A. Inventariarlos y trasladarlos a su domicilio para su resguardo, pudiendo destruirlos al concluir cada gestión.
+B. Digitalizarlos y destruir los originales al concluir cada gestión, conforme a la decisión de la autoridad superior.
+C. Custodiarlos en oficinas públicas, pudiendo destruirlos libremente cuando hayan transcurrido cinco años de archivo.
+D. Inventariarlos y custodiarlos en oficinas públicas, sin sustraerlos ni destruirlos; la ley regula su destrucción.
+Respuesta correcta: D
+Explicación: El Artículo 237.I.1 establece la obligación de inventariar y custodiar en oficinas públicas los documentos propios de la función pública, sin que puedan sustraerlos ni destruirlos, y remite a la ley el manejo de los archivos y las condiciones de destrucción de los documentos públicos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 237, parágrafo I, numeral 1; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] En relación con la información reservada, ¿qué obligación impone el Artículo 237.I.2?
+A. Guardar secreto sobre ella solo mientras dure el ejercicio del cargo, quedando liberado al cesar.
+B. Guardar secreto sobre ella, incluso después de haber cesado en las funciones públicas desempeñadas.
+C. Comunicarla al control social cuando lo solicite, aun cuando haya sido calificada como reservada.
+D. Guardar secreto sobre ella, salvo que la autoridad superior autorice verbalmente su divulgación.
+Respuesta correcta: B
+Explicación: El Artículo 237.I.2 obliga a guardar secreto respecto a las informaciones reservadas, que no podrán ser comunicadas incluso después de haber cesado en las funciones; el procedimiento de calificación de la información reservada está previsto en la ley.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 237, parágrafo I, numeral 2; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] Según los Artículos 213.I y 217.I, ¿qué entidades están sujetas al control de la Contraloría General del Estado?
+A. Solo las entidades del nivel central del Estado, excluyendo a las entidades territoriales autónomas.
+B. Las entidades públicas y aquéllas en las que el Estado tenga participación o interés económico.
+C. Solo las entidades públicas que administren recursos propios, excluyendo las de participación estatal.
+D. Las entidades públicas y privadas en general, aunque el Estado no tenga participación ni interés.
+Respuesta correcta: B
+Explicación: El Artículo 213.I asigna a la Contraloría el control de la administración de las entidades públicas y de aquéllas en las que el Estado tenga participación o interés económico; el 217.I la hace responsable de su supervisión y control externo posterior.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Art. 213.I (pág. PDF 56) y Art. 217.I (pág. PDF 57). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] ¿Qué obligaciones generales imponen los numerales 1 y 2 del Artículo 235 a toda servidora y servidor público?
+A. Cumplir las instrucciones del superior jerárquico, aun cuando se aparten de la Constitución y de las leyes.
+B. Cumplir los reglamentos internos de la entidad, que prevalecen sobre los principios de la función pública.
+C. Cumplir la Constitución y las leyes solo en el ejercicio de cargos electivos y de libre nombramiento.
+D. Cumplir la Constitución y las leyes, y sus responsabilidades conforme a los principios de la función pública.
+Respuesta correcta: D
+Explicación: El Artículo 235 establece como obligaciones de las servidoras y los servidores públicos cumplir la Constitución y las leyes (num. 1) y cumplir con sus responsabilidades, de acuerdo con los principios de la función pública (num. 2).
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 235, numerales 1 y 2; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] ¿Sobre qué responsabilidades deben rendir cuentas las servidoras y los servidores públicos, según el Artículo 235.4?
+A. Sobre las responsabilidades económicas y financieras únicamente, en el ejercicio de la función pública asignada al servidor.
+B. Sobre las responsabilidades técnicas y pedagógicas, excluyendo las administrativas y económicas de la función.
+C. Sobre las responsabilidades económicas, políticas, técnicas y administrativas en el ejercicio de la función pública.
+D. Sobre las responsabilidades políticas y partidarias, ante la organización que promovió su designación al cargo.
+Respuesta correcta: C
+Explicación: El Artículo 235.4 obliga a las servidoras y los servidores públicos a rendir cuentas sobre las responsabilidades económicas, políticas, técnicas y administrativas en el ejercicio de la función pública.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 235, numeral 4; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+20. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Un servidor público que administra compras de su entidad propone que una empresa que él representa provea los insumos. ¿Qué dispone el Artículo 236.II?
+A. Está permitido contratar con la Administración Pública si el precio ofertado es menor al promedio del mercado local.
+B. Está prohibido solo si el contrato supera el monto fijado por ley, pues los menores se rigen por compra directa.
+C. Está permitido si el servidor se excusa de firmar el contrato y lo suscribe en su lugar otro funcionario de la entidad.
+D. Está prohibido celebrar contratos o negocios con la Administración Pública, directamente, indirectamente o por terceros.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 236.II prohíbe actuar cuando los intereses del servidor entren en conflicto con los de la entidad, y celebrar contratos o realizar negocios con la Administración Pública directa, indirectamente o en representación de tercera persona.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 236, parágrafo II; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] ¿Cuál es la interpretación correcta del Artículo 152 respecto a las y los asambleístas?
+A. No gozan de inmunidad, pero durante su mandato no se les aplica detención preventiva, salvo delito flagrante.
+B. Gozan de inmunidad plena, por lo que no pueden ser procesados penalmente mientras dure su mandato legislativo.
+C. No gozan de inmunidad y pueden ser detenidos preventivamente como cualquier persona, sin excepción alguna.
+D. Gozan de inmunidad relativa, que puede levantarse con autorización de dos tercios de la cámara respectiva.
+Respuesta correcta: A
+Explicación: El Artículo 152 dispone que las y los asambleístas no gozarán de inmunidad y que, durante su mandato, en los procesos penales no se les aplicará la medida cautelar de la detención preventiva, salvo delito flagrante.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 152; pág. PDF: 38. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] ¿Qué alcance tiene la inviolabilidad personal de las y los asambleístas prevista en el Artículo 151.I?
+A. No pueden ser procesados penalmente por ningún delito durante el mandato, aunque sí después de concluido el periodo legislativo.
+B. No pueden ser procesados civilmente por sus opiniones legislativas, pero sí penalmente durante y después de su mandato legislativo constitucional.
+C. No pueden ser procesados penalmente por sus opiniones solo mientras dure el mandato, pudiendo serlo una vez concluida la gestión.
+D. No pueden ser procesados penalmente por sus opiniones o actos de legislación, información o fiscalización, durante y después del mandato.
+Respuesta correcta: D
+Explicación: El Artículo 151.I establece que las y los asambleístas gozan de inviolabilidad personal durante su mandato y con posterioridad a éste por las opiniones, comunicaciones, representaciones, requerimientos, interpelaciones, denuncias, propuestas, expresiones o cualquier acto de legislación, información o fiscalización que realicen en el desempeño de sus funciones.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 151, parágrafo I; pág. PDF: 37. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] Si la Cámara revisora modifica un proyecto de ley y la Cámara de origen no acepta las modificaciones, ¿qué prevé el Artículo 163.6?
+A. El proyecto se archiva y solo puede presentarse nuevamente en la Legislatura siguiente, sin otra deliberación.
+B. El proyecto pasa al Órgano Ejecutivo, que decide cuál texto promulgar dentro de los diez días hábiles siguientes.
+C. Las dos Cámaras se reúnen dentro de los treinta días siguientes y decide el Pleno por dos tercios de sus miembros.
+D. Las dos Cámaras se reúnen dentro de los veinte días siguientes y decide el Pleno por mayoría absoluta de presentes.
+Respuesta correcta: D
+Explicación: El Artículo 163.6 dispone que, si la Cámara de origen no acepta las enmiendas o modificaciones de la revisora, las dos Cámaras se reunirán a requerimiento de la Cámara de origen dentro de los veinte días siguientes, y la decisión será tomada por el Pleno de la Asamblea por mayoría absoluta de sus miembros presentes.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 163, numeral 6; pág. PDF: 42. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] Si el Ejecutivo observa una ley sancionada y la Asamblea considera infundadas las observaciones, ¿qué ocurre según el Artículo 163.11?
+A. La ley es remitida al Tribunal Constitucional Plurinacional, que decide en definitiva sobre las observaciones del Ejecutivo.
+B. La ley es promulgada por la Presidenta o el Presidente de la Asamblea, por decisión de mayoría absoluta de presentes.
+C. La ley vuelve al Ejecutivo, que puede observarla por segunda vez dentro de los diez días hábiles siguientes.
+D. La ley es promulgada por la Presidenta o el Presidente del Senado, por decisión de dos tercios de presentes.
+Respuesta correcta: B
+Explicación: El Artículo 163.10 permite al Presidente del Estado observar la ley en diez días hábiles. El 163.11 dispone que, si la Asamblea considera infundadas las observaciones, la ley será promulgada por la Presidenta o el Presidente de la Asamblea; las decisiones se toman por mayoría absoluta de miembros presentes.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 163, numerales 10 y 11; pág. PDF: 43. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] Según el Artículo 164, ¿desde cuándo es de cumplimiento obligatorio una ley?
+A. Desde el día de su publicación en la Gaceta Oficial, salvo que la propia ley fije un plazo diferente.
+B. Desde el día de su sanción por la Asamblea, salvo que el Ejecutivo la observe en el plazo previsto.
+C. Desde el día de su promulgación, aunque no haya sido publicada todavía en la Gaceta Oficial del Estado.
+D. Desde los treinta días posteriores a su publicación, salvo que la Asamblea disponga un plazo diferente.
+Respuesta correcta: A
+Explicación: El Artículo 164.I dispone que la ley promulgada será publicada en la Gaceta Oficial de manera inmediata; el 164.II, que será de cumplimiento obligatorio desde el día de su publicación, salvo que en ella se establezca un plazo diferente para su entrada en vigencia.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 164, parágrafos I y II; pág. PDF: 43. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado] Una candidatura presidencial obtiene el 42% de los votos válidos y la segunda el 31%. Según el Artículo 166, ¿qué corresponde?
+A. Convocar a segunda vuelta, pues solo se proclama sin ella a quien obtiene más del 50% de los votos.
+B. Convocar a segunda vuelta en noventa días, pues la diferencia mínima exigida es de quince puntos.
+C. Remitir la decisión a la Asamblea, que elige entre las dos candidaturas más votadas por mayoría.
+D. Proclamarla, pues obtuvo al menos el 40% con una diferencia de al menos diez puntos sobre la segunda.
+Respuesta correcta: D
+Explicación: El Artículo 166.I dispone que se proclama la candidatura que haya reunido el cincuenta por ciento más uno de los votos válidos, o la que obtenga un mínimo del cuarenta por ciento con una diferencia de al menos diez por ciento respecto a la segunda. En el caso, el 42% con 11 puntos de diferencia cumple la segunda condición.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado. Art. 166, parágrafo I; pág. PDF: 44. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] ¿Qué carácter tienen las decisiones y sentencias del Tribunal Constitucional Plurinacional, según el Artículo 203?
+A. Son orientadoras y de cumplimiento facultativo, y contra ellas cabe recurso ante el Tribunal Supremo.
+B. Son vinculantes solo para las partes, y contra ellas cabe recurso de casación ante la Sala Plena.
+C. Son obligatorias tras su ratificación legislativa, y contra ellas cabe recurso ordinario de revisión.
+D. Son vinculantes y de cumplimiento obligatorio, y contra ellas no cabe recurso ordinario ulterior alguno.
+Respuesta correcta: D
+Explicación: El Artículo 203 dispone que las decisiones y sentencias del Tribunal Constitucional Plurinacional son de carácter vinculante y de cumplimiento obligatorio, y que contra ellas no cabe recurso ordinario ulterior alguno.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 203; pág. PDF: 54. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. IV: Jurisdicción indígena originaria campesina] ¿Cómo se interpreta el Artículo 192 respecto a las decisiones de la jurisdicción indígena originaria campesina?
+A. Solo los miembros de la comunidad deben acatarlas, y las autoridades públicas pueden revisarlas de oficio.
+B. Toda autoridad pública o persona debe acatarlas, y sus autoridades pueden pedir apoyo a los órganos del Estado.
+C. Toda autoridad pública debe acatarlas siempre que hayan sido homologadas previamente por un juez ordinario.
+D. Toda persona debe acatarlas, pero sus autoridades no pueden solicitar apoyo de los órganos del Estado.
+Respuesta correcta: B
+Explicación: El Artículo 192.I dispone que toda autoridad pública o persona acatará las decisiones de la jurisdicción indígena originaria campesina; el 192.II permite a sus autoridades solicitar el apoyo de los órganos competentes del Estado para su cumplimiento.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. IV: Jurisdicción indígena originaria campesina. Art. 192, parágrafos I y II; pág. PDF: 51. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] ¿Qué condiciones temporales fija el Artículo 240 para la revocatoria del mandato?
+A. Puede solicitarse en cualquier momento del mandato, incluso en el último año, y cuantas veces se requiera.
+B. Puede solicitarse transcurrida al menos la mitad del mandato, no en el último año y una sola vez por mandato.
+C. Puede solicitarse transcurrido el primer año del mandato, no en el último semestre y dos veces por mandato.
+D. Puede solicitarse transcurrida la mitad del mandato, también en el último año, pero una sola vez por cargo.
+Respuesta correcta: B
+Explicación: El Artículo 240.II establece que la revocatoria puede solicitarse cuando haya transcurrido al menos la mitad del periodo del mandato y no podrá tener lugar durante el último año de la gestión; el 240.VI, que procederá una sola vez en cada mandato constitucional del cargo electo.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 240, parágrafos II y VI; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] ¿Qué facultad reconoce el Artículo 213.I a la Contraloría General del Estado?
+A. Imponer sanciones penales por responsabilidad administrativa, ejecutiva y civil, con dependencia del Ministerio de Economía.
+B. Determinar indicios de responsabilidad política de los asambleístas, con dependencia financiera del Legislativo.
+C. Determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal, con autonomía funcional y financiera.
+D. Dictar sentencias por responsabilidad civil y penal, con autonomía funcional pero sujeta al Órgano Judicial.
+Respuesta correcta: C
+Explicación: El Artículo 213.I define a la Contraloría como la institución técnica que ejerce la función de control de la administración de las entidades públicas, facultada para determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal, con autonomía funcional, financiera, administrativa y organizativa.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Art. 213, parágrafo I; pág. PDF: 56. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] ¿Qué opción diferencia correctamente las funciones de la Contraloría y de la Procuraduría General del Estado?
+A. La Contraloría realiza el control externo posterior de las entidades; la Procuraduría promueve, defiende y precautela los intereses del Estado.
+B. La Contraloría defiende judicialmente los intereses del Estado; la Procuraduría realiza el control externo posterior de las entidades públicas.
+C. La Contraloría ejerce la acción penal pública contra servidores; la Procuraduría vela por la vigencia de los derechos humanos en el país.
+D. La Contraloría realiza el control previo de las contrataciones; la Procuraduría ejerce la acción penal pública por delitos contra el Estado.
+Respuesta correcta: A
+Explicación: El Artículo 217.I hace responsable a la Contraloría de la supervisión y del control externo posterior de las entidades públicas; el Artículo 229 define a la Procuraduría como la institución de representación jurídica pública que promueve, defiende y precautela los intereses del Estado.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Art. 217.I (pág. PDF 57) y Art. 229 (pág. PDF 59). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Según los Artículos 236, 238 y 239, ¿cómo se califica la adquisición o arrendamiento de bienes públicos a nombre de una servidora o servidor público?
+A. Como causal de inelegibilidad para cargos públicos electivos.
+B. Como falta disciplinaria leve sujeta a reglamento interno.
+C. Como incompatibilidad con el ejercicio de la función pública.
+D. Como requisito incumplido para el acceso a la función pública.
+Respuesta correcta: C
+Explicación: El Artículo 239.1 declara incompatible con el ejercicio de la función pública la adquisición o arrendamiento de bienes públicos a nombre de la servidora o del servidor público, o de terceras personas. La inelegibilidad (Art. 238) y las prohibiciones (Art. 236) regulan supuestos distintos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 239, numeral 1 (pág. PDF 62); Arts. 236 y 238 (págs. PDF 61-62). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. III, Sección I: Procuraduría General del Estado] ¿Qué autoridad del Título V es designada por la Presidenta o el Presidente del Estado, con posibilidad de objeción legislativa?
+A. La Fiscal o el Fiscal General, cuya designación puede objetarse por mayoría absoluta en noventa días.
+B. La Contralora o el Contralor General, cuya designación puede objetarse por dos tercios en treinta días.
+C. La Procuradora o el Procurador General, cuya designación puede objetarse por dos tercios en sesenta días.
+D. La Defensora o el Defensor del Pueblo, cuya designación puede objetarse por mayoría simple en sesenta días.
+Respuesta correcta: C
+Explicación: El Artículo 230.II-III atribuye al Presidente del Estado la designación del Procurador General, que puede ser objetada por al menos dos tercios de los presentes de la Asamblea en un plazo no mayor a sesenta días calendario. El Contralor (214), el Defensor (220) y el Fiscal General (227) son designados por la Asamblea por dos tercios.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. III, Sección I: Procuraduría General del Estado. Art. 230, parágrafos II y III (pág. PDF 59). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [Constitución Política del Estado – SEGUNDA PARTE – Título VII, Cap. I: Fuerzas Armadas] ¿Qué afirmación distingue correctamente la dependencia de las Fuerzas Armadas y de la Policía Boliviana?
+A. Ambas dependen del Ministro de Defensa; las Fuerzas Armadas en lo técnico y la Policía en lo administrativo y en lo operativo cotidiano.
+B. Ambas dependen del Presidente; las Fuerzas Armadas, por intermedio del Ministro de Defensa, y la Policía, del Ministro de Gobierno.
+C. Las Fuerzas Armadas dependen de la Asamblea Legislativa y la Policía del Presidente, por intermedio del Ministro de Gobierno.
+D. Ambas dependen del Presidente; las Fuerzas Armadas, por intermedio del Ministro de Gobierno, y la Policía, del de Defensa.
+Respuesta correcta: B
+Explicación: El Artículo 246.I dispone que las Fuerzas Armadas dependen del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio del Ministro de Defensa y, en lo técnico, del Comandante en Jefe. El Artículo 252 establece que la Policía depende del Presidente por intermedio del Ministro de Gobierno.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VII, Cap. I: Fuerzas Armadas. Art. 246.I (pág. PDF 64) y Art. 252 (pág. PDF 65). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Respecto a los delitos cometidos en ejercicio de funciones por miembros del Tribunal Constitucional Plurinacional, ¿qué distingue las atribuciones de las Cámaras?
+A. La Cámara de Senadores acusa y la Cámara de Diputados juzga en única instancia.
+B. La Cámara de Diputados acusa y el Tribunal Supremo de Justicia juzga en pleno.
+C. Ambas Cámaras, reunidas en Asamblea, acusan y juzgan en una única instancia.
+D. La Cámara de Diputados acusa y la Cámara de Senadores juzga en única instancia.
+Respuesta correcta: D
+Explicación: El Artículo 159.11 atribuye a la Cámara de Diputados acusar ante la Cámara de Senadores a los miembros del TCP, del Tribunal Supremo y del Control Administrativo de Justicia; el Artículo 160.6 atribuye a la Cámara de Senadores juzgarlos en única instancia.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 159.11 (pág. PDF 40) y Art. 160.6 (pág. PDF 41). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+36. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Un diputado electo pretende continuar ejerciendo como director de una unidad educativa fiscal durante su mandato. ¿Qué análisis es correcto?
+A. No puede: los asambleístas no pueden desempeñar otra función pública, bajo pena de perder su mandato, salvo la docencia universitaria.
+B. Puede hacerlo: la función directiva educativa es compatible con el mandato legislativo por su carácter social y pedagógico comunitario.
+C. Puede hacerlo si solicita licencia temporal en la Cámara y deja a su suplente en ejercicio durante el periodo de la gestión escolar.
+D. No puede: los asambleístas no pueden desempeñar otra función pública, salvo la docencia en cualquier nivel del sistema educativo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 150.II dispone que los asambleístas no podrán desempeñar ninguna otra función pública, bajo pena de perder su mandato, excepto la docencia universitaria. El 150.III añade que la renuncia es definitiva, sin licencias ni suplencias temporales para desempeñar otras funciones.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 150, parágrafos II y III; pág. PDF: 37. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+37. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Una postulante a una función pública habla solo castellano y alega que el idioma no es un requisito exigible. ¿Qué análisis es correcto según el Artículo 234?
+A. No es exigible: basta con hablar castellano, por ser el idioma común de la Administración Pública nacional.
+B. Es exigible solo en territorios indígena originario campesinos, donde se requiere el idioma propio de la zona.
+C. No es exigible: el requisito de dos idiomas oficiales se aplica solo a candidatos a cargos públicos electivos.
+D. Es exigible: para acceder a funciones públicas se requiere hablar al menos dos idiomas oficiales del país.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 234.7 establece como requisito para acceder al desempeño de funciones públicas hablar al menos dos idiomas oficiales del país.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 234, numeral 7; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+38. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Un servidor público ejerce a tiempo completo un cargo remunerado en una dirección distrital y, simultáneamente, otro cargo remunerado a tiempo completo en un municipio. ¿Qué análisis corresponde?
+A. No incurre en falta alguna: la Constitución solo prohíbe acumular cargos públicos que pertenezcan al mismo nivel de gobierno.
+B. Incurre en una causal de inelegibilidad, que solo le impide postular a cargos electivos mientras mantenga ambos empleos.
+C. Incurre en una prohibición: no se pueden desempeñar simultáneamente dos cargos públicos remunerados a tiempo completo.
+D. No incurre en falta si cumple ambos horarios: la prohibición se refiere solo a cargos públicos de carácter electivo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 236.I establece como prohibición para el ejercicio de la función pública desempeñar simultáneamente más de un cargo público remunerado a tiempo completo.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 236, parágrafo I; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+39. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. II, Sección I: Defensoría del Pueblo] Durante un estado de excepción, una autoridad impide el ingreso de la Defensoría del Pueblo a un centro de internación, alegando la situación excepcional. ¿Qué análisis es correcto?
+A. Es contrario a la Constitución: la Defensoría accede libremente a esos centros y actúa sin interrupción aun en estado de excepción.
+B. Es válido: durante el estado de excepción, las funciones de la Defensoría quedan suspendidas hasta la aprobación legislativa del estado de excepción.
+C. Es válido si la autoridad comunica la restricción a la Asamblea Legislativa Plurinacional dentro de las setenta y dos horas.
+D. Es contrario a la Constitución solo si el centro de internación pertenece al nivel central y no a una entidad territorial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 222.6 atribuye a la Defensoría acceder libremente a los centros de detención e internación sin que pueda oponerse objeción alguna; el 222.7, ejercer sus funciones sin interrupción de ninguna naturaleza, aun en caso de declaratoria de estado de excepción.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. II, Sección I: Defensoría del Pueblo. Art. 222, numerales 6 y 7; pág. PDF: 58. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+40. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. III, Sección I: Procuraduría General del Estado] Por negligencia de servidores públicos se produce un daño al patrimonio de una entidad educativa estatal, y la máxima autoridad ejecutiva no inicia acciones. ¿Qué atribución constitucional resulta aplicable?
+A. La Defensoría del Pueblo puede sancionar directamente a los servidores responsables con la destitución inmediata.
+B. El Tribunal Supremo Electoral puede requerir a la máxima autoridad ejecutiva la suspensión de los responsables.
+C. La Procuraduría puede dictar sentencia contra los servidores responsables sin intervención de autoridad judicial.
+D. La Procuraduría puede requerir a la máxima autoridad ejecutiva el enjuiciamiento de los servidores responsables.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 231.5 atribuye a la Procuraduría General del Estado requerir a la máxima autoridad ejecutiva de las entidades públicas el enjuiciamiento de las servidoras y los servidores públicos que, por negligencia o corrupción, ocasionen daños al patrimonio del Estado.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. III, Sección I: Procuraduría General del Estado. Art. 231, numeral 5; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+41. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] Una dirección departamental pretende interponer una acción de inconstitucionalidad de carácter abstracto contra un decreto. ¿Qué análisis es correcto según el Artículo 202.1?
+A. Está legitimada: toda entidad pública puede interponer la acción abstracta, siempre que demuestre que el decreto afecta su gestión institucional educativa.
+B. Está legitimada si cuenta con autorización del Ministerio del ramo, pues la acción abstracta corresponde a las entidades del nivel central.
+C. No está legitimada: la acción abstracta solo puede interponerla el Presidente, los asambleístas, legisladores y las máximas autoridades de las ETA.
+D. No está legitimada: la acción abstracta solo puede interponerla la Defensoría del Pueblo, en representación de las entidades del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 202.1 dispone que, si la acción de inconstitucionalidad es de carácter abstracto, solo podrán interponerla la Presidenta o Presidente, Senadoras y Senadores, Diputadas y Diputados, Legisladores y Legisladoras y máximas autoridades ejecutivas de las entidades territoriales autónomas. Una dirección departamental no figura en esa lista.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 202, numeral 1; pág. PDF: 53. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+42. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. II: Jurisdicción ordinaria] Se propone crear un tribunal especial ad hoc para juzgar a funcionarios de un sector por hechos ya ocurridos. ¿Qué análisis corresponde según el Artículo 180.III?
+A. Es inadmisible: la jurisdicción ordinaria no reconoce fueros, privilegios ni tribunales de excepción.
+B. Es admisible: la jurisdicción ordinaria permite tribunales de excepción por razones de interés público.
+C. Es admisible si el tribunal es creado por el Consejo de la Magistratura dentro de sus atribuciones.
+D. Es inadmisible solo si los funcionarios pertenecen a la jurisdicción agroambiental o a la militar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 180.III dispone que la jurisdicción ordinaria no reconocerá fueros, privilegios ni tribunales de excepción, y que la jurisdicción militar juzgará los delitos de naturaleza militar regulados por la ley.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. II: Jurisdicción ordinaria. Art. 180, parágrafo III; pág. PDF: 48. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+43. [Constitución Política del Estado – SEGUNDA PARTE – Título IV, Cap. II: Representación política] Un partido político define a sus candidatas y candidatos sin elección interna y sin garantizar la participación de mujeres. ¿Qué análisis es correcto?
+A. Vulnera el Artículo 210: su funcionamiento debe ser democrático y la elección interna la regula el Órgano Electoral con igual participación.
+B. Es válido: los partidos políticos definen libremente su organización interna, sin regulación ni fiscalización del Órgano Electoral.
+C. Vulnera el Artículo 210 solo si el partido postula en circunscripciones especiales indígena originario campesinas del área rural.
+D. Es válido si el partido aplica normas propias de democracia comunitaria, que la Constitución reconoce a todos los partidos políticos del país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 210.I exige que la organización y funcionamiento de las organizaciones de las NPIOC, las agrupaciones ciudadanas y los partidos políticos sean democráticos; el 210.II dispone que la elección interna será regulada y fiscalizada por el Órgano Electoral, que garantizará la igual participación de hombres y mujeres. Las normas propias de democracia comunitaria corresponden solo a las organizaciones de las NPIOC (210.III).
+Sustento: Constitución Política del Estado, Segunda Parte. Título IV, Cap. II: Representación política. Art. 210, parágrafos I y II (pág. PDF 55) y III (pág. PDF 56). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+44. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Una dirección distrital de educación sostiene que abrir espacios de participación y control social es una decisión discrecional de cada autoridad. ¿Qué análisis es correcto?
+A. Es correcto: la Constitución deja a cada autoridad la decisión de habilitar espacios de control social en su entidad.
+B. Es errado solo para las entidades del nivel central, pues las desconcentradas quedan fuera del control social.
+C. Es correcto mientras la ley no regule el control social, pues la Constitución no impone obligación a las entidades.
+D. Es errado: las entidades del Estado generarán espacios de participación y control social por parte de la sociedad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 241.VI dispone que las entidades del Estado generarán espacios de participación y control social por parte de la sociedad; el 242.3 extiende el control social a todos los niveles del gobierno y a las entidades autónomas, autárquicas, descentralizadas y desconcentradas.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241, parágrafo VI y Art. 242, numeral 3; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+45. [Constitución Política del Estado – SEGUNDA PARTE – Título VII, Cap. I: Fuerzas Armadas] Un comandante militar emite, en nombre de la institución, un pronunciamiento político sobre un proceso electoral. ¿Qué análisis corresponde según el Artículo 245?
+A. Es válido: las Fuerzas Armadas pueden deliberar sobre asuntos electorales para garantizar la estabilidad.
+B. Es válido si el pronunciamiento cuenta con la aprobación previa del Consejo Supremo de Defensa del Estado.
+C. Es contrario a la Constitución solo si el pronunciamiento se emite durante la vigencia de un estado de excepción.
+D. Es contrario a la Constitución: como institución, las Fuerzas Armadas no deliberan ni realizan acción política.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 245 dispone que las Fuerzas Armadas son esencialmente obedientes, no deliberan, y como organismo institucional no realizan acción política; individualmente, sus miembros ejercen los derechos de ciudadanía conforme a la ley.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VII, Cap. I: Fuerzas Armadas. Art. 245; pág. PDF: 64. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Una maestra de 26 años desea postularse a la Asamblea Legislativa Plurinacional por la circunscripción donde reside desde hace un año. ¿Qué requisito del Artículo 149 no cumple?
+A. Contar con treinta años de edad cumplidos al momento de la elección y residencia permanente en la circunscripción correspondiente.
+B. Haber residido de forma permanente al menos los cinco años inmediatamente anteriores a la elección en el país.
+C. Haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en la circunscripción.
+D. Contar con veinticinco años de edad al día de la elección y haber ejercido funciones públicas durante dos años.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 149 exige cumplir las condiciones generales de acceso al servicio público, contar con dieciocho años cumplidos al momento de la elección y haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en la circunscripción correspondiente.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 149; pág. PDF: 37. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado] Un ciudadano de 32 años, que volvió al país hace tres años tras residir en el exterior, quiere postularse a la Presidencia del Estado. ¿Qué dispone el Artículo 167?
+A. Cumple: se requieren treinta años de edad y al menos dos años de residencia permanente previa en el país.
+B. No cumple: se requiere haber residido de forma permanente en el país al menos cinco años inmediatamente anteriores.
+C. No cumple: se requieren treinta y cinco años de edad cumplidos al día de la elección y diez años de residencia permanente.
+D. Cumple: se requieren treinta años de edad y basta la residencia en el país al momento de la inscripción.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 167 exige, para la candidatura a la Presidencia o Vicepresidencia, cumplir las condiciones generales de acceso al servicio público, contar con treinta años cumplidos al día de la elección y haber residido de forma permanente en el país al menos cinco años inmediatamente anteriores a la elección.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado. Art. 167; pág. PDF: 44. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección III: Ministerios de Estado] Se propone designar como Ministro de Educación a un profesional de 27 años que es primo hermano (cuarto grado) del Vicepresidente. ¿Qué dispone el Artículo 176?
+A. No puede ser designado: el impedimento por parentesco alcanza hasta el cuarto grado de consanguinidad y segundo de afinidad.
+B. No puede ser designado: se requieren treinta años cumplidos al día del nombramiento para ocupar un Ministerio.
+C. Puede ser designado: el impedimento por parentesco alcanza solo hasta el segundo grado de consanguinidad o afinidad.
+D. Puede ser designado solo si la Asamblea aprueba previamente su nombramiento por mayoría absoluta de presentes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 176 exige veinticinco años cumplidos al día del nombramiento y prohíbe ser cónyuge o pariente consanguíneo o afín dentro del segundo grado de quienes ejerzan la Presidencia o Vicepresidencia. El primo hermano es pariente en cuarto grado, fuera de ese impedimento.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección III: Ministerios de Estado. Art. 176; pág. PDF: 47. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado] Ante la ausencia definitiva de la Presidenta o el Presidente y de la Vicepresidenta o el Vicepresidente del Estado, ¿quién asume según el Artículo 169.I?
+A. La Presidenta o el Presidente de la Cámara de Diputados y, a falta de éste, el del Tribunal Supremo.
+B. La Presidenta o el Presidente del Senado y, a falta de éste, quien presida la Cámara de Diputados.
+C. La Presidenta o el Presidente del Tribunal Constitucional y, a falta de éste, quien presida el Senado.
+D. La Ministra o el Ministro de la Presidencia y, a falta de éste, quien presida la Cámara de Senadores.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 169.I dispone que, en caso de impedimento o ausencia definitiva del Presidente, lo reemplaza el Vicepresidente y, a falta de éste, el Presidente del Senado, y a falta de éste el Presidente de la Cámara de Diputados; en este último caso se convocan nuevas elecciones en el plazo máximo de noventa días.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado. Art. 169, parágrafo I; pág. PDF: 44. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado] La Presidenta o el Presidente del Estado debe ausentarse doce días del territorio en misión oficial. ¿Qué exige el Artículo 173?
+A. Ninguna autorización, pues las misiones oficiales no tienen límite de días fijado por la Constitución.
+B. Autorización del Consejo de Ministros, pues la Asamblea solo autoriza ausencias de más de treinta días.
+C. Autorización de la Asamblea, pues sin ella solo puede ausentarse en misión oficial hasta diez días.
+D. Autorización de la Asamblea, pues sin ella solo puede ausentarse en misión oficial hasta cinco días.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 173 dispone que la Presidenta o el Presidente podrá ausentarse del territorio por misión oficial, sin autorización de la Asamblea Legislativa Plurinacional, hasta un máximo de diez días.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado. Art. 173; pág. PDF: 46. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Un asambleísta abandona injustificadamente sus funciones durante siete días de trabajo continuos. ¿Qué consecuencia prevé el Artículo 157?
+A. Conserva el mandato, pues solo se pierde por abandono injustificado de más de quince días continuos al año.
+B. Pierde el mandato, pues se pierde por abandono injustificado de más de seis días continuos o once discontinuos.
+C. Recibe una sanción económica, pues el abandono injustificado solo genera descuentos según el Reglamento.
+D. Pierde el mandato, pues se pierde por abandono injustificado de más de tres días continuos o seis discontinuos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 157 dispone que el mandato de asambleísta se pierde, entre otras causas, por abandono injustificado de sus funciones por más de seis días de trabajo continuos y once discontinuos en el año, calificados de acuerdo con el Reglamento.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 157; pág. PDF: 38. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] El proyecto de Presupuesto General del Estado, que incluye recursos para educación, no es tratado por la Asamblea en sesenta días desde su recepción. ¿Qué dispone el Artículo 158.I.11?
+A. El proyecto se da por aprobado al vencer ese plazo.
+B. El proyecto se da por rechazado al vencer ese plazo.
+C. El proyecto pasa al Senado por otros treinta días.
+D. El proyecto vuelve al Ejecutivo para su nueva presentación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 158.I.11 dispone que el proyecto de ley del Presupuesto General del Estado deberá ser considerado en la Asamblea dentro del término de sesenta días y que, en caso de no ser aprobado en este plazo, se dará por aprobado.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 158, parágrafo I, numeral 11; pág. PDF: 39. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] La Asamblea interpela a la Ministra de Educación y aprueba su censura por dos tercios de sus miembros. ¿Qué efecto tiene la censura según el Artículo 158.I.18?
+A. Implica la destitución de la Ministra censurada.
+B. Implica una amonestación pública registrada en actas.
+C. Implica la suspensión de la Ministra por treinta días.
+D. Implica la remisión del caso al Ministerio Público.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 158.I.18 atribuye a la Asamblea interpelar a las Ministras y los Ministros y acordar la censura por dos tercios de sus miembros, y dispone que la censura implicará la destitución de la Ministra o del Ministro.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 158, parágrafo I, numeral 18; pág. PDF: 39. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Una universidad pública necesita contratar un empréstito. ¿Qué disponen los Artículos 158.I.10 y 159.9 sobre su autorización?
+A. La autoriza el Ministerio de Economía y su aprobación se inicia en el Consejo de Ministros del Estado.
+B. La autoriza la Asamblea Legislativa Plurinacional y su aprobación se inicia en la Cámara de Senadores.
+C. La autoriza el Consejo Universitario, sin aprobación legislativa, en ejercicio pleno de su autonomía.
+D. La autoriza la Asamblea Legislativa Plurinacional y su aprobación se inicia en la Cámara de Diputados.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 158.I.10 atribuye a la Asamblea autorizar a las universidades la contratación de empréstitos; el Artículo 159.9 asigna a la Cámara de Diputados iniciar la aprobación de la autorización a las universidades para la contratación de empréstitos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 158.I.10 (pág. PDF 39) y Art. 159.9 (pág. PDF 40). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] Un gobierno autónomo presenta un proyecto de ley sobre ordenamiento territorial. ¿En qué Cámara se conoce, según el Artículo 163.3?
+A. En la Cámara de Diputados, que conoce todas las iniciativas legislativas presentadas por los gobiernos autónomos del país.
+B. En la Comisión de Asamblea, que conoce las iniciativas en materia de autonomías durante los recesos legislativos anuales.
+C. En la Cámara de Senadores, que conoce las iniciativas en materia de descentralización, autonomías y ordenamiento territorial.
+D. En el Pleno de la Asamblea, que conoce las iniciativas en materia de descentralización, autonomías y límites territoriales internos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 163.3 dispone que las iniciativas legislativas en materia de descentralización, autonomías y ordenamiento territorial serán de conocimiento de la Cámara de Senadores. Las de otra iniciativa no parlamentaria se envían, por regla general, a la Cámara de Diputados (163.2).
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 163, numerales 2 y 3; pág. PDF: 42. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] El Tribunal Supremo de Justicia desea presentar un proyecto de ley sobre gestión educativa. ¿Qué dispone el Artículo 162 sobre su iniciativa legislativa?
+A. La tiene en toda materia, con tratamiento obligatorio por la Asamblea Legislativa.
+B. Solo la tiene para las iniciativas relacionadas con la administración de justicia.
+C. No la tiene en ninguna materia, pues solo la ejercen el Ejecutivo y los asambleístas.
+D. La tiene en toda materia, siempre que cuente con el aval del Órgano Ejecutivo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 162.I reconoce la iniciativa legislativa, para su tratamiento obligatorio, a las ciudadanas y los ciudadanos, los asambleístas, el Órgano Ejecutivo, el Tribunal Supremo en el caso de iniciativas relacionadas con la administración de justicia, y los gobiernos autónomos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 162, parágrafo I, numeral 4; pág. PDF: 42. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] El gerente de una empresa con contratos vigentes con el Estado para proveer mobiliario escolar quiere postularse a un cargo electivo. ¿Qué exige el Artículo 238.1?
+A. Haber renunciado al cargo directivo al menos cinco años antes del día de la elección.
+B. Haber renunciado al cargo directivo al menos tres meses antes del día de la elección.
+C. Haber concluido los contratos con el Estado al menos un año antes del día de la elección.
+D. Haber renunciado al cargo directivo al menos seis meses antes del día de la elección.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 238.1 establece como causal de inelegibilidad haber ocupado u ocupar cargos directivos en empresas o corporaciones con contratos o convenios con el Estado sin haber renunciado al menos tres meses antes del día de la elección. Los cinco años corresponden a empresas extranjeras transnacionales (238.2).
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 238, numerales 1 (pág. PDF 61) y 2 (pág. PDF 62). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Un sacerdote que dirige una unidad educativa de convenio quiere postularse a un cargo público electivo. ¿Qué exige el Artículo 238.5?
+A. Haber renunciado como ministro de culto al menos tres meses antes del día de la elección.
+B. Haber renunciado como ministro de culto al menos cinco años antes del día de la elección.
+C. Contar con autorización expresa de su entidad religiosa, sin necesidad de renunciar al culto.
+D. Haber renunciado como ministro de culto al menos un año antes del día de la elección.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 238.5 dispone que no podrán acceder a cargos públicos electivos los ministros de cualquier culto religioso que no hayan renunciado al menos tres meses antes del día de la elección.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 238, numeral 5; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. I: Relaciones internacionales] Un grupo de ciudadanos quiere que un tratado internacional se someta a referendo antes de su ratificación. ¿Qué exige el Artículo 259.I?
+A. Que lo solicite el quince por ciento de los ciudadanos del padrón o la mitad más uno de los asambleístas en ejercicio.
+B. Que lo solicite el diez por ciento de los ciudadanos del padrón o los dos tercios de los asambleístas.
+C. Que lo solicite el cinco por ciento de los ciudadanos del padrón y lo apruebe el Tribunal Constitucional.
+D. Que lo solicite el cinco por ciento de los ciudadanos del padrón o el treinta y cinco por ciento de los asambleístas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 259.I dispone que cualquier tratado internacional requerirá aprobación mediante referendo popular cuando así lo solicite el cinco por ciento de los ciudadanos registrados en el padrón electoral, o el treinta y cinco por ciento de los representantes de la Asamblea Legislativa Plurinacional.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. I: Relaciones internacionales. Art. 259, parágrafo I (págs. PDF 66-67); pág. PDF: 66. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. II: Fronteras del Estado] Una fundación extranjera pretende comprar un terreno ubicado a treinta kilómetros de la línea de frontera para construir una escuela. ¿Qué dispone el Artículo 262.I?
+A. No puede adquirirlo: en los cincuenta kilómetros fronterizos ningún extranjero adquiere propiedad, salvo ley aprobada por dos tercios.
+B. Puede adquirirlo: la prohibición rige solo en los veinte kilómetros contiguos a la línea de frontera, sin excepción alguna.
+C. Puede adquirirlo si el destino es educativo, pues la prohibición fronteriza alcanza solo a actividades de carácter lucrativo o comercial.
+D. No puede adquirirlo: en los cien kilómetros fronterizos ningún extranjero adquiere propiedad, salvo decreto supremo expreso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 262.I establece como zona de seguridad fronteriza los cincuenta kilómetros a partir de la línea de frontera, donde ninguna persona extranjera, individualmente o en sociedad, podrá adquirir propiedad, excepto en caso de necesidad estatal declarada por ley expresa aprobada por dos tercios de la Asamblea.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. II: Fronteras del Estado. Art. 262, parágrafo I; pág. PDF: 67. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+61. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. II, Sección I: Defensoría del Pueblo] Caso: la Defensoría del Pueblo investiga denuncias de vulneración de derechos de estudiantes y solicita información a una dirección distrital, que se niega alegando «reserva administrativa». ¿Cómo se resuelve?
+A. La dirección puede oponer reserva administrativa; la Defensoría debe obtener primero una orden judicial expresa.
+B. La dirección no puede oponer reserva alguna; si no atiende la solicitud, su autoridad puede ser procesada y destituida.
+C. La dirección puede entregar solo información estadística; la reserva protege los expedientes de tipo disciplinario y personal.
+D. La dirección no puede oponer reserva, pero el incumplimiento solo genera una recomendación sin otra consecuencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 222.4 faculta a la Defensoría a solicitar a autoridades y servidores públicos información sobre sus investigaciones, sin que puedan oponer reserva alguna; el Artículo 223 prevé que, si la solicitud no es atendida, la autoridad podrá ser procesada y destituida.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. II, Sección I: Defensoría del Pueblo. Art. 222.4 y Art. 223 (pág. PDF 58). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+62. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Caso: un comité de control social solicita a una entidad pública el detalle del uso de los recursos de un programa de alimentación escolar, y la entidad entrega solo un resumen parcial meses después. ¿Cómo se valora?
+A. Cumple la Constitución: la entidad decide el formato y el plazo de la información que entrega al control social organizado.
+B. Cumple la Constitución si la entidad publicó el resumen en su página institucional dentro de la gestión fiscal.
+C. Incumple la Constitución solo si los recursos del programa provienen del nivel central y no del nivel municipal.
+D. Incumple la Constitución: esa información no puede denegarse y debe entregarse completa, veraz, adecuada y oportuna.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 242.4 dispone que la información solicitada por el control social no podrá denegarse y será entregada de manera completa, veraz, adecuada y oportuna; el 241.II extiende el control social a la gestión pública en todos los niveles del Estado.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241.II y Art. 242.4 (pág. PDF 63). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+63. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: para liberar espacio, un servidor ordena quemar expedientes y registros antiguos de una unidad educativa fiscal, sin seguir procedimiento legal alguno. ¿Cómo se resuelve?
+A. Vulnera la obligación de custodiar los documentos públicos sin destruirlos, pues su destrucción solo procede conforme a la ley.
+B. Es válido, porque los documentos con más de cinco años de antigüedad pueden destruirse por decisión de la autoridad educativa del lugar.
+C. Es válido si se levanta un acta firmada por el personal presente, que reemplaza el procedimiento de destrucción de archivos.
+D. Vulnera solo una norma reglamentaria interna, pues la Constitución no contiene disposiciones sobre los archivos públicos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 237.I.1 obliga a inventariar y custodiar en oficinas públicas los documentos propios de la función pública, sin que puedan sustraerlos ni destruirlos, y remite a la ley las condiciones de destrucción de los documentos públicos; el 237.II remite a la ley las sanciones.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 237, parágrafos I.1 y II; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+64. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: un docente postula a un cargo público, pero tiene un pliego de cargo ejecutoriado pendiente de cumplimiento. ¿Qué solución corresponde según el Artículo 234?
+A. Cumple los requisitos, porque el pliego de cargo solo impide el acceso a cargos públicos de carácter electivo.
+B. Cumple los requisitos, siempre que el pliego de cargo no supere el monto fijado por el reglamento interno de la entidad.
+C. No cumple los requisitos para acceder a funciones públicas mientras el pliego de cargo ejecutoriado esté pendiente.
+D. No cumple los requisitos solo si el pliego de cargo deriva de una sentencia penal ejecutoriada en su contra.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 234.4 exige, para acceder al desempeño de funciones públicas, no tener pliego de cargo ejecutoriado ni sentencia condenatoria ejecutoriada en materia penal, pendientes de cumplimiento.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 234, numeral 4; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+65. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: una persona extranjera con residencia legal, sin nacionalidad boliviana, es propuesta para ocupar una función pública en una dirección departamental. ¿Qué establece el Artículo 234?
+A. Puede acceder si acredita más de tres años de residencia legal y habla dos idiomas oficiales del país.
+B. Puede acceder a funciones técnicas, pues la nacionalidad solo se exige para cargos directivos o electivos.
+C. No puede acceder: contar con la nacionalidad boliviana es requisito para desempeñar funciones públicas.
+D. No puede acceder salvo autorización de la Asamblea, que puede dispensar el requisito de nacionalidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 234.1 establece como primer requisito para acceder al desempeño de funciones públicas contar con la nacionalidad boliviana.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 234, numeral 1; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+66. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: un concejal municipal fue electo para un periodo de cinco años. En el quinto año de gestión, un grupo de vecinos promueve su revocatoria. ¿Procede?
+A. No procede, porque la revocatoria no puede tener lugar durante el último año de la gestión en el cargo.
+B. Procede, porque ya transcurrió más de la mitad del mandato y la ley no fija otro límite temporal.
+C. Procede si la solicita al menos el diez por ciento de los votantes del padrón de su circunscripción.
+D. No procede, porque la revocatoria solo puede solicitarse durante el primer año de la gestión en el cargo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 240.II dispone que la revocatoria puede solicitarse transcurrida al menos la mitad del periodo y que no podrá tener lugar durante el último año de la gestión; el 240.III exige la solicitud de al menos el quince por ciento de votantes del padrón de la circunscripción.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 240, parágrafos II y III; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+67. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] Caso: una autoridad indígena originaria campesina, al resolver un conflicto que involucra a estudiantes de su comunidad, tiene dudas sobre la aplicación de sus normas al caso concreto. ¿Qué mecanismo prevé la Constitución?
+A. Consultar al Tribunal Supremo de Justicia, cuya decisión sobre la aplicación de sus normas al caso es solo orientadora.
+B. Consultar al Tribunal Constitucional Plurinacional, cuya decisión sobre la aplicación de sus normas al caso es obligatoria.
+C. Consultar al Consejo de la Magistratura, que revisa en apelación las decisiones de la jurisdicción indígena del lugar.
+D. Consultar a la Defensoría del Pueblo, cuya recomendación sobre la aplicación de sus normas al caso es de cumplimiento obligatorio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 202.8 atribuye al Tribunal Constitucional Plurinacional conocer y resolver las consultas de las autoridades indígenas originario campesinas sobre la aplicación de sus normas jurídicas a un caso concreto, y dispone que su decisión es obligatoria.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 202, numeral 8; pág. PDF: 54. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+68. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] Caso: un juez ordinario y una autoridad indígena originaria campesina reclaman ambos la competencia sobre un hecho ocurrido en territorio de la comunidad. ¿Quién resuelve el conflicto?
+A. El Tribunal Supremo de Justicia, que dirime los conflictos de competencia entre todas las jurisdicciones.
+B. El Tribunal Constitucional Plurinacional, que conoce los conflictos de competencia entre ambas jurisdicciones.
+C. El Consejo de la Magistratura, que ejerce el control disciplinario sobre las autoridades de ambas jurisdicciones.
+D. El Tribunal Agroambiental, por tratarse de un hecho ocurrido en territorio de una comunidad del área rural.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 202.11 atribuye al Tribunal Constitucional Plurinacional conocer y resolver los conflictos de competencia entre la jurisdicción indígena originaria campesina y la jurisdicción ordinaria y agroambiental. El Tribunal Supremo solo dirime conflictos entre tribunales departamentales (184.2).
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 202.11 (pág. PDF 54) y Art. 184.2 (pág. PDF 49). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+69. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. IV: Jurisdicción indígena originaria campesina] Caso: la jurisdicción indígena originaria campesina emite una decisión sobre un miembro de su comunidad, y una autoridad pública se niega a acatarla. A la vez, se cuestiona si la decisión respetó el derecho a la defensa. ¿Qué solución es correcta?
+A. La autoridad puede desconocer la decisión, porque las decisiones indígenas carecen de efecto fuera de la propia comunidad.
+B. La autoridad debe acatar la decisión, pues esa jurisdicción aplica sus normas propias sin sujeción a garantías constitucionales.
+C. La autoridad debe acatar la decisión, y esa jurisdicción debe respetar el derecho a la vida, a la defensa y las demás garantías.
+D. La autoridad puede suspender la decisión hasta que un juez ordinario la homologue y verifique su conformidad con las leyes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 192.I obliga a toda autoridad pública o persona a acatar las decisiones de la jurisdicción indígena originaria campesina; el Artículo 190.II dispone que esa jurisdicción respeta el derecho a la vida, el derecho a la defensa y demás derechos y garantías constitucionales.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. IV: Jurisdicción indígena originaria campesina. Art. 190.II (pág. PDF 50) y Art. 192.I (pág. PDF 51). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+70. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] Caso: tras detectar irregularidades en el manejo de recursos de una entidad educativa estatal, se pregunta qué institución realiza el control externo posterior y qué puede determinar. ¿Cuál es la respuesta correcta?
+A. La Procuraduría General del Estado, que puede determinar responsabilidad penal y ejecutar directamente las sanciones.
+B. La Defensoría del Pueblo, que puede determinar indicios de responsabilidad administrativa y destituir a los responsables.
+C. La Contraloría General del Estado, que puede determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal.
+D. El Ministerio Público, que puede realizar el control externo posterior y determinar responsabilidad administrativa, civil y ejecutiva.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 217.I hace responsable a la Contraloría de la supervisión y el control externo posterior de las entidades públicas; el Artículo 213.I la faculta para determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Art. 213.I (pág. PDF 56) y Art. 217.I (pág. PDF 57). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. III, Sección I: Procuraduría General del Estado] Caso: por la falta de diligencia de la unidad jurídica de una entidad pública, el Estado pierde un proceso administrativo. ¿Qué función constitucional corresponde a la Procuraduría?
+A. Evaluar y velar por las acciones diligentes de las unidades jurídicas e instar las acciones ante la negligencia.
+B. Sustituir de forma permanente a las unidades jurídicas y asumir la dirección administrativa y financiera de la entidad.
+C. Evaluar el desempeño de las unidades jurídicas y destituir directamente a los abogados negligentes.
+D. Revisar en apelación la resolución adversa y dejarla sin efecto mediante una resolución procuradora.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 231.3 atribuye a la Procuraduría evaluar y velar por el ejercicio de las acciones diligentes de las unidades jurídicas de la Administración Pública en los procesos ante autoridades jurisdiccionales o administrativas y, en caso de acción negligente, instar al inicio de las acciones que correspondan.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. III, Sección I: Procuraduría General del Estado. Art. 231, numeral 3; pág. PDF: 60. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección III: Ministerios de Estado] Caso: un maestro impugna una decisión administrativa del Ministerio de Educación y la reclamación llega a su última instancia administrativa. ¿Quién resuelve, según el Artículo 175.I.6?
+A. La Presidenta o el Presidente del Estado, que resuelve en última instancia todo asunto administrativo ministerial.
+B. El Tribunal Supremo de Justicia, que resuelve en única instancia todo asunto administrativo de los Ministerios.
+C. La Contraloría General del Estado, que resuelve en última instancia los recursos administrativos ministeriales.
+D. La Ministra o el Ministro del ramo, que resuelve en última instancia todo asunto administrativo del Ministerio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 175.I.6 atribuye a las Ministras y los Ministros de Estado resolver en última instancia todo asunto administrativo que corresponda al Ministerio. El 175.II los hace responsables de los actos de administración adoptados en sus carteras.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección III: Ministerios de Estado. Art. 175.I.6 (pág. PDF 46) y Art. 175.II (pág. PDF 47). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional] Caso: una autoridad del Ministerio de Educación propone dejar sin efecto una ley mediante una resolución administrativa. ¿Cómo se resuelve?
+A. Es procedente: los Ministros pueden derogar leyes de su sector mediante resoluciones, siempre que lo informen previamente a la Asamblea Legislativa.
+B. Es procedente si la resolución se suscribe junto con la Presidenta o el Presidente del Estado como decreto en Consejo.
+C. Es improcedente: solo la Asamblea dicta, interpreta, deroga, abroga y modifica leyes; los Ministros dictan normas administrativas.
+D. Es improcedente solo si la ley fue aprobada en la Cámara de Senadores, pues las de Diputados admiten derogación ejecutiva.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 158.I.3 atribuye a la Asamblea dictar leyes, interpretarlas, derogarlas, abrogarlas y modificarlas, y el Artículo 145 la declara la única con facultad de aprobar y sancionar leyes. El Artículo 175.I.4 limita a los Ministros a dictar normas administrativas en el ámbito de su competencia.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. I: Composición y atribuciones de la Asamblea Legislativa Plurinacional. Art. 158.I.3 (pág. PDF 38), Art. 145 (pág. PDF 36) y Art. 175.I.4 (pág. PDF 46). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. II, Sección I: Tribunal Supremo de Justicia] Caso: un director organiza en su unidad educativa un acto público de campaña a favor de un postulante al Tribunal Supremo de Justicia. ¿Cómo se valora a la luz del Artículo 182.III?
+A. Es contrario a la Constitución: nadie puede hacer campaña por esas candidaturas, bajo sanción de inhabilitación del postulante.
+B. Es válido: la campaña está permitida a terceros siempre que el postulante no participe de manera personal en el acto.
+C. Es válido si el acto se realiza fuera del horario escolar y se invita también a los demás postulantes del departamento.
+D. Es contrario a la Constitución solo si el postulante pertenece a una organización política inscrita ante el Órgano Electoral Plurinacional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 182.III dispone que las y los postulantes o persona alguna no podrán realizar campaña electoral a favor de sus candidaturas, bajo sanción de inhabilitación, y que el Órgano Electoral será el único responsable de difundir los méritos de los candidatos. Además, el Artículo 235.5 prohíbe usar bienes del Estado para fines electorales.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. II, Sección I: Tribunal Supremo de Justicia. Art. 182.III (pág. PDF 48) y Art. 235.5 (pág. PDF 61). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Constitución Política del Estado – SEGUNDA PARTE – Título IV, Cap. II: Representación política] Caso: una maestra desea inscribirse como candidata a concejal y, al mismo tiempo, a asambleísta departamental en la misma elección. ¿Qué establece el Artículo 212?
+A. No puede: nadie puede postularse simultáneamente a más de un cargo electivo ni por más de una circunscripción.
+B. Puede: la postulación simultánea está permitida si ambos cargos corresponden a niveles de gobierno distintos y autónomos.
+C. Puede, siempre que renuncie a una de las candidaturas antes de la proclamación oficial de los resultados.
+D. No puede, salvo que ambas candidaturas sean presentadas por una misma organización política habilitada.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 212 dispone que ninguna candidata ni ningún candidato podrá postularse simultáneamente a más de un cargo electivo, ni por más de una circunscripción electoral al mismo tiempo.
+Sustento: Constitución Política del Estado, Segunda Parte. Título IV, Cap. II: Representación política. Art. 212; pág. PDF: 56. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. II, Sección I: Defensoría del Pueblo] Caso: la Defensoría del Pueblo formula recomendaciones a una dirección departamental para corregir prácticas que vulneran derechos de estudiantes, y la dirección las ignora reiteradamente. ¿Qué puede hacer la Defensoría según el Artículo 222.5?
+A. Destituir a la autoridad departamental por incumplimiento reiterado de sus recomendaciones, recordatorios y sugerencias.
+B. Dictar una resolución vinculante que sustituya las decisiones de la dirección en la gestión de los casos observados.
+C. Emitir censura pública por los actos o comportamientos contrarios a sus recomendaciones, recordatorios y sugerencias.
+D. Intervenir la dirección departamental y designar una autoridad interina hasta que se adopten los correctivos sugeridos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 222.5 atribuye a la Defensoría formular recomendaciones, recordatorios de deberes legales y sugerencias para la inmediata adopción de correctivos a todos los órganos e instituciones del Estado, y emitir censura pública por actos o comportamientos contrarios a dichas formulaciones.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. II, Sección I: Defensoría del Pueblo. Art. 222, numeral 5; pág. PDF: 58. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: una servidora designada como directora distrital decide postularse a alcaldesa en las próximas elecciones subnacionales. ¿Qué debe hacer según el Artículo 238.3?
+A. Solicitar licencia sin goce de haberes un mes antes de la elección.
+B. Renunciar a su cargo al menos tres meses antes del día de la elección.
+C. Renunciar a su cargo al menos un año antes del día de la elección.
+D. Mantener el cargo, pues la inelegibilidad alcanza solo a los electos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 238.3 establece como causal de inelegibilidad ocupar cargos electivos, de designación o de libre nombramiento sin haber renunciado al menos tres meses antes del día de la elección, excepto el Presidente y el Vicepresidente.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 238, numeral 3; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Constitución Política del Estado – SEGUNDA PARTE – Título IV, Cap. I: Órgano Electoral Plurinacional] Caso: el Tribunal Supremo Electoral debe garantizar el sufragio y, a la vez, administrar los registros de identidad civil de la población. ¿Qué funciones le asigna el Artículo 208?
+A. Organizar los procesos electorales y preseleccionar a los candidatos judiciales, delegando el Registro Civil a los municipios.
+B. Fiscalizar los procesos electorales que organizan los Tribunales Departamentales y certificar el Padrón ante la Asamblea.
+C. Organizar, administrar y ejecutar los procesos electorales, proclamar resultados y administrar el Registro Civil y el Padrón.
+D. Organizar, administrar y ejecutar los procesos electorales, y calificar las credenciales de los asambleístas proclamados.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 208.I hace responsable al Tribunal Supremo Electoral de organizar, administrar y ejecutar los procesos electorales y proclamar sus resultados; el 208.III le asigna organizar y administrar el Registro Civil y el Padrón Electoral. La calificación de credenciales corresponde a cada Cámara (159.2 y 160.2).
+Sustento: Constitución Política del Estado, Segunda Parte. Título IV, Cap. I: Órgano Electoral Plurinacional. Art. 208, parágrafos I y III; pág. PDF: 55. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. V: Consejo de la Magistratura] Caso: un juez de instrucción incurre en faltas disciplinarias en un proceso que involucra a una unidad educativa. ¿Qué instancia ejerce el control disciplinario sobre él?
+A. El Consejo de la Magistratura, que ejerce el control disciplinario de vocales, jueces y personal del Órgano Judicial.
+B. El Tribunal Constitucional Plurinacional, que ejerce el control disciplinario de los jueces de todas las jurisdicciones.
+C. El Ministerio Público, que ejerce el control disciplinario de los jueces de instrucción en los procesos penales.
+D. La Cámara de Diputados, que ejerce el control disciplinario de los jueces mediante el juicio de responsabilidades.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 193.I hace al Consejo de la Magistratura responsable del régimen disciplinario de la jurisdicción ordinaria, agroambiental y especializadas; el Artículo 195.2 le atribuye el control disciplinario de vocales, juezas y jueces y personal auxiliar y administrativo del Órgano Judicial.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. V: Consejo de la Magistratura. Art. 193.I (pág. PDF 51) y Art. 195.2 (pág. PDF 52). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Caso: un servidor público de una entidad educativa recibe una oferta para trabajar, a la vez, como asesor de una empresa que tiene relación contractual con el Estado. ¿Qué dispone el Artículo 239?
+A. Es incompatible con la función pública ejercer como asesor de empresas que tengan relación contractual con el Estado.
+B. Es compatible si la asesoría se presta fuera del horario de trabajo y la empresa no contrata con su propia entidad.
+C. Es incompatible solo si la empresa tiene contratos superiores al monto fijado por ley para la contratación directa.
+D. Es compatible si el servidor declara la asesoría en su declaración jurada de bienes y rentas al inicio de su gestión.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 239.3 declara incompatible con el ejercicio de la función pública el ejercicio profesional como empleados, apoderados, asesores o gestores de entidades, sociedades o empresas que tengan relación contractual con el Estado.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 239, numeral 3; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Una unidad educativa de convenio que administra recursos fiscales rechaza el control social de las familias porque es «institución privada». ¿Qué decisión se ajusta al Artículo 241.II?
+A. Rechazar el control social, que solo alcanza a las entidades públicas de los niveles de gobierno del Estado.
+B. Admitir el control social solo sobre la calidad pedagógica, excluyendo el uso de los recursos.
+C. Rechazar el control social hasta que la ley específica defina su estructura y composición.
+D. Admitir el control social, que alcanza a las instituciones privadas que administren recursos fiscales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 241.II dispone que la sociedad civil organizada ejercerá el control social a la gestión pública en todos los niveles del Estado y a las empresas e instituciones públicas, mixtas y privadas que administren recursos fiscales.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241, parágrafo II; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. II, Sección I: Tribunal Supremo de Justicia] Una docente militante de una organización política desea postularse al Tribunal Supremo de Justicia. ¿Qué establece el Artículo 182 para su situación?
+A. Puede mantener su militancia, pues la prohibición rige solo para quienes ocupan cargos electivos legislativos.
+B. Puede mantener su militancia y hacer campaña, siempre que no utilice recursos ni bienes del Estado.
+C. Debe suspender su militancia solo durante la campaña, que puede realizar con apoyo de su organización.
+D. Las magistradas no pueden pertenecer a organizaciones políticas, y nadie puede hacer campaña por su candidatura.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 182.IV dispone que las magistradas y magistrados no podrán pertenecer a organizaciones políticas; el 182.III, que los postulantes o persona alguna no podrán realizar campaña electoral a favor de sus candidaturas, bajo sanción de inhabilitación.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. II, Sección I: Tribunal Supremo de Justicia. Art. 182, parágrafos III y IV; pág. PDF: 48. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Una servidora asumirá la dirección de una entidad educativa estatal. ¿Qué decisión se ajusta al Artículo 235.3 respecto a su patrimonio?
+A. Prestar declaración jurada de bienes y rentas antes, durante y después del ejercicio del cargo.
+B. Prestar declaración jurada de bienes y rentas solo al concluir el ejercicio del cargo asignado en la entidad.
+C. Prestar declaración jurada de bienes y rentas solo si su patrimonio supera el límite legal.
+D. Prestar declaración jurada de bienes y rentas una sola vez, al momento de asumir el cargo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 235.3 obliga a las servidoras y los servidores públicos a prestar declaración jurada de bienes y rentas antes, durante y después del ejercicio del cargo.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 235, numeral 3; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. III, Sección I: Procuraduría General del Estado] Un comité de padres detecta indicios de que se lesionaron los intereses económicos del Estado en una obra escolar. ¿Qué decisión tiene respaldo en el Artículo 231.6?
+A. Presentar una denuncia motivada ante el Tribunal Supremo Electoral, que fiscaliza la inversión de los recursos fiscales.
+B. Presentar una denuncia motivada ante el Consejo de la Magistratura, que controla la administración de las obras públicas.
+C. Presentar una denuncia motivada ante la Procuraduría, que atiende reclamos cuando se lesionan los intereses del Estado.
+D. Presentar una denuncia motivada ante el Tribunal Agroambiental, que resuelve los conflictos sobre bienes públicos rurales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 231.6 atribuye a la Procuraduría atender las denuncias y los reclamos motivados de ciudadanos y entidades que conforman el Control Social, en los casos en que se lesionen los intereses del Estado. El 242.8 reconoce al control social la facultad de denunciar ante las instituciones correspondientes.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. III, Sección I: Procuraduría General del Estado. Art. 231.6 (pág. PDF 60) y Art. 242.8 (pág. PDF 63). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. II, Sección I: Defensoría del Pueblo] Una organización de control social desea conocer la situación de los derechos de la niñez en el país antes del informe anual de la Defensoría. ¿Qué decisión tiene respaldo en el Artículo 224?
+A. Esperar el informe anual, pues la Defensoría solo informa una vez al año y únicamente a la Asamblea Legislativa.
+B. Convocar a la Defensora o al Defensor del Pueblo para que rinda informe, lo que puede hacer en cualquier momento.
+C. Solicitar el informe al Tribunal Constitucional, que supervisa la gestión de la Defensoría del Pueblo en el país.
+D. Convocar a la Defensoría solo con autorización previa de la Asamblea, que es la única que puede requerir informes.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 224 dispone que cada año la Defensora o el Defensor del Pueblo informará a la Asamblea Legislativa Plurinacional y al Control Social sobre la situación de los derechos humanos, y que podrá ser convocado en cualquier momento por la Asamblea o el Control Social para rendir informe.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. II, Sección I: Defensoría del Pueblo. Art. 224; pág. PDF: 58. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Constitución Política del Estado – SEGUNDA PARTE – Título I, Cap. II: Procedimiento legislativo] Un grupo de ciudadanos elabora un proyecto de ley sobre educación comunitaria y lo presenta en ejercicio de la iniciativa legislativa ciudadana. ¿A qué Cámara debe enviarse, según el Artículo 163.2?
+A. A la Cámara de Diputados, que lo remite a la comisión o comisiones correspondientes.
+B. A la Cámara de Senadores, que lo remite al Órgano Ejecutivo para su informe técnico.
+C. Al Pleno de la Asamblea, que decide en una sola sesión sobre su admisión y aprobación.
+D. A la Comisión de Asamblea, que lo trata solo durante los recesos legislativos del año.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 163.2 dispone que el proyecto de ley presentado por otra iniciativa distinta a la de asambleístas será enviado a la Cámara de Diputados, que lo remitirá a la comisión o las comisiones. El Artículo 162.I.1 reconoce la iniciativa legislativa de las ciudadanas y los ciudadanos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título I, Cap. II: Procedimiento legislativo. Art. 162.I.1 y Art. 163.2 (pág. PDF 42). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Constitución Política del Estado – SEGUNDA PARTE – Título IV, Cap. I: Órgano Electoral Plurinacional] Una estudiante no cuenta con certificado de nacimiento y su familia consulta qué institución administra el Registro Civil. ¿Qué orientación se ajusta al Artículo 208.III?
+A. Acudir al Registro Civil organizado y administrado por el Ministerio de Educación.
+B. Acudir al Registro Civil organizado y administrado por el Tribunal Supremo Electoral.
+C. Acudir al Registro Civil organizado y administrado por el gobierno municipal del lugar.
+D. Acudir al Registro Civil organizado y administrado por el Consejo de la Magistratura.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 208.III dispone que es función del Tribunal Supremo Electoral organizar y administrar el Registro Civil y el Padrón Electoral.
+Sustento: Constitución Política del Estado, Segunda Parte. Título IV, Cap. I: Órgano Electoral Plurinacional. Art. 208, parágrafo III; pág. PDF: 55. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Un superior ordena a un servidor usar el vehículo de una entidad educativa para trasladar material de propaganda de un partido. ¿Qué decisión corresponde al servidor?
+A. Cumplir la orden, pues la responsabilidad por el uso del vehículo recae únicamente en la autoridad superior.
+B. Negarse, pues los bienes del Estado no pueden utilizarse para fines electorales ni ajenos a la función pública.
+C. Cumplir la orden solo fuera de la jornada laboral, para no afectar el servicio educativo de la entidad pública.
+D. Negarse solo si el partido no está inscrito ante el Órgano Electoral, pues en otro caso el uso es legítimo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 235.5 obliga a respetar y proteger los bienes del Estado y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública; el 235.1 obliga a cumplir la Constitución y las leyes.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 235, numerales 1 y 5; pág. PDF: 61. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Constitución Política del Estado – SEGUNDA PARTE – Título III, Cap. VI: Tribunal Constitucional Plurinacional] Una dirección departamental de educación desea que el Tribunal Constitucional se pronuncie sobre la constitucionalidad de un proyecto de ley educativa. ¿Qué decisión es correcta según el Artículo 202.7?
+A. Presentar la consulta directamente, pues toda entidad pública puede consultar sobre proyectos de ley de su sector.
+B. Presentar la consulta mediante la Defensoría del Pueblo, que puede consultar sobre todo proyecto de ley.
+C. Reconocer que solo pueden consultar el Presidente, la Asamblea, el Tribunal Supremo o el Tribunal Agroambiental.
+D. Reconocer que solo puede consultar el Consejo de la Magistratura, por ser el órgano de gestión del Judicial.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 202.7 atribuye al TCP conocer y resolver las consultas de la Presidenta o del Presidente, de la Asamblea Legislativa Plurinacional, del Tribunal Supremo de Justicia o del Tribunal Agroambiental sobre la constitucionalidad de proyectos de ley; su decisión es de cumplimiento obligatorio.
+Sustento: Constitución Política del Estado, Segunda Parte. Título III, Cap. VI: Tribunal Constitucional Plurinacional. Art. 202, numeral 7; pág. PDF: 54. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Padres de familia de un municipio quieren promover un referendo revocatorio contra una autoridad electa que ya cumplió la mitad de su mandato. ¿Qué decisión se ajusta al Artículo 240.III?
+A. Reunir la solicitud de al menos el cinco por ciento de los ciudadanos inscritos en el padrón electoral nacional.
+B. Reunir la solicitud de al menos el quince por ciento de votantes del padrón de la circunscripción que la eligió.
+C. Presentar la solicitud ante el Concejo Municipal, que decide la revocatoria por dos tercios de sus miembros.
+D. Reunir la solicitud de al menos el treinta y cinco por ciento de los votantes de la circunscripción afectada.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 240.III dispone que el referendo revocatorio procederá por iniciativa ciudadana, a solicitud de al menos el quince por ciento de votantes del padrón electoral de la circunscripción que eligió a la servidora o al servidor público; el 240.II exige que haya transcurrido al menos la mitad del mandato.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 240, parágrafos II y III; pág. PDF: 62. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Constitución Política del Estado – SEGUNDA PARTE – Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado] Al conformar el equipo de conducción de una institución educativa, una autoridad toma como referencia el criterio constitucional para el gabinete ministerial. ¿Qué criterios exige el Artículo 172.22 en su composición?
+A. El respeto a la afinidad política y a la antigüedad en la carrera administrativa del gabinete.
+B. El respeto a la representación departamental y a la formación académica de posgrado del gabinete.
+C. El respeto al carácter plurinacional y a la equidad de género en la composición del gabinete.
+D. El respeto a la mayoría parlamentaria y a la paridad entre Diputados y Senadores en el gabinete.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 172.22 atribuye a la Presidenta o al Presidente del Estado designar a las Ministras y los Ministros respetando el carácter plurinacional y la equidad de género en la composición del gabinete ministerial. La Constitución no fija criterios específicos para equipos directivos educativos; la pregunta evalúa el criterio constitucional de referencia.
+Sustento: Constitución Política del Estado, Segunda Parte. Título II, Cap. I, Sección II: Presidencia y Vicepresidencia del Estado. Art. 172, numeral 22; pág. PDF: 46. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Para fortalecer la transparencia de una entidad educativa estatal, ¿qué estrategia articula mejor las previsiones del Artículo 242?
+A. Restringir la información a los informes anuales y limitar el control social a la verificación de la asistencia del personal de la entidad.
+B. Garantizar el manejo transparente de la información y permitir que el control social conozca y se pronuncie sobre los informes de gestión.
+C. Garantizar el manejo transparente de la información solo ante la Contraloría, excluyendo al control social de los informes de gestión.
+D. Delegar al control social la aprobación de los informes de gestión, sustituyendo la responsabilidad de la autoridad sobre los recursos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 242 establece que la participación y el control social implican generar un manejo transparente de la información y del uso de los recursos en todos los espacios de la gestión pública (num. 4) y conocer y pronunciarse sobre los informes de gestión de los órganos y funciones del Estado (num. 6).
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 242, numerales 4 y 6; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. IV: Servidoras públicas y servidores públicos] Para prevenir responsabilidades ante el control gubernamental, ¿qué estrategia integra correctamente las obligaciones constitucionales del servidor público?
+A. Rendir cuentas solo ante su superior jerárquico, considerando que la Contraloría realiza únicamente un control previo de los actos administrativos.
+B. Presentar su declaración jurada al concluir el cargo, considerando que la Contraloría solo controla a entidades del nivel central.
+C. Delegar la rendición de cuentas al control social, considerando que la Contraloría no puede determinar indicios de responsabilidad.
+D. Rendir cuentas de sus responsabilidades y presentar su declaración jurada, considerando el control externo posterior de la Contraloría.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 235.3-4 obliga a prestar declaración jurada de bienes y rentas antes, durante y después del cargo y a rendir cuentas de las responsabilidades económicas, políticas, técnicas y administrativas. El Artículo 217.I asigna a la Contraloría el control externo posterior de las entidades públicas, y el 213.I la faculta para determinar indicios de responsabilidad.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. IV: Servidoras públicas y servidores públicos. Art. 235.3-4 (pág. PDF 61), Art. 213.I (pág. PDF 56) y Art. 217.I (pág. PDF 57). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Al conformar instancias de participación y control social en el ámbito educativo departamental, ¿qué orientación estratégica respeta el Artículo 241.V?
+A. Definir desde la autoridad la estructura y composición del control social, designando a sus integrantes por resolución.
+B. Reconocer que el Tribunal Supremo Electoral define la estructura y composición de las instancias de control social.
+C. Reconocer que la sociedad civil se organiza para definir la estructura y composición de la participación y control social.
+D. Definir la composición del control social mediante convenio con el sindicato docente, excluyendo a otras organizaciones.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 241.V dispone que la sociedad civil se organizará para definir la estructura y composición de la participación y control social; el 241.VI obliga a las entidades del Estado a generar espacios de participación y control social.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241, parágrafos V y VI; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. II: Fronteras del Estado] Al proyectar servicios educativos en municipios fronterizos, ¿qué orientación estratégica es coherente con el Artículo 264.I?
+A. Alinear la gestión con la política de control militar fronterizo, que prioriza la presencia armada sobre las condiciones de vida de la población.
+B. Alinear la gestión con la política permanente de desarrollo fronterizo, que busca mejorar las condiciones de vida, en especial de las NPIOC fronterizas.
+C. Alinear la gestión con la política transitoria de desarrollo fronterizo, que busca atraer inversión extranjera con propiedad en la franja de frontera nacional.
+D. Alinear la gestión con la política permanente de desarrollo fronterizo, que excluye a las NPIOC por su régimen territorial propio y autónomo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 264.I dispone que el Estado establecerá una política permanente de desarrollo armónico, integral, sostenible y estratégico de las fronteras, con la finalidad de mejorar las condiciones de vida de su población y, en especial, de las naciones y pueblos indígena originario campesinos fronterizos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. II: Fronteras del Estado. Art. 264, parágrafo I; pág. PDF: 67. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. III: Integración] Una institución educativa diseña un programa de intercambio cultural de comunidades indígenas con pueblos indígenas de otros países. ¿Qué disposición respalda esa orientación estratégica?
+A. El Artículo 265.II, que manda fortalecer la integración de las NPIOC con los pueblos indígenas del mundo.
+B. El Artículo 255.II, que limita las relaciones internacionales a la integración económica estructural.
+C. El Artículo 257.II, que exige referendo previo para todo programa de cooperación con otros pueblos.
+D. El Artículo 265.I, que restringe la integración de las NPIOC al ámbito latinoamericano de manera exclusiva.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 265.II dispone que el Estado fortalecerá la integración de sus naciones y pueblos indígena originario campesinos con los pueblos indígenas del mundo; el 265.I promueve la integración con los demás estados y, en particular, la latinoamericana.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. III: Integración. Art. 265, parágrafos I y II; pág. PDF: 68. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Constitución Política del Estado – SEGUNDA PARTE – Título V, Cap. I, Sección I: Contraloría General del Estado] Para alinear la gestión de una entidad educativa estatal con los criterios del control gubernamental, ¿en qué principios deben fundarse, según el Artículo 213.II, la organización, el funcionamiento y las atribuciones de la Contraloría?
+A. Legalidad, reserva, eficacia, rentabilidad, economía, jerarquía, oportunidad y discrecionalidad.
+B. Legalidad, transparencia, eficacia, eficiencia, economía, equidad, oportunidad y objetividad.
+C. Legitimidad, confidencialidad, eficacia, eficiencia, lealtad, equidad, celeridad y obediencia.
+D. Legalidad, transparencia, gratuidad, pluralismo jurídico, celeridad, interculturalidad y probidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 213.II dispone que la organización, funcionamiento y atribuciones de la Contraloría deben estar fundados en los principios de legalidad, transparencia, eficacia, eficiencia, economía, equidad, oportunidad y objetividad, y se determinarán por la ley.
+Sustento: Constitución Política del Estado, Segunda Parte. Título V, Cap. I, Sección I: Contraloría General del Estado. Art. 213, parágrafo II; pág. PDF: 56. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Para evaluar la calidad del servicio educativo de una entidad estatal, ¿qué estrategia incorpora correctamente el Artículo 241.III?
+A. Excluir al control social de la calidad, por ser una materia técnica reservada a la autoridad educativa.
+B. Integrar el control social solo sobre la ejecución presupuestaria, dejando fuera la calidad del servicio.
+C. Integrar el control social de la sociedad civil organizada sobre la calidad de los servicios públicos.
+D. Sustituir la evaluación institucional por el control social, que asume la conducción de la entidad pública.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 241.III dispone que la sociedad civil organizada ejercerá control social a la calidad de los servicios públicos.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241, parágrafo III; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Constitución Política del Estado – SEGUNDA PARTE – Título VIII, Cap. I: Relaciones internacionales] Al diseñar una política institucional de inclusión, ¿qué criterio de interpretación de derechos establece el Artículo 256?
+A. Aplicar los tratados de derechos humanos solo cuando no contradigan ninguna ley vigente del ordenamiento jurídico interno.
+B. Aplicar de manera preferente la Constitución, aunque un tratado de derechos humanos declare derechos más favorables.
+C. Aplicar de manera preferente los tratados de derechos humanos que declaren derechos más favorables que la Constitución.
+D. Aplicar los tratados de derechos humanos solo si fueron aprobados mediante referendo popular vinculante previo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 256.I dispone que los tratados e instrumentos internacionales de derechos humanos que declaren derechos más favorables a los contenidos en la Constitución se aplicarán de manera preferente sobre ésta; el 256.II ordena interpretar los derechos de acuerdo con esos tratados cuando prevean normas más favorables.
+Sustento: Constitución Política del Estado, Segunda Parte. Título VIII, Cap. I: Relaciones internacionales. Art. 256, parágrafos I y II; pág. PDF: 66. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Constitución Política del Estado – SEGUNDA PARTE – Título VI: Participación y control social] Al formular una política educativa departamental, ¿qué estrategia de participación es coherente con los Artículos 241 y 242?
+A. Formular la política solo con equipos técnicos y presentar a la sociedad civil el resultado final para su conocimiento.
+B. Incorporar a la sociedad civil organizada solo en la ejecución, reservando el diseño y el control a la autoridad pública competente.
+C. Delegar a la sociedad civil organizada la aprobación definitiva de la política, sin intervención de la autoridad pública.
+D. Incorporar a la sociedad civil organizada en el diseño de las políticas y coordinar con ella la planificación y el control.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 241.I dispone que el pueblo soberano, por medio de la sociedad civil organizada, participará en el diseño de las políticas públicas; el Artículo 242 incluye participar en la formulación de las políticas de Estado (num. 1) y coordinar la planificación y control con los órganos y funciones del Estado (num. 7).
+Sustento: Constitución Política del Estado, Segunda Parte. Título VI: Participación y control social. Art. 241.I y Art. 242, numerales 1 y 7; pág. PDF: 63. Página impresa: s/n (el documento no tiene numeración impresa).

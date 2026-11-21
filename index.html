@@ -1,2490 +1,382 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Proyectos Tecnológicos | Japón B</title>
-
-<style>
-:root {
-  --azul:#075f99;
-  --oscuro:#06375c;
-  --verde:#168363;
-  --rojo:#ff6257;
-  --amarillo:#ffb526;
-}
-
-* {margin:0;padding:0;box-sizing:border-box}
-
-html {
-  -webkit-text-size-adjust:100%;
-  text-size-adjust:100%;
-}
-
-body {
-  font-family:"Segoe UI",Arial,sans-serif;
-  background:linear-gradient(180deg,#06375c,#07568a);
-  min-height:100vh;
-  min-height:100dvh;
-  padding:25px 15px;
-  color:#263548;
-}
-
-img {max-width:100%}
-
-/* Evita que nombres o enlaces largos desborden la pantalla */
-
-h1, h2, h3, h4, p, small, .equipo {overflow-wrap:anywhere}
-
-.container {
-  width:min(1050px,100%);
-  margin:auto;
-  background:white;
-  border-radius:17px;
-  overflow:hidden;
-  box-shadow:0 15px 45px #001a3545;
-}
-
-/* ENCABEZADO */
-
-.encabezado {
-  background:var(--azul);
-  color:white;
-  padding:25px 28px;
-  position:relative;
-  overflow:hidden;
-}
-
-.encabezado:after {
-  content:"";
-  position:absolute;
-  width:100px;height:100px;
-  border-radius:50%;
-  background:var(--amarillo);
-  right:10%;bottom:-75px;
-}
-
-.encabezado-contenido {
-  display:flex;
-  align-items:center;
-  gap:20px;
-  position:relative;
-  z-index:1;
-}
-
-.encabezado-contenido > div {min-width:0}
-
-.logo-bth {
-  width:105px;height:115px;
-  object-fit:contain;
-  background:white;
-  padding:5px;
-  border-radius:12px;
-  flex-shrink:0;
-}
-
-.etiqueta {
-  display:inline-block;
-  background:#064675;
-  padding:6px 12px;
-  border-radius:20px;
-  font-size:11px;
-  font-weight:bold;
-  margin-bottom:10px;
-}
-
-.encabezado h1 {
-  font-size:clamp(23px,4vw,34px);
-  margin-bottom:8px;
-}
-
-.encabezado p {
-  color:#e3f2fd;
-  font-size:14px;
-}
-
-/* MENU */
-
-nav {
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  flex-wrap:wrap;
-  gap:9px;
-  background:white;
-  padding:14px;
-  border-bottom:1px solid #e5eaf0;
-}
-
-button {
-  border:0;
-  padding:11px 16px;
-  border-radius:7px;
-  cursor:pointer;
-  font-size:13px;
-  font-weight:600;
-  transition:.2s;
-}
-
-button:hover {filter:brightness(.94)}
-
-.nav-btn {
-  background:#edf2f7;
-  color:#16456d;
-}
-
-.nav-btn.active {
-  background:var(--azul);
-  color:white;
-}
-
-.cerrar {
-  background:#fee2e2;
-  color:#b91c1c;
-}
-
-.oculto {display:none!important}
-
-/* CONTENIDO */
-
-.contenido {
-  background:#f8fafc;
-  padding:25px 28px;
-  min-height:400px;
-}
-
-.titulo-seccion {
-  color:#084775;
-  font-size:21px;
-  margin-bottom:20px;
-}
-
-.subtitulo {
-  color:#64748b;
-  font-size:13px;
-  margin-top:-12px;
-  margin-bottom:20px;
-}
-
-/* TARJETAS */
-
-/* Columnas automáticas: 1 en celular, 2 en tablet, 3 en pantallas grandes */
-
-.proyectos {
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr));
-  gap:14px;
-}
-
-.card {
-  background:white;
-  padding:19px;
-  border-radius:14px;
-  border:1px solid #dce5ee;
-  border-top:4px solid #0878bd;
-  box-shadow:0 2px 5px #0f172a12;
-  transition:.2s;
-  min-width:0;
-}
-
-.card:nth-child(4n+1){border-top-color:var(--rojo)}
-.card:nth-child(4n+2){border-top-color:var(--amarillo)}
-.card:nth-child(4n+3){border-top-color:#0878bd}
-.card:nth-child(4n){border-top-color:var(--verde)}
-
-.card:hover {
-  transform:translateY(-3px);
-  box-shadow:0 8px 18px #0f172a18;
-}
-
-.card-cabecera {
-  display:flex;
-  align-items:center;
-  gap:12px;
-  margin-bottom:12px;
-}
-
-.icono-proyecto {
-  width:42px;height:42px;
-  border-radius:50%;
-  background:#074777;
-  color:#ffbd32;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  font-size:21px;
-  flex-shrink:0;
-}
-
-.numero {
-  font-size:10px;
-  color:#0878bd;
-  font-weight:bold;
-  margin-bottom:4px;
-}
-
-.card h3 {
-  color:#084775;
-  font-size:16px;
-  line-height:1.3;
-}
-
-.card p {
-  color:#69776f;
-  font-size:12px;
-  line-height:1.6;
-  min-height:38px;
-  margin-bottom:12px;
-}
-
-.botones {
-  display:flex;
-  flex-wrap:wrap;
-  gap:9px;
-}
-
-.btn {
-  flex:1;
-  min-width:115px;
-  text-align:center;
-  color:white;
-  padding:11px 8px;
-  border-radius:7px;
-  font-size:12px;
-  font-weight:600;
-  cursor:pointer;
-  border:0;
-  text-decoration:none;
-}
-
-.presentacion {background:#0878bd}
-.simulacion {background:#168363}
-
-.sin-enlace {
-  color:#94a3b8;
-  font-size:11px;
-  margin-top:8px;
-}
-
-/* ADMINISTRACION */
-
-.admin-bloque {
-  background:white;
-  padding:22px;
-  border:1px solid #e1e8ef;
-  border-radius:12px;
-  margin-bottom:20px;
-}
-
-.admin-bloque h3 {
-  color:#084775;
-  font-size:17px;
-  margin-bottom:15px;
-}
-
-.form-grid {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:14px;
-}
-
-.campo {
-  display:flex;
-  flex-direction:column;
-  gap:7px;
-}
-
-.campo.completo {grid-column:1/-1}
-
-label {
-  font-size:12px;
-  font-weight:600;
-  color:#334155;
-}
-
-input, textarea {
-  width:100%;
-  padding:12px;
-  border:1px solid #cbd5e1;
-  border-radius:7px;
-  font:inherit;
-  font-size:13px;
-  outline:none;
-}
-
-textarea {resize:vertical;min-height:90px}
-
-input:focus, textarea:focus {
-  border-color:#0878bd;
-  box-shadow:0 0 0 2px #0878bd20;
-}
-
-.form-actions {
-  display:flex;
-  gap:9px;
-  flex-wrap:wrap;
-  margin-top:17px;
-}
-
-.nuevo {background:#168363;color:white}
-.secundario {background:#e8eef5;color:#23415e}
-
-.admin-list {
-  display:flex;
-  flex-direction:column;
-  gap:10px;
-}
-
-.admin-item {
-  background:white;
-  border:1px solid #dce5ee;
-  border-radius:9px;
-  padding:15px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:12px;
-  flex-wrap:wrap;
-}
-
-.admin-item > div:first-child {flex:1;min-width:0}
-
-.admin-item h4 {
-  color:#084775;
-  font-size:14px;
-  margin-bottom:5px;
-}
-
-.admin-item small {color:#64748b}
-
-.admin-actions {display:flex;gap:7px}
-
-.editar {background:#e0f2fe;color:#075985}
-.eliminar {background:#fee2e2;color:#b91c1c}
-
-.estado {
-  font-size:12px;
-  color:#64748b;
-  margin-top:12px;
-}
-
-.exito {color:#168363}
-.error {color:#dc2626}
-
-.vacio {
-  text-align:center;
-  padding:30px;
-  background:white;
-  border:1px solid #e1e8ef;
-  border-radius:10px;
-  color:#64748b;
-}
-
-/* VISOR DE PRESENTACION */
-
-#visorPresentacion {
-  position:fixed;
-  inset:0;
-  width:100%;
-  height:100%;
-  background:#000;
-  z-index:9999;
-  display:none;
-}
-
-#visorPresentacion.activo {display:block}
-
-#framePresentacion {
-  position:absolute;
-  inset:0;
-  width:100%;
-  height:100%;
-  border:0;
-  display:block;
-  background:#000;
-}
-
-#cerrarPresentacion {
-  position:absolute;
-  top:15px;
-  right:20px;
-  z-index:10003;
-  background:#e53935;
-  color:white;
-  border-radius:50%;
-  width:46px;
-  height:46px;
-  font-size:20px;
-  padding:0;
-  opacity:.75;
-}
-
-#cerrarPresentacion:hover {opacity:1}
-
-/* CRONOMETRO */
-
-#cronometroPresentacion {
-  position:absolute;
-  bottom:20px;
-  left:20px;
-  z-index:10002;
-  background:rgba(8,30,48,.92);
-  color:white;
-  padding:12px 18px;
-  border-radius:10px;
-  border:1px solid #ffffff35;
-  box-shadow:0 4px 15px #0005;
-  display:none;
-  pointer-events:none;
-  backdrop-filter:blur(8px);
-  min-width:155px;
-}
-
-#cronometroPresentacion.visible {display:block}
-
-#cronometroPresentacion {transition:background .4s}
-
-#cronometroPresentacion.verde   {background:rgba(22,131,99,.94)}
-#cronometroPresentacion.naranja {background:rgba(234,120,12,.94)}
-#cronometroPresentacion.rojo    {background:rgba(220,38,38,.94)}
-#cronometroPresentacion.gris    {background:rgba(55,65,81,.96)}
-
-#cronometroPresentacion .cronometro-label {color:#ffffffd9}
-
-.cronometro-label {
-  font-size:10px;
-  color:#cbd5e1;
-  margin-bottom:4px;
-  letter-spacing:1px;
-}
-
-#cronometroTiempo {
-  font-size:25px;
-  font-weight:700;
-  font-family:monospace;
-  color:#fff;
-  letter-spacing:2px;
-  font-variant-numeric:tabular-nums;
-}
-
-/* MODAL */
-
-/* El modal se centra con margin:auto para que, si no cabe
-   (celular horizontal), se pueda desplazar sin cortarse. */
-
-.modal-fondo {
-  position:fixed;
-  inset:0;
-  background:#031a30c9;
-  display:flex;
-  padding:18px;
-  overflow-y:auto;
-  z-index:1000;
-}
-
-.modal {
-  margin:auto;
-  width:100%;
-  max-width:390px;
-  background:white;
-  padding:30px;
-  border-radius:15px;
-  text-align:center;
-  box-shadow:0 15px 50px #0005;
-}
-
-.modal-icono {font-size:40px;margin-bottom:12px}
-
-.modal h2 {
-  color:#084775;
-  font-size:21px;
-  margin-bottom:8px;
-}
-
-.modal p {
-  color:#64748b;
-  font-size:13px;
-  margin-bottom:18px;
-}
-
-.modal input {
-  text-align:center;
-  font-size:18px;
-  letter-spacing:4px;
-}
-
-.modal-botones {
-  display:flex;
-  gap:10px;
-  margin-top:16px;
-}
-
-.modal-botones button {flex:1}
-
-/* REGISTRO DE EQUIPOS */
-
-.barra-registro {
-  display:flex;
-  justify-content:flex-end;
-  margin:-8px 0 18px;
-}
-
-.modal.modal-registro {
-  max-width:620px;
-  text-align:left;
-}
-
-.modal-registro .modal-icono,
-.modal-registro h2,
-.modal-registro > p {text-align:center}
-
-.modal-registro input {
-  text-align:left;
-  font-size:13px;
-  letter-spacing:normal;
-}
-
-.modal-registro .estado {margin-top:12px}
-
-.equipo {
-  color:#16456d;
-  font-size:12px;
-  font-weight:600;
-  margin:-4px 0 6px;
-}
-
-
-/* PIE */
-
-footer {
-  background:#06375c;
-  color:white;
-  text-align:center;
-  padding:20px;
-  font-size:12px;
-  line-height:1.8;
-}
-
-/* RESPONSIVE */
-
-/* Pantallas grandes (monitores y proyectores) */
-
-@media(min-width:1500px) {
-  .container {width:min(1280px,100%)}
-
-  .encabezado,
-  .contenido {padding-left:40px;padding-right:40px}
-}
-
-/* Tablets */
-
-@media(max-width:900px) {
-  body {padding:18px 12px}
-
-  .encabezado {padding:22px 22px}
-
-  .contenido {padding:22px 20px}
-}
-
-/* Celulares */
-
-@media(max-width:650px) {
-  body {padding:10px}
-
-  .container {border-radius:13px}
-
-  .encabezado {padding:22px 15px}
-
-  .encabezado-contenido {
-    flex-direction:column;
-    text-align:center;
-    gap:14px;
-  }
-
-  .logo-bth {width:82px;height:90px}
-
-  nav {padding:12px 10px}
-
-  .nav-btn {flex:1 1 auto}
-
-  .contenido {padding:18px 14px}
-
-  .titulo-seccion {font-size:19px}
-
-  .barra-registro {margin:-6px 0 16px}
-
-  .barra-registro button {width:100%}
-
-  .form-grid {grid-template-columns:1fr}
-
-  .campo.completo {grid-column:auto}
-
-  /* 16px evita que el celular haga zoom al escribir */
-
-  input, textarea,
-  .modal-registro input {font-size:16px}
-
-  .form-actions button {flex:1 1 auto}
-
-  .admin-bloque {padding:16px}
-
-  .admin-item {align-items:flex-start}
-
-  .admin-actions {width:100%}
-
-  .admin-actions button {flex:1}
-
-  .modal-fondo {padding:10px}
-
-  .modal {padding:24px 18px}
-
-  #cerrarPresentacion {
-    top:10px;
-    right:10px;
-    width:40px;
-    height:40px;
-    font-size:17px;
-  }
-
-  #cronometroPresentacion {
-    bottom:12px;
-    left:12px;
-    padding:9px 13px;
-    min-width:0;
-  }
-
-  #cronometroTiempo {font-size:20px}
-
-  footer {padding:16px 12px;font-size:11px}
-}
-
-/* Celulares pequeños */
-
-@media(max-width:340px) {
-  body {padding:6px}
-
-  .etiqueta {font-size:10px}
-
-  .nav-btn {width:100%}
-
-  .card {padding:15px}
-
-  .modal-botones {flex-direction:column}
-}
-
-/* Celular en horizontal o pantallas de poca altura */
-
-@media(max-height:500px) and (orientation:landscape) {
-  .modal {padding:18px 20px}
-
-  .modal-icono {display:none}
-
-  #cronometroPresentacion {
-    bottom:8px;
-    left:8px;
-    padding:6px 10px;
-  }
-
-  #cronometroTiempo {font-size:17px}
-}
-
-/* Pantallas táctiles: sin efecto de elevación al tocar */
-
-@media(hover:none) {
-  .card:hover {
-    transform:none;
-    box-shadow:0 2px 5px #0f172a12;
-  }
-}
-</style>
-</head>
-
-<body>
-
-<div class="container">
-
-<header class="encabezado">
-  <div class="encabezado-contenido">
-
-    <img src="logo_bth_RM.png"
-         class="logo-bth"
-         alt="Logotipo BTH">
-
-    <div>
-      <span class="etiqueta">🏆 Perfiles de proyecto</span>
-
-      <h1>Nuestros proyectos tecnológicos</h1>
-
-      <p>
-        UNIDAD EDUCATIVA TÉCNICO HUMANÍSTICO «JAPÓN B»
-      </p>
-    </div>
-
-  </div>
-</header>
-
-<nav>
-
-  <button class="nav-btn active"
-    id="navPublico"
-    onclick="mostrarVista('publico')">
-    ◫ Proyectos
-  </button>
-
-  <button class="nav-btn"
-    id="navAdmin"
-    onclick="mostrarVista('admin')">
-    ⚙ Administración
-  </button>
-
-  <button class="nav-btn cerrar oculto"
-    id="navCerrar"
-    onclick="cerrarSesion()">
-    🔒 Cerrar sesión
-  </button>
-
-</nav>
-
-<main class="contenido">
-
-  <!-- VISTA PUBLICA -->
-
-  <section id="vistaPublica">
-
-    <h2 class="titulo-seccion">Nuestros proyectos</h2>
-
-    <p class="subtitulo">
-      Conoce las propuestas de innovación tecnológica
-      desarrolladas por nuestros estudiantes.
-    </p>
-
-    <div class="barra-registro">
-      <button type="button" class="nuevo"
-        onclick="abrirRegistro()">
-        + Registrar nuevo proyecto
-      </button>
-    </div>
-
-    <div class="proyectos" id="listaPublica"></div>
-
-  </section>
-
-  <!-- VISTA ADMINISTRATIVA -->
-
-  <section id="vistaAdmin" class="oculto">
-
-    <h2 class="titulo-seccion">
-      Administración de proyectos
-    </h2>
-
-    <p class="subtitulo">
-      Gestiona, actualiza y administra los proyectos tecnológicos.
-    </p>
-
-    <!-- REGISTRAR PROYECTOS -->
-
-    <div class="admin-bloque">
-
-      <h3 id="tituloFormulario">
-        + Registrar nuevo proyecto
-      </h3>
-
-      <form id="formProyecto">
-
-        <input type="hidden" id="proyectoId">
-
-        <div class="form-grid">
-
-          <div class="campo">
-            <label>Nombre del proyecto *</label>
-            <input id="nombre" required maxlength="100"
-              placeholder="Ej. GUARDIÁN 360">
-          </div>
-
-          <div class="campo">
-            <label>Descripción *</label>
-            <input id="descripcion" required maxlength="200"
-              placeholder="Sistema de Seguridad">
-          </div>
-
-          <div class="campo completo">
-            <label>URL de presentación</label>
-            <input id="presentacion" type="url"
-              placeholder="https://docs.google.com/...">
-          </div>
-
-          <div class="campo completo">
-            <label>URL de simulación</label>
-            <input id="simulacion" type="url"
-              placeholder="https://wokwi.com/...">
-          </div>
-
-        </div>
-
-        <div class="form-actions">
-
-          <button type="submit" class="nuevo">
-            + Guardar proyecto
-          </button>
-
-          <button type="button" class="secundario"
-            onclick="limpiarFormulario()">
-            Cancelar
-          </button>
-
-        </div>
-
-      </form>
-    </div>
-
-    <!-- LISTADO -->
-
-    <div class="admin-bloque">
-
-      <h3>📋 Proyectos registrados</h3>
-
-      <div class="admin-list" id="listaAdmin"></div>
-
-      <p class="estado" id="estado"></p>
-
-    </div>
-
-    <!-- JSON -->
-
-    <div class="admin-bloque">
-
-      <h3>📁 Respaldo de base de datos</h3>
-
-      <p class="estado">
-        Exporta tus proyectos para conservar una copia
-        o importa un archivo JSON.
-      </p>
-
-      <div class="form-actions">
-
-        <button class="nuevo" onclick="exportarJSON()">
-          ↓ Exportar JSON
-        </button>
-
-        <button class="secundario"
-          onclick="document.getElementById('archivoJSON').click()">
-          ↑ Importar JSON
-        </button>
-
-        <input type="file" id="archivoJSON"
-          accept=".json,application/json"
-          class="oculto">
-
-      </div>
-
-    </div>
-
-    <!-- CAMBIAR CONTRASEÑA -->
-
-    <div class="admin-bloque">
-
-      <h3>🔐 Seguridad y contraseña</h3>
-
-      <p class="estado">
-        Actualiza la contraseña de acceso al panel administrativo.
-      </p>
-
-      <form id="formCambiarClave">
-
-        <div class="form-grid">
-
-          <div class="campo completo">
-            <label>Contraseña actual *</label>
-            <input type="password" id="claveActual"
-              required autocomplete="current-password"
-              placeholder="Contraseña actual">
-          </div>
-
-          <div class="campo">
-            <label>Nueva contraseña *</label>
-            <input type="password" id="claveNueva"
-              required minlength="6" maxlength="100"
-              autocomplete="new-password"
-              placeholder="Nueva contraseña">
-          </div>
-
-          <div class="campo">
-            <label>Confirmar contraseña *</label>
-            <input type="password" id="claveConfirmar"
-              required minlength="6" maxlength="100"
-              autocomplete="new-password"
-              placeholder="Confirmar contraseña">
-          </div>
-
-        </div>
-
-        <div class="form-actions">
-
-          <button type="submit" class="nuevo">
-            🔒 Actualizar contraseña
-          </button>
-
-          <button type="reset" class="secundario">
-            Cancelar
-          </button>
-
-        </div>
-
-        <p id="mensajeClave" class="estado"
-          aria-live="polite"></p>
-
-      </form>
-
-    </div>
-
-  </section>
-
-</main>
-
-<footer>
-  INNOVACIÓN · TECNOLOGÍA · CREATIVIDAD
-  <br>
-  Unidad Educativa Técnico Humanístico «Japón B»
-  <br>
-  Bachillerato Técnico Humanístico – Sistemas Informáticos
-</footer>
-
-</div>
-
-
-<!-- VISOR DE PRESENTACIONES -->
-
-<div id="visorPresentacion">
-
-  <button id="cerrarPresentacion"
-    onclick="cerrarPresentacion()"
-    title="Cerrar presentación"
-    aria-label="Cerrar presentación">
-    ✕
-  </button>
-
-  <iframe
-    id="framePresentacion"
-    src="about:blank"
-    allowfullscreen>
-  </iframe>
-
-  <!-- CRONOMETRO INFERIOR IZQUIERDO -->
-
-  <div id="cronometroPresentacion"
-       aria-label="Tiempo restante de presentación">
-
-    <div class="cronometro-label" id="cronometroEtiqueta">
-      ⏱ TIEMPO RESTANTE
-    </div>
-
-    <div id="cronometroTiempo">
-      10:00
-    </div>
-
-  </div>
-
-</div>
-
-
-<!-- MODAL DE REGISTRO DE EQUIPOS -->
-
-<div class="modal-fondo oculto" id="modalRegistro">
-
-  <div class="modal modal-registro">
-
-    <div class="modal-icono">📝</div>
-
-    <h2>Registrar nuevo proyecto</h2>
-
-    <p>
-      Completa los datos de tu equipo.
-    </p>
-
-    <form id="formRegistro">
-
-      <div class="form-grid">
-
-        <div class="campo">
-          <label>Nombre del proyecto *</label>
-          <input id="regNombre" required maxlength="100"
-            placeholder="Ej. GUARDIÁN 360">
-        </div>
-
-        <div class="campo">
-          <label>Nombre del equipo *</label>
-          <input id="regEquipo" required maxlength="100"
-            placeholder="Ej. Los Innovadores">
-        </div>
-
-        <div class="campo completo">
-          <label>Descripción *</label>
-          <input id="regDescripcion" required maxlength="200"
-            placeholder="Sistema de Seguridad">
-        </div>
-
-        <div class="campo completo">
-          <label>URL de presentación</label>
-          <input id="regPresentacion" type="url"
-            placeholder="https://docs.google.com/...">
-        </div>
-
-        <div class="campo completo">
-          <label>URL de simulación</label>
-          <input id="regSimulacion" type="url"
-            placeholder="https://wokwi.com/...">
-        </div>
-
-      </div>
-
-      <p id="mensajeRegistro" class="estado error"
-        aria-live="polite"></p>
-
-      <div class="modal-botones">
-
-        <button type="submit" class="nuevo">
-          + Registrar proyecto
-        </button>
-
-        <button type="button" class="secundario"
-          onclick="cerrarRegistro()">
-          Cancelar
-        </button>
-
-      </div>
-
-    </form>
-
-  </div>
-
-</div>
-
-
-<!-- MODAL DE ACCESO -->
-
-<div class="modal-fondo oculto" id="modalAcceso">
-
-  <div class="modal">
-
-    <div class="modal-icono">🔐</div>
-
-    <h2>Acceso administrativo</h2>
-
-    <p>
-      Introduce tu contraseña para administrar
-      los proyectos tecnológicos.
-    </p>
-
-    <form id="formAcceso">
-
-      <input type="password"
-        id="claveAcceso"
-        placeholder="Contraseña"
-        autocomplete="off"
-        required>
-
-      <p id="mensajeError" class="error oculto">
-        Contraseña incorrecta.
-      </p>
-
-      <div class="modal-botones">
-
-        <button type="submit" class="nuevo">
-          Ingresar
-        </button>
-
-        <button type="button"
-          class="secundario"
-          onclick="cancelarAcceso()">
-          Cancelar
-        </button>
-
-      </div>
-
-    </form>
-
-  </div>
-
-</div>
-
-
-<!-- FIREBASE (base de datos compartida en línea) -->
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
-
-<script>
-
-// ========================================
-// 1. CONFIGURACION
-// ========================================
-
-// Configuración del proyecto de Firebase "defensa2026"
-// (Consola de Firebase → Configuración del proyecto → Tus apps → Web).
-// Si se reemplazan los valores por "PEGAR_AQUI", los datos se guardan
-// solo en este navegador.
-
-const FIREBASE_CONFIG = {
-  apiKey:"AIzaSyAl1csI8Wb8La0gWfns3dtw6-oacTwuocQ",
-  authDomain:"defensa2026-86e38.firebaseapp.com",
-  projectId:"defensa2026-86e38",
-  storageBucket:"defensa2026-86e38.firebasestorage.app",
-  messagingSenderId:"373006693787",
-  appId:"1:373006693787:web:abd3229e8410bb77b5dd3e"
-};
-
-const CLAVE_INICIAL = "71293946";
-const CLAVE_STORAGE_ADMIN = "clave_admin_japon_b";
-const CLAVE_STORAGE_DATOS = "proyectos_japon_b";
-
-let adminAutorizado = false;
-
-let CLAVE_ADMIN =
-  localStorage.getItem(CLAVE_STORAGE_ADMIN)
-  || CLAVE_INICIAL;
-
-
-// ========================================
-// 2. PROYECTOS INICIALES
-// ========================================
-
-const proyectosIniciales = [
-
-  {
-    id:1,
-    nombre:"GUARDIÁN 360",
-    descripcion:"Sistema de Seguridad",
-    presentacion:"",
-    simulacion:"",
-    icono:"🛡️"
-  },
-
-  {
-    id:2,
-    nombre:"GAS-SAFE",
-    descripcion:"Detector Inteligente de Fugas de Gas",
-    presentacion:"",
-    simulacion:"",
-    icono:"🔥"
-  },
-
-  {
-    id:3,
-    nombre:"AULA SMART",
-    descripcion:"Iluminación Inteligente",
-    presentacion:"",
-    simulacion:"",
-    icono:"💡"
-  },
-
-  {
-    id:4,
-    nombre:"ECOBIN",
-    descripcion:"Basurero Inteligente Automático",
-    presentacion:"",
-    simulacion:"",
-    icono:"♻️"
-  },
-
-  {
-    id:5,
-    nombre:"AQUA-PLANT",
-    descripcion:"Sistema de Riego Inteligente",
-    presentacion:"",
-    simulacion:"",
-    icono:"🌱"
-  }
-
-];
-
-
-// ========================================
-// 3. CARGAR DATOS
-// ========================================
-
-// Si hay configuración de Firebase, los proyectos se guardan en
-// Firestore (colección "proyectos") y se comparten en tiempo real
-// con todos los usuarios. Si no, se usan solo en este navegador.
-
-const usarFirebase =
-  typeof firebase !== "undefined" &&
-  !Object.values(FIREBASE_CONFIG).includes("PEGAR_AQUI");
-
-let db = null;
-
-if (usarFirebase) {
-  firebase.initializeApp(FIREBASE_CONFIG);
-  db = firebase.firestore();
-}
-
-function cargarDatos() {
-
-  // Con Firebase la lista llega desde escucharProyectos()
-
-  if (usarFirebase) return [];
-
-  try {
-
-    const datos = localStorage.getItem(CLAVE_STORAGE_DATOS);
-
-    if (datos === null) {
-      return proyectosIniciales.map(p => ({...p}));
-    }
-
-    const resultado = JSON.parse(datos);
-
-    if (!Array.isArray(resultado)) {
-      throw new Error("Datos inválidos");
-    }
-
-    return resultado;
-
-  } catch(error) {
-
-    alert("No se pudieron recuperar los proyectos.");
-
-    return proyectosIniciales.map(p => ({...p}));
-
-  }
-
-}
-
-let proyectos = cargarDatos();
-let datosCargados = !usarFirebase;
-
-
-// Escucha los cambios de Firestore: cada vez que alguien registra,
-// edita o elimina un proyecto, todas las pantallas se actualizan.
-
-function escucharProyectos() {
-
-  db.collection("proyectos")
-    .orderBy("id")
-    .onSnapshot(snapshot => {
-
-      proyectos = snapshot.docs.map(doc => doc.data());
-      datosCargados = true;
-
-      if (snapshot.empty && !snapshot.metadata.fromCache) {
-        cargarProyectosIniciales();
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0d56c9">
+  <title>Plataforma de Aprendizaje – Cargos Directivos</title>
+  <meta name="description" content="Preparación para el examen de cargos directivos del Sistema Educativo Plurinacional: normativa general, normativa específica y técnico pedagógico.">
+  <link rel="icon" href="assets/icono.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>
+    // Aplica el tema antes de pintar: el guardado o, si no hay, el del sistema.
+    (function () {
+      var saved = null;
+      try { saved = JSON.parse(localStorage.getItem("stp.tema")); } catch (e) {}
+      if (saved !== "dark" && saved !== "light") {
+        saved = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
       }
-
-      renderizar();
-
-    }, error => {
-
-      console.error(error);
-
-      datosCargados = true;
-
-      document.getElementById("listaPublica").innerHTML = `
-        <div class="vacio error">
-          No se pudo conectar con la base de datos.
-          Revise su conexión a internet.
+      document.documentElement.dataset.theme = saved;
+    })();
+  </script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-header-inner">
+      <button type="button" class="header-back" id="headerBack" aria-label="Volver" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+      </button>
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">
+          <svg viewBox="0 0 48 48"><path class="cap" d="M24 6 4 15l20 9 20-9-20-9Z"/><path d="M12 19v8c0 3 5.4 6 12 6s12-3 12-6v-8"/><path d="M42 16v10"/><rect class="sheet" x="15" y="30" width="18" height="13" rx="2"/><path d="M19 35h10M19 39h6"/></svg>
+        </span>
+        <div class="brand-text">
+          <h1 id="headerTitle">Plataforma de Aprendizaje</h1>
+          <p id="headerSubtitle">Cargos directivos · SEP 2026–2029</p>
         </div>
-      `;
-
-    });
-
-}
-
-
-// La primera vez (base de datos vacía) se suben los proyectos
-// iniciales. La marca "config/inicial" evita volver a subirlos
-// si luego el administrador los elimina.
-
-async function cargarProyectosIniciales() {
-
-  try {
-
-    const marca = db.collection("config").doc("inicial");
-
-    await db.runTransaction(async t => {
-
-      if ((await t.get(marca)).exists) return;
-
-      proyectosIniciales.forEach(p => {
-        t.set(db.collection("proyectos").doc(String(p.id)), p);
-      });
-
-      t.set(marca, {fecha:firebase.firestore.FieldValue.serverTimestamp()});
-
-    });
-
-  } catch(error) {
-
-    console.error(error);
-
-  }
-
-}
-
-
-// ========================================
-// 4. GUARDAR DATOS
-// ========================================
-
-function guardarLocal() {
-
-  try {
-
-    localStorage.setItem(
-      CLAVE_STORAGE_DATOS,
-      JSON.stringify(proyectos)
-    );
-
-    return true;
-
-  } catch(error) {
-
-    alert("Error al guardar los datos.");
-
-    return false;
-
-  }
-
-}
-
-
-// Crea o reemplaza un proyecto
-
-async function guardarProyecto(proyecto) {
-
-  if (usarFirebase) {
-
-    try {
-      await db.collection("proyectos")
-        .doc(String(proyecto.id)).set(proyecto);
-      return true;
-    } catch(error) {
-      console.error(error);
-      alert("No se pudo guardar en la base de datos. Revise su conexión.");
-      return false;
-    }
-
-  }
-
-  const anteriores = proyectos;
-  const indice = proyectos.findIndex(p => p.id === proyecto.id);
-
-  proyectos = indice === -1
-    ? [...proyectos, proyecto]
-    : proyectos.map((p,i) => i === indice ? proyecto : p);
-
-  if (!guardarLocal()) {
-    proyectos = anteriores;
-    return false;
-  }
-
-  renderizar();
-  return true;
-
-}
-
-
-async function borrarProyecto(id) {
-
-  if (usarFirebase) {
-
-    try {
-      await db.collection("proyectos").doc(String(id)).delete();
-      return true;
-    } catch(error) {
-      console.error(error);
-      alert("No se pudo eliminar de la base de datos. Revise su conexión.");
-      return false;
-    }
-
-  }
-
-  const anteriores = proyectos;
-
-  proyectos = proyectos.filter(p => p.id !== id);
-
-  if (!guardarLocal()) {
-    proyectos = anteriores;
-    return false;
-  }
-
-  renderizar();
-  return true;
-
-}
-
-
-// Reemplaza todos los proyectos (importar JSON)
-
-async function reemplazarProyectos(lista) {
-
-  if (usarFirebase) {
-
-    try {
-
-      const coleccion = db.collection("proyectos");
-      const actuales = await coleccion.get();
-      const lote = db.batch();
-
-      actuales.forEach(doc => lote.delete(doc.ref));
-      lista.forEach(p => lote.set(coleccion.doc(String(p.id)), p));
-
-      await lote.commit();
-      return true;
-
-    } catch(error) {
-
-      console.error(error);
-      alert("No se pudo importar a la base de datos. Revise su conexión.");
-      return false;
-
-    }
-
-  }
-
-  const anteriores = proyectos;
-
-  proyectos = lista;
-
-  if (!guardarLocal()) {
-    proyectos = anteriores;
-    return false;
-  }
-
-  renderizar();
-  return true;
-
-}
-
-
-// ========================================
-// 5. SEGURIDAD DE TEXTO
-// ========================================
-
-function escapar(texto) {
-
-  return String(texto ?? "").replace(/[&<>"']/g, c => ({
-    "&":"&amp;",
-    "<":"&lt;",
-    ">":"&gt;",
-    '"':"&quot;",
-    "'":"&#39;"
-  })[c]);
-
-}
-
-
-// ========================================
-// 6. VALIDAR URL
-// ========================================
-
-function enlaceSeguro(url) {
-
-  try {
-
-    const u = new URL(url);
-
-    return ["https:","http:"].includes(u.protocol)
-      ? u.href : "";
-
-  } catch {
-
-    return "";
-
-  }
-
-}
-
-
-// ========================================
-// 7. ACCESO ADMINISTRATIVO
-// ========================================
-
-function mostrarVista(vista) {
-
-  if (vista === "admin" && !adminAutorizado) {
-
-    document.getElementById("modalAcceso")
-      .classList.remove("oculto");
-
-    document.getElementById("claveAcceso").value = "";
-
-    document.getElementById("mensajeError")
-      .classList.add("oculto");
-
-    setTimeout(() => {
-      document.getElementById("claveAcceso").focus();
-    },100);
-
-    return;
-
-  }
-
-  cambiarVista(vista);
-
-}
-
-
-// ========================================
-// 8. CAMBIAR VISTA
-// ========================================
-
-function cambiarVista(vista) {
-
-  document.getElementById("vistaPublica")
-    .classList.toggle("oculto",vista !== "publico");
-
-  document.getElementById("vistaAdmin")
-    .classList.toggle("oculto",vista !== "admin");
-
-  document.getElementById("navPublico")
-    .classList.toggle("active",vista === "publico");
-
-  document.getElementById("navAdmin")
-    .classList.toggle("active",vista === "admin");
-
-  document.getElementById("navCerrar")
-    .classList.toggle("oculto",!adminAutorizado);
-
-  renderizar();
-
-}
-
-
-// ========================================
-// 9. VALIDAR CONTRASEÑA
-// ========================================
-
-document.getElementById("formAcceso")
-.addEventListener("submit",function(e) {
-
-  e.preventDefault();
-
-  const clave = document.getElementById("claveAcceso").value;
-
-  if (clave === CLAVE_ADMIN) {
-
-    adminAutorizado = true;
-
-    document.getElementById("modalAcceso")
-      .classList.add("oculto");
-
-    cambiarVista("admin");
-
-  } else {
-
-    document.getElementById("mensajeError")
-      .classList.remove("oculto");
-
-    document.getElementById("claveAcceso").value = "";
-
-    document.getElementById("claveAcceso").focus();
-
-  }
-
-});
-
-
-// ========================================
-// 10. CANCELAR ACCESO
-// ========================================
-
-function cancelarAcceso() {
-
-  document.getElementById("modalAcceso")
-    .classList.add("oculto");
-
-}
-
-
-// ========================================
-// 11. CERRAR SESION
-// ========================================
-
-function cerrarSesion() {
-
-  adminAutorizado = false;
-
-  limpiarFormulario();
-
-  document.getElementById("formCambiarClave").reset();
-
-  cambiarVista("publico");
-
-}
-
-
-// ========================================
-// 12. MOSTRAR PROYECTOS
-// ========================================
-
-function renderPublico() {
-
-  const contenedor = document.getElementById("listaPublica");
-
-  if (!datosCargados) {
-
-    contenedor.innerHTML = `
-      <div class="vacio">Cargando proyectos…</div>
-    `;
-
-    return;
-
-  }
-
-  if (proyectos.length === 0) {
-
-    contenedor.innerHTML = `
-      <div class="vacio">
-        No hay proyectos registrados.
       </div>
-    `;
+      <div class="header-actions">
+        <div class="quiz-timer" id="quizTimer" role="timer" aria-label="Tiempo" hidden>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2M9.5 2.5h5"/></svg>
+          <span id="quizTime">00:00:00</span>
+        </div>
+        <button type="button" class="theme-toggle" aria-pressed="false" aria-label="Cambiar a modo oscuro" title="Cambiar a modo oscuro">
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
 
-    return;
+  <main class="app-main">
+    <!-- Portada: áreas de evaluación -->
+    <section class="view" id="portalView" aria-labelledby="portalTitle" hidden>
+      <div class="resume-card" id="resumeCard" hidden>
+        <span class="resume-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2M9.5 2.5h5"/></svg>
+        </span>
+        <div class="resume-text">
+          <strong>Tienes un simulacro en curso</strong>
+          <span id="resumeDetail"></span>
+        </div>
+        <div class="resume-actions">
+          <button type="button" class="btn btn-ghost" id="resumeDiscard">Descartar</button>
+          <button type="button" class="btn btn-primary" id="resumeContinue">Continuar</button>
+        </div>
+      </div>
 
-  }
+      <div class="portal-hero">
+        <svg class="portal-andes" viewBox="0 0 520 170" preserveAspectRatio="xMaxYMax meet" aria-hidden="true">
+          <path class="andes-far" d="M0 170 70 104l38 26 70-82 46 48 52-70 64 80 40-30 72 64 68-30v60Z"/>
+          <path class="andes-snow" d="M276 26 294 48l-10-4-8 8-8-6-8 2ZM178 48l19 20-9-4-8 8-8-6-11 2Z"/>
+          <path class="andes-near" d="M0 170 60 132l40 18 60-40 50 30 70-36 60 34 50-22 70 30 60-14v38Z"/>
+        </svg>
+        <svg class="portal-emblem" viewBox="0 0 220 190" aria-hidden="true">
+          <path d="M18 182A132 132 0 0 1 150 50" stroke="#d52b1e" stroke-width="9"/>
+          <path d="M29 182A121 121 0 0 1 150 61" stroke="#f2c700" stroke-width="9"/>
+          <path d="M40 182A110 110 0 0 1 150 72" stroke="#007a3d" stroke-width="9"/>
+          <rect class="em-cover" x="48" y="152" width="140" height="26" rx="6"/>
+          <rect class="em-page" x="62" y="157" width="122" height="16" rx="3"/>
+          <rect class="em-cover-2" x="58" y="124" width="124" height="26" rx="6"/>
+          <rect class="em-page" x="72" y="129" width="106" height="16" rx="3"/>
+          <rect class="em-cover" x="52" y="96" width="132" height="26" rx="6"/>
+          <rect class="em-page" x="66" y="101" width="114" height="16" rx="3"/>
+          <path class="em-cap-base" d="M86 66v16c0 7 13 12 32 12s32-5 32-12V66l-32 11Z"/>
+          <path class="em-cap" d="M118 34 182 58l-64 24-64-24Z"/>
+          <path d="M118 58 168 67v22" stroke="#d4a017" stroke-width="3"/>
+          <circle cx="168" cy="93" r="5" fill="#d4a017"/>
+        </svg>
+        <div class="portal-copy">
+          <p class="portal-eyebrow">Plataforma de aprendizaje</p>
+          <h2 id="portalTitle">Preparación para el examen de <span class="portal-highlight">Cargos Directivos</span></h2>
+          <p class="portal-lead">del Sistema Educativo Plurinacional de Bolivia · Proceso de institucionalización 2026–2029</p>
+        </div>
+        <span class="tricolor" aria-hidden="true"></span>
+      </div>
 
-  contenedor.innerHTML = proyectos.map((p,i) => {
+      <div class="panel portal-areas">
+        <div class="section-head">
+          <h2>Áreas de evaluación</h2>
+          <p>Elige un área para estudiar su normativa o bibliografía y practicar con simulacros.</p>
+        </div>
+        <div class="area-grid" id="areaGrid"></div>
+        <ul class="portal-features">
+          <li><span class="feature-icon" data-icon="bulb"></span><span><strong>Modo práctica</strong> Retroalimentación inmediata con sustento normativo.</span></li>
+          <li><span class="feature-icon" data-icon="timer"></span><span><strong>Modo examen</strong> Tiempo controlado y resultados al finalizar.</span></li>
+          <li><span class="feature-icon" data-icon="progress"></span><span><strong>Seguimiento</strong> Historial de puntajes y nivel de dominio.</span></li>
+        </ul>
+      </div>
+    </section>
 
-    const urlP = enlaceSeguro(p.presentacion);
-    const urlS = enlaceSeguro(p.simulacion);
+    <!-- ETAPA 1. Catálogo de un área -->
+    <section class="view" id="homeView" aria-labelledby="homeTitle" hidden>
+      <div class="panel">
+        <div class="section-head">
+          <h2 id="homeTitle">Catálogo de libros</h2>
+          <p id="homeHint">Selecciona un libro para ver sus capítulos y practicar.</p>
+        </div>
+        <div class="book-grid" id="bookGrid"></div>
+        <div class="collection-list" id="collectionList"></div>
+      </div>
+    </section>
 
-    return `
-
-      <article class="card">
-
-        <div class="card-cabecera">
-
-          <div class="icono-proyecto">
-            ${escapar(p.icono || "🏆")}
-          </div>
-
+    <!-- ETAPA 2. Selección de capítulos -->
+    <section class="view" id="bookView" aria-labelledby="bookTitle" hidden>
+      <div class="panel">
+        <div class="book-summary">
+          <img class="book-summary-cover" id="bookCover" alt="" width="72" height="96">
           <div>
-
-            <div class="numero">
-              PROYECTO ${String(i+1).padStart(2,"0")}
-            </div>
-
-            <h3>${escapar(p.nombre)}</h3>
-
+            <h2 id="bookTitle"></h2>
+            <p id="bookDescription"></p>
+            <p class="book-summary-meta" id="bookMeta"></p>
           </div>
-
         </div>
-
-        <p>${escapar(p.descripcion)}</p>
-
-        ${
-          p.equipo
-          ? `<div class="equipo">
-              👥 ${escapar(p.equipo)}${p.curso ? " · " + escapar(p.curso) : ""}
-            </div>`
-          : ""
-        }
-
-        <div class="botones">
-
-          ${
-            urlP
-            ? `
-              <button type="button"
-                class="btn presentacion"
-                data-accion="presentacion"
-                data-url="${escapar(urlP)}">
-                ▣ Presentación
-              </button>
-            `
-            : ""
-          }
-
-          ${
-            urlS
-            ? `
-              <a class="btn simulacion"
-                href="${escapar(urlS)}"
-                target="_blank"
-                rel="noopener noreferrer">
-                ▶ Simulación
-              </a>
-            `
-            : ""
-          }
-
-        </div>
-
-        ${
-          !urlP && !urlS
-          ? '<div class="sin-enlace">Enlaces pendientes de configurar</div>'
-          : ""
-        }
-
-      </article>
-
-    `;
-
-  }).join("");
-
-}
-
-
-// ========================================
-// 13. LISTADO ADMINISTRATIVO
-// ========================================
-
-function renderAdmin() {
-
-  if (!adminAutorizado) return;
-
-  const contenedor = document.getElementById("listaAdmin");
-
-  if (proyectos.length === 0) {
-
-    contenedor.innerHTML = `
-      <div class="vacio">
-        No existen proyectos registrados.
+        <div class="chapter-list" id="chapterList"></div>
       </div>
-    `;
+    </section>
 
-  } else {
+    <!-- Historial de resultados -->
+    <section class="view" id="historyView" aria-labelledby="historyTitle" hidden>
+      <div class="panel">
+        <div class="section-head section-head-row">
+          <div>
+            <h2 id="historyTitle">Mi progreso</h2>
+            <p>Resultados de los simulacros realizados en este dispositivo.</p>
+          </div>
+          <button type="button" class="btn btn-ghost btn-danger-text" id="clearHistory">Borrar historial</button>
+        </div>
+        <dl class="history-stats" id="historyStats"></dl>
+        <ol class="history-list" id="historyList"></ol>
+        <div class="empty-state" id="historyEmpty" hidden>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19h16M7 16V9M12 16V5M17 16v-4"/></svg>
+          <p>Aún no hay resultados. Completa un simulacro para ver tu progreso aquí.</p>
+          <a class="btn btn-primary" href="#/">Ir al catálogo</a>
+        </div>
+      </div>
+    </section>
 
-    contenedor.innerHTML = proyectos.map(p => `
-
-      <div class="admin-item">
-
-        <div>
-          <h4>${escapar(p.nombre)}</h4>
-          <small>${escapar(p.descripcion)}</small>
-          ${
-            p.equipo
-            ? `<br><small>👥 ${escapar(p.equipo)}${p.curso ? " · " + escapar(p.curso) : ""}</small>`
-            : ""
-          }
+    <!-- ETAPAS 4 y 5. Desarrollo del simulacro y resultados -->
+    <section class="view" id="quizView" hidden>
+      <div class="panel quiz-panel" id="quizPanel">
+        <div class="quiz-progress">
+          <div class="quiz-progress-top">
+            <strong id="quizPosition">Pregunta 1 de 1</strong>
+            <strong id="quizPercent">0%</strong>
+          </div>
+          <div class="progress-track" id="quizBar" role="progressbar" aria-label="Progreso" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span id="quizBarFill"></span></div>
+          <details class="quiz-map" id="quizMap">
+            <summary><span id="quizMapLabel">Mapa de preguntas</span></summary>
+            <div class="quiz-map-grid" id="quizMapGrid"></div>
+          </details>
         </div>
 
-        <div class="admin-actions">
-
-          <button class="editar"
-            onclick="editarProyecto(${Number(p.id)})">
-            ✎ Editar
-          </button>
-
-          <button class="eliminar"
-            onclick="eliminarProyecto(${Number(p.id)})">
-            ✕ Eliminar
-          </button>
-
+        <div class="question-banner">
+          <span class="question-number" id="questionNumber">1</span>
+          <p class="question-chapter" id="questionChapter"></p>
+          <span class="repeat-chip" id="repeatChip" hidden>Repaso</span>
+          <span class="mode-chip" id="modeChip"></span>
         </div>
 
+        <h2 class="question-text" id="questionText" tabindex="-1"></h2>
+        <div class="option-list" id="optionList" role="group" aria-labelledby="questionText"></div>
+        <div id="feedbackSlot" aria-live="polite"></div>
+
+        <div class="quiz-actions">
+          <div class="quiz-nav">
+            <button type="button" class="btn btn-outline" id="prevButton">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+              Anterior
+            </button>
+            <button type="button" class="btn btn-primary" id="nextButton">
+              <span id="nextLabel">Siguiente</span>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            </button>
+          </div>
+          <button type="button" class="btn btn-soft btn-block" id="finishButton">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>
+            Finalizar simulacro
+          </button>
+          <p class="shortcut-hint">Atajos: <kbd>A</kbd>–<kbd>D</kbd> para responder · <kbd>←</kbd> <kbd>→</kbd> para navegar</p>
+        </div>
       </div>
 
-    `).join("");
-
-  }
-
-  document.getElementById("estado").textContent =
-    proyectos.length + " proyectos registrados.";
-
-}
-
-
-// ========================================
-// 14. ACTUALIZAR PANTALLA
-// ========================================
-
-function renderizar() {
-
-  renderPublico();
-
-  if (adminAutorizado) {
-    renderAdmin();
-  }
-
-}
-
-
-// ========================================
-// 15. CREAR Y EDITAR PROYECTOS
-// ========================================
-
-document.getElementById("formProyecto")
-.addEventListener("submit",async function(e) {
-
-  e.preventDefault();
-
-  if (!adminAutorizado) return;
-
-  const id = document.getElementById("proyectoId").value;
-
-  const datos = {
-
-    nombre:document.getElementById("nombre").value.trim(),
-
-    descripcion:document.getElementById("descripcion").value.trim(),
-
-    presentacion:document.getElementById("presentacion").value.trim(),
-
-    simulacion:document.getElementById("simulacion").value.trim()
-
-  };
-
-  if (!datos.nombre || !datos.descripcion) {
-    alert("Complete los campos obligatorios.");
-    return;
-  }
-
-  if (
-    (datos.presentacion && !enlaceSeguro(datos.presentacion)) ||
-    (datos.simulacion && !enlaceSeguro(datos.simulacion))
-  ) {
-    alert("Ingrese enlaces HTTP o HTTPS válidos.");
-    return;
-  }
-
-  let proyecto;
-
-  if (id) {
-
-    const actual = proyectos.find(p => p.id === Number(id));
-
-    if (!actual) {
-      alert("El proyecto ya no existe. Puede que otro usuario lo haya eliminado.");
-      limpiarFormulario();
-      return;
-    }
-
-    proyecto = {...actual, ...datos};
-
-  } else {
-
-    proyecto = {id:Date.now(), icono:"🏆", ...datos};
-
-  }
-
-  if (!(await guardarProyecto(proyecto))) return;
-
-  limpiarFormulario();
-
-  alert("Proyecto guardado correctamente.");
-
-});
-
-
-// ========================================
-// 16. EDITAR PROYECTO
-// ========================================
-
-function editarProyecto(id) {
-
-  if (!adminAutorizado) return;
-
-  const p = proyectos.find(x => x.id === id);
-
-  if (!p) return;
-
-  document.getElementById("proyectoId").value = p.id;
-  document.getElementById("nombre").value = p.nombre;
-  document.getElementById("descripcion").value = p.descripcion;
-  document.getElementById("presentacion").value = p.presentacion;
-  document.getElementById("simulacion").value = p.simulacion;
-
-  document.getElementById("tituloFormulario")
-    .textContent = "Editar proyecto";
-
-  window.scrollTo({top:0,behavior:"smooth"});
-
-}
-
-
-// ========================================
-// 17. ELIMINAR PROYECTO
-// ========================================
-
-async function eliminarProyecto(id) {
-
-  if (!adminAutorizado) return;
-
-  const p = proyectos.find(x => x.id === id);
-
-  if (!p) return;
-
-  if (!confirm("¿Eliminar el proyecto " + p.nombre + "?")) {
-    return;
-  }
-
-  if (!(await borrarProyecto(id))) return;
-
-  limpiarFormulario();
-
-  alert("Proyecto eliminado correctamente.");
-
-}
-
-
-// ========================================
-// 18. LIMPIAR FORMULARIO
-// ========================================
-
-function limpiarFormulario() {
-
-  document.getElementById("formProyecto").reset();
-  document.getElementById("proyectoId").value = "";
-
-  document.getElementById("tituloFormulario")
-    .textContent = "+ Registrar nuevo proyecto";
-
-}
-
-
-// ========================================
-// 19. EXPORTAR JSON
-// ========================================
-
-function exportarJSON() {
-
-  if (!adminAutorizado) return;
-
-  const contenido = JSON.stringify(proyectos,null,2);
-
-  const archivo = new Blob(
-    [contenido],
-    {type:"application/json"}
-  );
-
-  const url = URL.createObjectURL(archivo);
-
-  const enlace = document.createElement("a");
-
-  enlace.href = url;
-  enlace.download = "proyectos_japon_b.json";
-  enlace.click();
-
-  setTimeout(() => URL.revokeObjectURL(url),1000);
-
-}
-
-
-// ========================================
-// 20. IMPORTAR JSON
-// ========================================
-
-document.getElementById("archivoJSON")
-.addEventListener("change",async function(e) {
-
-  if (!adminAutorizado) return;
-
-  const archivo = e.target.files[0];
-
-  if (!archivo) return;
-
-  try {
-
-    const datos = JSON.parse(await archivo.text());
-
-    const valido = Array.isArray(datos) &&
-      datos.every(p =>
-
-        p &&
-        Number.isSafeInteger(p.id) &&
-        p.id > 0 &&
-        typeof p.nombre === "string" &&
-        typeof p.descripcion === "string" &&
-        typeof p.presentacion === "string" &&
-        typeof p.simulacion === "string" &&
-        p.nombre.length <= 100 &&
-        p.descripcion.length <= 200 &&
-        (!p.presentacion || !!enlaceSeguro(p.presentacion)) &&
-        (!p.simulacion || !!enlaceSeguro(p.simulacion))
-
-      ) &&
-      new Set(datos.map(p => p.id)).size === datos.length;
-
-    if (!valido) {
-      throw new Error("JSON inválido");
-    }
-
-    if (!confirm("¿Reemplazar todos los proyectos actuales?")) {
-      return;
-    }
-
-    if (!(await reemplazarProyectos(datos))) return;
-
-    limpiarFormulario();
-
-    alert("Base de datos importada correctamente.");
-
-  } catch(error) {
-
-    alert("No se pudo importar el archivo JSON.");
-
-  } finally {
-
-    e.target.value = "";
-
-  }
-
-});
-
-
-// ========================================
-// 21. CAMBIAR CONTRASEÑA
-// ========================================
-
-document.getElementById("formCambiarClave")
-.addEventListener("submit",function(e) {
-
-  e.preventDefault();
-
-  if (!adminAutorizado) return;
-
-  const actual = document.getElementById("claveActual").value;
-  const nueva = document.getElementById("claveNueva").value;
-  const confirmar = document.getElementById("claveConfirmar").value;
-  const mensaje = document.getElementById("mensajeClave");
-
-  if (actual !== CLAVE_ADMIN) {
-
-    mensaje.className = "estado error";
-    mensaje.textContent = "La contraseña actual es incorrecta.";
-    return;
-
-  }
-
-  if (nueva.length < 6) {
-
-    mensaje.className = "estado error";
-    mensaje.textContent = "La contraseña debe tener al menos 6 caracteres.";
-    return;
-
-  }
-
-  if (nueva !== confirmar) {
-
-    mensaje.className = "estado error";
-    mensaje.textContent = "Las contraseñas nuevas no coinciden.";
-    return;
-
-  }
-
-  if (nueva === actual) {
-
-    mensaje.className = "estado error";
-    mensaje.textContent = "La nueva contraseña debe ser diferente.";
-    return;
-
-  }
-
-  try {
-
-    localStorage.setItem(CLAVE_STORAGE_ADMIN,nueva);
-
-    CLAVE_ADMIN = nueva;
-
-    document.getElementById("formCambiarClave").reset();
-
-    mensaje.className = "estado exito";
-    mensaje.textContent = "✓ Contraseña actualizada correctamente.";
-
-  } catch(error) {
-
-    mensaje.className = "estado error";
-    mensaje.textContent = "No se pudo guardar la nueva contraseña.";
-
-  }
-
-});
-
-
-// ========================================
-// 22. LIMPIAR MENSAJE
-// ========================================
-
-document.getElementById("formCambiarClave")
-.addEventListener("reset",function() {
-
-  document.getElementById("mensajeClave").textContent = "";
-
-});
-
-
-// ========================================
-// 23. CRONOMETRO
-// ========================================
-
-// Cuenta regresiva de 10:00 con colores según el tiempo restante:
-// verde 10:00–06:01, naranja 06:00–03:01, rojo 03:00–00:01,
-// gris oscuro en 00:00 (se mantiene unos segundos y se reinicia).
-
-const DURACION_PRESENTACION = 10 * 60;   // segundos
-const LIMITE_NARANJA = 6 * 60;
-const LIMITE_ROJO = 3 * 60;
-const PAUSA_FIN = 5;                     // segundos en gris antes de reiniciar
-
-let cronometroIntervalo = null;
-let cronometroInicio = null;
-
-function formatoTiempo(segundos) {
-
-  const minutos = Math.floor(segundos / 60);
-  const seg = segundos % 60;
-
-  return String(minutos).padStart(2,"0") + ":" +
-    String(seg).padStart(2,"0");
-
-}
-
-
-function colorCronometro(restante) {
-
-  if (restante === 0) return "gris";
-  if (restante <= LIMITE_ROJO) return "rojo";
-  if (restante <= LIMITE_NARANJA) return "naranja";
-  return "verde";
-
-}
-
-
-function actualizarCronometro() {
-
-  if (cronometroInicio === null) return;
-
-  const transcurrido = Math.floor(
-    (Date.now() - cronometroInicio) / 1000
-  );
-
-  // Tras llegar a 00:00 y mantenerse en gris, reiniciar a 10:00
-
-  if (transcurrido >= DURACION_PRESENTACION + PAUSA_FIN) {
-    cronometroInicio = Date.now();
-    actualizarCronometro();
-    return;
-  }
-
-  const restante = Math.max(
-    DURACION_PRESENTACION - transcurrido, 0
-  );
-
-  const caja = document.getElementById("cronometroPresentacion");
-  const color = colorCronometro(restante);
-
-  caja.classList.remove("verde","naranja","rojo","gris");
-  caja.classList.add(color);
-
-  document.getElementById("cronometroEtiqueta").textContent =
-    color === "gris" ? "⏱ TIEMPO FINALIZADO" : "⏱ TIEMPO RESTANTE";
-
-  document.getElementById("cronometroTiempo")
-    .textContent = formatoTiempo(restante);
-
-}
-
-
-function iniciarCronometro() {
-
-  detenerCronometro();
-
-  cronometroInicio = Date.now();
-
-  document.getElementById("cronometroPresentacion")
-    .classList.add("visible");
-
-  actualizarCronometro();
-
-  cronometroIntervalo = setInterval(
-    actualizarCronometro,250
-  );
-
-}
-
-
-function detenerCronometro() {
-
-  if (cronometroIntervalo !== null) {
-
-    clearInterval(cronometroIntervalo);
-
-    cronometroIntervalo = null;
-
-  }
-
-  cronometroInicio = null;
-
-  const caja = document.getElementById("cronometroPresentacion");
-
-  caja.classList.remove("visible","naranja","rojo","gris");
-  caja.classList.add("verde");
-
-  document.getElementById("cronometroEtiqueta")
-    .textContent = "⏱ TIEMPO RESTANTE";
-
-  document.getElementById("cronometroTiempo")
-    .textContent = formatoTiempo(DURACION_PRESENTACION);
-
-}
-
-
-// ========================================
-// 24. PREPARAR ENLACE DE GOOGLE SLIDES
-// ========================================
-
-function prepararPresentacion(url) {
-
-  const destino = new URL(url);
-
-  if (destino.hostname === "docs.google.com") {
-
-    destino.pathname = destino.pathname.replace(
-      /\/pub\/?$/,
-      "/pubembed"
-    );
-
-  }
-
-  return destino.href;
-
-}
-
-
-// ========================================
-// 25. ABRIR PRESENTACION
-// ========================================
-
-async function abrirPresentacion(url) {
-
-  const visor = document.getElementById("visorPresentacion");
-
-  const frame = document.getElementById("framePresentacion");
-
-  const segura = enlaceSeguro(url);
-
-  if (!segura) {
-
-    alert("La dirección de la presentación no es válida.");
-
-    return;
-
-  }
-
-  let destino;
-
-  try {
-
-    destino = prepararPresentacion(segura);
-
-  } catch(error) {
-
-    alert("No se pudo preparar la presentación.");
-
-    return;
-
-  }
-
-  // Mostrar visor
-
-  visor.classList.add("activo");
-
-  // Iniciar cronómetro
-
-  iniciarCronometro();
-
-  // Activar pantalla completa mediante la interacción del usuario
-
-  try {
-
-    const promesaPantalla = visor.requestFullscreen();
-
-    frame.src = destino;
-
-    await promesaPantalla;
-
-  } catch(error) {
-
-    // Mantener el visor abierto si el navegador
-    // no permite la pantalla completa.
-
-    frame.src = destino;
-
-    console.warn(
-      "No se pudo activar pantalla completa:",
-      error
-    );
-
-  }
-
-}
-
-
-// ========================================
-// 26. CERRAR PRESENTACION
-// ========================================
-
-async function cerrarPresentacion() {
-
-  const visor = document.getElementById("visorPresentacion");
-
-  const frame = document.getElementById("framePresentacion");
-
-  // Detener y reiniciar cronómetro
-
-  detenerCronometro();
-
-  // Salir de pantalla completa
-
-  if (document.fullscreenElement) {
-
-    try {
-
-      await document.exitFullscreen();
-
-    } catch(error) {
-
-      console.warn(error);
-
-    }
-
-  }
-
-  visor.classList.remove("activo");
-
-  frame.src = "about:blank";
-
-}
-
-
-// ========================================
-// 27. EVENTO BOTON PRESENTACION
-// ========================================
-
-document.getElementById("listaPublica")
-.addEventListener("click",function(e) {
-
-  const boton = e.target.closest(
-    '[data-accion="presentacion"]'
-  );
-
-  if (!boton) return;
-
-  abrirPresentacion(boton.dataset.url);
-
-});
-
-
-// ========================================
-// 28. CONTROL DE PANTALLA COMPLETA
-// ========================================
-
-// Al pulsar ESC, cerrar el visor y reiniciar el cronómetro.
-
-document.addEventListener("fullscreenchange",function() {
-
-  if (!document.fullscreenElement) {
-
-    const visor = document.getElementById("visorPresentacion");
-
-    if (visor.classList.contains("activo")) {
-
-      detenerCronometro();
-
-      visor.classList.remove("activo");
-
-      document.getElementById("framePresentacion")
-        .src = "about:blank";
-
-    }
-
-  }
-
-});
-
-
-// ========================================
-// 29. REGISTRO DE PROYECTOS POR EQUIPOS
-// ========================================
-
-function abrirRegistro() {
-
-  document.getElementById("formRegistro").reset();
-
-  document.getElementById("mensajeRegistro").textContent = "";
-
-  document.getElementById("modalRegistro")
-    .classList.remove("oculto");
-
-  setTimeout(() => {
-    document.getElementById("regNombre").focus();
-  },100);
-
-}
-
-
-function cerrarRegistro() {
-
-  document.getElementById("modalRegistro")
-    .classList.add("oculto");
-
-}
-
-
-document.getElementById("formRegistro")
-.addEventListener("submit",async function(e) {
-
-  e.preventDefault();
-
-  const mensaje = document.getElementById("mensajeRegistro");
-  const valor = id => document.getElementById(id).value.trim();
-
-  const datos = {
-    nombre:valor("regNombre"),
-    equipo:valor("regEquipo"),
-    descripcion:valor("regDescripcion"),
-    presentacion:valor("regPresentacion"),
-    simulacion:valor("regSimulacion")
-  };
-
-  if (!datos.nombre || !datos.equipo || !datos.descripcion) {
-    mensaje.textContent = "Complete los campos obligatorios.";
-    return;
-  }
-
-  if (
-    (datos.presentacion && !enlaceSeguro(datos.presentacion)) ||
-    (datos.simulacion && !enlaceSeguro(datos.simulacion))
-  ) {
-    mensaje.textContent = "Ingrese enlaces HTTP o HTTPS válidos.";
-    return;
-  }
-
-  // Evitar registros duplicados por doble clic mientras se guarda
-
-  const boton = this.querySelector('button[type="submit"]');
-
-  boton.disabled = true;
-  mensaje.textContent = "";
-
-  const guardado = await guardarProyecto({
-    id:Date.now(),
-    icono:"🏆",
-    ...datos
-  });
-
-  boton.disabled = false;
-
-  if (!guardado) return;
-
-  cerrarRegistro();
-
-  alert("Proyecto registrado correctamente.");
-
-});
-
-
-// ========================================
-// 30. INICIAR APLICACION
-// ========================================
-
-if (usarFirebase) {
-  escucharProyectos();
-}
-
-renderPublico();
-
-</script>
-
+      <div class="panel results-panel" id="resultsPanel" hidden>
+        <div class="results-score">
+          <div class="score-ring" id="scoreRing">
+            <span class="score-value"><strong id="scoreValue">0</strong><small>/100</small></span>
+          </div>
+          <h2 id="resultsTitle">Simulacro finalizado</h2>
+          <p class="level-badge" id="levelBadge"></p>
+          <p class="results-note" id="resultsNote"></p>
+        </div>
+        <dl class="results-stats">
+          <div class="stat stat-correct"><dt>Correctas</dt><dd id="statCorrect">0</dd></div>
+          <div class="stat stat-wrong"><dt>Incorrectas</dt><dd id="statWrong">0</dd></div>
+          <div class="stat stat-blank"><dt>Sin responder</dt><dd id="statBlank">0</dd></div>
+          <div class="stat stat-time"><dt>Tiempo utilizado</dt><dd id="statTime">00:00:00</dd></div>
+        </dl>
+        <div class="results-actions">
+          <button type="button" class="btn btn-outline" id="reviewButton">Revisar respuestas</button>
+          <button type="button" class="btn btn-primary" id="retryButton">Repetir simulacro</button>
+          <button type="button" class="btn btn-soft" id="homeButton">Volver al catálogo</button>
+        </div>
+      </div>
+
+      <div class="panel review-panel" id="reviewPanel" hidden>
+        <div class="review-head">
+          <h2>Revisión de respuestas</h2>
+          <p id="reviewSummary"></p>
+        </div>
+        <div class="review-filters" role="group" aria-label="Filtrar preguntas">
+          <button type="button" class="review-filter" data-filter="all" aria-pressed="true">Todas <span id="filterAll">0</span></button>
+          <button type="button" class="review-filter" data-filter="correct" aria-pressed="false">Correctas <span id="filterCorrect">0</span></button>
+          <button type="button" class="review-filter" data-filter="wrong" aria-pressed="false">Incorrectas <span id="filterWrong">0</span></button>
+          <button type="button" class="review-filter" data-filter="blank" aria-pressed="false">Sin responder <span id="filterBlank">0</span></button>
+        </div>
+        <ol class="review-list" id="reviewList"></ol>
+        <p class="review-empty" id="reviewEmpty" hidden></p>
+        <button type="button" class="btn btn-outline btn-block" id="reviewBack">Volver a resultados</button>
+      </div>
+    </section>
+  </main>
+
+  <nav class="main-nav" id="mainNav" aria-label="Navegación principal">
+    <a href="#/" data-nav="home">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-4.5v-6h-5v6H5a1 1 0 0 1-1-1v-9.5Z"/></svg>
+      <span>Inicio</span>
+    </a>
+    <a href="#/progreso" data-nav="history">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg>
+      <span>Progreso</span>
+    </a>
+  </nav>
+
+  <!-- ETAPA 3. Configuración del simulacro -->
+  <dialog id="setupDialog" class="setup-dialog" aria-labelledby="setupTitle">
+    <form method="dialog" id="setupForm" class="setup-form">
+      <header class="setup-header">
+        <h2 id="setupTitle">Configurar simulacro</h2>
+        <button type="button" class="icon-close" data-close aria-label="Cerrar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </header>
+
+      <div class="setup-body">
+        <div class="setup-summary">
+          <div class="setup-summary-icon" id="setupIcon" aria-hidden="true"></div>
+          <div>
+            <h3 id="setupChapter">Capítulo</h3>
+            <p id="setupCount">0 preguntas disponibles</p>
+          </div>
+        </div>
+
+        <fieldset class="setup-modes">
+          <legend>Modo</legend>
+          <label class="mode-option">
+            <input type="radio" name="mode" value="practica" checked>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.4 1 1.1 1 1.8V16h5v-.3c0-.7.4-1.4 1-1.8A6 6 0 0 0 12 3Z"/></svg>
+            <strong>Modo práctica</strong>
+            <span>Retroalimentación inmediata con explicación y sustento legal.</span>
+          </label>
+          <label class="mode-option">
+            <input type="radio" name="mode" value="examen">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5.5"/><circle cx="12" cy="12" r="2"/></svg>
+            <strong>Modo examen</strong>
+            <span>Sin ayudas. Resultados y revisión al finalizar.</span>
+          </label>
+        </fieldset>
+
+        <div class="setup-fields">
+          <label class="setup-field" id="blockField">
+            <span>Bloque de preguntas</span>
+            <select name="block" id="setupBlock"></select>
+          </label>
+          <label class="setup-field">
+            <span>Cantidad de preguntas</span>
+            <select name="count" id="setupQuestions"></select>
+          </label>
+          <label class="setup-field">
+            <span>Tiempo límite</span>
+            <select name="time" id="setupTime">
+              <option value="auto">Automático (1,5 min por pregunta)</option>
+              <option value="custom">Personalizado</option>
+              <option value="none">Sin límite</option>
+            </select>
+          </label>
+          <label class="setup-field setup-custom" id="customTimeField" hidden>
+            <span>Minutos</span>
+            <input type="number" name="minutes" id="setupMinutes" min="1" max="600" step="1" value="30" inputmode="numeric">
+          </label>
+        </div>
+        <p class="setup-hint" id="setupHint"></p>
+
+        <label class="setup-check" id="shuffleQuestionsField">
+          <input type="checkbox" name="shuffleQuestions" id="setupShuffleQuestions" checked>
+          <span>Orden aleatorio de preguntas
+            <small class="setup-check-note" id="shuffleQuestionsNote" hidden>Se mezclan solo las preguntas del bloque; desmarcado, siguen el orden del banco.</small>
+          </span>
+        </label>
+        <label class="setup-check"><input type="checkbox" name="shuffleOptions" checked> Mezclar alternativas</label>
+        <label class="setup-check" id="retryWrongField">
+          <input type="checkbox" name="retryWrong" id="setupRetryWrong">
+          <span>Volver a preguntar al final las cuestiones que se fallen, hasta responderlas correctamente
+            <small class="setup-check-note" id="retryWrongNote">El simulacro finaliza cuando todas estén correctas. Los repasos no suman puntaje.</small>
+          </span>
+        </label>
+      </div>
+
+      <footer class="setup-footer">
+        <button type="button" class="btn btn-outline" data-close>Cancelar</button>
+        <button type="submit" class="btn btn-primary">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12-7.5-12-7.5Z"/></svg>
+          Empezar simulacro
+        </button>
+      </footer>
+    </form>
+  </dialog>
+
+  <dialog id="finishDialog" class="confirm-dialog" aria-labelledby="finishTitle" aria-describedby="finishMessage">
+    <div class="confirm-body">
+      <div class="confirm-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>
+      </div>
+      <h2 id="finishTitle">¿Finalizar simulacro?</h2>
+      <p id="finishMessage"></p>
+      <div class="confirm-summary">
+        <div><strong id="finishAnswered">0</strong><span>Respondidas</span></div>
+        <div id="finishBlankBox"><strong id="finishBlank">0</strong><span>Sin responder</span></div>
+      </div>
+      <div class="confirm-actions">
+        <button type="button" class="btn btn-outline" id="finishCancel" autofocus>Seguir respondiendo</button>
+        <button type="button" class="btn btn-primary" id="finishConfirm">Finalizar</button>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog id="confirmDialog" class="confirm-dialog" aria-labelledby="confirmTitle" aria-describedby="confirmMessage">
+    <div class="confirm-body">
+      <div class="confirm-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5.5M12 16.5v.01"/></svg>
+      </div>
+      <h2 id="confirmTitle"></h2>
+      <p id="confirmMessage"></p>
+      <div class="confirm-actions">
+        <button type="button" class="btn btn-outline" id="confirmCancel" autofocus>Cancelar</button>
+        <button type="button" class="btn btn-primary" id="confirmOk">Aceptar</button>
+      </div>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="data/catalogo.js"></script>
+  <script src="data/preguntas.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/repo.js"></script>
+  <script src="js/engine.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/theme.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>

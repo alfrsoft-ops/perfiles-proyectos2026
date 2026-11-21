@@ -1,0 +1,1099 @@
+# Fuente: cpe-parte-4.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Constitución Política del Estado (7 de febrero de 2009)
+# Cuarta Parte: Estructura y organización económica del Estado (Arts. 306 al 409)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar las disposiciones de la Cuarta Parte de la Constitución Política del Estado en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto constitucional proporcionado, sin incorporar fuentes externas.
+# Criterios documentales aplicados
+# Alcance de la fuente. La Cuarta Parte comprende tres títulos (Arts. 306 al 409): Organización económica del Estado (modelo económico plural, función del Estado, políticas fiscal, monetaria, financiera y sectoriales, bienes y recursos del Estado); Medio ambiente, recursos naturales, tierra y territorio (hidrocarburos, minería, recursos hídricos, energía, biodiversidad, coca, áreas protegidas, recursos forestales, amazonia y tierra); y Desarrollo rural integral sustentable. En el archivo PDF proporcionado ocupa las páginas 85 a 108.
+# Página impresa. El PDF proporcionado (texto de consulta de la Gaceta Oficial de Bolivia) no tiene numeración impresa en sus páginas. Por ello, cada referencia consigna «Página impresa: s/n» y la página PDF exacta. No se ha supuesto ninguna paginación impresa no verificable.
+# Rótulo «Aplicación razonada». Distingue las situaciones derivadas (escenarios institucionales construidos a partir de una disposición) de las preguntas de conocimiento textual, rotuladas «Conceptual» o «Interpretativa». Los casos prácticos se rotulan «Caso práctico (Aplicación razonada)».
+# Competencias directivas. La Cuarta Parte no regula funciones ni atribuciones de directoras o directores de unidades educativas: «No respaldado por el documento fuente». Por ello, la dimensión 3 evalúa responsabilidades y deberes que el texto impone expresamente al Estado, a las entidades públicas, a la población y a las formas de organización económica, y que enmarcan la gestión de una institución pública: régimen presupuestario, inversión de los ingresos del Estado, asignación prioritaria del gasto a educación, recursos departamentales y universitarios, delitos económicos, deberes ambientales y obligaciones de las organizaciones económicas. Los casos y decisiones aplican esas disposiciones a situaciones educativas sin atribuir a la Constitución competencias del director.
+# Etiqueta de trazabilidad. Cada enunciado inicia con la identificación del documento y la parte de procedencia, sin más detalle: [Constitución Política del Estado – CUARTA PARTE], para su integración en plataformas de simulación que combinan preguntas de varios documentos.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 25 preguntas y la más corta en 17, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Numeración
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–5)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Constitución Política del Estado – CUARTA PARTE]; el apartado exacto figura en la referencia.
+# Cada fundamentación remite a artículos, parágrafos y numerales verificables de la Cuarta Parte, con su página PDF.
+# Contenido limitado exclusivamente a la fuente proporcionada; no se atribuyen a la Constitución competencias directivas que no contiene.
+
+CAPÍTULO: cpe-parte-4
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 306.II, la economía plural está constituida por las formas de organización económica:
+A. Comunitaria, estatal, privada y mixta transnacional.
+B. Pública, privada, solidaria y financiera cooperativa.
+C. Comunitaria, estatal, privada y social cooperativa.
+D. Estatal, privada, gremial y social comunitaria.
+Respuesta correcta: C
+Explicación: El Artículo 306.II dispone que la economía plural está constituida por las formas de organización económica comunitaria, estatal, privada y social cooperativa. Las empresas mixtas pueden constituirse entre esas formas (306.IV).
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 306, parágrafos II y IV; pág. PDF: 85. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Constitución Política del Estado – CUARTA PARTE] ¿Qué regalía perciben los departamentos productores de hidrocarburos según el Artículo 368?
+A. El dieciocho por ciento de su producción departamental fiscalizada de hidrocarburos.
+B. El once por ciento de los ingresos nacionales por la exportación de hidrocarburos.
+C. El cincuenta y uno por ciento de su producción departamental fiscalizada y exportada.
+D. El once por ciento de su producción departamental fiscalizada de hidrocarburos.
+Respuesta correcta: D
+Explicación: El Artículo 368 dispone que los departamentos productores de hidrocarburos percibirán una regalía del once por ciento de su producción departamental fiscalizada; los departamentos no productores y el Tesoro General del Estado obtendrán una participación fijada por ley especial.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 368; pág. PDF: 98. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 398, ¿cuál es el límite de la superficie máxima de la propiedad agraria?
+A. En ningún caso podrá exceder de diez mil hectáreas.
+B. Podrá exceder de cinco mil hectáreas si cumple la FES.
+C. En ningún caso podrá exceder de cinco mil hectáreas.
+D. En ningún caso podrá exceder de quinientas hectáreas.
+Respuesta correcta: C
+Explicación: El Artículo 398 prohíbe el latifundio y la doble titulación y dispone que la superficie máxima en ningún caso podrá exceder de cinco mil hectáreas.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 398; pág. PDF: 106. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Constitución Política del Estado – CUARTA PARTE] De acuerdo con el Artículo 390.II, la amazonia boliviana comprende:
+A. Todo Pando y Beni, la provincia Iturralde de La Paz y la provincia Guarayos de Santa Cruz.
+B. Todo Pando, la provincia Caranavi de La Paz y las provincias Vaca Díez y Moxos del Beni.
+C. Todo Pando, la provincia Iturralde de La Paz y las provincias Vaca Díez y Ballivián del Beni.
+D. Todo Beni, la provincia Iturralde de La Paz y las provincias Madre de Dios y Abuná del departamento de Pando.
+Respuesta correcta: C
+Explicación: El Artículo 390.II dispone que la amazonia boliviana comprende la totalidad del departamento de Pando, la provincia Iturralde del departamento de La Paz y las provincias Vaca Díez y Ballivián del departamento del Beni.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VIII: Amazonia. Art. 390, parágrafo II; pág. PDF: 104. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Constitución Política del Estado – CUARTA PARTE] El Artículo 323.I establece que la política fiscal se basa, entre otros, en los principios de:
+A. Capacidad económica, desigualdad, regresividad, proporcionalidad, reserva y universalidad.
+B. Capacidad económica, igualdad, progresividad, proporcionalidad, transparencia y universalidad.
+C. Capacidad recaudatoria, igualdad, exención general, proporcionalidad, reserva y selectividad tributaria.
+D. Rentabilidad, igualdad, progresividad, discrecionalidad, transparencia y territorialidad.
+Respuesta correcta: B
+Explicación: El Artículo 323.I dispone que la política fiscal se basa en los principios de capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 323, parágrafo I; pág. PDF: 90. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [Constitución Política del Estado – CUARTA PARTE] ¿Qué planteamiento recoge el Artículo 306 sobre el modelo económico boliviano?
+A. Es plural, está orientado a la rentabilidad y la economía privada sustituye el interés colectivo por la libre competencia de mercado y precios.
+B. Es estatal, está orientado al vivir bien y la economía comunitaria sustituye el interés individual por la propiedad estatal plena.
+C. Es mixto, está orientado a la exportación y la economía social complementa el interés colectivo con la inversión extranjera directa.
+D. Es plural, está orientado al vivir bien y la economía social y comunitaria complementa el interés individual con el vivir bien colectivo.
+Respuesta correcta: D
+Explicación: El Artículo 306.I declara que el modelo económico boliviano es plural y está orientado a mejorar la calidad de vida y el vivir bien; el 306.III dispone que la economía social y comunitaria complementará el interés individual con el vivir bien colectivo.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 306, parágrafos I y III; pág. PDF: 85. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [Constitución Política del Estado – CUARTA PARTE] ¿Cómo caracteriza el Artículo 349.I la propiedad de los recursos naturales?
+A. Son de propiedad y dominio directo, indivisible e imprescriptible del pueblo boliviano, y el Estado los administra en función del interés colectivo.
+B. Son de propiedad del Estado y de dominio divisible entre los niveles territoriales, que los administran en función del interés departamental y regional.
+C. Son de propiedad de quienes los explotan legalmente, y el Estado ejerce sobre ellos solo funciones de regulación y de control tributario.
+D. Son de propiedad compartida entre el pueblo y los titulares de derechos, y el Estado los administra en función del interés de los inversores.
+Respuesta correcta: A
+Explicación: El Artículo 349.I dispone que los recursos naturales son de propiedad y dominio directo, indivisible e imprescriptible del pueblo boliviano, y corresponderá al Estado su administración en función del interés colectivo.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 349, parágrafo I; pág. PDF: 95. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [Constitución Política del Estado – CUARTA PARTE] ¿Qué establece el Artículo 311.I sobre las formas de organización económica?
+A. Que la estatal goza de primacía jurídica sobre las demás.
+B. Que la comunitaria goza de preferencia jurídica ante la ley.
+C. Que todas gozan de igualdad jurídica ante la ley.
+D. Que la privada goza de mayor seguridad jurídica que las demás.
+Respuesta correcta: C
+Explicación: El Artículo 311.I dispone que todas las formas de organización económica establecidas en la Constitución gozarán de igualdad jurídica ante la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 311, parágrafo I; pág. PDF: 86. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [Constitución Política del Estado – CUARTA PARTE] ¿Cómo caracteriza el Artículo 373.I el agua y sobre qué principios promueve el Estado su uso y acceso?
+A. Como un derecho fundamentalísimo para la vida, con uso y acceso basados en solidaridad, complementariedad, reciprocidad, equidad, diversidad y sustentabilidad.
+B. Como un bien económico de mercado, con uso y acceso basados en rentabilidad, competencia, eficiencia, exclusividad, demanda y precio de equilibrio.
+C. Como un derecho secundario sujeto a ley, con uso y acceso basados en prioridad industrial, eficiencia, concesión privada y rentabilidad económica.
+D. Como un derecho fundamentalísimo para la vida, con uso y acceso basados en la propiedad privada, la concesión y la libre comercialización.
+Respuesta correcta: A
+Explicación: El Artículo 373.I dispone que el agua constituye un derecho fundamentalísimo para la vida, en el marco de la soberanía del pueblo, y que el Estado promoverá su uso y acceso sobre la base de principios de solidaridad, complementariedad, reciprocidad, equidad, diversidad y sustentabilidad.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. V: Recursos hídricos. Art. 373, parágrafo I; pág. PDF: 100. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [Constitución Política del Estado – CUARTA PARTE] ¿Qué lugar ocupa el desarrollo rural integral sustentable según el Artículo 405?
+A. Es parte fundamental de las políticas económicas del Estado, con énfasis en la seguridad y la soberanía alimentaria.
+B. Es una política complementaria del Estado, subordinada a la exportación de materias primas y a la minería.
+C. Es competencia exclusiva de las comunidades campesinas, sin intervención de las políticas económicas del Estado.
+D. Es parte fundamental de las políticas económicas del Estado, con énfasis en la industria extractiva de exportación nacional.
+Respuesta correcta: A
+Explicación: El Artículo 405 dispone que el desarrollo rural integral sustentable es parte fundamental de las políticas económicas del Estado, que priorizará sus acciones para el fomento de los emprendimientos económicos comunitarios y del conjunto de los actores rurales, con énfasis en la seguridad y en la soberanía alimentaria.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título III: Desarrollo rural integral sustentable. Art. 405; pág. PDF: 107. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 339.III, ¿conforme a qué instrumentos se invertirán los ingresos del Estado?
+A. Conforme con el criterio de cada máxima autoridad ejecutiva, sin sujeción al Presupuesto General del Estado.
+B. Conforme con los convenios de cooperación internacional, que prevalecen sobre el plan general de desarrollo.
+C. Conforme con el plan general de desarrollo, aunque se aparten del Presupuesto General del Estado y de la ley.
+D. Conforme con el plan general de desarrollo económico y social, el Presupuesto General del Estado y la ley.
+Respuesta correcta: D
+Explicación: El Artículo 339.III dispone que los ingresos del Estado se invertirán conforme con el plan general de desarrollo económico y social del país, el Presupuesto General del Estado y con la ley. La Constitución no regula atribuciones de las direcciones de unidades educativas.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 339, parágrafo III; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [Constitución Política del Estado – CUARTA PARTE] ¿Por qué instrumento se rige la administración económica y financiera de todas las entidades públicas, según el Artículo 321.I?
+A. Por su propio presupuesto.
+B. Por su plan operativo anual.
+C. Por su reglamento interno.
+D. Por su estatuto orgánico.
+Respuesta correcta: A
+Explicación: El Artículo 321.I dispone que la administración económica y financiera del Estado y de todas las entidades públicas se rige por su presupuesto.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 321, parágrafo I; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 321.II, ¿cómo se determinan el gasto y la inversión pública y a qué sectores atenderán especialmente las asignaciones?
+A. Por decisión exclusiva del Órgano Ejecutivo, sin participación ciudadana; atenderán especialmente a defensa, seguridad, hidrocarburos y obras públicas.
+B. Por participación ciudadana y planificación técnica y ejecutiva estatal; atenderán especialmente a educación, salud, alimentación, vivienda y desarrollo productivo.
+C. Por participación ciudadana y planificación técnica estatal; atenderán especialmente a infraestructura vial, minería, energía y comercio exterior.
+D. Por acuerdo entre el nivel central y las autonomías; atenderán especialmente a educación, salud y servicio de la deuda pública externa del país.
+Respuesta correcta: B
+Explicación: El Artículo 321.II dispone que la determinación del gasto y de la inversión pública tendrá lugar por medio de mecanismos de participación ciudadana y de planificación técnica y ejecutiva estatal, y que las asignaciones atenderán especialmente a la educación, la salud, la alimentación, la vivienda y el desarrollo productivo.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 321, parágrafo II; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 325, ¿cuáles de las siguientes conductas serán penadas por ley como delitos económicos?
+A. La especulación, la competencia leal, el ahorro, la usura, el contrabando y la elusión tributaria.
+B. El acaparamiento, la inversión privada, el agio, el crédito comunitario y la evasión impositiva.
+C. La usura, el contrabando, la exportación de excedentes, el ahorro interno y la libre empresa.
+D. La especulación, el acaparamiento, el agio, la usura, el contrabando y la evasión impositiva.
+Respuesta correcta: D
+Explicación: El Artículo 325 dispone que el ilícito económico, la especulación, el acaparamiento, el agio, la usura, el contrabando, la evasión impositiva y otros delitos económicos conexos serán penados por ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 325; pág. PDF: 90. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [Constitución Política del Estado – CUARTA PARTE] ¿Qué deber establece el Artículo 342 respecto a los recursos naturales y la biodiversidad?
+A. Es deber exclusivo del Estado conservarlos, sin obligación alguna de parte de la población.
+B. Es deber de las empresas extractivas protegerlos, y el Estado solo fiscaliza su cumplimiento.
+C. Es deber de la población conservarlos, y el Estado los aprovecha sin límite de sustentabilidad ambiental.
+D. Es deber del Estado y de la población conservarlos, protegerlos y aprovecharlos sustentablemente.
+Respuesta correcta: D
+Explicación: El Artículo 342 dispone que es deber del Estado y de la población conservar, proteger y aprovechar de manera sustentable los recursos naturales y la biodiversidad, así como mantener el equilibrio del medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 342; pág. PDF: 94. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [Constitución Política del Estado – CUARTA PARTE] ¿Cuál de los siguientes constituye un recurso departamental según el Artículo 341?
+A. Los impuestos al comercio exterior del país.
+B. Las regalías departamentales creadas por ley.
+C. Las reservas internacionales del Banco Central.
+D. Las patentes municipales de actividad económica.
+Respuesta correcta: B
+Explicación: El Artículo 341.1 incluye las regalías departamentales creadas por ley entre los recursos departamentales; el mismo artículo enumera también la participación en impuestos a los hidrocarburos, las transferencias del TGN y los legados y donaciones, entre otros.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 341, numeral 1; pág. PDF: 94. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 340.III, ¿qué ocurre con los recursos universitarios recaudados por oficinas dependientes del nivel nacional?
+A. No serán centralizados en el Tesoro Nacional.
+B. Serán centralizados en el Tesoro Nacional.
+C. Serán transferidos al Tesoro Departamental.
+D. Serán administrados por el Ministerio del ramo.
+Respuesta correcta: A
+Explicación: El Artículo 340.III dispone que los recursos departamentales, municipales, de autonomías indígena originario campesinas, judiciales y universitarios recaudados por oficinas dependientes del nivel nacional no serán centralizados en el Tesoro Nacional.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 340, parágrafo III (pág. PDF 94). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [Constitución Política del Estado – CUARTA PARTE] ¿Por medio de qué entidad deben realizarse las operaciones financieras de la Administración Pública, según el Artículo 330.V?
+A. Por cualquier entidad bancaria privada autorizada por el Estado.
+B. Por el Banco Central de Bolivia en todos los niveles de gobierno.
+C. Por una entidad bancaria pública, cuya creación prevé la ley.
+D. Por las cooperativas de ahorro y crédito de cada jurisdicción.
+Respuesta correcta: C
+Explicación: El Artículo 330.V dispone que las operaciones financieras de la Administración Pública, en sus diferentes niveles de gobierno, serán realizadas por una entidad bancaria pública, cuya creación prevé la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 330, parágrafo V (pág. PDF 92). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [Constitución Política del Estado – CUARTA PARTE] ¿Qué derecho reconoce el Artículo 343 a la población en materia ambiental?
+A. Participar en la gestión ambiental y ser consultada e informada previamente sobre decisiones que puedan afectar el medio ambiente.
+B. Participar en la gestión ambiental solo mediante sus autoridades electas, sin derecho a información previa alguna.
+C. Ser informada después de adoptadas las decisiones ambientales, sin derecho a participar en la gestión ambiental.
+D. Vetar toda decisión ambiental del Estado mediante asambleas vecinales, sin necesidad de consulta ni información.
+Respuesta correcta: A
+Explicación: El Artículo 343 dispone que la población tiene derecho a la participación en la gestión ambiental y a ser consultada e informada previamente sobre decisiones que pudieran afectar a la calidad del medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 343; pág. PDF: 94. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 312, ¿qué obligaciones tienen todas las formas de organización económica?
+A. Generar utilidades para sus socios, contribuir al fisco y proteger el medio ambiente solo cuando lo exija la ley.
+B. Generar trabajo digno solo en el sector estatal, y proteger el medio ambiente en las áreas protegidas del país.
+C. Generar trabajo digno, contribuir a reducir desigualdades y erradicar la pobreza, y proteger el medio ambiente.
+D. Generar excedentes exportables, contribuir a la inversión extranjera y erradicar la competencia de mercado.
+Respuesta correcta: C
+Explicación: El Artículo 312.II obliga a todas las formas de organización económica a generar trabajo digno y contribuir a la reducción de las desigualdades y a la erradicación de la pobreza; el 312.III, a proteger el medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 312, parágrafos II y III; pág. PDF: 86. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [Constitución Política del Estado – CUARTA PARTE] ¿Qué interpretación corresponde al Artículo 320 respecto a la inversión extranjera?
+A. Se prioriza la inversión extranjera, y la boliviana se somete a arbitraje internacional para resolver sus conflictos con el Estado.
+B. Se equipara la inversión extranjera a la boliviana, y ambas pueden invocar situación de excepción ante tribunales internacionales.
+C. Se prioriza la inversión boliviana, pero la extranjera puede acudir a reclamaciones diplomáticas para obtener un trato más favorable.
+D. Se prioriza la inversión boliviana, y la extranjera se somete a la jurisdicción, leyes y autoridades bolivianas, sin reclamaciones diplomáticas.
+Respuesta correcta: D
+Explicación: El Artículo 320.I dispone que la inversión boliviana se priorizará frente a la extranjera; el 320.II, que toda inversión extranjera estará sometida a la jurisdicción, leyes y autoridades bolivianas, y nadie podrá invocar situación de excepción ni apelar a reclamaciones diplomáticas para obtener un tratamiento más favorable.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III: Políticas económicas. Art. 320, parágrafos I y II; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [Constitución Política del Estado – CUARTA PARTE] ¿Qué atribución reconoce el Artículo 321.V al Órgano Ejecutivo respecto a la información del gasto público?
+A. Acceso indirecto, con autorización legislativa, al gasto presupuestado de todo el sector público, excluidas las Fuerzas Armadas y la Policía Boliviana.
+B. Acceso directo solo al gasto ejecutado del nivel central, pues las autonomías y la Policía reservan su información presupuestaria propia.
+C. Acceso directo, a través del Ministerio del ramo, al gasto presupuestado y ejecutado de todo el sector público, incluidas Fuerzas Armadas y Policía.
+D. Acceso directo al gasto de las entidades autónomas, previa orden judicial, excluyendo la información de las Fuerzas Armadas por seguridad.
+Respuesta correcta: C
+Explicación: El Artículo 321.V dispone que el Órgano Ejecutivo, a través del Ministerio del ramo, tendrá acceso directo a la información del gasto presupuestado y ejecutado de todo el sector público, incluida la de las Fuerzas Armadas y la Policía Boliviana.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 321, parágrafo V; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [Constitución Política del Estado – CUARTA PARTE] ¿En qué condiciones autoriza la Asamblea Legislativa Plurinacional la contratación de deuda pública, según el Artículo 322?
+A. Cuando lo solicite el Órgano Ejecutivo, sin necesidad de demostrar capacidad de pago ni justificar técnicamente las condiciones del crédito solicitado.
+B. Cuando lo apruebe el Banco Central de Bolivia, con independencia de la capacidad de generar ingresos para cubrir el capital y los intereses.
+C. Cuando se trate de deuda interna, pues la externa no requiere autorización legislativa ni justificación técnica de sus condiciones.
+D. Cuando se demuestre capacidad de generar ingresos para cubrir capital e intereses y se justifiquen técnicamente las condiciones más ventajosas.
+Respuesta correcta: D
+Explicación: El Artículo 322.I dispone que la Asamblea autorizará la contratación de deuda pública cuando se demuestre la capacidad de generar ingresos para cubrir el capital y los intereses, y se justifiquen técnicamente las condiciones más ventajosas; el 322.II excluye de la deuda pública las obligaciones no autorizadas y garantizadas expresamente por la Asamblea.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 322, parágrafos I (págs. PDF 89-90) y II (pág. PDF 90). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 333, ¿en qué casos cede el derecho de confidencialidad de las operaciones financieras?
+A. Solo en procesos judiciales penales, previa autorización judicial expresa solicitada por el Ministerio Público en cada caso concreto sometido.
+B. En procesos judiciales, cuando se presuman delitos financieros, cuando se investiguen fortunas y en los demás casos que defina la ley.
+C. En ningún caso, pues la confidencialidad de las operaciones financieras es absoluta para personas naturales y jurídicas del país.
+D. Cuando lo solicite cualquier autoridad administrativa, aunque no se trate de procesos judiciales ni de delitos financieros presuntos.
+Respuesta correcta: B
+Explicación: El Artículo 333 dispone que las operaciones financieras gozan del derecho de confidencialidad, salvo en los procesos judiciales, en los casos en que se presuma comisión de delitos financieros, en los que se investiguen fortunas y los demás definidos por la ley; las instancias llamadas por ley a investigar pueden conocerlas sin autorización judicial.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 333; pág. PDF: 92. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [Constitución Política del Estado – CUARTA PARTE] ¿Cómo se dividen e invierten las rentas del Estado según el Artículo 340.I?
+A. En nacionales y departamentales únicamente, invertidas de forma centralizada por el Tesoro General de la Nación.
+B. En nacionales, departamentales, municipales e indígena originario campesinas, invertidas independientemente por sus Tesoros.
+C. En nacionales, departamentales y municipales, invertidas conjuntamente según el criterio del Ministerio del ramo.
+D. En públicas y privadas, invertidas independientemente por sus Tesoros conforme a la decisión de cada Concejo.
+Respuesta correcta: B
+Explicación: El Artículo 340.I dispone que las rentas del Estado se dividen en nacionales, departamentales, municipales e indígena originario campesinas, y se invertirán independientemente por sus Tesoros, conforme a sus respectivos presupuestos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 340, parágrafo I (pág. PDF 93). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [Constitución Política del Estado – CUARTA PARTE] ¿Cómo se interpreta el Artículo 353 respecto a los beneficios del aprovechamiento de los recursos naturales?
+A. Los beneficios corresponden en exclusiva a las empresas que explotan los recursos, previo pago de los impuestos y regalías de ley.
+B. Los beneficios se distribuyen por igual entre todos los departamentos, sin prioridad para los territorios productores.
+C. El pueblo tiene acceso equitativo a ellos, con participación prioritaria de los territorios donde se encuentran y de las NPIOC.
+D. El pueblo tiene acceso a ellos solo mediante el Tesoro Nacional, sin participación de las NPIOC ni de los territorios.
+Respuesta correcta: C
+Explicación: El Artículo 353 dispone que el pueblo boliviano tendrá acceso equitativo a los beneficios provenientes del aprovechamiento de todos los recursos naturales, y que se asignará una participación prioritaria a los territorios donde se encuentren estos recursos y a las naciones y pueblos indígena originario campesinos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 353; pág. PDF: 96. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [Constitución Política del Estado – CUARTA PARTE] ¿Qué consecuencias prevé el Artículo 359.II para los contratos que vulneren la propiedad estatal sobre los hidrocarburos?
+A. Serán nulos de pleno derecho, y quienes los acuerden, firmen, aprueben o ejecuten cometerán delito de traición a la patria.
+B. Serán anulables a pedido de parte, y quienes los firmen responderán solo con sanciones administrativas y pecuniarias.
+C. Serán válidos hasta su revisión legislativa, y quienes los ejecuten responderán por daño económico al Estado boliviano y a sus entidades.
+D. Serán nulos de pleno derecho, pero quienes los acuerden o firmen quedarán exentos de responsabilidad penal alguna.
+Respuesta correcta: A
+Explicación: El Artículo 359.II dispone que ningún contrato, acuerdo o convenio podrá vulnerar lo establecido en ese artículo; en caso de vulneración, los contratos serán nulos de pleno derecho y quienes los hayan acordado, firmado, aprobado o ejecutado cometerán delito de traición a la patria.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 359, parágrafo II; pág. PDF: 97. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [Constitución Política del Estado – CUARTA PARTE] ¿Qué alcance tiene el Artículo 378.II sobre la cadena productiva energética?
+A. Su desarrollo es facultad exclusiva de las empresas privadas, que pueden obtener su concesión por licitación pública.
+B. Su desarrollo es facultad privativa del Estado; no puede sujetarse exclusivamente a intereses privados ni concesionarse.
+C. Su desarrollo es facultad compartida con los departamentos, que pueden concesionarla a intereses privados por ley.
+D. Su desarrollo es facultad privativa del Estado, pero puede concesionarse íntegramente a empresas privadas extranjeras por ley expresa.
+Respuesta correcta: B
+Explicación: El Artículo 378.II establece que es facultad privativa del Estado el desarrollo de la cadena productiva energética en las etapas de generación, transporte y distribución, a través de diversas formas de empresa con participación y control social, y que la cadena no podrá estar sujeta exclusivamente a intereses privados ni podrá concesionarse.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VI: Energía. Art. 378, parágrafo II; pág. PDF: 101. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [Constitución Política del Estado – CUARTA PARTE] Donde se sobreponen un área protegida y un territorio indígena originario campesino, ¿cómo se realiza la gestión según el Artículo 385.II?
+A. De forma exclusiva por el nivel central, sin intervención de las NPIOC ni de sus normas y procedimientos propios.
+B. De forma exclusiva por las NPIOC, sin sujeción al objeto de creación del área protegida ni a la política estatal.
+C. De forma compartida con los gobiernos municipales, que aplican sus Cartas Orgánicas por encima de normas propias.
+D. De forma compartida, con sujeción a las normas propias de las NPIOC y respetando el objeto de creación del área.
+Respuesta correcta: D
+Explicación: El Artículo 385.II dispone que, donde exista sobreposición de áreas protegidas y territorios indígena originario campesinos, la gestión compartida se realizará con sujeción a las normas y procedimientos propios de las NPIOC, respetando el objeto de creación de estas áreas.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección III: Áreas protegidas. Art. 385, parágrafo II; pág. PDF: 103. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [Constitución Política del Estado – CUARTA PARTE] Según el Artículo 393, ¿en qué condición reconoce, protege y garantiza el Estado la propiedad individual y comunitaria o colectiva de la tierra?
+A. En tanto esté inscrita en Derechos Reales, sin importar el uso que se haga de la tierra.
+B. En tanto cumpla una función social o una función económica social, según corresponda.
+C. En tanto su titular sea boliviano de nacimiento y resida en el departamento del predio.
+D. En tanto genere renta por su venta o arrendamiento, conforme a las reglas del mercado.
+Respuesta correcta: B
+Explicación: El Artículo 393 dispone que el Estado reconoce, protege y garantiza la propiedad individual y comunitaria o colectiva de la tierra, en tanto cumpla una función social o una función económica social, según corresponda.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 393; pág. PDF: 104. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [Constitución Política del Estado – CUARTA PARTE] ¿Qué diferencia establece el Artículo 397 entre función social y función económica social?
+A. La social es el empleo productivo de la tierra empresarial; la económica social, el aprovechamiento por pueblos indígenas y pequeños propietarios.
+B. La social se aplica solo a la propiedad estatal; la económica social, a toda propiedad privada sin distinción de superficie ni de naturaleza.
+C. La social es el aprovechamiento sustentable por pueblos indígenas y pequeñas propiedades; la económica social, el empleo productivo de la tierra.
+D. La social es el pago de impuestos sobre la tierra; la económica social, la generación de empleo en la propiedad agraria de tipo empresarial.
+Respuesta correcta: C
+Explicación: El Artículo 397.II entiende la función social como el aprovechamiento sustentable de la tierra por pueblos y comunidades indígena originario campesinos y en pequeñas propiedades; el 397.III entiende la función económica social como el empleo sustentable de la tierra en actividades productivas, conforme a su capacidad de uso mayor.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 397, parágrafos II y III (pág. PDF 106). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [Constitución Política del Estado – CUARTA PARTE] ¿Qué distingue la reversión de la expropiación de la tierra, según el Artículo 401?
+A. La reversión procede por necesidad y utilidad pública con indemnización; la expropiación, por incumplir la FES o por tenencia latifundista.
+B. La reversión procede por incumplir la FES o por latifundio; la expropiación, por necesidad y utilidad pública con indemnización justa previa.
+C. La reversión procede con indemnización justa previa; la expropiación, sin indemnización alguna por tratarse de tierras improductivas del país.
+D. La reversión procede solo en tierras fiscales; la expropiación, solo en propiedades comunitarias que no cumplan su función social propia.
+Respuesta correcta: B
+Explicación: El Artículo 401.I establece que el incumplimiento de la función económica social o la tenencia latifundista serán causales de reversión, y la tierra pasará a dominio del pueblo boliviano; el 401.II, que la expropiación procederá por causa de necesidad y utilidad pública, previo pago de una indemnización justa.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 401, parágrafos I y II; pág. PDF: 106. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [Constitución Política del Estado – CUARTA PARTE] ¿Qué diferencia existe entre la pequeña propiedad y la propiedad colectiva según el Artículo 394?
+A. Ambas son divisibles y embargables; la colectiva es además prescriptible, alienable y reversible por ley.
+B. La pequeña es imprescriptible e inalienable; la colectiva es divisible y está sujeta a impuestos agrarios de ley.
+C. Ambas son indivisibles e inembargables; la colectiva es además imprescriptible, inalienable e irreversible.
+D. La pequeña paga impuestos a la propiedad agraria; la colectiva es indivisible, embargable y transferible.
+Respuesta correcta: C
+Explicación: El Artículo 394.II declara la pequeña propiedad indivisible y patrimonio familiar inembargable, sin pago de impuestos agrarios; el 394.III declara la propiedad colectiva indivisible, imprescriptible, inembargable, inalienable e irreversible, también sin pago de impuestos a la propiedad agraria.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 394, parágrafos II y III; pág. PDF: 105. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [Constitución Política del Estado – CUARTA PARTE] ¿Qué opción diferencia correctamente las funciones de YPFB y de la EBIH?
+A. La EBIH es la única facultada para la cadena productiva y la comercialización; YPFB ejecuta la industrialización de los hidrocarburos del país.
+B. YPFB regula y fiscaliza toda la cadena productiva; la EBIH comercializa la producción en nombre y representación del Estado.
+C. YPFB ejecuta solo la exploración y explotación; la EBIH es la única facultada para comercializar y exportar los hidrocarburos.
+D. YPFB es la única facultada para la cadena productiva y la comercialización; la EBIH ejecuta la industrialización de los hidrocarburos.
+Respuesta correcta: D
+Explicación: El Artículo 361.I dispone que YPFB es la única facultada para realizar las actividades de la cadena productiva de hidrocarburos y su comercialización; el 363.I establece que la EBIH será responsable de ejecutar la industrialización de los hidrocarburos. La regulación y fiscalización corresponden a otra institución autárquica (365).
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 361.I (pág. PDF 97), Art. 363.I y Art. 365 (pág. PDF 98). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [Constitución Política del Estado – CUARTA PARTE] ¿Qué diferencia establecen los Artículos 326 y 328 entre el Órgano Ejecutivo y el Banco Central de Bolivia en política monetaria?
+A. El Ejecutivo determina los objetivos de la política monetaria y cambiaria; el Banco Central determina y ejecuta la política monetaria.
+B. El Banco Central determina los objetivos de la política monetaria; el Ejecutivo determina y ejecuta la política monetaria del país en su conjunto.
+C. El Ejecutivo administra las reservas internacionales; el Banco Central determina los objetivos de la política cambiaria nacional.
+D. Ambos determinan los objetivos de la política monetaria, pero solo el Ejecutivo autoriza la emisión de la moneda nacional.
+Respuesta correcta: A
+Explicación: El Artículo 326.I dispone que el Estado, a través del Órgano Ejecutivo, determinará los objetivos de la política monetaria y cambiaria, en coordinación con el Banco Central; el Artículo 328.I atribuye al Banco Central determinar y ejecutar la política monetaria, ejecutar la cambiaria, regular el sistema de pagos, autorizar la emisión de moneda y administrar las reservas internacionales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección II: Política monetaria. Art. 326.I y Art. 328.I (pág. PDF 91). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+36. [Constitución Política del Estado – CUARTA PARTE] Dos editoriales privadas acuerdan repartirse con exclusividad la producción y venta de textos escolares en todo el país. ¿Qué análisis corresponde según el Artículo 314?
+A. Es válido: la libertad de empresa permite a los privados acordar la distribución del mercado de bienes y servicios.
+B. Es válido si el acuerdo se registra ante el Estado y se respetan los precios máximos fijados para los textos.
+C. Está prohibido: se proscriben el monopolio, el oligopolio privado y todo acuerdo privado que pretenda control y exclusividad.
+D. Está prohibido solo si las editoriales son extranjeras, pues el acuerdo entre bolivianas es una práctica permitida.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 314 prohíbe el monopolio y el oligopolio privado, así como cualquier otra forma de asociación o acuerdo de personas naturales o jurídicas privadas, bolivianas o extranjeras, que pretendan el control y la exclusividad en la producción y comercialización de bienes y servicios.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 314; pág. PDF: 87. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+37. [Constitución Política del Estado – CUARTA PARTE] Un gobierno departamental crea un impuesto que grava bienes localizados fuera de su jurisdicción territorial. ¿Qué análisis es correcto?
+A. Es válido: el gobierno departamental puede gravar bienes en otros departamentos si sus propietarios residen en su territorio departamental.
+B. Excede los límites constitucionales: no pueden crearse impuestos sobre bienes o actividades localizados fuera de la jurisdicción.
+C. Es válido si la Asamblea Departamental lo aprueba por dos tercios, pues el límite territorial rige solo para las tasas.
+D. Excede los límites solo si el impuesto grava bienes municipales, pues los bienes de otros departamentos pueden gravarse.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 323.IV.2 dispone que los gobiernos autónomos no podrán crear impuestos que graven bienes, actividades, rentas o patrimonios localizados fuera de su jurisdicción territorial, salvo las rentas generadas por sus ciudadanos o empresas en el exterior; la prohibición se extiende a tasas, patentes y contribuciones especiales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 323, parágrafo IV, numeral 2; pág. PDF: 90. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+38. [Constitución Política del Estado – CUARTA PARTE] Un municipio crea una tasa de transporte escolar que exonera a sus residentes y la cobra solo a estudiantes de otros municipios. ¿Qué análisis corresponde?
+A. Es contraria a la Constitución: no pueden crearse tributos que generen privilegios para residentes discriminando a quienes no lo son.
+B. Es válida: el municipio puede favorecer a sus residentes, pues la tasa financia un servicio de su propia jurisdicción.
+C. Es válida si el Concejo la aprueba por dos tercios, pues la prohibición de privilegios rige solo para los impuestos.
+D. Es contraria a la Constitución solo si los estudiantes no residentes provienen de otro departamento del país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 323.IV.4 dispone que los gobiernos autónomos no podrán crear impuestos que generen privilegios para sus residentes discriminando a los que no lo son, y que esta prohibición se hace extensiva a las tasas, patentes y contribuciones especiales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 323, parágrafo IV, numeral 4; pág. PDF: 90. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+39. [Constitución Política del Estado – CUARTA PARTE] Un organismo multilateral condiciona un préstamo a que Bolivia modifique su política económica interna, y una autoridad acepta la condición. ¿Qué análisis es correcto?
+A. Es válido: los préstamos multilaterales justifican condicionamientos sobre la política económica interna del Estado.
+B. Es válido si el préstamo es aprobado por la Asamblea, pues la aprobación legislativa convalida cualquier condición.
+C. Es contrario a la Constitución solo si el condicionamiento proviene de un banco privado y no de un multilateral.
+D. Es contrario a la Constitución: el Estado no acepta imposiciones ni condicionamientos externos sobre su política económica interna.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 320.IV dispone que el Estado es independiente en todas las decisiones de política económica interna y no aceptará imposiciones ni condicionamientos sobre esta política por parte de estados, bancos o instituciones financieras bolivianas o extranjeras, entidades multilaterales ni empresas transnacionales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III: Políticas económicas. Art. 320, parágrafo IV; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+40. [Constitución Política del Estado – CUARTA PARTE] Un convenio otorga a una empresa extranjera condiciones tributarias más beneficiosas que las vigentes para empresas bolivianas del mismo rubro. ¿Qué análisis corresponde?
+A. Es válido: el Estado puede conceder incentivos superiores a la inversión extranjera para atraer capitales al país.
+B. Vulnera el Artículo 320.III: no se pueden otorgar a empresas extranjeras condiciones más beneficiosas que a los bolivianos.
+C. Es válido si las condiciones beneficiosas se limitan a un plazo determinado y lo aprueba el Ministerio del ramo.
+D. Vulnera el Artículo 320.III solo si la empresa extranjera opera en el sector de recursos naturales estratégicos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 320.III dispone que las relaciones económicas con estados o empresas extranjeras se realizarán en condiciones de independencia, respeto mutuo y equidad, y que no se podrá otorgar a Estados o empresas extranjeras condiciones más beneficiosas que las establecidas para los bolivianos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III: Políticas económicas. Art. 320, parágrafo III; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+41. [Constitución Política del Estado – CUARTA PARTE] Una empresa privada boliviana inscribe en un mercado de valores la propiedad de reservas de recursos naturales para obtener financiamiento. ¿Qué análisis es correcto?
+A. Es válido: las empresas bolivianas pueden inscribir reservas en mercados de valores, a diferencia de las extranjeras.
+B. Es válido si la operación es autorizada por la institución de regulación de bancos y entidades financieras del país.
+C. Está prohibido: nadie puede inscribir la propiedad de los recursos naturales en mercados de valores ni titularizarlos.
+D. Está prohibido solo para las reservas de hidrocarburos, pues las mineras pueden titularizarse en el mercado de valores.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 357 dispone que ninguna persona ni empresa extranjera, ni persona o empresa privada boliviana, podrá inscribir la propiedad de los recursos naturales en mercados de valores ni utilizarlos para operaciones de titularización o seguridad; la anotación y registro de reservas es atribución exclusiva del Estado.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 357; pág. PDF: 97. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+42. [Constitución Política del Estado – CUARTA PARTE] Un gobierno municipal propone concesionar a una empresa privada el servicio de agua potable de un distrito donde funcionan varias unidades educativas. ¿Qué análisis corresponde?
+A. Es válido: la concesión de servicios de agua es competencia exclusiva municipal, sujeta solo a licitación pública previa.
+B. Es válido si la concesión garantiza tarifas sociales para las unidades educativas y los servicios de salud del distrito.
+C. Es inconstitucional solo si la empresa es extranjera, pues la concesión a empresas privadas bolivianas está permitida.
+D. Es inconstitucional: los recursos hídricos y sus servicios no serán concesionados y están sujetos a licencias, registros y autorizaciones.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 373.II dispone que los recursos hídricos no podrán ser objeto de apropiaciones privadas y que tanto ellos como sus servicios no serán concesionados, sujetos a un régimen de licencias, registros y autorizaciones conforme a ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. V: Recursos hídricos. Art. 373, parágrafo II; pág. PDF: 100. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+43. [Constitución Política del Estado – CUARTA PARTE] Una familia que recibió tierras fiscales en dotación decide venderlas para financiar los estudios de sus hijos. ¿Qué análisis es correcto según el Artículo 395.II?
+A. No es posible: se prohíben la compraventa, la permuta y la donación de tierras entregadas en dotación.
+B. Es posible si los recursos se destinan a educación, por ser un fin prioritario del gasto público.
+C. Es posible después de diez años de posesión, cuando la dotación se consolida como propiedad plena e individual.
+D. No es posible venderlas, pero sí permutarlas o donarlas a otra familia campesina de la comunidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 395.II prohíbe las dobles dotaciones y la compraventa, permuta y donación de tierras entregadas en dotación.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 395, parágrafo II; pág. PDF: 105. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+44. [Constitución Política del Estado – CUARTA PARTE] Una fundación extranjera solicita adquirir tierras del Estado para construir un internado rural. ¿Qué análisis corresponde según el Artículo 396.II?
+A. Puede si el destino es educativo, pues la prohibición alcanza solo a fines lucrativos o productivos.
+B. No puede: las extranjeras y los extranjeros bajo ningún título podrán adquirir tierras del Estado.
+C. Puede si cuenta con autorización del Servicio Boliviano de Reforma Agraria y del Ministerio del ramo.
+D. No puede comprarlas, pero sí recibirlas en dotación por tratarse de una entidad sin fines de lucro.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 396.II dispone que las extranjeras y los extranjeros bajo ningún título podrán adquirir tierras del Estado.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 396, parágrafo II; pág. PDF: 105. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+45. [Constitución Política del Estado – CUARTA PARTE] Una autoridad pretende prohibir la exhibición de hojas de coca en una feria cultural escolar, afirmando que en su estado natural es estupefaciente. ¿Qué análisis es correcto?
+A. Es correcto: la coca en su estado natural es estupefaciente y su exhibición está prohibida en todo establecimiento educativo.
+B. Es correcto si la feria no cuenta con autorización previa, pues la exhibición de coca natural requiere licencia de la autoridad competente.
+C. Es errado: el Estado protege la coca originaria y ancestral como patrimonio cultural y, en su estado natural, no es estupefaciente.
+D. Es errado solo si la feria se realiza en una autonomía indígena, pues fuera de ella la coca natural se considera estupefaciente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 384 dispone que el Estado protege a la coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad y factor de cohesión social, y que en su estado natural no es estupefaciente; su revalorización, producción, comercialización e industrialización se rigen por ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección II: Coca. Art. 384; pág. PDF: 102. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [Constitución Política del Estado – CUARTA PARTE] Debe designarse a la máxima autoridad de la institución de regulación de bancos y entidades financieras. ¿Cómo se realiza la designación según el Artículo 332.II?
+A. La designa la Asamblea Legislativa Plurinacional por dos tercios, de entre una terna propuesta por el Banco Central.
+B. La designa el Directorio del Banco Central de Bolivia, de entre una terna propuesta por el Ministerio de Economía.
+C. La designa la Presidenta o el Presidente del Estado, de entre una terna propuesta por la Asamblea Legislativa Plurinacional.
+D. La elige la ciudadanía por voto universal, de entre los candidatos preseleccionados por la Asamblea Legislativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 332.II dispone que la máxima autoridad de la institución de regulación de bancos y entidades financieras será designada por la Presidenta o el Presidente del Estado, de entre una terna propuesta por la Asamblea Legislativa Plurinacional, conforme a la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 332, parágrafo II; pág. PDF: 92. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [Constitución Política del Estado – CUARTA PARTE] Un miembro del Directorio del Banco Central concluye su periodo y pretende ser reelegido. ¿Qué dispone el Artículo 329.II?
+A. Es posible por una sola vez: los miembros del Directorio duran cinco años y pueden ser reelegidos una vez.
+B. Es posible sin límite: los miembros del Directorio duran seis años y pueden ser reelegidos indefinidamente por la Asamblea.
+C. No es posible: los miembros del Directorio duran diez años en sus funciones, sin posibilidad de reelección.
+D. No es posible: los miembros del Directorio duran cinco años en sus funciones, sin posibilidad de reelección.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 329.II dispone que los miembros del Directorio del Banco Central de Bolivia durarán en sus funciones cinco años, sin posibilidad de reelección, y serán considerados servidoras y servidores públicos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección II: Política monetaria. Art. 329, parágrafo II; pág. PDF: 91. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [Constitución Política del Estado – CUARTA PARTE] El Órgano Ejecutivo debe presentar el proyecto de Presupuesto General, que incluye los recursos de educación para la siguiente gestión. ¿Qué plazo fija el Artículo 321.III?
+A. Al menos dos meses antes de la finalización de cada año fiscal.
+B. Al menos seis meses antes de la finalización de cada año fiscal.
+C. Al menos dos meses después del inicio de cada nuevo año fiscal.
+D. Al menos un mes antes de la finalización de cada año fiscal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 321.III dispone que el Órgano Ejecutivo presentará a la Asamblea Legislativa Plurinacional, al menos dos meses antes de la finalización de cada año fiscal, el proyecto de ley del Presupuesto General para la siguiente gestión, que incluirá a todas las entidades del sector público.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 321, parágrafo III; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [Constitución Política del Estado – CUARTA PARTE] Una entidad pública educativa pretende pagar a un proveedor nacional en moneda extranjera por la compra de mobiliario. ¿Qué dispone el Artículo 326.II?
+A. Las transacciones públicas pueden realizarse en cualquier moneda convertible.
+B. Las transacciones públicas en el país se realizarán en moneda nacional.
+C. Las transacciones públicas se realizan en moneda extranjera si lo pide el proveedor.
+D. Las transacciones públicas se realizan en la moneda que fije cada entidad autónoma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 326.II dispone que las transacciones públicas en el país se realizarán en moneda nacional.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección II: Política monetaria. Art. 326, parágrafo II; pág. PDF: 91. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [Constitución Política del Estado – CUARTA PARTE] Una asociación de madres y padres pretende captar ahorros de sus miembros y otorgarles préstamos de manera habitual. ¿Qué dispone el Artículo 331?
+A. Esas actividades son de interés privado y pueden ejercerse libremente entre los miembros de una asociación civil.
+B. Esas actividades son de interés público y solo pueden ejercerse previa autorización del Estado, conforme con la ley.
+C. Esas actividades requieren solo la aprobación de la asamblea de socios, sin intervención ni autorización alguna del Estado.
+D. Esas actividades son de interés público, pero las asociaciones sin fines de lucro quedan exentas de autorización.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 331 dispone que las actividades de intermediación financiera, la prestación de servicios financieros y cualquier otra actividad relacionada con el manejo, aprovechamiento e inversión del ahorro son de interés público y solo pueden ser ejercidas previa autorización del Estado, conforme con la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 331; pág. PDF: 92. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [Constitución Política del Estado – CUARTA PARTE] En una cooperativa de servicios públicos que provee energía a escuelas rurales se elegirán autoridades de administración y vigilancia. ¿Qué dispone el Artículo 335?
+A. Se eligen según las instrucciones del gobierno municipal, sin supervisión externa; la cooperativa puede tener fines de lucro y no está sujeta a control gubernamental alguno.
+B. Se eligen por designación del Ministerio del ramo, con supervisión de la Contraloría; la cooperativa persigue fines de lucro en beneficio de sus socios.
+C. Se eligen según sus normas estatutarias, sin supervisión alguna; la cooperativa es de interés privado y está exenta del control gubernamental.
+D. Se eligen según sus normas estatutarias, con supervisión del Órgano Electoral; la cooperativa no tiene fines de lucro y está sometida a control gubernamental.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 335 dispone que las cooperativas de servicios públicos serán organizaciones de interés colectivo, sin fines de lucro, sometidas a control gubernamental y administradas democráticamente; la elección de sus autoridades de administración y vigilancia se realiza según sus normas estatutarias y es supervisada por el Órgano Electoral Plurinacional.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección IV: Políticas sectoriales. Art. 335; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [Constitución Política del Estado – CUARTA PARTE] Una unidad educativa organiza una feria con artesanos locales para revalorizar la producción con identidad cultural. ¿Qué disposición constitucional se relaciona directamente con esa iniciativa?
+A. El Artículo 314, por el que el Estado otorgará exclusividad a los artesanos en la comercialización de bienes.
+B. El Artículo 334.3, por el que el Estado protegerá y fomentará la producción artesanal con identidad cultural.
+C. El Artículo 334.3, por el que el Estado fijará los precios de la producción artesanal con identidad cultural.
+D. El Artículo 338, por el que el Estado cuantificará la producción artesanal en las cuentas públicas nacionales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 334.3 dispone que, en el marco de las políticas sectoriales, el Estado protegerá y fomentará la producción artesanal con identidad cultural.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección IV: Políticas sectoriales. Art. 334, numeral 3 (pág. PDF 92). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [Constitución Política del Estado – CUARTA PARTE] En un proyecto de educación económica, se discute si el trabajo del hogar debe considerarse en la contabilidad del Estado. ¿Qué dispone el Artículo 338?
+A. El Estado lo considera una actividad privada sin valor económico, excluida de las cuentas públicas del país y de sus entidades.
+B. El Estado reconoce su valor económico como fuente de riqueza, que deberá cuantificarse en las cuentas públicas.
+C. El Estado reconoce su valor social, pero excluye expresamente su cuantificación en las cuentas públicas.
+D. El Estado reconoce su valor económico solo cuando es remunerado y figura en contratos laborales escritos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 338 dispone que el Estado reconoce el valor económico del trabajo del hogar como fuente de riqueza y que deberá cuantificarse en las cuentas públicas.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección IV: Políticas sectoriales. Art. 338; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [Constitución Política del Estado – CUARTA PARTE] Se descubre un delito ambiental cometido hace veinte años cerca de una unidad educativa, y los responsables alegan prescripción. ¿Qué dispone el Artículo 347.I?
+A. Procede la prescripción: los delitos ambientales prescriben a los diez años, salvo que haya víctimas identificadas.
+B. Procede la prescripción, pero subsiste solo la responsabilidad civil por los daños ambientales históricos causados.
+C. No procede la prescripción: se declara la imprescriptibilidad de los delitos ambientales y la responsabilidad por daños históricos.
+D. No procede la prescripción solo si el daño afecta a un área protegida declarada patrimonio natural del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 347.I dispone que el Estado y la sociedad promoverán la mitigación de los efectos nocivos al medio ambiente y de los pasivos ambientales, y declara la responsabilidad por los daños ambientales históricos y la imprescriptibilidad de los delitos ambientales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 347, parágrafo I; pág. PDF: 95. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [Constitución Política del Estado – CUARTA PARTE] Una industria que transformará recursos naturales junto a una zona escolar pide ser eximida de la evaluación de impacto ambiental por su tamaño reducido. ¿Qué dispone el Artículo 345.2?
+A. No procede: la evaluación de impacto ambiental se aplica sin excepción y de manera transversal a esas actividades.
+B. Procede: la evaluación de impacto ambiental se exige solo a industrias de gran escala y a la minería extractiva de gran escala.
+C. Procede si la industria se compromete a reparar los daños, pues la reparación sustituye a la evaluación previa.
+D. No procede, salvo que el gobierno municipal autorice la exención mediante ordenanza aprobada por dos tercios.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 345.2 dispone que las políticas de gestión ambiental se basan en la aplicación de los sistemas de evaluación de impacto ambiental y el control de calidad ambiental, sin excepción y de manera transversal a toda actividad de producción de bienes y servicios que use, transforme o afecte a los recursos naturales y al medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 345, numeral 2; pág. PDF: 95. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [Constitución Política del Estado – CUARTA PARTE] Se otorga un título sobre una reserva fiscal sin autorización expresa por necesidad estatal y utilidad pública. ¿Qué consecuencia prevé el Artículo 350?
+A. El título es anulable a pedido de parte.
+B. El título es válido hasta su revisión judicial.
+C. El título se convalida con el pago de regalías.
+D. El título otorgado es nulo de pleno derecho.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 350 dispone que cualquier título otorgado sobre reserva fiscal será nulo de pleno derecho, salvo autorización expresa por necesidad estatal y utilidad pública, de acuerdo con la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 350; pág. PDF: 96. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [Constitución Política del Estado – CUARTA PARTE] Un titular de derechos de aprovechamiento de recursos naturales incumple reiteradamente las regulaciones ambientales. ¿Qué consecuencia prevé el Artículo 358?
+A. Una multa administrativa, sin afectar los derechos de aprovechamiento.
+B. La suspensión temporal de sus derechos por un periodo máximo de un año.
+C. La transferencia obligatoria de sus derechos a una empresa estatal mixta.
+D. La reversión o anulación de los derechos de uso o aprovechamiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 358 dispone que los derechos de uso y aprovechamiento sobre los recursos naturales están sujetos a control periódico del cumplimiento de las regulaciones técnicas, económicas y ambientales, y que el incumplimiento de la ley dará lugar a la reversión o anulación de esos derechos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 358; pág. PDF: 97. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [Constitución Política del Estado – CUARTA PARTE] El titular de un área de explotación minera otorgada por contrato fallece, y sus herederos pretenden recibirla por sucesión. ¿Qué dispone el Artículo 371.I?
+A. Es posible: las áreas mineras se transmiten por sucesión, aunque no puedan venderse ni embargarse por terceros acreedores.
+B. No es posible: esas áreas son intransferibles, inembargables e intransmisibles por sucesión hereditaria.
+C. Es posible si los herederos acreditan experiencia minera y cumplen la función económica social.
+D. No es posible venderlas, pero sí transmitirlas por sucesión si lo aprueba la entidad autárquica.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 371.I dispone que las áreas de explotación minera otorgadas por contrato son intransferibles, inembargables e intransmisibles por sucesión hereditaria.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IV: Minería y metalurgia. Art. 371, parágrafo I; pág. PDF: 99. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [Constitución Política del Estado – CUARTA PARTE] En una unidad educativa se mantiene en cautiverio, sin autorización, un ejemplar de especie silvestre obtenido ilegalmente. ¿Qué dispone el Artículo 383?
+A. Se sancionará penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
+B. Se permite la tenencia de especies silvestres con fines educativos, sin necesidad de autorización.
+C. Se sanciona solo el tráfico internacional de especies, no su tenencia dentro del territorio nacional.
+D. Se sanciona administrativamente la tenencia ilegal, reservándose la sanción penal solo al tráfico.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 383 dispone que el Estado establecerá medidas de restricción sobre los usos extractivos de los recursos de la biodiversidad y que se sancionará penalmente la tenencia, manejo y tráfico ilegal de especies de la biodiversidad.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección I: Biodiversidad. Art. 383; pág. PDF: 102. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [Constitución Política del Estado – CUARTA PARTE] Para ampliar una escuela en la amazonia se propone talar árboles de castaño sin que exista un caso de interés público regulado por ley. ¿Qué dispone el Artículo 392.II?
+A. La tala del castaño está permitida para obras educativas, por ser de interés social prioritario del Estado.
+B. La tala de la siringa y del castaño será penalizada, salvo en casos de interés público regulados por la ley.
+C. La tala del castaño requiere solo autorización municipal, pues la penalización alcanza únicamente a la siringa.
+D. La tala de la siringa y del castaño es libre en predios privados, aunque esté prohibida en áreas protegidas.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 392.II reconoce el valor histórico cultural y económico de la siringa y del castaño, símbolos de la amazonia boliviana, y dispone que su tala será penalizada, salvo en los casos de interés público regulados por la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VIII: Amazonia. Art. 392, parágrafo II; pág. PDF: 104. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+61. [Constitución Política del Estado – CUARTA PARTE] Caso: un servidor de una entidad educativa estatal usa computadoras de la institución en su negocio particular de impresiones, fuera del horario de trabajo. ¿Cómo se resuelve según el Artículo 339.II?
+A. Es válido fuera del horario laboral, pues los bienes del Estado pueden emplearse en provecho particular sin afectar el servicio de la entidad pública.
+B. Es contrario a la Constitución: los bienes del Estado y de las entidades públicas no podrán emplearse en provecho particular alguno.
+C. Es válido si el servidor paga un monto por el uso, pues los bienes públicos pueden arrendarse a servidores de la entidad.
+D. Es contrario a la Constitución solo si los equipos sufren daños, pues el uso particular sin daño no está prohibido por ella.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 339.II dispone que los bienes de patrimonio del Estado y de las entidades públicas constituyen propiedad del pueblo boliviano, inviolable, inembargable, imprescriptible e inexpropiable, y que no podrán ser empleados en provecho particular alguno.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 339, parágrafo II; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+62. [Constitución Política del Estado – CUARTA PARTE] Caso: un exservidor causó hace quince años un daño económico al Estado en la administración de una obra escolar y alega que la deuda prescribió. ¿Cómo se resuelve?
+A. Prescribe: las deudas por daños al Estado prescriben a los diez años de causado el daño.
+B. Prescribe si el exservidor ya no ejerce funciones públicas y no fue demandado en su gestión.
+C. No prescribe solo si el daño supera el monto fijado por ley para delitos de corrupción.
+D. No prescribe: las deudas por daños económicos causados al Estado no prescriben.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 324 dispone que no prescribirán las deudas por daños económicos causados al Estado.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 324; pág. PDF: 90. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+63. [Constitución Política del Estado – CUARTA PARTE] Caso: una empresa minera vierte residuos que contaminan la fuente de agua de una comunidad con escuela. ¿Qué obligaciones le impone el Artículo 347.II?
+A. Pagar una multa administrativa única, quedando liberada de cualquier otra obligación de reparación ambiental posterior al daño.
+B. Indemnizar solo a los afectados directos, sin obligación de remediar el daño al medio ambiente de la zona.
+C. Suspender sus actividades por treinta días, sin obligación de resarcir los daños a la salud de las personas.
+D. Evitar, minimizar, mitigar, remediar, reparar y resarcir los daños al medio ambiente y a la salud de las personas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 347.II dispone que quienes realicen actividades de impacto sobre el medio ambiente deberán, en todas las etapas de la producción, evitar, minimizar, mitigar, remediar, reparar y resarcir los daños que se ocasionen al medio ambiente y a la salud de las personas, y establecer medidas de seguridad frente a los pasivos ambientales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 347, parágrafo II; pág. PDF: 95. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+64. [Constitución Política del Estado – CUARTA PARTE] Caso: el Estado proyecta explotar recursos naturales en el territorio de una comunidad indígena donde funciona una escuela comunitaria. ¿Qué exige el Artículo 352?
+A. Una notificación posterior a la comunidad, una vez otorgada la licencia, mediante publicación en su idioma y en castellano oficial del Estado.
+B. Un acuerdo con el gobierno municipal, que representa a la comunidad indígena en todo proceso de explotación de recursos naturales.
+C. Un proceso de consulta libre, previa e informada, convocado por el Estado, respetando las normas y procedimientos propios de la comunidad.
+D. Un proceso de consulta convocado por la empresa interesada, cuyos resultados se someten a la aprobación del Ministerio del ramo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 352 dispone que la explotación de recursos naturales en determinado territorio estará sujeta a un proceso de consulta a la población afectada, convocada por el Estado, libre, previa e informada, y que en las NPIOC la consulta tendrá lugar respetando sus normas y procedimientos propios.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 352; pág. PDF: 96. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+65. [Constitución Política del Estado – CUARTA PARTE] Caso: una comunidad indígena reclama el uso exclusivo de los recursos naturales renovables de su territorio, donde también se ubica su escuela. ¿Qué reconoce el Artículo 403.I?
+A. La propiedad privada individual de cada familia sobre los recursos renovables, sin intervención de la estructura comunitaria.
+B. El uso compartido de los recursos renovables con el gobierno departamental, que define las condiciones de aprovechamiento.
+C. La integralidad del territorio, que incluye la propiedad exclusiva de los recursos no renovables existentes en su subsuelo.
+D. La integralidad del territorio, que incluye el uso y aprovechamiento exclusivo de los recursos renovables en las condiciones de la ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 403.I reconoce la integralidad del territorio indígena originario campesino, que incluye el derecho a la tierra y al uso y aprovechamiento exclusivo de los recursos naturales renovables en las condiciones determinadas por la ley, así como la consulta previa y la participación en los beneficios de los no renovables.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 403, parágrafo I; pág. PDF: 107. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+66. [Constitución Política del Estado – CUARTA PARTE] Caso: una comunidad indígena situada dentro de un área forestal enfrenta a operadores externos que pretenden aprovechar el bosque. ¿Qué dispone el Artículo 388?
+A. La comunidad comparte el aprovechamiento con los operadores externos que obtengan una autorización municipal.
+B. La comunidad es titular del derecho exclusivo de aprovechamiento y gestión del área forestal, de acuerdo con la ley.
+C. La comunidad solo tiene derecho de uso tradicional, y la gestión forestal corresponde al gobierno departamental respectivo y competente.
+D. La comunidad es titular del aprovechamiento, pero la gestión del área corresponde a los operadores particulares.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 388 dispone que las comunidades indígena originario campesinas situadas dentro de áreas forestales serán titulares del derecho exclusivo de su aprovechamiento y de su gestión, de acuerdo con la ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección IV: Recursos forestales. Art. 388; pág. PDF: 103. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+67. [Constitución Política del Estado – CUARTA PARTE] Caso: para habilitar un campo deportivo escolar, se desmonta un bosque en un área no clasificada para cambio de uso del suelo. ¿Cómo se resuelve según el Artículo 389?
+A. Es válido por tratarse de una obra educativa de interés social para la comunidad local y escolar.
+B. Constituye una falta leve que se subsana con la reforestación voluntaria de otra área.
+C. Es válido si lo autoriza el Concejo Municipal mediante ordenanza aprobada por mayoría.
+D. Constituye una infracción punible que genera la obligación de reparar los daños causados.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 389.I dispone que la conversión de uso de tierras con cobertura boscosa solo procederá en los espacios legalmente asignados para ello; el 389.III establece que toda conversión de suelos en áreas no clasificadas para tales fines constituirá infracción punible y generará la obligación de reparar los daños causados.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección IV: Recursos forestales. Art. 389, parágrafos I y III; pág. PDF: 103. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+68. [Constitución Política del Estado – CUARTA PARTE] Caso: una comunidad gestiona el agua según sus usos y costumbres para abastecer a su escuela, y una autoridad pretende desconocer esa gestión. ¿Qué dispone el Artículo 374.II?
+A. El Estado reconocerá, respetará y protegerá los usos y costumbres de las comunidades sobre el manejo y la gestión sustentable del agua.
+B. El Estado sustituirá los usos y costumbres de las comunidades por un régimen uniforme de concesiones privadas del agua en todo el territorio del país.
+C. El Estado tolerará los usos y costumbres solo mientras no exista un servicio municipal de agua potable en la zona de la comunidad.
+D. El Estado reconocerá los usos y costumbres solo en territorios con autonomía indígena consolidada y con Estatuto ya aprobado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 374.II dispone que el Estado reconocerá, respetará y protegerá los usos y costumbres de las comunidades, de sus autoridades locales y de las organizaciones indígena originaria campesinas sobre el derecho, el manejo y la gestión sustentable del agua.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. V: Recursos hídricos. Art. 374, parágrafo II; pág. PDF: 100. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+69. [Constitución Política del Estado – CUARTA PARTE] Caso: en un proceso de dotación de tierras fiscales, se niega la titulación a una maestra rural campesina por no estar casada. ¿Cómo se resuelve?
+A. Es válido: la dotación se otorga a la familia constituida, representada por el cónyuge varón como titular del predio.
+B. Es válido si la comunidad lo decide en asamblea, pues la titularidad de las mujeres depende de sus normas propias.
+C. Es contrario a la Constitución solo si la maestra tiene hijos, pues la dotación prioriza a las familias con descendencia.
+D. Es contrario a la Constitución: la dotación garantiza la titularidad de las mujeres, sin discriminación por estado civil o unión conyugal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 395.I dispone que la dotación de tierras fiscales se realizará de acuerdo con las políticas de desarrollo rural sustentable y la titularidad de las mujeres al acceso, distribución y redistribución de la tierra, sin discriminación por estado civil o unión conyugal. El Artículo 402.2 obliga al Estado a eliminar toda discriminación contra las mujeres en el acceso a la tierra.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 395.I (pág. PDF 105) y Art. 402.2 (pág. PDF 107). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+70. [Constitución Política del Estado – CUARTA PARTE] Caso: el Estado ejecuta un plan de asentamientos humanos en una zona rural sin prever servicios educativos para las familias asentadas. ¿Qué obligación omite según el Artículo 402.1?
+A. Otorgar a los nuevos asentados títulos de propiedad privada individual libres de toda función social.
+B. Otorgar a los nuevos asentados facilidades de acceso a la educación, salud, seguridad alimentaria y producción.
+C. Otorgar a los nuevos asentados exención tributaria total por diez años en todas sus actividades económicas y productivas.
+D. Otorgar a los nuevos asentados autonomía indígena inmediata, sin necesidad de consulta ni de referendo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 402.1 obliga al Estado a fomentar planes de asentamientos humanos otorgando a los nuevos asentados facilidades de acceso a la educación, salud, seguridad alimentaria y producción, en el marco del Ordenamiento Territorial del Estado y la conservación del medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 402, numeral 1 (pág. PDF 106). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Constitución Política del Estado – CUARTA PARTE] Caso: una familia adquirió antes de la vigencia de la Constitución un predio agrario que excede los nuevos límites zonificados, y una autoridad pretende aplicarle esos límites. ¿Qué dispone el Artículo 399.I?
+A. Los nuevos límites se aplican a todos los predios sin excepción, con independencia de la fecha de su adquisición legal.
+B. Los nuevos límites se aplican solo a predios comunitarios, y los individuales quedan exentos de toda zonificación agraria.
+C. Los nuevos límites se aplican a predios adquiridos con posterioridad a la Constitución, y se respetan los derechos de acuerdo a Ley.
+D. Los nuevos límites se aplican a predios anteriores, pero la superficie excedente se compensa con tierras fiscales dotadas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 399.I dispone que los nuevos límites de la propiedad agraria zonificada se aplicarán a predios adquiridos con posterioridad a la vigencia de la Constitución y que, a los efectos de la irretroactividad de la Ley, se reconocen y respetan los derechos de posesión y propiedad agraria de acuerdo a Ley.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 399, parágrafo I; pág. PDF: 106. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Constitución Política del Estado – CUARTA PARTE] Caso: un propietario mantiene tierras ociosas solo para revenderlas a mayor precio cuando se construya una escuela cercana. ¿Cómo se valora según el Artículo 395.III?
+A. Está prohibido: la obtención de renta fundiaria generada por el uso especulativo de la tierra es contraria al interés colectivo.
+B. Es válido: la valorización de la tierra por obras públicas cercanas es un beneficio legítimo del propietario privado.
+C. Es válido si el propietario paga los impuestos a la propiedad agraria correspondientes a la superficie que conserva.
+D. Está prohibido solo si la superficie supera las cinco mil hectáreas, pues por debajo la especulación está permitida.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 395.III dispone que, por ser contraria al interés colectivo, está prohibida la obtención de renta fundiaria generada por el uso especulativo de la tierra.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. IX: Tierra y territorio. Art. 395, parágrafo III; pág. PDF: 105. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Constitución Política del Estado – CUARTA PARTE] Caso: un proyecto de ley de los asambleístas crea un programa de alimentación escolar con nuevos gastos, sin señalar la fuente de los recursos ni consultar al Ejecutivo. ¿Qué dispone el Artículo 321.IV?
+A. Debe establecer la fuente de recursos, la manera de cubrirlos y su inversión, y requiere consulta previa al Órgano Ejecutivo.
+B. Puede aprobarse sin fuente de recursos, pues el Ejecutivo debe asignarlos después en el Presupuesto General del Estado.
+C. Debe establecer solo el monto del gasto, y la consulta al Órgano Ejecutivo procede únicamente si la Asamblea lo decide.
+D. Puede aprobarse sin consulta al Ejecutivo, siempre que el programa se destine a educación por ser asignación prioritaria del gasto.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 321.IV dispone que todo proyecto de ley que implique gastos o inversiones para el Estado deberá establecer la fuente de los recursos, la manera de cubrirlos y la forma de su inversión, y que, si el proyecto no fue de iniciativa del Órgano Ejecutivo, requerirá de consulta previa a éste.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección I: Política fiscal. Art. 321, parágrafo IV; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Constitución Política del Estado – CUARTA PARTE] Caso: un gobierno departamental pretende destinar a obras viales las transferencias del Tesoro General de la Nación recibidas para el gasto en servicios personales de educación. ¿Qué disposición debe considerarse?
+A. El Artículo 341.1, que define esas transferencias como regalías de libre disponibilidad para cualquier obra del gobierno departamental.
+B. El Artículo 340.III, que autoriza al departamento a reorientar libremente toda transferencia recibida del Tesoro General de la Nación.
+C. El Artículo 341.6, que define esas transferencias como créditos internos de libre inversión en infraestructura vial departamental.
+D. El Artículo 341.4, que define esas transferencias como destinadas a cubrir el gasto en servicios personales de salud, educación y asistencia social.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 341.4 incluye entre los recursos departamentales las transferencias del Tesoro General de la Nación destinadas a cubrir el gasto en servicios personales de salud, educación y asistencia social; su destino está definido en la propia disposición.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 341, numeral 4; pág. PDF: 94. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Constitución Política del Estado – CUARTA PARTE] Caso: tras una calamidad pública que dañó varias escuelas, el Presidente decreta pagos no previstos en el presupuesto por un monto equivalente al tres por ciento del total de egresos autorizados. ¿Cómo se valora según el Artículo 339.I?
+A. Excede el límite: esos gastos no pueden superar el uno por ciento del total de egresos autorizados por el Presupuesto General.
+B. Es válido: ante calamidades públicas no existe límite para los pagos no autorizados por la ley del presupuesto general.
+C. Es válido, porque el límite constitucional para los pagos no autorizados en calamidades es del cinco por ciento del total de egresos.
+D. Excede el límite solo si los pagos no se destinan a infraestructura educativa, que no está sujeta a límite porcentual.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 339.I permite decretar pagos no autorizados por la ley del presupuesto únicamente para atender necesidades impostergables derivadas de calamidades públicas, conmoción interna o agotamiento de recursos de servicios esenciales, y dispone que esos gastos no excederán del uno por ciento del total de egresos autorizados por el Presupuesto General.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. IV: Bienes y recursos del Estado y su distribución. Art. 339, parágrafo I; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Constitución Política del Estado – CUARTA PARTE] Caso: una comunidad rural con escuela desea impulsar turismo comunitario como fuente de ingresos y aprendizaje para sus jóvenes. ¿Qué respaldo ofrece el Artículo 337?
+A. El Estado reserva el turismo a empresas privadas especializadas, excluyendo a las comunidades rurales del país.
+B. El Estado permite el turismo comunitario solo en áreas urbanas y bajo administración de los gobiernos municipales.
+C. El Estado considera el turismo una actividad secundaria, sin protección ni promoción específica para comunidades.
+D. El Estado promoverá y protegerá el turismo comunitario para beneficiar a las comunidades donde se desarrolle.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 337.I define el turismo como actividad económica estratégica de desarrollo sustentable; el 337.II dispone que el Estado promoverá y protegerá el turismo comunitario con el objetivo de beneficiar a las comunidades urbanas y rurales y a las NPIOC donde se desarrolle.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección IV: Políticas sectoriales. Art. 337, parágrafos I y II; pág. PDF: 93. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Constitución Política del Estado – CUARTA PARTE] Caso: una cooperativa de producción formada por exalumnos de un instituto técnico busca acceder a servicios financieros. ¿Qué orientación de la política financiera la favorece según el Artículo 330.II?
+A. El Estado priorizará la demanda de servicios financieros de las grandes empresas exportadoras y de las empresas transnacionales del país.
+B. El Estado priorizará la demanda de servicios financieros de micro y pequeñas empresas, organizaciones comunitarias y cooperativas de producción.
+C. El Estado excluirá a las cooperativas de producción del sistema financiero, por tratarse de organizaciones sin fines de lucro propias.
+D. El Estado priorizará la demanda de servicios financieros del sector público, dejando a las cooperativas el financiamiento informal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 330.II dispone que el Estado, a través de su política financiera, priorizará la demanda de servicios financieros de los sectores de la micro y pequeña empresa, artesanía, comercio, servicios, organizaciones comunitarias y cooperativas de producción.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 330, parágrafo II (pág. PDF 92). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Constitución Política del Estado – CUARTA PARTE] Caso: YPFB proyecta conformar una sociedad de economía mixta para industrializar hidrocarburos y la contraparte privada exige el sesenta por ciento del capital. ¿Qué dispone el Artículo 363.II?
+A. No es admisible: en esas sociedades YPFB debe tener una participación accionaria no menor al cincuenta y uno por ciento.
+B. Es admisible: YPFB puede participar con cualquier porcentaje, siempre que conserve la dirección técnica de la sociedad.
+C. Es admisible si la Asamblea Legislativa lo autoriza, pues la participación mínima de YPFB es del cuarenta por ciento.
+D. No es admisible: en esas sociedades YPFB debe tener una participación accionaria no menor al setenta y cinco por ciento del capital.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 363.II permite a YPFB conformar asociaciones o sociedades de economía mixta para actividades de la cadena de hidrocarburos, en las que contará obligatoriamente con una participación accionaria no menor al cincuenta y uno por ciento del total del capital social.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 363, parágrafo II; pág. PDF: 98. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Constitución Política del Estado – CUARTA PARTE] Caso: YPFB suscribe un contrato de exploración de hidrocarburos sin la previa autorización y aprobación expresa de la Asamblea Legislativa Plurinacional. ¿Qué consecuencia prevé el Artículo 362.II?
+A. El contrato es válido hasta que la Asamblea lo rechace expresamente dentro de los noventa días siguientes.
+B. El contrato es nulo de pleno derecho, sin necesidad de declaración judicial ni extrajudicial alguna.
+C. El contrato es anulable, y su nulidad debe ser declarada por el Tribunal Constitucional Plurinacional.
+D. El contrato se convalida con la aprobación posterior del Ministerio del ramo y del directorio de YPFB.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 362.II dispone que los contratos referidos a actividades de exploración y explotación de hidrocarburos deberán contar con previa autorización y aprobación expresa de la Asamblea Legislativa Plurinacional, y que, en caso de no obtenerla, serán nulos de pleno derecho, sin necesidad de declaración judicial ni extrajudicial alguna.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 362, parágrafo II; pág. PDF: 98. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Constitución Política del Estado – CUARTA PARTE] Caso: una empresa extranjera que opera en la cadena hidrocarburífera en representación del Estado pretende someter una controversia a arbitraje internacional. ¿Qué dispone el Artículo 366?
+A. No es posible: esas empresas están sometidas a la soberanía y a las leyes del Estado, sin tribunal ni arbitraje extranjero.
+B. Es posible: las empresas extranjeras pueden elegir arbitraje internacional si así lo establece su contrato de servicios con YPFB.
+C. Es posible si su país de origen lo solicita mediante reclamación diplomática formal ante el Ministerio de Relaciones.
+D. No es posible acudir a tribunales extranjeros, pero sí al arbitraje internacional como situación excepcional prevista.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 366 dispone que todas las empresas extranjeras que realicen actividades en la cadena productiva hidrocarburífera en nombre y representación del Estado estarán sometidas a su soberanía, leyes y autoridades; no se reconocerá tribunal ni jurisdicción extranjera y no podrán invocar arbitraje internacional ni recurrir a reclamaciones diplomáticas.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. III: Hidrocarburos. Art. 366; pág. PDF: 98. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Constitución Política del Estado – CUARTA PARTE] Una unidad educativa evalúa instalar paneles solares para su funcionamiento. ¿Qué disposición respalda la decisión?
+A. El Artículo 379.I, por el que el Estado promoverá la investigación y el uso de energías alternativas compatibles con el ambiente.
+B. El Artículo 378.II, por el que la generación de energía es facultad exclusiva de las empresas privadas concesionarias.
+C. El Artículo 379.II, por el que toda generación de energía debe destinarse prioritariamente a la exportación de excedentes energéticos del país.
+D. El Artículo 344.II, por el que el Estado prohíbe toda técnica de generación de energía distinta de la hidroeléctrica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 379.I dispone que el Estado desarrollará y promoverá la investigación y el uso de nuevas formas de producción de energías alternativas, compatibles con la conservación del ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VI: Energía. Art. 379, parágrafo I; pág. PDF: 101. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Constitución Política del Estado – CUARTA PARTE] Al diseñar el huerto escolar, se decide entre especies nativas y especies introducidas. ¿Qué disposición orienta una decisión coherente con la Constitución?
+A. El Artículo 381.I, por el que las especies nativas son propiedad privada de quien las cultiva y pueden registrarse a su nombre como propias.
+B. El Artículo 383, por el que el Estado prohíbe en forma total y permanente todo uso de especies nativas en espacios educativos.
+C. El Artículo 381.I, por el que las especies nativas animales y vegetales son patrimonio natural y el Estado procura su conservación.
+D. El Artículo 384, por el que solo la coca originaria y ancestral constituye patrimonio natural protegido por el Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 381.I dispone que son patrimonio natural las especies nativas de origen animal y vegetal, y que el Estado establecerá las medidas necesarias para su conservación, aprovechamiento y desarrollo.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección I: Biodiversidad. Art. 381, parágrafo I; pág. PDF: 102. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Constitución Política del Estado – CUARTA PARTE] Un investigador extranjero propone a una unidad educativa llevar al exterior semillas nativas y saberes ancestrales recopilados por los estudiantes para patentarlos. ¿Qué decisión es coherente con los Artículos 381 y 382?
+A. No acceder, pues el Estado protege los recursos genéticos y conocimientos asociados y tiene el deber de defender y repatriar ese material.
+B. Acceder, pues los recursos genéticos recopilados con fines educativos pueden patentarse libremente por quien los investigue.
+C. Acceder si el investigador reconoce la autoría de los estudiantes, pues ello sustituye la protección estatal de los saberes.
+D. No acceder solo si las semillas provienen de áreas protegidas, pues las demás pueden exportarse sin control del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 381.II dispone que el Estado protegerá los recursos genéticos y microorganismos del territorio y los conocimientos asociados, con propiedad intelectual a favor del Estado o de los sujetos sociales locales; el Artículo 382 establece la facultad y el deber estatal de defensa, recuperación, protección y repatriación del material biológico y de los conocimientos ancestrales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VII, Sección I: Biodiversidad. Art. 381.II y Art. 382 (pág. PDF 102). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Constitución Política del Estado – CUARTA PARTE] Al elaborar el plan institucional de una unidad educativa rural, se busca alinearlo con la política de desarrollo rural integral. ¿Qué objetivo del Artículo 407 resulta directamente pertinente?
+A. Implementar la educación técnica únicamente en el nivel superior, separada de la producción agropecuaria.
+B. Sustituir la educación técnica productiva por programas de capacitación privada de las agroindustrias.
+C. Implementar y desarrollar la educación técnica productiva y ecológica en todos sus niveles y modalidades.
+D. Implementar la educación técnica productiva solo en áreas urbanas, priorizando la industria manufacturera.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 407.5 establece como objetivo de la política de desarrollo rural integral del Estado, en coordinación con las entidades territoriales, implementar y desarrollar la educación técnica productiva y ecológica en todos sus niveles y modalidades.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título III: Desarrollo rural integral sustentable. Art. 407, numeral 5 (pág. PDF 108). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Constitución Política del Estado – CUARTA PARTE] Una entidad pública debe seleccionar proveedores para el desayuno escolar entre grandes empresas y organizaciones de pequeños productores. ¿Qué disposición orienta la decisión?
+A. El Artículo 314, por el que el Estado debe adjudicar las compras públicas a un único proveedor para evitar la dispersión del mercado.
+B. El Artículo 311.I, por el que el Estado debe preferir a las grandes empresas en las compras públicas por su mayor capacidad productiva.
+C. El Artículo 334.4, por el que las micro y pequeñas empresas y organizaciones de pequeños productores gozan de preferencias en las compras del Estado.
+D. El Artículo 334.4, por el que las grandes empresas nacionales gozan de preferencias en las compras del Estado frente a las extranjeras.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 334.4 dispone que el Estado protegerá y fomentará a las micro y pequeñas empresas, a las organizaciones económicas campesinas y a las organizaciones o asociaciones de pequeños productores, quienes gozarán de preferencias en las compras del Estado.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección IV: Políticas sectoriales. Art. 334, numeral 4 (pág. PDF 93). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Constitución Política del Estado – CUARTA PARTE] Al definir el menú del programa de alimentación escolar, se debe elegir entre productos importados y productos hechos en Bolivia. ¿Qué disposición respalda priorizar los nacionales?
+A. El Artículo 320.V, por el que las políticas públicas promocionarán el consumo interno de productos hechos en Bolivia.
+B. El Artículo 320.II, por el que las políticas públicas priorizarán los productos de la inversión extranjera directa en el país.
+C. El Artículo 318.V, por el que las políticas públicas priorizarán la importación de bienes con mayor valor agregado.
+D. El Artículo 320.V, por el que las políticas públicas prohibirán toda importación de alimentos destinados al Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 320.V dispone que las políticas públicas promocionarán el consumo interno de productos hechos en Bolivia. El Artículo 407.1 añade, como objetivo del desarrollo rural, priorizar la producción y el consumo de alimentos producidos en el territorio boliviano.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III: Políticas económicas. Art. 320, parágrafo V; pág. PDF: 89. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Constitución Política del Estado – CUARTA PARTE] Una unidad educativa agropecuaria evalúa sumarse a un proyecto de conservación de semillas e investigación genética. ¿Qué objetivo constitucional respalda esa decisión?
+A. El Artículo 407.9, que establece la creación del banco de semillas y centros de investigación genética.
+B. El Artículo 409, que prohíbe toda forma de investigación genética de semillas en el territorio nacional.
+C. El Artículo 407.11, que permite la libre salida del país de recursos biológicos y genéticos con fines educativos.
+D. El Artículo 357, que permite inscribir las semillas en mercados de valores para financiar la investigación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 407.9 establece como objetivo de la política de desarrollo rural integral la creación del banco de semillas y centros de investigación genética. El 407.11 manda controlar la salida y entrada al país de recursos biológicos y genéticos, y el 409 remite a la ley la regulación de los transgénicos.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título III: Desarrollo rural integral sustentable. Art. 407, numeral 9 (pág. PDF 108). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Constitución Política del Estado – CUARTA PARTE] Se proyecta construir una escuela en la naciente de un río, lo que obligaría a desviar su cauce y reducir su caudal. ¿Qué disposición debe orientar la decisión?
+A. El Artículo 376, por el que el Estado prioriza las obras públicas en las nacientes de los ríos por su potencialidad hídrica y estratégica.
+B. El Artículo 375.II, por el que el uso de las cuencas para obras educativas está exento de toda regulación ambiental.
+C. El Artículo 376, por el que el Estado evitará acciones en las nacientes que dañen los ecosistemas o disminuyan los caudales.
+D. El Artículo 373.I, por el que el agua puede desviarse libremente si el fin es garantizar un servicio público educativo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 376 dispone que los recursos hídricos de las cuencas son estratégicos y que el Estado evitará acciones en las nacientes y zonas intermedias de los ríos que ocasionen daños a los ecosistemas o disminuyan los caudales, preservará el estado natural y velará por el bienestar de la población.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. V: Recursos hídricos. Art. 376; pág. PDF: 101. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Constitución Política del Estado – CUARTA PARTE] Instituciones educativas de la amazonia buscan una instancia regional para coordinar iniciativas productivas propias de la región. ¿Qué disposición orienta esa decisión?
+A. El Artículo 391.III, que prevé un organismo especial centralizado, con sede en la capital del Estado, sin participación de los habitantes de la región.
+B. El Artículo 391.III, que prevé un organismo especial descentralizado, con sede en la amazonia, creado en coordinación con autoridades indígenas.
+C. El Artículo 390.II, que asigna la coordinación de las actividades de la amazonia a los gobiernos municipales de Pando, Beni y La Paz.
+D. El Artículo 392.I, que asigna la promoción de actividades amazónicas a las empresas privadas extractivas de productos tradicionales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 391.III dispone que el Estado, en coordinación con las autoridades indígena originario campesinas y los habitantes de la amazonia, creará un organismo especial, descentralizado, con sede en la amazonia, para promover actividades propias de la región.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VIII: Amazonia. Art. 391, parágrafo III; pág. PDF: 104. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Constitución Política del Estado – CUARTA PARTE] Una unidad educativa planea un programa de ahorro estudiantil con una entidad financiera. ¿Qué verificación es coherente con el Artículo 332.I?
+A. Que la entidad esté regulada y supervisada por la institución de regulación de bancos y entidades financieras.
+B. Que la entidad esté autorizada por el gobierno municipal, que regula las entidades financieras locales de su jurisdicción.
+C. Que la entidad cuente con aval del Banco Central, que supervisa directamente a cada entidad financiera.
+D. Que la entidad esté registrada ante el Ministerio de Educación, que supervisa los programas de ahorro.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 332.I dispone que las entidades financieras estarán reguladas y supervisadas por una institución de regulación de bancos y entidades financieras, de carácter de derecho público y con jurisdicción en todo el territorio boliviano.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III, Sección III: Política financiera. Art. 332, parágrafo I; pág. PDF: 92. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Constitución Política del Estado – CUARTA PARTE] Para fundamentar una propuesta de mayor inversión en educación, ¿qué disposición del modelo económico ofrece el respaldo más directo?
+A. El Artículo 306.IV, por el que las formas de organización económica pueden constituir empresas mixtas de servicios educativos.
+B. El Artículo 308.II, por el que la libertad de empresa garantiza el financiamiento privado de la educación en todos sus niveles.
+C. El Artículo 306.V, por el que el Estado redistribuye equitativamente los excedentes en políticas sociales, de salud, educación y cultura.
+D. El Artículo 311.II.4, por el que el Estado interviene en la cadena productiva educativa para garantizar su abastecimiento.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 306.V dispone que el Estado tiene como máximo valor al ser humano y asegurará el desarrollo mediante la redistribución equitativa de los excedentes económicos en políticas sociales, de salud, educación, cultura y en la reinversión en desarrollo económico productivo.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 306, parágrafo V; pág. PDF: 85. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Constitución Política del Estado – CUARTA PARTE] Al planificar el desarrollo educativo de una región, ¿qué instancia constitucional de planificación prevé la participación de la sociedad civil?
+A. Una comisión técnica del Banco Central con representantes de las entidades financieras y de las empresas privadas.
+B. Un consejo de planificación de la Asamblea Legislativa con representantes de los partidos y de las agrupaciones ciudadanas del país.
+C. Una entidad de planificación participativa con representantes de las instituciones públicas y de la sociedad civil organizada.
+D. Una entidad de planificación privada con representantes de los gremios empresariales y de los organismos internacionales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 317 dispone que el Estado garantizará la creación, organización y funcionamiento de una entidad de planificación participativa que incluya a representantes de las instituciones públicas y de la sociedad civil organizada. El 316.1 asigna al Estado conducir la planificación económica y social con participación y consulta ciudadana.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. II: Función del Estado en la economía. Art. 317 (pág. PDF 88) y Art. 316.1 (pág. PDF 87). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Constitución Política del Estado – CUARTA PARTE] Una institución educativa estatal alinea su plan estratégico con el plan general de desarrollo. ¿Qué carácter tiene ese plan según el Artículo 316.9?
+A. Se formula cada diez años sin consulta ciudadana, y su ejecución es facultativa para las formas de organización económica privada.
+B. Se formula por el Banco Central con participación de los bancos, y su ejecución es obligatoria solo para las empresas estatales.
+C. Se formula periódicamente con participación ciudadana, pero su ejecución es orientadora y no obliga a ninguna forma económica.
+D. Se formula periódicamente con participación y consulta ciudadana, y su ejecución es obligatoria para todas las formas de organización económica.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 316.9 establece como función del Estado en la economía formular periódicamente, con participación y consulta ciudadana, el plan general de desarrollo, cuya ejecución es obligatoria para todas las formas de organización económica.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. II: Función del Estado en la economía. Art. 316, numeral 9 (pág. PDF 88). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Constitución Política del Estado – CUARTA PARTE] Una política educativa busca reducir las brechas entre regiones y en el acceso a recursos productivos. ¿Con qué propósitos de la organización económica del Artículo 313 se articula?
+A. Con la concentración de los recursos productivos en las regiones de mayor rendimiento económico del país.
+B. Con la reducción del gasto social y la transferencia de los recursos productivos al sector privado nacional.
+C. Con la exportación de materias primas sin industrializar y la apertura irrestricta a la inversión extranjera directa.
+D. Con la reducción de las desigualdades de acceso a los recursos productivos y de las desigualdades regionales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 313 establece, entre los propósitos de la organización económica para eliminar la pobreza y la exclusión, la reducción de las desigualdades de acceso a los recursos productivos (num. 3) y la reducción de las desigualdades regionales (num. 4).
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. I: Disposiciones generales. Art. 313, numerales 3 y 4; pág. PDF: 87. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Constitución Política del Estado – CUARTA PARTE] Un instituto técnico planifica vincular su oferta formativa con estructuras asociativas de micro y pequeñas empresas productoras. ¿Qué política económica del Artículo 318 respalda esa estrategia?
+A. El apoyo exclusivo a las grandes empresas exportadoras, con exclusión de las micro y pequeñas empresas productoras urbanas.
+B. El reconocimiento de las micro y pequeñas empresas solo en el área urbana, excluyendo a las productoras del área rural.
+C. El reconocimiento y el apoyo prioritario a la organización de estructuras asociativas de micro, pequeñas y medianas empresas productoras.
+D. La sustitución de las micro y pequeñas empresas por empresas estatales en todas las actividades productivas del país.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 318.II dispone que el Estado reconoce y priorizará el apoyo a la organización de estructuras asociativas de micro, pequeñas y medianas empresas productoras, urbanas y rurales.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título I, Cap. III: Políticas económicas. Art. 318, parágrafo II; pág. PDF: 88. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Constitución Política del Estado – CUARTA PARTE] Al diseñar el plan ambiental de una red de unidades educativas, ¿en qué base de la política de gestión ambiental debe apoyarse su modelo de gestión?
+A. En la planificación técnica cerrada, sin participación social alguna.
+B. En la planificación y gestión participativas, con control social.
+C. En la gestión exclusiva de las empresas con actividades extractivas.
+D. En la planificación centralizada del Ministerio, sin control social.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 345.1 dispone que las políticas de gestión ambiental se basarán en la planificación y gestión participativas, con control social.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. I: Medio ambiente. Art. 345, numeral 1; pág. PDF: 95. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Constitución Política del Estado – CUARTA PARTE] Un departamento productor de minerales planifica la formación técnica para la industrialización de sus recursos. ¿Qué disposición respalda que esa formación se oriente al lugar de origen de la producción?
+A. El Artículo 355.III, por el que los procesos de industrialización se realizarán con preferencia en el exterior del país.
+B. El Artículo 372.IV, por el que toda la industria minera debe establecer su domicilio en la sede del Gobierno del Estado.
+C. El Artículo 369.II, por el que los recursos mineros se industrializan solo en los salares y zonas de salmueras del país.
+D. El Artículo 355.III, por el que los procesos de industrialización se realizarán con preferencia en el lugar de origen de la producción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Artículo 355.III dispone que los procesos de industrialización de los recursos naturales se realizarán con preferencia en el lugar de origen de la producción y crearán condiciones que favorezcan la competitividad en el mercado interno e internacional.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. II: Recursos naturales. Art. 355, parágrafo III (pág. PDF 97). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Constitución Política del Estado – CUARTA PARTE] Una unidad educativa técnica rural busca alianzas con organizaciones económicas productivas de su zona. ¿Qué orientación del Artículo 406.II respalda esa estrategia?
+A. El Estado promoverá y fortalecerá a artesanos, cooperativas, asociaciones de productores y micro, pequeñas y medianas empresas comunitarias.
+B. El Estado sustituirá a las organizaciones productivas rurales por empresas estatales en todas las actividades agropecuarias y artesanales del país.
+C. El Estado fortalecerá solo a las grandes agroindustrias, por su mayor contribución al desarrollo económico y social del país boliviano.
+D. El Estado promoverá a las organizaciones productivas rurales solo cuando abandonen su identidad cultural y productiva tradicional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Artículo 406.II dispone que el Estado promoverá y fortalecerá las organizaciones económicas productivas rurales, entre ellas artesanos, cooperativas, asociaciones de productores agropecuarios y manufactureros, y las micro, pequeñas y medianas empresas comunitarias agropecuarias, de acuerdo a su identidad cultural y productiva.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título III: Desarrollo rural integral sustentable. Art. 406, parágrafo II (pág. PDF 108). Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Constitución Política del Estado – CUARTA PARTE] En una estrategia educativa para comunidades rurales, ¿qué componentes del desarrollo rural integral sustentable del Artículo 405 resultan pertinentes?
+A. La sustitución de la economía familiar por la agroindustria de exportación y la asimilación cultural de las comunidades indígenas del área rural.
+B. La significación y el respeto de las comunidades indígenas en todas las dimensiones de su vida y el fortalecimiento de la economía familiar y comunitaria.
+C. El fortalecimiento exclusivo de la gran propiedad empresarial y la reducción del apoyo estatal a las comunidades y pequeños productores.
+D. La significación de las comunidades indígenas solo en su dimensión productiva y la eliminación de la economía comunitaria tradicional.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Artículo 405 incluye entre los medios del desarrollo rural integral sustentable la significación y el respeto de las comunidades indígena originario campesinas en todas las dimensiones de su vida (num. 4) y el fortalecimiento de la economía de los pequeños productores agropecuarios y de la economía familiar y comunitaria (num. 5).
+Sustento: Constitución Política del Estado, Cuarta Parte. Título III: Desarrollo rural integral sustentable. Art. 405, numerales 4 y 5; pág. PDF: 107. Página impresa: s/n (el documento no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Constitución Política del Estado – CUARTA PARTE] Al proyectar programas educativos en la amazonia, ¿hacia qué orientación de la administración amazónica del Artículo 391.I debe alinearse la estrategia?
+A. Hacia una administración centralizada y exclusiva del nivel central, orientada a la explotación extractiva intensiva de la selva amazónica.
+B. Hacia una administración privada de la selva, orientada a la rentabilidad de las empresas concesionarias sin criterios de sustentabilidad.
+C. Hacia una administración integral, participativa, compartida y equitativa, orientada al empleo y al ingreso de sus habitantes con sustentabilidad.
+D. Hacia una administración integral y participativa, orientada solo a la conservación, con prohibición de toda actividad generadora de empleo e ingresos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Artículo 391.I dispone que el Estado priorizará el desarrollo integral sustentable de la amazonia boliviana, a través de una administración integral, participativa, compartida y equitativa de la selva amazónica, orientada a la generación de empleo y a mejorar los ingresos de sus habitantes, en el marco de la protección y sustentabilidad del medio ambiente.
+Sustento: Constitución Política del Estado, Cuarta Parte. Título II, Cap. VIII: Amazonia. Art. 391, parágrafo I; pág. PDF: 104. Página impresa: s/n (el documento no tiene numeración impresa).

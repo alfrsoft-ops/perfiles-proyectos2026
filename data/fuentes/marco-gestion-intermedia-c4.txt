@@ -1,0 +1,995 @@
+# Fuente: marco-gestion-intermedia-c4.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Capítulo evaluado: 4. Marco para la Gestión y el Liderazgo Educativo Local
+# Páginas: impresas 45 a 77 (PDF 45 a 77)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «4. Marco para la Gestión y el Liderazgo Educativo Local» del documento Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Alcance
+# Capítulo 4 completo: objetivos y usos del Marco, estructura, dimensiones de prácticas (seis dimensiones con su desafío, descripción y evidencias de prácticas) y recursos personales (principios, habilidades y conocimientos profesionales). La página 45 contiene solo el título y la 50 una figura sin texto continuo
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (45–77)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 60 de contenido textual · 40 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 4 del Marco para la Gestión y el Liderazgo Educativo Local (págs. 45 a 77).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: marco-gestion-intermedia-c4
+
+1. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿De qué dos ámbitos consta la estructura del Marco para la Gestión y el Liderazgo Educativo Local?
+A. Estándares de desempeño y rúbricas de logro
+B. Dimensiones de prácticas y recursos personales
+C. Dimensiones de gestión y niveles de autonomía escolar
+D. Recursos financieros y condiciones laborales
+Respuesta correcta: B
+Explicación: “La estructura del Marco consta de dos ámbitos que describen los elementos esenciales que las y los directivos requieren movilizar […]. Estos ámbitos son: • Dimensiones de prácticas • Recursos personales.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Estructura del Marco; página impresa 51; página PDF 51.
+
+2. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿En cuántas dimensiones se agrupan las prácticas y en cuántos ámbitos los recursos personales del Marco?
+A. Las prácticas en tres dimensiones y los recursos en seis áreas
+B. Las prácticas en cinco dimensiones y los recursos en cuatro ámbitos
+C. Las prácticas en cuatro dimensiones y los recursos en dos ámbitos
+D. Las prácticas en seis dimensiones y los recursos en tres ámbitos
+Respuesta correcta: D
+Explicación: “Las prácticas se agrupan en 6 dimensiones y los recursos personales en tres ámbitos (principios, habilidades y conocimientos).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Estructura del Marco; página impresa 51; página PDF 51.
+
+3. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo se denomina la Dimensión 4 de prácticas del Marco?
+A. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo y la innovación en el territorio del país
+B. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa
+C. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio
+D. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos
+Respuesta correcta: C
+Explicación: “4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 53; página PDF 53.
+
+4. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el Marco, ¿cuánto dura aproximadamente el periodo de instalación de un SLEP?
+A. El primer año efectivo, que incluye el traspaso municipal
+B. Los primeros dos años efectivos, más los dos años previos de anticipación
+C. Los primeros cinco años efectivos, sin considerar el año de anticipación
+D. Los primeros tres años efectivos, más el año de anticipación del SLEP
+Respuesta correcta: D
+Explicación: “…comprenderemos como periodo de instalación del SLEP, aproximadamente los primeros tres años efectivos, a los cuales sumaremos el año de anticipación del SLEP, momento en que se comienza a realizar el traspaso desde la administración municipal.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 53; página PDF 53.
+
+5. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuáles son los principios fundamentales que deben orientar el comportamiento de los líderes del nivel intermedio según el Marco?
+A. Ética y probidad, justicia socioeducativa, confianza y vocación de servicio público
+B. Transparencia y legalidad, equidad de género, reflexión y comunicación con la comunidad
+C. Ética y probidad, liderazgo distribuido, colaboración y pensamiento sistémico territorial
+D. Eficiencia y eficacia, autonomía, competencia y orientación a resultados
+Respuesta correcta: A
+Explicación: “Los principios fundamentales, que deben orientar el comportamiento de las y los líderes del nivel educativo intermedio, son los siguientes: Ética y probidad […] Justicia socioeducativa […] Confianza […] Vocación de servicio público…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Principios; página impresa 68; página PDF 68.
+
+6. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la nota 8 del Marco, ¿quiénes integran el equipo directivo del nivel intermedio al que se dirige el documento?
+A. Director ejecutivo y subdirecciones de Apoyo Técnico Pedagógico, Planificación y Control de Gestión y Administración y Finanzas
+B. Integrantes del Consejo Local, del Comité Directivo y del Consejo Escolar, junto con los representantes de cada comunidad
+C. Directores de establecimientos y jefes de las unidades técnico-pedagógicas, de convivencia escolar y de inspectoría general
+D. Director ejecutivo y jefes de los departamentos municipales de educación, salud, infraestructura y desarrollo comunitario local del municipio
+Respuesta correcta: A
+Explicación: “[8] Director ejecutivo/a y subdirecciones de Apoyo Técnico Pedagógico; Planificación y Control de Gestión y Administración y Finanzas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 46; página PDF 46.
+
+7. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿En qué tres grandes áreas se organizan los conocimientos profesionales del Marco?
+A. Derecho administrativo y relaciones laborales; didáctica y desarrollo docente; infraestructura, logística y equipamiento
+B. Política educativa y relaciones con la comunidad; enseñanza efectiva y desarrollo docente; planificación, liderazgo y gestión
+C. Política educativa y gestión financiera; currículo y evaluación estandarizada; supervisión, control y rendición de cuentas del sistema
+D. Tendencias en educación y ciudadanía; enseñanza efectiva y evaluación externa; administración, compras y contabilidad
+Respuesta correcta: B
+Explicación: Los conocimientos profesionales se presentan bajo los encabezados “POLÍTICA EDUCATIVA Y RELACIONES CON LA COMUNIDAD”, “ENSEÑANZA EFECTIVA Y DESARROLLO DOCENTE” y “PLANIFICACIÓN, LIDERAZGO Y GESTIÓN” (pp. 73–75).
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 73; página PDF 73.
+
+8. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el Marco, ¿por qué ley presupuestaria se rigen los SLEP?
+A. Por la Ley de Presupuesto, propia de los servicios públicos, con lógicas distintas a las del municipio
+B. Por la ley de subvenciones escolares, que les otorga las mismas reglas que a los sostenedores privados
+C. Por un reglamento interno propio, que cada servicio define sin sujeción a las reglas del sector público
+D. Por la ley de rentas municipales, propia de los municipios, con lógicas iguales a las de la comuna
+Respuesta correcta: A
+Explicación: “Los SLEP se rigen por la Ley de Presupuesto, propia de los servicios públicos, lo que contempla lógicas distintas a las del municipio, por lo que se requieren nuevos conocimientos y capacidades…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 77; página PDF 77.
+
+9. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿En qué autor se basa el cuadro de creencias y enfoques a desarrollar por el equipo directivo local con las unidades educativas?
+A. Adaptado de Hargreaves (2008)
+B. Adaptado de Elmore (2010)
+C. Adaptado de Sharratt (2015)
+D. Basado en MINEDUC (2015a)
+Respuesta correcta: C
+Explicación: “Creencias y enfoques a desarrollar por el equipo directivo local con las unidades educativas y la comunidad […] Fuente: Adaptado de Sharratt (2015).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+10. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuál de las siguientes NO figura entre las tendencias que, según el Marco, el liderazgo intermedio debe considerar?
+A. Educación socioemocional, bienestar integral e inclusión escolar
+B. Selección académica y competencia entre establecimientos
+C. Enfoque de derechos, formación ciudadana y equidad
+D. Aprendizaje en redes, aprendizaje profundo y lo digital
+Respuesta correcta: B
+Explicación: “…las tendencias más relevantes que el liderazgo intermedio debe tener en consideración […] son: enfoque de derechos, educación socioemocional, bienestar integral, inclusión, diversidad, equidad y calidad, formación ciudadana, aprendizaje en redes, aprendizaje profundo, habilidades para el siglo XXI y transformación digital.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 73; página PDF 73.
+
+11. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué describe el Marco para la Gestión y el Liderazgo Educativo Local?
+A. Los estándares y rúbricas con que se evalúa el desempeño de los directores de cada establecimiento
+B. Los procedimientos administrativos que regulan el traspaso de los establecimientos desde el municipio hacia el SLEP
+C. Las prácticas y recursos personales que orientan el desarrollo del equipo directivo del nivel intermedio
+D. Los instrumentos concretos que cada SLEP debe aplicar para supervisar a sus unidades educativas
+Respuesta correcta: C
+Explicación: “Marco para la Gestión y el Liderazgo Educativo Local, en adelante Marco, describe las prácticas y recursos personales que orientan el desarrollo del equipo directivo que, desde el nivel educativo intermedio, gestiona y lidera el sistema educativo público del país.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 46; página PDF 46.
+
+12. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuál es el principal propósito del Marco?
+A. Fiscalizar el desempeño de los equipos del nivel intermedio mediante rúbricas y niveles de logro
+B. Establecer los instrumentos concretos de implementación que cada servicio local debe aplicar
+C. Orientar la acción de los equipos del nivel intermedio en gestión, liderazgo, autodesarrollo y formación
+D. Reemplazar los Estándares Indicativos de Desempeño como instrumento de evaluación de sostenedores educativos
+Respuesta correcta: C
+Explicación: “El principal propósito del Marco es orientar la acción de los equipos responsables y de profesionales del nivel intermedio de la nueva educación pública del país, en el ámbito de la gestión y liderazgo, así como en sus procesos de autodesarrollo y formación especializada.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos; página impresa 48; página PDF 48.
+
+13. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo define el Marco las prácticas?
+A. Un conjunto de normas que cada directivo aplica individualmente, con independencia de los resultados de la organización educativa
+B. Un conjunto de valores universales que guían la conducta, sin relación con actividades concretas de la organización
+C. Un conjunto de instrumentos de evaluación que miden el desempeño individual de cada profesional del servicio local
+D. Un conjunto de actividades ejercidas por un grupo de personas de una organización, con expectativas de resultados compartidos
+Respuesta correcta: D
+Explicación: “Las prácticas se definen como un conjunto de actividades ejercidas por un grupo de personas que trabajan en una organización, con expectativas de resultados educativos compartidos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+14. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Desde la perspectiva del Marco, ¿qué es la gestión educativa de nivel intermedio?
+A. La capacidad de cada director para administrar su establecimiento sin coordinación con el resto del sistema escolar
+B. La capacidad del Ministerio para distribuir recursos entre los establecimientos según su matrícula y asistencia media
+C. La capacidad del equipo del SLEP para movilizar y articular profesionales e instituciones en función de los objetivos declarados
+D. La capacidad del equipo del SLEP para fiscalizar a los profesionales e instituciones según la normativa nacional vigente en el territorio
+Respuesta correcta: C
+Explicación: “Desde la perspectiva del Marco, la gestión educativa de nivel intermedio, es la capacidad del equipo de los SLEP para movilizar y articular a profesionales e instituciones del sistema escolar y el territorio, en función de los objetivos estratégicos y operacionales declarados…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+15. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el Marco, ¿qué ocurre cuando una actividad integra aspectos de gestión con acciones propias del liderazgo?
+A. Su contribución se mantiene igual, ya que ambas dimensiones son autónomas
+B. Su contribución disminuye, porque se duplican las tareas de los equipos del SLEP
+C. Su contribución se diluye, pues gestión y liderazgo deben ejercerse por separado
+D. Su contribución se potencia y es superior en el logro de los objetivos finales
+Respuesta correcta: D
+Explicación: “Cuando una actividad integra ambas dimensiones, su contribución se potencia y es superior en el logro de los objetivos finales. Por ejemplo, se planifica (gestión) a partir de un proceso en que se invita a participar a todas y todos los integrantes de la comunidad educativa (liderazgo).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+16. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo define el Marco los principios como recurso personal?
+A. Normas jurídicas que regulan la conducta funcionaria de los profesionales del servicio
+B. Recursos que, desde un sistema de creencias y un marco valórico universal, guían la conducta
+C. Capacidades conductuales y técnicas que permiten implementar procesos y lograr objetivos declarados
+D. Saberes adquiridos en procesos formales de educación, complementados por la experiencia
+Respuesta correcta: B
+Explicación: “Principios: Recursos personales que, a partir de un sistema de creencias y un marco valórico universal, guían la conducta. Permiten asegurar la coherencia de las decisiones, conforme a propósitos superiores.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales; página impresa 66; página PDF 66.
+
+17. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuál es el supuesto fundamental de la afirmación de que las prácticas efectivas requieren recursos personales?
+A. Que es posible aprender y desarrollar todos estos recursos, con voluntad, estudio, práctica y superación
+B. Que solo algunos líderes poseen estos recursos, por lo que deben seleccionarse cuidadosamente
+C. Que estos recursos son innatos y no pueden desarrollarse mediante la formación ni la práctica profesional continua
+D. Que los recursos personales dependen exclusivamente de la experiencia acumulada en el cargo
+Respuesta correcta: A
+Explicación: “El supuesto fundamental de esta aseveración es que es posible aprender y desarrollar todos estos recursos, lo que implica voluntad, resolución, estudios, práctica y, sobre todo, sentido de superación profesional.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales; página impresa 66; página PDF 66.
+
+18. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo describe el Marco la justicia socioeducativa?
+A. Como un procedimiento administrativo para resolver reclamos de las familias ante el servicio local de educación
+B. Como una norma disciplinaria que sanciona las conductas contrarias a la convivencia escolar
+C. Como un imperativo ético, político y jurídico que se concreta en las relaciones humanas de cada territorio
+D. Como un concepto tradicional de justicia limitado a la aplicación igualitaria de la ley vigente
+Respuesta correcta: C
+Explicación: “La justicia socioeducativa es un imperativo ético, político y jurídico que se concreta, en cada territorio y establecimiento educativo, en las relaciones humanas, siendo un indicador de desarrollo democrático de un país y una comunidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Principios; página impresa 68; página PDF 68.
+
+19. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo define el Marco la reflexión como habilidad?
+A. Un proceso administrativo que registra y archiva las experiencias del servicio para su posterior auditoría externa
+B. Un proceso emocional que permite a los líderes evitar los conflictos con las comunidades educativas
+C. Un proceso individual de memorización de normas que asegura el cumplimiento de los procedimientos
+D. Un proceso mental que estructura y reestructura una experiencia a partir de la problematización de la realidad
+Respuesta correcta: D
+Explicación: “Reflexión. Descripción: Es la capacidad que está a la base del aprendizaje individual y colectivo, y puede entenderse como un proceso mental que estructura y reestructura una experiencia, a partir de la problematización de la realidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 70; página PDF 70.
+
+20. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿A qué se refiere el concepto de gobernanza en los conocimientos profesionales del Marco?
+A. A la forma de relacionarse y distribuir decisiones y responsabilidades entre los niveles macro, meso y micro
+B. A la forma de concentrar todas las decisiones del sistema educativo en el nivel central del Ministerio de Educación
+C. A la forma de elegir democráticamente a las autoridades de cada uno de los establecimientos educativos
+D. A la forma de administrar los recursos financieros según la Ley de Presupuesto del sector público
+Respuesta correcta: A
+Explicación: “Gobernanza educativa y coherencia sistémica. Descripción: El concepto de gobernanza se refiere a la forma de relacionarse y distribuir las decisiones y ámbitos de responsabilidad entre los niveles y órganos que integran el sistema educativo (macro, meso y micro).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 74; página PDF 74.
+
+21. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 1, ¿qué es responsabilidad fundamental de los líderes de nivel intermedio?
+A. Supervisar el cumplimiento de la visión ministerial sin adaptarla a las identidades del territorio
+B. Elaborar en solitario la visión del servicio y transmitirla a las comunidades para su cumplimiento
+C. Aprobar los PEI de cada establecimiento y sancionar a los que no se ajusten a la visión del servicio local
+D. Articular la visión enfocada en los aprendizajes y mantenerla viva en su rol inspirador y orientador
+Respuesta correcta: D
+Explicación: “Articular esa visión enfocada en lograr los aprendizajes necesarios para el desarrollo y bienestar del estudiantado, así como mantenerla viva en su rol inspirador y orientador, es responsabilidad fundamental de las y los líderes de nivel intermedio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 54; página PDF 54.
+
+22. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según las prácticas de la Dimensión 2, ¿qué hacen los equipos del SLEP respecto del Comité Directivo y el Consejo Local?
+A. Fiscalizan sus acuerdos y los anulan cuando no coinciden con las metas fijadas por el nivel central
+B. Presiden sus sesiones y deciden por ellos, para asegurar el cumplimiento de los objetivos del servicio local
+C. Se mantienen al margen de su funcionamiento, para resguardar la independencia de esos órganos locales
+D. Convocan y apoyan su funcionamiento, estableciendo modalidades efectivas de colaboración y coordinación
+Respuesta correcta: D
+Explicación: “2. Convocan y apoyan el funcionamiento del Comité Directivo y el Consejo Local, estableciendo modalidades efectivas de colaboración y coordinación con sus integrantes para una gestión articulada…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 57; página PDF 57.
+
+23. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo participan los equipos del SLEP en los consejos escolares y de educación parvularia, según la Dimensión 2?
+A. De manera activa a través del representante del SLEP, para apoyar el cumplimiento de sus planes
+B. De manera indirecta a través de informes escritos, sin asistir a las sesiones de dichos consejos
+C. De manera ocasional a través del director ejecutivo, solo cuando existen conflictos graves
+D. De manera directiva a través del jefe técnico, que preside y define los planes de cada consejo
+Respuesta correcta: A
+Explicación: “5. Participan de manera activa a través del representante del SLEP en los consejos escolares y de educación parvularia, con el fin de apoyar y generar condiciones para que se cumplan los objetivos de sus planes de trabajo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 57; página PDF 57.
+
+24. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 3, ¿de qué se responsabilizan los equipos de profesionales del nivel intermedio?
+A. De la disciplina escolar en cada establecimiento, aplicando directamente las sanciones a los estudiantes infractores
+B. De la calidad y pertinencia de la educación en cada nivel y contexto, definiendo estrategias con los directivos
+C. Del cumplimiento normativo de los docentes, evaluándolos y desvinculándolos sin intervención directiva
+D. De la infraestructura escolar exclusivamente, dejando la calidad educativa a cargo de cada director
+Respuesta correcta: B
+Explicación: “1. Se responsabilizan por la calidad y pertinencia de la educación en cada uno de los niveles y contextos educativos, definiendo en conjunto con los equipos directivos las estrategias de trabajo más idóneas para la mejora sostenible…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+25. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 4, ¿qué hacen los equipos del SLEP respecto de los convenios de desempeño de los directores?
+A. Revisan su cumplimiento solo al término del periodo, para decidir la continuidad del director en su cargo
+B. Delegan su seguimiento en el Consejo Local, sin intervenir en el cumplimiento de las metas
+C. Redactan las metas de manera unilateral y las imponen a los directores sin acompañamiento
+D. Acompañan, monitorean y retroalimentan el cumplimiento de sus metas para lograr sus objetivos
+Respuesta correcta: D
+Explicación: “11. Acompañan, monitorean y retroalimentan el cumplimiento de las metas de los convenios de desempeño de directores/as de los establecimientos educativos para lograr sus objetivos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+26. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué procesos desarrollan los equipos del SLEP con los directivos noveles y en servicio, según la Dimensión 4?
+A. Procesos de capacitación masiva a distancia, iguales para todos los directivos del territorio
+B. Procesos de selección y reemplazo inmediato, según la antigüedad de los directivos en el cargo
+C. Procesos de evaluación sumativa y sanción, según los resultados obtenidos en las pruebas nacionales estandarizadas
+D. Procesos de inducción, acompañamiento y/o modelamiento en terreno, según las necesidades detectadas
+Respuesta correcta: D
+Explicación: “4. Desarrollan procesos de inducción, acompañamiento y/o modelamiento en terreno a los directivos noveles y en servicio de las unidades educativas, en consideración a las necesidades detectadas para fortalecer su liderazgo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+27. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 6, ¿qué tipo de apoyo prestan los equipos del SLEP a las unidades educativas en materia normativa?
+A. Apoyo jurídico y legal en la interpretación y cumplimiento de normativas y la forma correcta de proceder
+B. Apoyo disciplinario en la aplicación de sanciones a estudiantes, sin intervenir en materias laborales
+C. Apoyo comunicacional en la difusión de normas, sin asesorar sobre su interpretación ni cumplimiento
+D. Apoyo exclusivamente contable en la rendición de subvenciones, sin orientación jurídica de ningún tipo ni legal
+Respuesta correcta: A
+Explicación: “5. Prestan apoyo jurídico y legal a las unidades educativas, tanto en lo relativo a la interpretación y cumplimiento de las normativas en el sector público, como la forma correcta de proceder ante diversas situaciones.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+28. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué política definen los equipos del SLEP según la práctica 7 de la Dimensión 6?
+A. Una política de retención, reemplazo y desvinculación, con procesos de sucesión conforme a la ley
+B. Una política de contratación temporal, que evite compromisos laborales de largo plazo con el personal
+C. Una política de rotación anual obligatoria de directivos entre los establecimientos del territorio
+D. Una política de incentivos monetarios, vinculada exclusivamente a los resultados de las pruebas
+Respuesta correcta: A
+Explicación: “7. Definen una política de retención, reemplazo y desvinculación, planifican y gestionan procesos de sucesión tanto para funcionarios del servicio como de las unidades educativas de su dependencia, conforme a la ley…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+29. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 5, ¿qué promueven los equipos del SLEP al interior del servicio y sus estamentos?
+A. Una cultura de jerarquía vertical, asegurando que las decisiones se tomen solo en la dirección
+B. Una cultura de competencia interna, asegurando que los mejores equipos reciban mayores recursos
+C. Una cultura de buen trato, respeto y colaboración, asegurando el autocuidado de los equipos de trabajo
+D. Una cultura de control y sanción, asegurando el cumplimiento estricto de los horarios de trabajo del personal
+Respuesta correcta: C
+Explicación: “1. Promueven una cultura de buen trato, respeto y colaboración al interior del servicio y distintos estamentos, asegurando el autocuidado de los equipos de trabajo y las condiciones para promover el bienestar…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 63; página PDF 63.
+
+30. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 1, ¿qué hacen los equipos del SLEP en momentos de emergencia, catástrofes u otros incidentes extraordinarios?
+A. Aseguran la gobernabilidad y reducen la incertidumbre mediante estrategias y manejo de crisis
+B. Suspenden toda comunicación con las comunidades hasta que el nivel central emita instrucciones
+C. Postergan cualquier decisión hasta el término de la emergencia para evitar errores de gestión
+D. Delegan la gestión en cada director, sin coordinación ni comunicación desde el servicio
+Respuesta correcta: A
+Explicación: “9. Aseguran la gobernabilidad y reducen la incertidumbre en las comunidades educativas, comunicando oportunamente cambios en la organización […] y gestionando oportunamente en momentos de emergencia, catástrofes u otros incidentes extraordinarios, a través de estrategias y manejo de crisis…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 55; página PDF 55.
+
+31. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Además de los SLEP, ¿a quiénes puede orientar el Marco según el propio documento?
+A. A los colegios particulares pagados, que deben adoptarlo como requisito para recibir reconocimiento
+B. A los DAEM y Corporaciones mientras sean responsables, y en lo posible a sostenedores de redes subvencionadas
+C. Solo a los SLEP, pues el documento excluye expresamente a cualquier otro tipo de sostenedor educativo del territorio
+D. A las universidades formadoras de docentes, que deben ajustar sus programas a sus dimensiones
+Respuesta correcta: B
+Explicación: “No obstante, este documento es lo suficientemente amplio como para orientar la acción de los Departamentos de Educación Municipal y Corporaciones, mientras sean responsables del servicio educativo, y también puede, en la medida de lo posible, guiar a los sostenedores que gestionan redes de escuelas subvencionadas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 46; página PDF 46.
+
+32. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué recomienda el Marco para respetar la diversidad de los territorios en su aplicación?
+A. Que cada territorio elija libremente las dimensiones que aplicará, descartando las demás
+B. Que los objetivos y contenidos se apliquen de manera uniforme en todos los territorios del país
+C. Que todos los objetivos y contenidos del documento sean ajustados a cada contexto y realidad
+D. Que solo los territorios rurales adapten el documento, mientras los urbanos lo aplican sin cambios
+Respuesta correcta: C
+Explicación: “…se recomienda que todos los objetivos y contenidos de este documento sean ajustados a cada contexto y realidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 47; página PDF 47.
+
+33. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué aclara el Marco sobre su naturaleza e instrumentos?
+A. Que no es prescriptivo ni contiene instrumentos específicos para su implementación
+B. Que es un reglamento legal que sustituye las disposiciones de la Ley 21.040
+C. Que es prescriptivo y contiene rúbricas obligatorias para evaluar a los equipos del servicio
+D. Que contiene instrumentos concretos que cada SLEP debe aplicar de inmediato
+Respuesta correcta: A
+Explicación: “Es importante clarificar que no es un documento prescriptivo, y tampoco contiene instrumentos específicos o concretos para su implementación, entregando únicamente aquellos elementos centrales que permitan los usos que se indican a continuación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 49; página PDF 49.
+
+34. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo puede entenderse el Marco respecto del primer y segundo nivel jerárquico de los SLEP?
+A. Como un manual de procedimientos administrativos para la rendición de cuentas ante la Contraloría
+B. Como un reglamento que regula sus remuneraciones y condiciones de contratación en el servicio público chileno
+C. Como una guía que describe sus ámbitos críticos de trabajo y fija el “norte” de sus prácticas de liderazgo
+D. Como un instrumento de evaluación que establece niveles de logro para decidir su continuidad laboral
+Respuesta correcta: C
+Explicación: “En ese sentido, este documento puede ser entendido como una guía que describe los ámbitos críticos del trabajo del primer y segundo nivel jerárquico de los SLEP, fijando el ‘norte’ hacia el cual debieran orientarse sus prácticas de liderazgo intermedio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos; página impresa 48; página PDF 48.
+
+35. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el Marco, ¿qué incluye actualmente una educación de calidad, de acuerdo con la literatura revisada?
+A. Ambientes adecuados para el aprendizaje profundo, docentes con capacidades y líderes con orientación pedagógica
+B. Selección de estudiantes, competencia entre escuelas y líderes con orientación exclusivamente administrativa
+C. Infraestructura moderna, pruebas estandarizadas frecuentes y directivos con experiencia en gestión financiera pública
+D. Currículo uniforme, docentes evaluados por resultados y líderes con autoridad jerárquica sobre las escuelas
+Respuesta correcta: A
+Explicación: “…una educación de calidad incluye ambientes educativos adecuados para los desafíos del aprendizaje profundo y desarrollo de las habilidades del siglo XXI; docentes y educadores con capacidades profesionales, apoyados en el desarrollo de sus prácticas, y líderes con orientación pedagógica y capacidad de innovación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 46; página PDF 46.
+
+36. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuál es el desafío principal que plantea la Dimensión 4?
+A. Internalizar que toda acción de mejora de prácticas depende exclusivamente de cursos externos de capacitación
+B. Internalizar que toda acción de mejora de prácticas busca mejorar las condiciones para enseñar y lograr aprendizajes
+C. Internalizar que toda acción de mejora de prácticas corresponde a cada docente, sin apoyo del nivel intermedio del servicio
+D. Internalizar que toda acción de mejora de prácticas busca reducir los costos de operación del servicio local
+Respuesta correcta: B
+Explicación: “El desafío principal es internalizar que toda acción de mejora de prácticas tiene como fin mejorar las condiciones para implementar procesos de enseñanza y lograr los aprendizajes esperados en todas las unidades educativas del SLEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 60; página PDF 60.
+
+37. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuándo adquiere particular importancia la Dimensión 2, según su descripción?
+A. Cuando el servicio local dispone de mayores recursos financieros para contratar personal adicional
+B. Cuando las familias presentan reclamos formales ante la Superintendencia de Educación del territorio
+C. Cuando los establecimientos alcanzan sus metas y ya no requieren apoyo técnico-pedagógico del servicio local de educación
+D. Cuando se plantean cambios estructurales en el sistema que obligan a reorganizar procesos y conformar equipos
+Respuesta correcta: D
+Explicación: “Esta dimensión adquiere particular importancia cuando se plantean cambios estructurales en el sistema, ya que es necesario reorganizar los procesos que requiere su funcionamiento y, al mismo tiempo, conformar equipos que trabajen colaborativamente…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 56; página PDF 56.
+
+38. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Desde la perspectiva del pensamiento sistémico, ¿qué ocurre con los esfuerzos individuales de mejora?
+A. Son suficientes por sí mismos, siempre que cada unidad educativa cuente con recursos adecuados
+B. Son preferibles a las acciones coordinadas, pues respetan mejor la autonomía de cada escuela
+C. Son irrelevantes, ya que la mejora depende solo de las decisiones adoptadas en el nivel central del Ministerio
+D. Son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo
+Respuesta correcta: D
+Explicación: “Desde esta perspectiva, los esfuerzos individuales de mejora son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo en su conjunto.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 70; página PDF 70.
+
+39. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Por qué se considera la escucha activa una de las habilidades más difíciles de encontrar y desarrollar?
+A. Porque requiere ponerse en el lugar de los demás, dejar paradigmas propios y controlar las emociones
+B. Porque requiere evitar todo contacto directo con las comunidades para no comprometer al servicio
+C. Porque requiere conocimientos técnicos avanzados de comunicación digital y de manejo de plataformas virtuales
+D. Porque requiere autoridad jerárquica suficiente para imponer el propio punto de vista a los demás
+Respuesta correcta: A
+Explicación: “El desarrollo de la capacidad de escucha activa se considera una de las habilidades más difíciles de encontrar y desarrollar porque, entre otras cosas, requiere ‘ponerse en el lugar de los demás’, dejar a un lado paradigmas propios, controlar las emociones y asumir que otros pueden ver las cosas de manera diferente.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 71; página PDF 71.
+
+40. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el Marco, ¿en qué radica el desafío de que los SLEP funcionen con las lógicas del servicio público?
+A. Solo en la capacitación técnica del personal en contabilidad gubernamental y compras públicas
+B. En mantener los modos de trabajo municipales, adaptándolos gradualmente a la Ley de Presupuesto
+C. No solo en la capacitación técnica, sino en romper la inercia de los modos de trabajo municipales
+D. Solo en la contratación de nuevo personal sin experiencia previa en la administración municipal del territorio
+Respuesta correcta: C
+Explicación: “El desafío no sólo radica en la capacitación técnica, sino que también en romper la inercia de los modos de trabajo que se han desarrollado por años desde los municipios, de manera que requiere un cambio ‘cultural’ de adaptación a lógicas propias de un servicio público.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 77; página PDF 77.
+
+41. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia al Marco de los Estándares Indicativos de Desempeño (EID)?
+A. El Marco se dirige a los docentes de aula; los EID se dirigen exclusivamente a los SLEP del país
+B. El Marco es específico para un nivel y sector; los EID abarcan lineamientos más generales y rígidos con rúbricas
+C. El Marco establece rúbricas con niveles de logro; los EID son flexibles y carecen de lineamientos generales de aplicación
+D. No existe diferencia, pues ambos documentos son prescriptivos y comparten los mismos instrumentos
+Respuesta correcta: B
+Explicación: “…este es un marco específico y completo, en el sentido que contempla las prácticas de liderazgo y los recursos personales, pensados específicamente para los profesionales de un nivel y sector educativo del país. Se diferencia, por ejemplo, de los Estándares Indicativos de Desempeño (EID), que abarcan lineamientos más generales y rígidos, a través de rúbricas…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos; página impresa 48; página PDF 48.
+
+42. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia las habilidades de los conocimientos profesionales en el Marco?
+A. Las habilidades son innatas y no se desarrollan; los conocimientos se adquieren solo por experiencia
+B. Las habilidades son saberes formales y de experiencia; los conocimientos, capacidades conductuales y técnicas del líder
+C. Las habilidades guían la conducta desde un marco valórico; los conocimientos, la conducta funcionaria
+D. Las habilidades son capacidades conductuales y técnicas; los conocimientos, saberes formales y de experiencia
+Respuesta correcta: D
+Explicación: “Habilidades: Capacidades conductuales y técnicas que permiten implementar procesos y acciones a fin de lograr los objetivos declarados. […] Conocimientos profesionales: Conjunto de saberes adquiridos en procesos formales de educación, complementados por el aprendizaje logrado sobre la base de la experiencia profesional.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales; página impresa 66; página PDF 66.
+
+43. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] En la estructura de cada dimensión de prácticas, ¿qué diferencia el “desafío” de la “evidencia de prácticas”?
+A. El desafío describe los elementos sustantivos; la evidencia nombra la dimensión y su ámbito de acción
+B. El desafío asocia retos de la fase de mejora o transición; la evidencia reúne las actividades esperadas
+C. El desafío fija las sanciones por incumplimiento; la evidencia registra los resultados de las pruebas
+D. El desafío reúne las actividades esperadas; la evidencia asocia retos de la fase de mejora o transición del servicio
+Respuesta correcta: B
+Explicación: “DESAFÍO: Espacio que asocia uno o más desafíos en la fase de mejora, cambio o transición. DESCRIPCIÓN: Descripción de los elementos sustantivos que componen la dimensión. EVIDENCIA DE PRÁCTICAS: Conjunto de actividades esperadas y que las y los líderes aplican según su contexto y situación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 53; página PDF 53.
+
+44. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia la etapa de instalación de la etapa de consolidación de un SLEP, según el Marco?
+A. En la instalación se organizan personal, procesos y consejos; la consolidación es la etapa posterior
+B. Ambas etapas son simultáneas y comienzan después del primer año efectivo de funcionamiento
+C. En la instalación se evalúan los resultados finales; en la consolidación se realiza el traspaso
+D. En la consolidación se organizan personal, procesos y consejos; la instalación es la etapa posterior del servicio
+Respuesta correcta: A
+Explicación: “En este periodo, se organizan el personal y los procesos fundamentales del nivel. Incluye la conformación del Consejo Local, del Consejo Directivo, completar las plazas del personal del SLEP y organizar la relación con las unidades educativas. Posterior a esta etapa, lo denominaremos etapa de consolidación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 53; página PDF 53.
+
+45. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia la ética y probidad de la vocación de servicio público como principios del Marco?
+A. La primera exige coherencia entre valores y conductas; la segunda, reconocer el rol del Estado y servir
+B. La primera se refiere a la confianza entre niveles; la segunda, a la igualdad de oportunidades
+C. La primera exige reconocer el rol del Estado y servir; la segunda, coherencia entre valores y conductas del líder
+D. La primera es una habilidad conductual; la segunda, un conocimiento adquirido en procesos formales
+Respuesta correcta: A
+Explicación: “La ética y probidad implican la promoción y consistencia entre los valores que se predican y las conductas…” (p. 68); “[La vocación de servicio] se relaciona con la capacidad del profesional de reconocer el rol que cumple el Estado, su responsabilidad social en la vida de las personas y la motivación por estar al servicio de los demás…” (p. 69).
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Principios; página impresa 68; página PDF 68.
+
+46. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia la habilidad de manejo de crisis y contingencia de la de mediación y resolución de conflicto?
+A. La primera se refiere a aprender de la experiencia; la segunda, a analizar interrelaciones del sistema
+B. La primera administra situaciones emergentes o de presión; la segunda facilita consensos entre partes en pugna
+C. La primera facilita consensos entre partes en pugna; la segunda administra situaciones emergentes o de presión en el territorio
+D. La primera identifica actores clave para alianzas; la segunda transmite mensajes de manera oportuna
+Respuesta correcta: B
+Explicación: “Manejo de crisis y contingencia. Descripción: Es la capacidad para identificar y administrar situaciones emergentes, de presión o contingencia […]. Mediación y resolución de conflicto. Descripción: Es la capacidad de las y los líderes del nivel intermedio para facilitar consensos entre las partes en pugna…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 72; página PDF 72.
+
+47. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué usos de la evaluación distingue el Marco en el conocimiento sobre evaluación de aprendizajes?
+A. Evaluación institucional, evaluación docente y evaluación de los directivos
+B. Evaluación cuantitativa, evaluación cualitativa y evaluación mixta de los procesos de aula
+C. Evaluación diagnóstica, evaluación sumativa y evaluación estandarizada de carácter externo
+D. Evaluación para el aprendizaje, evaluación del aprendizaje y evaluación como aprendizaje
+Respuesta correcta: D
+Explicación: “Un aspecto relevante en el ámbito pedagógico de las evaluaciones es distinguir su uso (evaluaciones para el aprendizaje, evaluación del aprendizaje o evaluación como aprendizaje).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 74; página PDF 74.
+
+48. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Con qué concepto relaciona el Marco la agilidad o disposición para el aprendizaje?
+A. Con la estabilidad de los procesos
+B. Con la mentalidad de crecimiento
+C. Con la autoridad jerárquica
+D. Con la experiencia acumulada previa
+Respuesta correcta: B
+Explicación: “En ese sentido, la agilidad para el aprendizaje está relacionada a la mentalidad de crecimiento, es decir, la capacidad que las y los líderes de nivel intermedio tienen para adaptarse y enfrentarse al fracaso o desafíos desde su potencial de aprendizaje…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 72; página PDF 72.
+
+49. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué diferencia el conocimiento sobre “trayectoria educativa” del conocimiento sobre “teoría del cambio o acción” en el Marco?
+A. El primero alude al desempeño estudiantil año a año; el segundo, a las condiciones para iniciar y mantener el cambio
+B. El primero alude a las condiciones para iniciar y mantener el cambio; el segundo, al desempeño estudiantil anual
+C. El primero se refiere a la selección y retención docente; el segundo, a la arquitectura del currículo nacional
+D. El primero se refiere a la normativa financiera pública; el segundo, a los estilos de liderazgo de los directivos escolares
+Respuesta correcta: A
+Explicación: “Trayectoria educativa alude al desempeño de las y los estudiantes a lo largo de su escolaridad, año a año…” (p. 75); “Teoría del cambio o acción. Descripción: Las y los líderes de nivel intermedio deben reconocer e interiorizar las condiciones organizacionales que permiten iniciar y mantener estrategias de cambio en las unidades educativas…” (p. 75).
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 75; página PDF 75.
+
+50. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE el conocimiento sobre administración de recursos financieros?
+A. El equipo debe cumplir estándares nacionales e internacionales de rendición de cuentas pública del país
+B. La rendición de cuentas interna refuerza la autonomía, la flexibilidad y la responsabilidad
+C. La rendición de cuentas interna debe restringir la autonomía de los establecimientos y su iniciativa
+D. El equipo debe manejar la normativa de uso de los recursos en el ámbito público y su control
+Respuesta correcta: C
+Explicación: “Un efectivo liderazgo educativo intermedio, se focaliza en una dinámica de rendición de cuentas interna que refuerza la autonomía de los establecimientos educativos, con un incremento de la iniciativa, la flexibilidad, la adaptabilidad y la responsabilidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 76; página PDF 76.
+
+51. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP aplica el Marco de forma idéntica en todas sus escuelas urbanas, rurales y de distintas modalidades. ¿Qué análisis se fundamenta en el documento?
+A. Desconoce que el Marco es flexible y que sus objetivos y contenidos deben ajustarse a cada contexto
+B. Es lo correcto, siempre que la aplicación uniforme sea autorizada previamente por el Consejo Local
+C. Es lo correcto, pues el Marco es prescriptivo y exige una aplicación uniforme en todo el territorio nacional
+D. Es irrelevante, ya que el Marco solo rige para los Departamentos de Educación Municipal del país
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Para su mejor aplicación y con el fin de respetar la diversidad de los territorios y distinguir las múltiples realidades que albergan, se recomienda que todos los objetivos y contenidos de este documento sean ajustados a cada contexto y realidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 47; página PDF 47.
+
+52. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] En la instalación, el nuevo equipo de un SLEP solo cambia los formularios heredados del municipio y no conoce los desafíos de sus escuelas. ¿Qué crítica se apoya en el Marco?
+A. Es lo esperado, pues la instalación consiste únicamente en un cambio administrativo de los formularios heredados
+B. Las nuevas prácticas deben evidenciar no solo un cambio de administración, sino comprensión de los desafíos
+C. La comprensión de los desafíos de las escuelas corresponde exclusivamente a la etapa de consolidación
+D. Es lo esperado, siempre que el cambio de formularios se complete antes del año de anticipación
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “2. Promueven, en la fase de instalación de los SLEP, que las nuevas prácticas profesionales del equipo del servicio evidencien, no sólo un cambio de administración, sino conocimiento y comprensión de los distintos desafíos organizacionales y pedagógicos de las unidades educativas…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+53. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un equipo intermedio afirma que basta con fijar metas para movilizar a las escuelas. ¿Qué análisis crítico se fundamenta en el Marco?
+A. Las creencias y enfoques son irrelevantes, ya que el trabajo se rige solo por la normativa vigente
+B. Es correcto, siempre que las metas se acompañen de sanciones para las escuelas que no las cumplan
+C. Es correcto, pues el liderazgo intermedio se moviliza exclusivamente a partir de objetivos y metas cuantitativas
+D. El liderazgo intermedio se moviliza, ante todo, por creencias y enfoques que dan sentido al trabajo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El liderazgo y la gestión del equipo intermedio de educación pública no se moviliza sólo a partir de objetivos y metas, sino, ante todo, por un conjunto de creencias y enfoques (ver cuadro, a continuación) que son fundamentales y le dan sentido al trabajo que realiza con las unidades educativas y la comunidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+54. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un profesional del SLEP sostiene que ciertos docentes “no pueden mejorar” y no merecen apoyo. ¿Qué creencia del Marco contradice esta postura?
+A. Que los docentes deben mejorar por su cuenta, sin condiciones ni apoyos del nivel intermedio
+B. Que las intervenciones tardías son preferibles para evitar presionar a los docentes en ejercicio
+C. Que todos los docentes pueden mejorar sus prácticas si se les brindan las condiciones y el apoyo necesario
+D. Que solo los docentes con mayor antigüedad pueden mejorar sus prácticas mediante cursos externos de capacitación
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “• Todas y todos los docentes pueden mejorar sus prácticas de enseñanza y lograr las expectativas propias de la pedagogía actual si se les brindan las condiciones y el apoyo necesario.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensiones de prácticas; página impresa 52; página PDF 52.
+
+55. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] La estrategia territorial de un SLEP se enfoca solo en los estudiantes matriculados y omite a quienes abandonaron el sistema. ¿Qué crítica se apoya en la Dimensión 1?
+A. Es lo adecuado, siempre que los excluidos sean derivados a programas privados fuera del servicio local
+B. La integración de los excluidos corresponde solo al Ministerio y no a la estrategia del nivel intermedio
+C. La estrategia debe estimular las trayectorias e integrar también a quienes han sido excluidos del sistema
+D. Es lo adecuado, pues la estrategia territorial solo debe atender a los estudiantes actualmente matriculados
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La estrategia educativa territorial debe favorecer y estimular las trayectorias escolares desde la educación inicial a la educación superior, pero también integrar a quienes hayan sido excluidos del sistema en el territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 54; página PDF 54.
+
+56. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP distribuye sus recursos centralizando todas las decisiones y sin considerar las prioridades de cada escuela. ¿Qué análisis se fundamenta en la Dimensión 6?
+A. Es lo correcto, siempre que la distribución se informe a los directores al término del año presupuestario
+B. Es lo correcto, pues la distribución centralizada garantiza la equidad entre todas las unidades educativas del territorio
+C. La autonomía de gestión de los directivos es incompatible con la transparencia en el uso de los recursos
+D. La distribución debe promover la autonomía de gestión directiva, según necesidades y prioridades de cada unidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La distribución de recursos debe promover la autonomía de gestión de los equipos directivos, generando un sistema que potencie el liderazgo, la transparencia y la toma de decisiones con base a evidencia, de acuerdo con las necesidades y prioridades de cada unidad educativa…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 64; página PDF 64.
+
+57. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un equipo intermedio implementa medidas aisladas sin visión del conjunto del sistema y no logra mejoras. ¿Qué análisis se apoya en el conocimiento sobre gobernanza y coherencia sistémica?
+A. La falta de mejoras se explica solo por la insuficiencia de recursos, no por la ausencia de coherencia sistémica del servicio
+B. Sin una mentalidad o coherencia sistémica no se logra enfocar la combinación correcta de factores movilizadores
+C. La coherencia sistémica corresponde exclusivamente al nivel central y no compete al nivel intermedio
+D. Las medidas aisladas son la mejor estrategia, pues permiten atender rápido cada problema por separado
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Sin una mentalidad o coherencia sistémica, las los líderes intermedios no logran enfocar la combinación correcta de factores movilizadores para una educación de calidad en el territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 74; página PDF 74.
+
+58. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP define programas de apoyo pedagógico sin diagnósticos y sin acordarlos con los líderes escolares. ¿Qué crítica se fundamenta en la Dimensión 3?
+A. Es lo adecuado, siempre que los programas sean idénticos para todas las unidades educativas del territorio asignado
+B. Es lo adecuado, pues los programas de apoyo son competencia exclusiva del servicio local sin consulta
+C. Los diagnósticos son innecesarios, ya que las áreas críticas de cada comunidad son conocidas de antemano
+D. Los programas deben definirse en acuerdo con los líderes escolares y sobre evidencia empírica de diagnósticos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “5. Definen, en acuerdo con las y los líderes de las unidades educativas, los programas de apoyo pedagógico, su proyección y contextualización, sobre la base de evidencia empírica obtenida a partir de diagnósticos sobre las áreas críticas de cada comunidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+59. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un equipo intermedio prioriza imponer cambios rápidos sin cultivar relaciones entre niveles. ¿Qué análisis se apoya en el principio de confianza?
+A. La confianza solo es relevante en las relaciones interpersonales y no en las relaciones institucionales
+B. La confianza es un principio secundario que solo importa una vez logrados los resultados de aprendizaje esperados
+C. La confianza es innecesaria si el servicio local ejerce con firmeza su autoridad sobre las escuelas
+D. La confianza es base de toda relación y condición para promover procesos de cambio y mejora institucional
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La confianza es la base de cualquier tipo de relación, sea interpersonal o institucional […]. Esto implica que el liderazgo educativo intermedio debe trabajar continuamente para lograr crecientes grados de confianza […] para crear las condiciones necesarias para promover procesos de cambio y mejora institucionales.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Principios; página impresa 69; página PDF 69.
+
+60. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP gestiona a su personal atendiendo solo a las necesidades de la organización. ¿Qué crítica se apoya en el conocimiento sobre administración de recursos humanos y gestión de talento?
+A. Es lo correcto, siempre que las necesidades de la organización se definan en el nivel central
+B. Es lo correcto, pues la gestión del talento solo debe responder a las necesidades de la organización del servicio
+C. También debe satisfacer las necesidades y deseos de los colaboradores, valorando su pasado y su futuro
+D. Las necesidades de los colaboradores corresponden a su vida privada y no a la gestión institucional
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, deben buscar, a través de la gestión del talento humano, satisfacer las necesidades y los deseos de la organización, sin perder de vista que también deben contribuir a satisfacer las necesidades y deseos de las y los colaboradores, colocando valor no sólo al pasado, sino al futuro de las personas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 76; página PDF 76.
+
+61. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al definir el rol de apoyo del SLEP a los equipos directivos para lograr la calidad de la educación integral, ¿qué ley mandata ese propósito según el Marco?
+A. La Ley N° 21.040
+B. La Ley 20.370
+C. La Ley N° 20.903
+D. La Ley N.º 20.845
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…con especial énfasis en destacar el rol de apoyo y acompañamiento del SLEP a los equipos directivos de los centros educativos para fortalecer sus capacidades de liderazgo pedagógico y lograr la calidad de la educación integral en el territorio, tal como mandata la Ley 21.040.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos; página impresa 48; página PDF 48.
+
+62. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP necesita fundamentar su articulación con el gobierno municipal y otros organismos locales. ¿Qué disposición remite el Marco para ello?
+A. El artículo 2 de la Ley 20.903
+B. El artículo 12 de la Ley N° 20.845
+C. El artículo 18 de la Ley 21.040
+D. El artículo 5 de la Ley 20.370
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[10] Ver artículo 18 de la Ley 21.040 para saber más sobre la articulación de los SLEP con otros organismos locales.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Objetivos y usos del Marco para la Gestión y el Liderazgo Educativo Local; página impresa 47; página PDF 47.
+
+63. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al revisar los instrumentos de gestión institucional (PEL, PAL, PEI, PME), ¿con qué normativas deben alinearse según la Dimensión 5?
+A. Con las ordenanzas municipales previas al traspaso, que conservan su vigencia en el servicio
+B. Con las normativas nacionales como la ENEP y la Ley de Inclusión, y con los protocolos de convivencia
+C. Con los reglamentos internos de cada escuela, aunque contradigan la estrategia nacional vigente del servicio
+D. Con las directrices de cada sostenedor privado de la comuna, para unificar los procedimientos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “4. Se comprometen, junto a las comunidades educativas, a revisar y actualizar los distintos instrumentos de gestión institucional (PEL, PAL, PEI, PME, etc.), velando que sean coherentes y estén alineados con las normativas nacionales (ENEP, Ley de Inclusión, etc.) y los planes y protocolos relativos a inclusión, convivencia y formación ciudadana.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 63; página PDF 63.
+
+64. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al instalar el SLEP, ¿qué lógica de funcionamiento deben seguir los equipos para constituir sus procesos organizacionales básicos?
+A. La lógica de funcionamiento municipal previa, para evitar cambios bruscos en los procesos heredados del municipio
+B. La lógica de funcionamiento de las empresas privadas, para lograr mayor eficiencia en la gestión
+C. La lógica propia de cada establecimiento, sin coordinación con la DEP ni con los municipios locales
+D. La normativa y lógica de funcionamiento de la administración pública, cuidando la continuidad del servicio
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “1. Aseguran, en coordinación con la DEP, municipios y unidades educativas la adecuada instalación del SLEP a través de la constitución de equipos y procesos organizacionales básicos […] siguiendo la normativa y lógica de funcionamiento de la administración pública, cuidando mantener la continuidad y normalidad del servicio educativo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+65. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe seleccionar profesionales para liderar procesos de enseñanza. ¿Qué exige la Dimensión 6 respecto de los mecanismos de selección?
+A. Designar directamente a los candidatos de confianza del director ejecutivo, sin concurso alguno
+B. Considerar el marco normativo y usar mecanismos de concursabilidad que resguarden la transparencia
+C. Delegar la selección en empresas externas, sin sujeción al marco normativo del sector público
+D. Seleccionar solo a profesionales provenientes de la administración municipal anterior al traspaso educativo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “6. Atraen, captan y retienen profesionales con las capacidades fundamentales […], considerando el marco normativo, aprovechando las redes internas e instancias de concursabilidad establecidas bajo mecanismos que resguarden la transparencia en el proceso de selección.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+66. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Para fortalecer la confianza de las comunidades, ¿cómo deben disponer la información los equipos del SLEP según la Dimensión 6?
+A. A través de comunicados informales a criterio del director ejecutivo, sin plazos ni formatos definidos
+B. A través de las rendiciones de cuentas previstas en la normativa, con una cultura de transparencia y probidad
+C. A través de la publicación de rankings de escuelas, sin relación con la rendición de cuentas normativa
+D. A través de reportes reservados al nivel central, sin acceso para las comunidades educativas del territorio asignado
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “14. Generan una cultura de transparencia y probidad, disponiendo la información que corresponda a través de rendiciones de cuentas previstas en la normativa, con el fin de informar oportunamente y mejorar la confianza en las comunidades educativas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+67. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP necesita fortalecer las capacidades de su equipo para la gestión rápida en el marco de las reglas del sector público. ¿Qué conocimientos debe priorizar según el Marco?
+A. Gestión de subvenciones privadas, financiamiento compartido y cobro de matrículas a familias
+B. Gestión de rentas municipales, patentes comerciales y ordenanzas comunales de cada territorio del país
+C. Contabilidad de empresas privadas, gestión de utilidades y normativa tributaria de sociedades
+D. Administración financiera, presupuestaria, contabilidad gubernamental y ley de compras públicas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…se requieren nuevos conocimientos y capacidades en relación con la administración financiera, presupuestaria, de contabilidad gubernamental y de la ley de compras públicas, de manera que se pueda llevar a cabo una gestión rápida en el marco de las reglas del sector público.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 77; página PDF 77.
+
+68. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al contratar directivos, ¿qué aspectos normativos deben conocer los equipos según el conocimiento sobre administración de recursos humanos?
+A. Régimen tributario de empresas, contratos comerciales, licitaciones privadas y arbitraje mercantil entre privados
+B. Reglamento de evaluación escolar, calendario académico, uniformes y normas de convivencia escolar
+C. Rentas municipales, patentes comerciales, permisos de edificación y ordenanzas sobre uso de suelo
+D. Carrera docente, selección y contratación (en general y vía ADP), remuneración, inducción y desvinculación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Los equipos educativos de nivel intermedio deben conocer los aspectos normativos sobre leyes sociales, en particular, los relativos a la carrera docente, los procesos de selección y contratación (en general y vía ADP), remuneración, los procesos de inducción y desvinculación del cargo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 76; página PDF 76.
+
+69. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al conformar equipos directivos y docentes en las escuelas, ¿qué deben considerar los equipos del SLEP según la Dimensión 4?
+A. Las recomendaciones de las familias, sin sujeción a la normativa vigente sobre selección de personal
+B. Las preferencias del director ejecutivo, con perfiles únicos para todos los establecimientos del territorio
+C. La normativa, con perfiles acordes a cada establecimiento, procesos de selección optimizados y desarrollo
+D. La antigüedad de los postulantes, sin perfiles específicos ni procesos de desarrollo profesional continuo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “1. Aseguran, considerando la normativa, la conformación de equipos directivos y docentes adecuados a las realidades de las diversas unidades educativas del territorio, orientando y promoviendo el diseño de perfiles acorde a las necesidades de cada establecimiento, la optimización de procesos de selección y el desarrollo profesional continuo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+70. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al evaluar a los funcionarios de la propia institución, ¿cómo deben proceder los equipos del SLEP según la Dimensión 4?
+A. Aplicando los mismos instrumentos que se usan para evaluar a los estudiantes de los establecimientos
+B. Omitiendo la evaluación del personal, que corresponde solo a los organismos de fiscalización externa
+C. Desarrollando una política de evaluación y retroalimentación formal, conforme a la normativa y acuerdos
+D. Evaluando informalmente según el criterio de cada jefatura, sin política ni retroalimentación formal del desempeño
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “12. Desarrollan e implementan, conforme a la normativa y acuerdos internos, una política de evaluación y retroalimentación formal del desempeño laboral para los funcionarios de la institución.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+71. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Los centros de estudiantes y de padres de varias escuelas funcionan solo de manera formal y sin autonomía. ¿Cómo debe actuar el SLEP según la Dimensión 2?
+A. Designar a sus dirigentes desde el servicio local para asegurar un funcionamiento más ordenado y eficiente de cada centro
+B. Apoyar su trabajo, desarrollo democrático y autonomía para lograr la participación efectiva de las comunidades
+C. Dejar que cada director decida si mantiene estos órganos, sin intervención ni apoyo del servicio local
+D. Suspender su funcionamiento hasta que las familias demuestren un mayor compromiso con cada establecimiento
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “4. Apoyan el trabajo, el desarrollo democrático y autonomía de los centros de estudiantes y los centros de padres, madres y apoderados en los establecimientos de su dependencia para conseguir la participación efectiva de las comunidades en dichos órganos colegiados.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 57; página PDF 57.
+
+72. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Las familias de un territorio no comprenden qué hace el SLEP. ¿Qué acción recomienda la Dimensión 2?
+A. Publicar un reglamento interno del servicio y exigir a las familias su lectura obligatoria en cada escuela del territorio
+B. Esperar a que las familias consulten individualmente en las oficinas del servicio cuando lo necesiten
+C. Limitar la información a los directores, para que cada uno decida qué comunicar a sus propias familias
+D. Promover encuentros con los órganos formales de representación de las familias para compartir y reflexionar
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “6. Promueven acciones de encuentro con los órganos formales de representación de las familias para compartir y reflexionar sobre lo que realiza el conjunto de las unidades educativas del territorio, de manera que puedan comprender el rol y las acciones del nivel intermedio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 57; página PDF 57.
+
+73. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Llegan al territorio numerosas familias inmigrantes y las escuelas no saben cómo recibirlas. ¿Qué acción corresponde al SLEP según la Dimensión 5?
+A. Constituir redes de mejoramiento e innovación para la recepción e inducción de estudiantes y familias
+B. Exigir a las familias inmigrantes que regularicen su situación antes de matricular a sus hijos en la escuela
+C. Dejar que cada escuela resuelva la recepción por su cuenta, sin apoyo del servicio local
+D. Concentrar a todos los estudiantes inmigrantes en una sola escuela para facilitar su atención
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “7. Implementan procesos de apoyo a las unidades educativas en el territorio, constituyendo redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 63; página PDF 63.
+
+74. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] En las clases de un liceo se observan estereotipos sexistas en la asignación de tareas. ¿Cómo debe apoyar el SLEP según la Dimensión 5?
+A. Apoyar a los equipos para visibilizar y desnaturalizar sesgos de género, con estrategias desde esa perspectiva
+B. Sancionar a los docentes involucrados sin ofrecer apoyo ni estrategias educativas al equipo del liceo
+C. Respetar las prácticas del liceo, pues la asignación de tareas es una decisión exclusiva de cada docente de aula del liceo
+D. Separar a estudiantes por sexo en las actividades, para evitar conflictos derivados de los estereotipos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “8. Apoyan a los equipos de las unidades educativas para que se visibilicen y desnaturalicen los sesgos de género en las prácticas pedagógicas, promoviendo el pensamiento crítico sobre sexismo, estereotipos, habilidades y roles, incorporando estrategias educativas desde la perspectiva de género.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 63; página PDF 63.
+
+75. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] En una escuela se detectan estudiantes con posibles vulneraciones de derechos, sin un procedimiento para su seguimiento. ¿Qué apoyo debe dar el SLEP?
+A. Esperar a que los organismos externos intervengan, sin seguimiento desde el sistema educativo
+B. Asumir directamente el caso y retirar a la escuela toda participación en el seguimiento de los estudiantes
+C. Apoyar la definición de criterios, procedimientos y seguimiento sistemático para diseñar apoyos tempranos
+D. Limitarse a registrar los casos en una base de datos, sin diseñar estrategias de apoyo para los estudiantes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “12. Apoyan a las unidades educativas en la definición de criterios, procedimientos y realización de seguimiento sistemático de estudiantes en riesgos educativos y sociales y/o con problemáticas relacionadas a vulneración de derechos, para diseñar y adaptar estrategias pertinentes de apoyo temprano.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 63; página PDF 63.
+
+76. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un liceo técnico profesional tiene dificultades con las prácticas profesionales de sus estudiantes. ¿Qué estrategia corresponde al SLEP según la Dimensión 3?
+A. Diseñar con el equipo directivo estrategias que resguarden la vinculación con sectores productivos y terciarios
+B. Delegar la gestión de las prácticas en las empresas, sin coordinación con el equipo directivo del liceo ni del servicio local
+C. Exigir al liceo que resuelva el problema por su cuenta, pues la modalidad TP no compete al servicio
+D. Cerrar las especialidades con dificultades y reorientar a los estudiantes hacia la formación humanista
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “10. Diseñan, en conjunto con los equipos directivos de los liceos, estrategias específicas para fortalecer la calidad de la modalidad técnico profesional, resguardando su vinculación con los sectores productivos, así como instituciones de formación terciaria, para fortalecer los procesos de formación en alternancia, las prácticas profesionales…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+77. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Los directivos de una escuela no logran organizar espacios de reflexión pedagógica en las horas no lectivas. ¿Cómo debe colaborar el SLEP?
+A. Eliminar las horas no lectivas de la escuela y reasignarlas a clases adicionales de reforzamiento académico
+B. Asumir el control de las horas no lectivas y destinarlas a tareas administrativas solicitadas por el servicio de educación
+C. Abstenerse de intervenir, pues la organización de las horas no lectivas es una materia ajena al servicio
+D. Colaborar según sus necesidades para organizar esos espacios, con foco en enriquecimiento curricular y planificación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “8. Colaboran con los equipos directivos, en la medida de sus necesidades, para organizar las horas no lectivas o espacios de reflexión pedagógica, con foco en el enriquecimiento curricular y planificación de la enseñanza.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+78. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] En un establecimiento surge un conflicto entre docentes y apoderados que paraliza el trabajo. ¿Cómo debe actuar el líder intermedio según la habilidad de mediación?
+A. Facilitar consensos como mediador, comprendiendo el origen del conflicto y probando soluciones con los interesados
+B. Respaldar siempre la posición de los docentes, pues son funcionarios del servicio local de educación
+C. Esperar a que el conflicto se resuelva por sí solo, para no comprometer la neutralidad del servicio local
+D. Imponer una solución definitiva desde el servicio, sin escuchar a las partes para no prolongar el conflicto en la escuela
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…las y los líderes cumplen el rol de mediador, buscando moderar la tensión y establecer acuerdos y compromisos entre los miembros de la comunidad educativa o al interior del propio Servicio, comprendiendo el origen del conflicto y probando alternativas de solución en conjunto con todas y todos los interesados.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 72; página PDF 72.
+
+79. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Una escuela quiere ampliar sus talleres, pero carece de recursos suficientes del presupuesto regular. ¿Qué apoyo corresponde al SLEP según la Dimensión 6?
+A. Coordinar y apoyar la obtención de recursos complementarios mediante proyectos, fondos y convenios
+B. Autorizar el cobro de aportes obligatorios a las familias para financiar los talleres de la escuela
+C. Negar la solicitud, pues las escuelas solo pueden usar los recursos del presupuesto regular asignado
+D. Trasladar recursos de otras escuelas del territorio sin considerar sus propios objetivos del PEI
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “9. Coordinan y apoyan a los directivos de las unidades educativas para la obtención de recursos complementarios, a través de la generación de nuevos proyectos, postulación a fondos, celebración de convenios y cualquier otra iniciativa que consolide las condiciones para cumplir con los objetivos del PEI.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+80. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] La matrícula y la asistencia de varias escuelas públicas del territorio están disminuyendo. ¿Qué acción propone la Dimensión 6?
+A. Reducir el personal de las escuelas afectadas en proporción a la disminución de su matrícula
+B. Esperar a que la matrícula se recupere sola, sin acciones de comunicación desde el servicio local
+C. Analizar indicadores con las escuelas para diseñar un plan de comunicaciones que genere confianza y matrícula
+D. Fusionar de inmediato las escuelas afectadas, sin analizar los datos ni consultar a sus comunidades educativas locales
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “12. Analizan en conjunto con las unidades educativas, los datos e información de indicadores que permitan diseñar un plan de comunicaciones que sea parte de las estrategias del SLEP para generar confianza en la comunidad y promuevan los procesos de matrícula, mejoren asistencia y consoliden las trayectorias escolares…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+81. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP recién creado debe decidir cómo construir su visión estratégica. ¿Qué decisión se ajusta a la Dimensión 1?
+A. Adoptar sin cambios la visión de otro SLEP, para ahorrar tiempo durante la etapa de instalación
+B. Convocar a las comunidades a elaborarla participativamente, plasmándola en el PEL y respetando los PEI
+C. Encargar su redacción a una consultora externa y difundirla después entre las comunidades educativas
+D. Elaborarla en el equipo directivo del servicio y aprobarla sin consultar a las comunidades educativas del territorio
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Convocan a las comunidades educativas a elaborar participativamente una visión estratégica compartida del SLEP. Esta visión, plasmada en el PEL, está vinculada y respeta la tradición histórica del territorio y los PEI de los centros educativos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 55; página PDF 55.
+
+82. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir qué especialidades técnico profesionales ofrecer en su territorio. ¿Qué criterio orienta esta decisión según la Dimensión 1?
+A. El menor costo de implementación, con independencia de las necesidades de los estudiantes
+B. La demanda de las empresas privadas de la región, sin considerar la visión de las comunidades educativas locales
+C. La visión compartida por la comunidad, la pertinencia territorial y las necesidades de los estudiantes
+D. Las especialidades que ofrecía el municipio, sin revisar su pertinencia para el territorio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “7. Definen la oferta educativa, niveles, modalidades educativas y especialidades (en el caso de la educación TP) acorde a la visión estratégica compartida por la comunidad, asegurando la pertinencia a las características del territorio y necesidades del grupo de estudiantes.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 55; página PDF 55.
+
+83. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir cómo diseñar su modelo de apoyo técnico-pedagógico. ¿Qué decisión se ajusta a la Dimensión 3?
+A. Delegarlo por completo en cada escuela, sin modelo común ni foco en el desarrollo de capacidades
+B. Aplicar sin adaptación un modelo estándar idéntico en todas las escuelas, sin considerar sus diferencias propias
+C. Diseñarlo con ciclos iterativos de mejora, contextualizando los marcos del sistema y con foco en capacidades
+D. Basarlo en visitas de fiscalización anuales, con informes de cumplimiento normativo para cada escuela
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Diseñan un modelo de apoyo técnico pedagógico, con ciclos iterativos de mejoramiento, teniendo presente y contextualizando los modelos y marcos proporcionados por el sistema; lo implementan considerando las distintas características de los establecimientos de su dependencia, con foco en el desarrollo de capacidades colectivas e individuales.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+84. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al tomar decisiones estratégicas y operativas, ¿qué fuentes de información deben considerar los líderes intermedios según la Dimensión 3?
+A. Fuentes propias e institucionales, especialmente de los organismos del SAC, con monitoreo permanente
+B. Solo la opinión de los directores, sin datos de fuentes propias ni de organismos institucionales
+C. Solo los reclamos de las familias, como indicador principal del desempeño de cada establecimiento educativo
+D. Solo los resultados de pruebas internacionales, sin fuentes propias ni monitoreo del territorio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Toman decisiones estratégicas y operativas, basadas en evidencia, que orientan su gestión a partir de información de fuentes propias e institucionales (especialmente, de los organismos del SAC), monitoreando permanentemente a fin de orientar el sistema de apoyo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 58; página PDF 58.
+
+85. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP observa que los mejores directivos y docentes se concentran en pocas escuelas. ¿Qué decisión se ajusta a la Dimensión 4?
+A. Ignorar la distribución de capacidades, que corresponde solo a las decisiones de cada director
+B. Orientar estratégicamente, según la normativa, la distribución equitativa de capacidades según cada contexto
+C. Mantener la concentración actual, pues las escuelas con mejores equipos obtienen mejores resultados
+D. Trasladar de inmediato a todos los mejores profesionales, sin considerar la normativa ni el contexto de cada escuela
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Orientan estratégicamente, considerando la normativa, la distribución equitativa en el territorio de las capacidades de liderazgo directivo, docentes, educadores/as y asistentes de la educación, de acuerdo con las necesidades y el contexto de cada unidad educativa.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+86. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir cómo apoyar el Plan de Desarrollo Profesional y Formación Local de sus escuelas. ¿Qué decisión se ajusta a la Dimensión 4?
+A. Dejarlo a criterio de cada docente, sin acompañamiento del servicio ni referencia a estándares comunes
+B. Limitarlo a cursos de gestión administrativa, sin relación con el logro de aprendizajes profundos
+C. Reemplazarlo por un plan único del servicio, sin considerar los estándares ni el contexto de cada escuela
+D. Acompañarlo con base en los estándares de la profesión docente y contextualizado a cada realidad escolar
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “8. Apoyan y acompañan a las unidades educativas en el desarrollo del Plan de Desarrollo Profesional y Formación Local pertinente, con base a los estándares de la profesión docente y contextualizado a la realidad de las unidades educativas, de manera de propiciar el logro de aprendizajes profundos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 4. Promoviendo el desarrollo y distribución de capacidades para la mejora continua de la educación en el territorio; página impresa 61; página PDF 61.
+
+87. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir cómo planificar la renovación de mobiliario y equipamiento de sus escuelas. ¿Qué decisión se ajusta a la Dimensión 6?
+A. Decidirla solo en el servicio local, priorizando la imagen institucional de los establecimientos del territorio
+B. Gestionarla con los establecimientos y según la normativa vigente, con foco en la labor pedagógica
+C. Delegarla por completo en cada escuela, sin coordinación ni sujeción a la normativa vigente
+D. Postergarla hasta la etapa de consolidación, sin detectar necesidades durante la instalación
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “10. Gestionan, en conjunto con los establecimientos y de acuerdo con la normativa vigente, las estrategias que permiten detectar y planificar proyectos de infraestructura; adquisición y mantención del mobiliario, así como renovación de equipamiento, con foco en la labor pedagógica.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 65; página PDF 65.
+
+88. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un líder intermedio debe definir cómo comunicar un cambio importante a diversos públicos del territorio. ¿Qué decisión se ajusta a la habilidad de comunicación efectiva?
+A. Comunicar el cambio solo a los directores, para que cada uno lo transmita a su manera a la comunidad educativa local
+B. Distinguir el mensaje según audiencias, con canales formales en distintos medios y verificando su comprensión
+C. Emitir un único mensaje técnico para todos los públicos, sin verificar si ha sido comprendido
+D. Postergar la comunicación hasta que el cambio esté implementado, para evitar resistencias previas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Una comunicación efectiva, mediatizada por la virtualidad o cara a cara, debe distinguir el mensaje según las audiencias, ser oportuna, dirigida y cuidadosa […], por lo que deben definirse canales formales y en diferentes plataformas o medios…”; “…asegurarse de que los mensajes han sido bien comprendidos y apropiados por todas y todos los actores involucrados.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Habilidades; página impresa 71; página PDF 71.
+
+89. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir cómo prevenir la deserción escolar en su territorio. ¿Qué decisión se ajusta a la Dimensión 3?
+A. Concentrar los esfuerzos solo en los estudiantes de mejor rendimiento para mejorar los indicadores
+B. Sancionar a las escuelas con mayores tasas de deserción, sin ofrecerles estrategias de apoyo técnico pedagógico
+C. Apoyar que las escuelas apliquen detección temprana de deserción, nivelación y monitoreo de rezagados
+D. Esperar a que los estudiantes abandonen para derivarlos después a programas de reinserción externos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “12. Promueven y resguardan las trayectorias escolares positivas, apoyando que las unidades educativas apliquen estrategias de detección temprana de deserción, identificando riesgos de exclusión educativa, nivelación y monitoreo de estudiantes con rezagos en sus aprendizajes…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+90. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP debe decidir qué requisitos exigir a su sistema de información para el monitoreo. ¿Qué requisitos señala el Marco?
+A. Rapidez, economía y reserva institucional
+B. Simplicidad, gratuidad y anonimato
+C. Confiabilidad, relevancia y oportunidad
+D. Uniformidad, extensión y antigüedad
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “A partir de un sistema que cumpla con las y los requisitos de confiabilidad, relevancia y oportunidad, los líderes educativos intermedios utilizan información académica, pedagógica y administrativa que les permite realizar procesos de monitoreo de calidad y estados de avance de los objetivos estratégicos y operativos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 77; página PDF 77.
+
+91. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantea la Dimensión 1 para el nivel educativo intermedio?
+A. Construir un sistema de control que asegure el cumplimiento de metas cuantitativas en cada escuela
+B. Construir participativamente una visión que genere identidad, sello territorial y orgullo por la educación pública
+C. Construir una visión centralizada que uniforme las identidades de todas las escuelas del territorio de manera vertical
+D. Construir una estrategia de competencia entre escuelas que aumente la matrícula del servicio local
+Respuesta correcta: B
+Explicación: “DESAFÍO: Construir participativamente una visión estratégica del nivel educativo intermedio para promover y asegurar un servicio de calidad integral, generando identidad, sello territorial, apropiación y orgullo de la comunidad por la educación pública…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 54; página PDF 54.
+
+92. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué debe operacionalizar y articular el plan anual de gestión local que diseñan los equipos del SLEP?
+A. Los resultados de pruebas internacionales con los rankings de escuelas publicados por la prensa local
+B. La visión estratégica con los instrumentos de gestión territorial y la estrategia nacional de educación pública
+C. Las preferencias del director ejecutivo con las metas de matrícula de cada uno de los establecimientos
+D. Los reclamos recibidos de las familias con las sanciones aplicadas a los establecimientos del territorio asignado al servicio
+Respuesta correcta: B
+Explicación: “4. Diseñan e implementan un plan anual para la gestión local, que operacionalice y articule la visión estratégica con los distintos instrumentos de gestión territorial y la estrategia nacional de educación pública…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 55; página PDF 55.
+
+93. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 1, ¿qué deben asegurar los equipos respecto de los planes e instrumentos de gestión en los niveles nacional, local y escolar?
+A. Su independencia, permitiendo que cada nivel defina objetivos sin relación con los demás instrumentos de gestión
+B. Su reserva, evitando compartir objetivos y metas con las comunidades para no generar expectativas
+C. Su uniformidad, imponiendo un único plan nacional que reemplace los instrumentos locales y escolares
+D. Su coherencia, concordando objetivos, metas, procedimientos y modalidades de monitoreo con las comunidades
+Respuesta correcta: D
+Explicación: “6. Aseguran la coherencia de los diferentes planes e instrumentos de gestión territorial a nivel nacional, local y unidades educativas, concordando con las comunidades educativas objetivos, metas claras, procedimientos y modalidades de monitoreo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial; página impresa 55; página PDF 55.
+
+94. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantea la Dimensión 2?
+A. Desarrollar una cultura de colaboración y confianza mediante participación, acciones articuladas y redes
+B. Desarrollar una cultura de autonomía absoluta mediante la eliminación de toda coordinación territorial
+C. Desarrollar una cultura de control y supervisión mediante visitas, informes y sanciones a las escuelas del territorio
+D. Desarrollar una cultura de competencia entre escuelas mediante rankings, incentivos y premios anuales
+Respuesta correcta: A
+Explicación: “DESAFÍO: Desarrollar una cultura de colaboración y confianza en el territorio a través de estrategias de participación con la comunidad educativa, promoviendo acciones articuladas y redes de mejoramiento con los actores locales y organizaciones del entorno…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 2. Desarrollando una cultura de participación, trabajo colaborativo y articulación con la comunidad educativa y actores sociales del entorno; página impresa 56; página PDF 56.
+
+95. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantea la Dimensión 3?
+A. Generar un modelo de capacitación masiva, idéntico para todas las escuelas y sin monitoreo posterior
+B. Generar un modelo de fiscalización estandarizado, centrado en sancionar a las escuelas de bajo logro
+C. Generar un modelo de apoyo contextualizado, integrado y sistemático, con acompañamiento y monitoreo
+D. Generar un modelo de gestión financiera, centrado en reducir los costos de operación del servicio
+Respuesta correcta: C
+Explicación: “DESAFÍO: Generar, implementar y ajustar un modelo de apoyo contextualizado, integrado y sistemático con foco en el desarrollo de capacidades, que incluya un sistema de acompañamiento y monitoreo al liderazgo y gestión pedagógica de las unidades educativas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 58; página PDF 58.
+
+96. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué sistema implementan y gestionan los equipos del SLEP según la práctica 14 de la Dimensión 3?
+A. Un sistema integrado de información y evaluación sobre eficiencia, trabajo pedagógico, aprendizajes y desarrollo
+B. Un sistema de ranking público de escuelas basado solo en los resultados de las pruebas estandarizadas
+C. Un sistema de sanciones graduadas para las escuelas que no alcanzan las metas acordadas con el servicio local de educación
+D. Un sistema de control horario del personal, sin relación con el trabajo pedagógico de las escuelas
+Respuesta correcta: A
+Explicación: “14. Implementan y gestionan un sistema integrado de información y evaluación […] sobre eficiencia escolar, trabajo pedagógico, resultados de aprendizaje y desarrollo personal y social, incorporando datos propios y provenientes de instituciones locales, redes de mejoramiento y el SAC.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 3. Promoviendo y apoyando el liderazgo pedagógico para el aprendizaje profundo en el territorio; página impresa 59; página PDF 59.
+
+97. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantea la Dimensión 5?
+A. Una cultura organizacional de rendimiento académico, centrada en los resultados de las pruebas nacionales
+B. Una cultura organizacional de eficiencia administrativa, centrada en la reducción de los gastos del servicio local de educación
+C. Una cultura organizacional de disciplina estricta, control de conductas y sanción de las faltas escolares
+D. Una cultura organizacional de bienestar integral, inclusión y respeto a la diversidad, con ciudadanía democrática
+Respuesta correcta: D
+Explicación: “DESAFÍO: Desarrollar una cultura organizacional que promueva relaciones de bienestar integral e inclusión, el respeto a la diversidad de los actores de la comunidad educativa y genere condiciones para la formación de una ciudadanía local y global que permita el desarrollo de una cultura democrática en el territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 5. Desarrollando una cultura de bienestar, inclusión y ciudadanía en el territorio; página impresa 62; página PDF 62.
+
+98. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantea la Dimensión 6?
+A. Administrar discrecionalmente los recursos, según las prioridades de cada director ejecutivo del servicio
+B. Administrar eficaz y transparentemente los recursos, generando condiciones en función del PEL, Plan Anual y PEI
+C. Administrar los recursos con criterios de rentabilidad, priorizando los establecimientos de mayor matrícula del territorio
+D. Administrar centralizadamente los recursos, reduciendo la autonomía de gestión de los equipos directivos
+Respuesta correcta: B
+Explicación: “DESAFÍO: Administrar eficazmente y de manera transparente los recursos institucionales, generando las condiciones organizacionales que respalden el trabajo de las unidades educativas y del propio SLEP, en función de los objetivos educativos expresados en el PEL, Plan Anual y PEI…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Dimensión 6. Gestionando los recursos y condiciones institucionales para el desarrollo educativo en diferentes contextos territoriales; página impresa 64; página PDF 64.
+
+99. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué permite contar con una teoría del cambio declarada, según el Marco?
+A. Uniformar las estrategias de cambio en todas las escuelas, sin considerar sus condiciones propias
+B. Evitar el monitoreo de los planes de acción, pues los resultados quedan garantizados de antemano
+C. Vincular la estrategia con los planes de acción y visualizar las brechas entre teoría y práctica
+D. Reemplazar la planificación estratégica por decisiones intuitivas en cada contingencia
+Respuesta correcta: C
+Explicación: “Contar con una teoría del cambio declarada permite vincular la estrategia con los planes de acción, visualizar las brechas entre teoría y práctica, facilitando la comprensión de los resultados que se desean obtener.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 75; página PDF 75.
+
+100. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según el conocimiento sobre planificación estratégica, ¿qué deben distinguir los líderes de nivel intermedio?
+A. Matrícula, asistencia, deserción, repitencia y aprobación de cada establecimiento del territorio
+B. Visión, misión, objetivos estratégicos y operacionales, hitos temporales e indicadores de seguimiento
+C. Presupuesto, contabilidad, inventarios, licitaciones y contratos de servicios con proveedores
+D. Reglamentos, protocolos, sanciones, recursos administrativos y sumarios del personal del servicio local de educación
+Respuesta correcta: B
+Explicación: “Las y los líderes de nivel intermedio deben conocer las técnicas de planificación con sentido estratégico y operacional, lo que implica distinguir la diferencia entre declaración de visión, misión, objetivos estratégicos, operacionales, hitos temporales, indicadores de seguimiento y logro de objetivos a nivel del territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local – Recursos personales – Conocimientos profesionales; página impresa 76; página PDF 76.

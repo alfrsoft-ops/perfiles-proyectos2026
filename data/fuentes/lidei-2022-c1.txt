@@ -1,0 +1,995 @@
+# Fuente: lidei-2022-c1.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Capítulo evaluado: 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual
+# Páginas: impresas 11 a 17 (PDF 9 a 15)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual» del documento LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Alcance
+# Capítulo 1 completo, incluida la nota al pie 4. Al no tener subtítulos, cada referencia indica el bloque temático en que se ubica la fundamentación
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 11–17 = PDF 9–15)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 54 de contenido textual · 46 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 1 del documento LIDEI 2022 (págs. impresas 11 a 17).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: lidei-2022-c1
+
+1. [LIDEI 2022 – OEI · Capítulo 1] Según Fullan (2016), citado en el capítulo, ¿cuáles son los siete aspectos de la escuela que serán afectados por el futuro-presente digital?
+A. Visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado
+B. Misión y valores, infraestructura, didáctica tradicional, evaluación, alfabetización digital, jerarquía directiva y currículo cerrado
+C. Visión y objetivos, financiación, pedagogía activa, estadísticas, convivencia digital, centralización del liderazgo y aprendizaje formal
+D. Planificación y metas, recursos, innovación, datos, seguridad informática, delegación de funciones y aprendizaje virtual
+Respuesta correcta: A
+Explicación: “…se pueden identificar, al menos, siete aspectos de la escuela que van a ser afectados por este futuro-presente digital que son: ‘visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado’ (Fullan, 2016, pp. 98-99).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+2. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué tres rasgos exige el ejercicio del liderazgo en la era digital, según Fullan (2016)?
+A. La “disciplina fanática”, aprender de los buenos datos y la “paranoia productiva”
+B. La “autoridad firme”, aprender de los buenos ejemplos y la “prudencia administrativa”
+C. La “disciplina normativa”, controlar los datos personales y la “vigilancia constante”
+D. La “creatividad libre”, aprender de los errores y la “confianza productiva”
+Respuesta correcta: A
+Explicación: “…el ejercicio del liderazgo está exigiendo, en la actual era digital, el dominio de cualidades relacionadas con tres rasgos. Primero la ‘disciplina fanática’ […]. En segundo lugar, aprender de los buenos datos […]. En último lugar la ‘paranoia productiva’…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+3. [LIDEI 2022 – OEI · Capítulo 1] Teniendo en cuenta la crisis sanitaria, ¿qué cualidad añade el capítulo a los tres rasgos de liderazgo propuestos por Fullan?
+A. La neutralidad para evitar conflictos con las familias en la emergencia
+B. La centralización para decidir con rapidez en la crisis
+C. La resiliencia para actuar en tiempos de incertidumbre y emergencia
+D. La obediencia normativa para actuar conforme a las directrices oficiales
+Respuesta correcta: C
+Explicación: “Sin embargo, y teniendo en cuenta cómo la crisis sanitaria está afectando a la educación y, sobre todo, al liderazgo, podemos añadir la resiliencia para actuar en tiempos de incertidumbre y emergencia.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 12; página PDF 10.
+
+4. [LIDEI 2022 – OEI · Capítulo 1] ¿Cuántos indicadores principales identifica la OEI (2017) para un liderazgo activo, integrado y contextualizado, y cuál es el primero?
+A. Cinco indicadores; el primero es la política educativa del sistema nacional
+B. Seis indicadores; el primero es la comprensión del contexto del centro escolar
+C. Seis indicadores; el primero es el liderazgo efectivo y la toma de decisiones del centro
+D. Siete indicadores; el primero es la visión y los objetivos del centro escolar
+Respuesta correcta: B
+Explicación: “…la OEI (2017) identifica seis indicadores principales para un liderazgo activo, integrado y contextualizado: 1. Comprensión del contexto del centro escolar.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+5. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué cinco dimensiones integra el modelo de análisis de gestión presentado por la OEI (2017)?
+A. Política educativa; infraestructura escolar; gestión financiera; gestión disciplinaria; competencias tecnológicas del personal
+B. Planificación nacional; organización administrativa; evaluación externa; gestión de recursos; supervisión docente
+C. Visión institucional; gestión del personal; gestión curricular; relación con las familias; control de resultados
+D. Política educativa; organización administrativa; gestión curricular; gestión de la convivencia; competencias de liderazgo
+Respuesta correcta: D
+Explicación: “El modelo de análisis de gestión presentado integra cinco dimensiones: ‘política educativa; organización administrativa financiera u operativa; gestión curricular o técnica pedagógica; gestión de la convivencia escolar o social; competencias conductuales de liderazgo’ (OEI, 2017, pp. 22-23).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+6. [LIDEI 2022 – OEI · Capítulo 1] ¿Cuáles son las tres claves esenciales para el ejercicio del liderazgo que presenta Fullan (2016)?
+A. Aprender a mandar; actuar solo dentro de la escuela para mejorarla; y convertirse en gestor eficiente
+B. Aprender a liderar; actuar mirando hacia fuera para mejorar dentro; y convertirse en agente de cambio
+C. Aprender a evaluar; actuar según las normas nacionales vigentes; y convertirse en supervisor experto
+D. Aprender a delegar; actuar mirando hacia dentro para mejorar fuera; y convertirse en líder carismático
+Respuesta correcta: B
+Explicación: “…Fullan (2016) presenta tres claves esenciales para el ejercicio del liderazgo: aprender a liderar; actuar en la escuela y el sistema educativo, mirando hacia fuera para mejorar dentro; y convertirse en un agente de cambio.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 12; página PDF 10.
+
+7. [LIDEI 2022 – OEI · Capítulo 1] ¿Cuáles son las tres fases interconectadas que, según se ha reconocido ampliamente, abarca la innovación?
+A. El diagnóstico, la difusión y la institucionalización del cambio escolar
+B. La planificación, la ejecución y la evaluación del cambio
+C. El cambio externo, el cambio interno y la personalización del cambio
+D. El cambio normativo, el cambio curricular y la estandarización del cambio
+Respuesta correcta: C
+Explicación: “Se ha reconocido ampliamente que la innovación es un proceso que abarca tres fases interconectadas –el cambio externo, el cambio interno y la personalización del cambio (Pacheco, 2019; Fullan, 2015, Goodson, 2008)–…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+8. [LIDEI 2022 – OEI · Capítulo 1] ¿Cuáles son las cuatro variables interdependientes del modelo de evaluación orientada a la toma de decisiones de Stufflebeam (2003)?
+A. Diagnóstico, planificación, ejecución y control
+B. Contexto, normas, procedimientos y sanciones
+C. Contexto, insumos, proceso y resultados
+D. Clima, recursos, logros y satisfacción
+Respuesta correcta: C
+Explicación: “Uno de los modelos más centrados en la evaluación orientada a la toma de decisiones considera la existencia de cuatro variables interdependientes: contexto, insumos, proceso y resultados (Stufflebeam, 2003).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+9. [LIDEI 2022 – OEI · Capítulo 1] Según Reimers (2021), citado en el capítulo, ¿qué se inicia con la pandemia en los sistemas educativos de América Latina?
+A. La quinta ola de transformación de los sistemas educativos de la región
+B. La fase final de cierre de brechas entre el alumnado de distinta clase social
+C. La primera reforma digital obligatoria de los sistemas de la región
+D. La tercera etapa de descentralización de los sistemas educativos nacionales
+Respuesta correcta: A
+Explicación: “Con la pandemia, como sostiene Reimers (2021), ‘se inicia la quinta ola de transformación de los sistemas educativos de América Latina, incrementando las brechas de oportunidad educativa entre el alumnado de distinta clase social y nacionalidad…’”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+10. [LIDEI 2022 – OEI · Capítulo 1] Según la nota 4 del capítulo, ¿a quiénes comprende el término “agentes” de un centro educativo?
+A. Al alumnado, profesorado y dirección, excluyendo a las familias y a todas las autoridades educativas locales
+B. Al alumnado, profesorado, dirección, personal no docente, familias, asociaciones y autoridades locales
+C. A las autoridades nacionales, los supervisores, los inspectores y los organismos internacionales
+D. Solo al profesorado y a la dirección, como responsables directos de la gestión pedagógica del centro
+Respuesta correcta: B
+Explicación: “Los agentes son todo el entramado social que hay alrededor de un centro educativo: el alumnado, el profesorado, la dirección, el personal no docente, las familias, las asociaciones del centro, las asociaciones y las autoridades educativas locales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Nota al pie 4 (agentes del centro educativo); página impresa 11; página PDF 9.
+
+11. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo define la OEI (2020, citando a Uribe, 2005) el liderazgo, al distinguirlo de la gestión?
+A. Como el conjunto de procedimientos administrativos y financieros necesarios para el funcionamiento del centro escolar
+B. Como actitudes, conocimientos, habilidades y competencias para cumplir responsabilidades, resolver conflictos e innovar
+C. Como la capacidad personal innata de influir en los demás, independiente de la formación y del contexto del centro
+D. Como el ejercicio formal de la autoridad jerárquica conferida por la norma para dirigir, organizar y controlar el centro escolar
+Respuesta correcta: B
+Explicación: “…se distingue entre gestión y liderazgo, utilizando este último término como ‘un conjunto de actitudes, conocimientos, habilidades y competencias que permiten a los agentes responsables de la gestión de los centros escolares cumplir con sus responsabilidades, resolver conflictos y gestionar las innovaciones para lograr la mejora’.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+12. [LIDEI 2022 – OEI · Capítulo 1] ¿En qué dos modelos dominantes se basa el modelo de liderazgo pedagógico, inclusivo y distribuido propuesto por la OEI (2020)?
+A. El liderazgo administrativo, centrado en los recursos, y el liderazgo situacional, adaptado a cada emergencia
+B. El liderazgo burocrático, centrado en la norma, y el liderazgo carismático, basado en la personalidad propia del líder
+C. El liderazgo pedagógico, centrado en la enseñanza y el aprendizaje, y el de transformación, de visión sistémica
+D. El liderazgo pedagógico, centrado en la disciplina, y el liderazgo gerencial, basado en la eficiencia de costos
+Respuesta correcta: C
+Explicación: “…proponiendo el modelo de liderazgo pedagógico, inclusivo y distribuido, que se basa en dos modelos dominantes: el liderazgo pedagógico, centrado en la enseñanza y el aprendizaje, así como en el rendimiento de los alumnos y profesores; y el liderazgo de transformación, basado en una visión sistémica e integrada de los procesos que ocurren en el centro educativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 12; página PDF 10.
+
+13. [LIDEI 2022 – OEI · Capítulo 1] ¿Bajo qué principios revisa la OEI (2020) el concepto de liderazgo escolar, en referencia a la Agenda 2030?
+A. Disciplina, obediencia, puntualidad y rendimiento académico
+B. Inclusión, interculturalidad, responsabilidad y sostenibilidad
+C. Autonomía, descentralización, mercado y libertad de elección
+D. Eficiencia, competitividad, autoridad y productividad del centro escolar
+Respuesta correcta: B
+Explicación: “En referencia a la Agenda 2030 de las Naciones Unidas (UN, 2015), la OEI (2020, citando a Leithwood, 2004) revisa el concepto de liderazgo escolar bajo los principios de inclusión, interculturalidad, responsabilidad y sostenibilidad…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 12; página PDF 10.
+
+14. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo define Spillane (2006) el liderazgo distribuido, según el capítulo?
+A. Delegación de tareas administrativas del director a los docentes, para reducir su carga de trabajo cotidiana
+B. Distribución equitativa del presupuesto escolar anual entre todos los niveles, turnos y áreas curriculares del centro educativo
+C. Actividades diseñadas de manera compartida por la comunidad para motivar la formación del alumnado, con reflexión continua
+D. Rotación periódica del cargo de director entre los docentes con mayor antigüedad y experiencia en la institución
+Respuesta correcta: C
+Explicación: “El concepto de liderazgo distribuido […] refiriéndose, según Spillane (2006), a las actividades y dinámicas educativas desarrolladas en el centro educativo que son diseñadas de manera compartida por los miembros de la comunidad para promover la motivación hacia la formación del alumnado, en un contexto de reflexión y análisis continuo de las propias prácticas de liderazgo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+15. [LIDEI 2022 – OEI · Capítulo 1] ¿Por qué el liderazgo es, además de distribuido, pedagógico e inclusivo, según la OEI (2020)?
+A. Porque se analiza por la eficiencia administrativa, y también por el cumplimiento de la normativa vigente
+B. Porque se analiza por el número de estudiantes con necesidades especiales que atiende cada centro escolar
+C. Porque se analiza solo por los resultados académicos de los estudiantes en las evaluaciones estandarizadas nacionales
+D. Porque se analiza por la mejora y el aprendizaje, y también por los principios de inclusión, equidad e integración
+Respuesta correcta: D
+Explicación: “Como refuerza la OEI (2020), además de ser distribuido, el liderazgo es pedagógico e inclusivo, ya que su análisis no se hace solo por los enfoques orientados a la mejora de la escuela y el aprendizaje, sino también por los principios de inclusión, equidad e integración…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+16. [LIDEI 2022 – OEI · Capítulo 1] Según el capítulo, el liderazgo es simultáneamente distribuido, pedagógico e inclusivo. ¿Qué correspondencia es correcta?
+A. Distribuido en su dimensión financiera; pedagógico en su estructura jerárquica; inclusivo en su normativa
+B. Distribuido en su concepción teórica; pedagógico en su dimensión de aprendizaje; inclusivo en sus propósitos
+C. Distribuido en sus propósitos sociales; pedagógico en su concepción teórica; inclusivo en su administración escolar
+D. Distribuido en su organigrama formal; pedagógico en sus resultados de pruebas; inclusivo en su matrícula
+Respuesta correcta: B
+Explicación: “En consecuencia, el liderazgo es simultáneamente distribuido en su concepción teórica (Spillane, 2006), pedagógico en su dimensión de aprendizaje, presente en el concepto de capital profesional (Hargreaves y Fullan, 2012), e inclusivo en sus propósitos personales y sociales (UN, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+17. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué es el modelo de dualidad recurso-agencia propuesto por Tian (2016)?
+A. Un modelo que separa la gestión de recursos financieros de la agencia pedagógica de los docentes
+B. Un modelo que mide la eficacia del director según los recursos materiales que consigue para la escuela
+C. Un modelo que combina el liderazgo como recurso organizacional y como agente de cambio individual
+D. Un modelo que subordina la agencia individual de los docentes a los recursos que asigna el Estado
+Respuesta correcta: C
+Explicación: “…Tian (2016) propone un modelo de liderazgo escolar basado en el concepto de poder vinculado al contexto sociocultural […], considerando la perspectiva organizacional (liderazgo como recurso) y la perspectiva individual (liderazgo como agente de cambio). El autor lo denomina modelo de dualidad recurso-agencia…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+18. [LIDEI 2022 – OEI · Capítulo 1] ¿A partir de qué tres factores se desarrolla la cultura del aprendizaje, según el capítulo?
+A. El profesorado en su desarrollo profesional, el alumnado en su formación y la escuela en su autoevaluación
+B. El alumnado en sus calificaciones, el profesorado en su antigüedad y la escuela en su infraestructura
+C. Las familias en su apoyo, los docentes en su disciplina y la supervisión en su control de resultados
+D. El director en su autoridad, el currículo en su cobertura y el Estado en su financiación de la escuela pública
+Respuesta correcta: A
+Explicación: “En este marco, la cultura del aprendizaje se desarrolla a partir de la intervención de tres factores: el profesorado en su desarrollo profesional […]; el alumnado en su tarea de formación y educación; y la escuela, a través de los procesos de autoevaluación institucional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+19. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo se entiende la agencia aplicada al profesorado en el capítulo?
+A. Como la capacidad del profesorado de cumplir con exactitud las instrucciones recibidas por escrito de la dirección escolar
+B. Como la representación sindical del profesorado ante las autoridades para negociar sus condiciones laborales
+C. Como la autonomía del profesorado para trabajar aisladamente, sin vínculo con la comunidad profesional
+D. Como la acción educativa del profesorado, central para un liderazgo distribuido orientado al desarrollo profesional
+Respuesta correcta: D
+Explicación: “La agencia, entendida como la acción educativa del profesorado, es también un concepto central para el sostenimiento de una perspectiva de liderazgo distribuido y orientado a un modelo de desarrollo profesional…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+20. [LIDEI 2022 – OEI · Capítulo 1] En el liderazgo escolar amplio y distribuido, ¿qué caracteriza a la dimensión pedagógica, entendida en muchos textos como liderazgo instruccional?
+A. Que el foco está en el control de la asistencia y puntualidad docente y no en el aprendizaje del alumnado
+B. Que el foco está en la administración del presupuesto y no en el aprendizaje del alumnado
+C. Que el foco está en la infraestructura escolar y no en las prácticas pedagógicas del aula
+D. Que el foco está en el aprendizaje del alumnado y no en la administración y gestión de la escuela
+Respuesta correcta: D
+Explicación: “…el liderazgo escolar amplio y distribuido incluye tanto una dimensión pedagógica –entendida en muchos textos como liderazgo instruccional (Rodrigues y Lima, 2021), en la que el foco del liderazgo está en el aprendizaje del alumnado y no en la administración y gestión de la escuela–, como una dimensión de inclusión e integración del alumnado…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Autonomía escolar y dimensiones del liderazgo; página impresa 16; página PDF 14.
+
+21. [LIDEI 2022 – OEI · Capítulo 1] Entre los seis indicadores de la OEI (2017) para un liderazgo activo, ¿cuál se refiere a la reflexión sobre la práctica directiva?
+A. Control de asistencia y puntualidad del personal docente del centro
+B. Aplicación de sanciones disciplinarias al personal docente y a los estudiantes
+C. Autoevaluación y evaluación, observaciones de cursos y otras actividades
+D. Elaboración de informes administrativos mensuales para la supervisión
+Respuesta correcta: C
+Explicación: “5. Reflexión sobre la práctica: autoevaluación y evaluación, observaciones de cursos y otras actividades.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+22. [LIDEI 2022 – OEI · Capítulo 1] Un director planifica cómo comunicarse con su comunidad educativa. ¿Qué componentes abarca el indicador de la OEI (2017) “comunicación para la interacción”?
+A. Instrucción, control, verificación, sanción y reconocimiento
+B. Difusión, publicidad, propaganda, persuasión y convencimiento público
+C. Notificación, archivo, registro, certificación y comunicación
+D. Información, animación, sensibilización, formación y motivación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “3. Comunicación para la interacción: información, animación, sensibilización, formación y motivación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+23. [LIDEI 2022 – OEI · Capítulo 1] Según el estudio de Eurydice citado en el capítulo, ¿qué papel tiene el director en la evaluación docente en casi todos los países europeos donde se regula?
+A. Es un evaluador secundario, subordinado a la opinión de las familias y de los estudiantes
+B. Es el principal referente, solo o con otros evaluadores como líderes escolares o inspectores
+C. Solo certifica la asistencia, mientras la evaluación la realizan las universidades formadoras
+D. No interviene, pues la evaluación docente corresponde en exclusiva a los inspectores externos
+Respuesta correcta: B
+Explicación: “También el estudio del profesorado en Europa de Eurydice destaca la figura del director como el principal referente en casi todos los países donde se regula el proceso de evaluación docente, ya sea solo o con otros evaluadores como líderes escolares o inspectores…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+24. [LIDEI 2022 – OEI · Capítulo 1] ¿Por qué el desarrollo profesional de los directores es esencial, según el capítulo?
+A. Para que el director sustituya a los docentes en la enseñanza cuando falte personal en la escuela
+B. Para un liderazgo transformacional con colaboración en las decisiones y reconocimiento de líderes intermedios
+C. Para concentrar en el director todas las decisiones y reducir al mínimo la participación de los líderes intermedios
+D. Para acreditar al director ante la autoridad y asegurar su permanencia en el cargo durante más tiempo
+Respuesta correcta: B
+Explicación: “El desarrollo profesional de los directores es, por tanto, esencial para una práctica de liderazgo escolar transformacional en la que la colaboración adquiere protagonismo a nivel de las decisiones tomadas en el contexto escolar (Polatcan et al., 2021), y mediante el reconocimiento de los líderes intermedios (Nobile, 2018).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+25. [LIDEI 2022 – OEI · Capítulo 1] Según el cierre del capítulo, ¿qué características de los directores determinarán que apliquen un modelo de liderazgo pedagógico, inclusivo y distribuido?
+A. Sus rasgos personales, su formación previa, inicial y continua, su forma de actuar y su capacidad de implicar
+B. Su prestigio en la comunidad, su edad, su especialidad disciplinar y sus contactos con las autoridades educativas
+C. Su antigüedad en el cargo, su título universitario, su relación con la autoridad y su estilo de mando
+D. Su capacidad de control, su experiencia administrativa, su disciplina y su obediencia a las normas
+Respuesta correcta: A
+Explicación: “Los directores, con sus características personales, su formación previa, su formación inicial y continua, su forma de actuar y su capacidad de implicar a los miembros de la escuela y de la comunidad serán los que apliquen un modelo de liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+26. [LIDEI 2022 – OEI · Capítulo 1] Al definir sus prioridades de gestión, ¿a qué contribuirá, según el capítulo, el liderazgo pedagógico, inclusivo y distribuido que ejerza un director?
+A. A una gestión curricular uniforme, la selección de estudiantes, el control docente y la evaluación externa
+B. A una gestión financiera eficiente, el aumento de matrícula, la disciplina escolar y la imagen institucional del centro
+C. A una gestión curricular innovadora, la formación integral, el desarrollo docente y la autoevaluación continua
+D. A una gestión normativa estricta, la reducción de costos, la supervisión del personal y los rankings
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Este liderazgo contribuirá a una gestión del currículo basada en la innovación, a una formación integral de los estudiantes, al desarrollo profesional del profesorado y a un proceso continuo de autoevaluación institucional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+27. [LIDEI 2022 – OEI · Capítulo 1] Un director organiza comunidades profesionales en su Unidad Educativa. Según el capítulo, ¿qué papel debe asumir el profesor en ellas?
+A. El de ejecutor de las instrucciones de la dirección, sin iniciativa propia en la mejora pedagógica
+B. El de líder pedagógico que, en colaboración y puesta en común, se asume como agente de cambio
+C. El de representante administrativo, responsable de los trámites y registros del centro
+D. El de evaluador de sus colegas, encargado de informar a la dirección sobre su desempeño
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el que el profesor, como líder pedagógico y dentro de una comunidad profesional de colaboración y puesta en común, se asume como agente de cambio (Fullan, 2016).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+28. [LIDEI 2022 – OEI · Capítulo 1] Según el modelo de origen político mencionado por Berkovich y Benoliel (2020), ¿qué funciones incluye el liderazgo escolar?
+A. El uso del poder para asignar recursos y gestionar conflictos en las escuelas y en el ámbito político
+B. La afiliación partidaria del director para obtener recursos adicionales de las autoridades locales y nacionales
+C. La elaboración de leyes educativas y su aprobación en coordinación con el poder legislativo
+D. La representación de la escuela en campañas electorales y en actividades de los partidos políticos
+Respuesta correcta: A
+Explicación: “Los primeros incluyen el uso del poder para asignar recursos y gestionar conflictos en las escuelas y en el ámbito político…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+29. [LIDEI 2022 – OEI · Capítulo 1] Un director busca que su gestión se oriente por el modelo de origen moral descrito en el capítulo. ¿Qué implica esto?
+A. Centrar la gestión en sus convicciones personales, sin necesidad de consenso con los demás
+B. Centrar la gestión en la sanción de conductas, priorizando la disciplina sobre el aprendizaje
+C. Centrar la gestión en la enseñanza religiosa como eje obligatorio de todo el plan de estudios
+D. Centrar la gestión y el trabajo escolar en valores definidos y consensuados con la comunidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…y los segundos implican centrar la gestión y el trabajo escolar en valores definidos y consensuados, en los que también se consideran las decisiones tomadas en el contexto de la emergencia relacionada con la pandemia de COVID-19 u otros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+30. [LIDEI 2022 – OEI · Capítulo 1] Un director quiere asegurar que las mejoras de su Unidad Educativa perduren tras su salida. ¿Qué principio de Hargreaves y Fink (2007) debe aplicar?
+A. Documentar las mejoras en informes oficiales, sin necesidad de involucrar a otros miembros del centro educativo
+B. Concentrar las decisiones en su persona para que las mejoras se identifiquen con su propia gestión
+C. Elegir personalmente a su sucesor entre sus colaboradores más leales antes de dejar el cargo
+D. Distribuir el liderazgo de manera eficaz para que la sucesión no dependa del talento de algunas personas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…enumeran algunos principios para una gestión exitosa, a saber: ‘distribuir el liderazgo de manera eficaz para que la sucesión exitosa no dependa excesivamente del talento de determinadas personas’…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+31. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué significa la cita de Fullan (2016) según la cual “las personas se disponen a cambiar cuando es intrínsecamente interesante y cuando tienen algo que ver en su evolución”?
+A. Que el cambio requiere sentido intrínseco y participación de las personas en su desarrollo
+B. Que el cambio se logra principalmente mediante incentivos económicos y sanciones externas al personal
+C. Que el cambio depende sobre todo de la tecnología disponible y no de las personas
+D. Que el cambio debe imponerse desde la dirección para evitar resistencias del personal
+Respuesta correcta: A
+Explicación: “Como refiere Fullan (2016), tales cambios afectan a las escuelas y a sus agentes, porque ‘las personas se disponen a cambiar cuando es intrínsecamente interesante y cuando tienen algo que ver en su evolución’ (p. 98).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+32. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo explica el capítulo la “paranoia productiva” como rasgo de liderazgo en la era digital?
+A. Como desconfiar sistemáticamente de las propuestas del personal
+B. Como ser siempre consciente de que podría estar olvidando algo
+C. Como temer los cambios tecnológicos y retrasar su introducción
+D. Como vigilar siempre el uso de datos personales ajenos
+Respuesta correcta: B
+Explicación: “En último lugar la ‘paranoia productiva’ (ser siempre consciente de que podría estar olvidando algo) (Fullan, 2016, p. 103).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+33. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué se entiende por “disciplina fanática”, según la explicación que ofrece el capítulo?
+A. Una innovación persistente en las normas comunes, mezcla entre la creatividad y la disciplina
+B. Una dedicación exclusiva a la tecnología, con abandono de las normas comunes del centro escolar
+C. Una aplicación rígida de los reglamentos escolares, sin margen para la creatividad del personal
+D. Una exigencia extrema de puntualidad y orden, como base de toda innovación en la escuela
+Respuesta correcta: A
+Explicación: “Primero la ‘disciplina fanática’ (tener presente en todo momento la innovación persistente en las normas comunes y la tecnología asociada a la creatividad empírica, mezcla entre la creatividad y la disciplina).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+34. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo abordan Hargreaves y Fink (2007) la noción de liderazgo, partiendo del concepto de sostenibilidad del cambio?
+A. Como una forma de aplicar las normas vigentes de manera estable, evitando innovaciones arriesgadas o inciertas
+B. Como una forma de acumular información teórica y práctica, sin necesidad de proyectarla al futuro
+C. Como una forma de aplicar el conocimiento orientado al futuro, no solo el conocimiento interiorizado
+D. Como una forma de conservar las prácticas tradicionales frente a las presiones de cambio externas
+Respuesta correcta: C
+Explicación: “Partiendo del concepto de sostenibilidad del cambio, y defendiendo su profundidad, amplitud y durabilidad, Hargreaves y Fink (2007) abordan la noción de liderazgo como una forma de aplicar el conocimiento orientado al futuro y no solo el conocimiento interiorizado de informaciones teóricas y prácticas…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+35. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo se define el contexto “glocalizado” mencionado en el capítulo?
+A. Como escuela conectada digitalmente con otras escuelas del mundo mediante plataformas
+B. Como sistema educativo que adopta sin cambios los modelos de los países desarrollados
+C. Como persona o grupo dispuesto y capaz de pensar globalmente y actuar localmente
+D. Como grupo que rechaza las influencias globales y actúa solo en lo local
+Respuesta correcta: C
+Explicación: “…en tiempos de un mundo globalizado (mundo como lugar interconectado) y glocalizado (persona o grupo dispuesto y capaz de pensar globalmente y actuar localmente)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+36. [LIDEI 2022 – OEI · Capítulo 1] ¿Por qué niveles de regulación está cruzado el liderazgo escolar, según el capítulo?
+A. Financiera a nivel internacional, administrativa a nivel local y disciplinaria en cada aula escolar
+B. Religiosa a nivel comunitario, sindical a nivel nacional y familiar en cada uno de los hogares de los estudiantes
+C. Política a nivel transnacional, conceptual a nivel nacional y normativa en cada aula específica
+D. Conceptual a nivel transnacional, política a nivel nacional y contextual en cada contexto específico
+Respuesta correcta: D
+Explicación: “…el liderazgo escolar está cruzado por mecanismos de regulación conceptual a nivel transnacional, de regulación política a nivel nacional –en la construcción de una normatividad que efectivamente establece puntos de referencia para la acción– y de regulación contextual, a nivel de cada contexto específico.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+37. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué quiere decir el capítulo al afirmar que, sin un proyecto de educación y formación, “la escuela sería otro lugar de ausencias y espacios en blanco”?
+A. Que la escuela debe controlar con rigor las ausencias del personal y del alumnado en todo momento
+B. Que el liderazgo debe vincularse a un proyecto educativo, pues sin él la escuela pierde sentido y dirección
+C. Que la escuela debe llenar todos sus espacios físicos con actividades para evitar el ausentismo escolar del alumnado
+D. Que el liderazgo puede prescindir de proyectos, ya que la normatividad nacional orienta toda la acción
+Respuesta correcta: B
+Explicación: “…el liderazgo se refiere siempre a una actuación definida por el contexto escolar, aunque las referencias nacionales oficialicen una normatividad específica, y debe estar vinculado a un proyecto de educación y formación, porque, en su ausencia, la escuela sería otro lugar de ausencias y espacios en blanco.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+38. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué traduce la metáfora de la brújula de aprendizaje de la OCDE (2019), según el capítulo?
+A. Las ideas de capacidad y autonomía de los alumnos en el uso de nuevos recursos y materiales
+B. Las ideas de control docente sobre el recorrido de aprendizaje de cada uno de los alumnos del curso
+C. Las ideas de clasificación de los alumnos según su rendimiento en pruebas internacionales
+D. Las ideas de orientación vocacional temprana de los alumnos hacia carreras tecnológicas
+Respuesta correcta: A
+Explicación: “La metáfora de la brújula de aprendizaje traduce así las ideas de capacidad y autonomía de los alumnos en el uso de nuevos recursos y materiales didácticos, a través de los cuales adquieren y dominan las competencias para conocer y actuar mejor en un mundo global.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+39. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué tendencia en la comprensión del liderazgo describe el capítulo en relación con la Agenda 2030?
+A. Un liderazgo distribuido está dando paso a uno concentrado en la figura individual del director del centro
+B. Un liderazgo centrado en los resultados de los alumnos está dando paso a uno que fomenta competencias
+C. Un liderazgo centrado en las competencias está dando paso a uno que solo valora los resultados
+D. Un liderazgo pedagógico está dando paso a uno exclusivamente administrativo y de control
+Respuesta correcta: B
+Explicación: “La comprensión de un liderazgo centrado en la valoración de los resultados de los alumnos (Lessard y Carpentier, 2016; Timperley, 2008) está dando paso a un liderazgo capaz de fomentar las competencias en el marco de la Agenda 2030 (Laborinho et al., 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+40. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué indican los resultados del estudio de Brown et al. (2021) sobre las estrategias de liderazgo de los directores durante la pandemia?
+A. Que abandonaron por completo el liderazgo distribuido por considerarlo inútil en la emergencia
+B. Que mantuvieron sin cambios el liderazgo distribuido, sin necesidad de recurrir a otros modos de liderazgo
+C. Que delegaron todas las decisiones en las autoridades sanitarias durante el periodo de pandemia
+D. Que, pese a los beneficios del liderazgo distribuido, recurrieron también a un liderazgo situacional
+Respuesta correcta: D
+Explicación: “…los resultados indican que, a pesar de los beneficios del liderazgo distribuido y de un enfoque basado en el consenso, los propios directores sienten la necesidad de recurrir a otros modos de liderazgo en forma de liderazgo situacional…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+41. [LIDEI 2022 – OEI · Capítulo 1] El capítulo distingue entre gestión y liderazgo. ¿Cuál de las siguientes afirmaciones refleja esa distinción?
+A. El liderazgo es un conjunto de actitudes y competencias que permite a los responsables de la gestión lograr la mejora
+B. El liderazgo corresponde a las autoridades nacionales y la gestión al director, sin relación entre ambos
+C. La gestión es pedagógica y el liderazgo es solo administrativo, centrado en el manejo de recursos financieros
+D. La gestión y el liderazgo son sinónimos, pues ambos se refieren al cumplimiento de las normas internas del centro escolar
+Respuesta correcta: A
+Explicación: “…se distingue entre gestión y liderazgo, utilizando este último término como ‘un conjunto de actitudes, conocimientos, habilidades y competencias que permiten a los agentes responsables de la gestión de los centros escolares cumplir con sus responsabilidades, resolver conflictos y gestionar las innovaciones para lograr la mejora’.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+42. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué diferencia al liderazgo pedagógico del liderazgo de transformación, como modelos dominantes descritos en el capítulo?
+A. El pedagógico se centra en la visión sistémica; el de transformación, en la enseñanza en el aula
+B. El pedagógico se centra en la enseñanza y el aprendizaje; el de transformación, en una visión sistémica
+C. El pedagógico se centra en la infraestructura; el de transformación, en los recursos tecnológicos
+D. El pedagógico se centra en la administración; el de transformación, en la disciplina y conducta del alumnado
+Respuesta correcta: B
+Explicación: “…el liderazgo pedagógico, centrado en la enseñanza y el aprendizaje, así como en el rendimiento de los alumnos y profesores; y el liderazgo de transformación, basado en una visión sistémica e integrada de los procesos que ocurren en el centro educativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 12; página PDF 10.
+
+43. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué distingue la teoría normativa del cambio de la teoría comprensiva del cambio, según Lessard y Carpentier (2016)?
+A. La normativa se basa en la autonomía escolar; la comprensiva se basa en la regulación transnacional
+B. La normativa sigue una lógica centralizada y determinista; la comprensiva busca entender los significados
+C. La normativa se aplica a las escuelas privadas; la comprensiva se aplica solo a las escuelas públicas
+D. La normativa busca entender los significados de los agentes; la comprensiva sigue una lógica centralizada y determinista
+Respuesta correcta: B
+Explicación: “…destacamos los que se identifican con la teoría normativa del cambio, en una lógica centralizada y determinista, y con la teoría comprensiva del cambio, en la que se busca comprender la complejidad de los procesos de construcción de significados por parte de los agentes escolares…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+44. [LIDEI 2022 – OEI · Capítulo 1] Aoki (2011) distingue dos concepciones del currículo. ¿Qué caracterización es correcta?
+A. El currículo como norma, de carácter nacional, y como evaluación, de carácter internacional comparado
+B. El currículo como contenido, de carácter disciplinar, y como recurso, de carácter tecnológico digital
+C. El currículo como plan, de carácter técnico-burocrático, y como experiencia vivida, de carácter personal
+D. El currículo como plan, de carácter personal, y como experiencia vivida, de carácter estrictamente técnico-burocrático
+Respuesta correcta: C
+Explicación: “…destacando Aoki (2011) el currículo como plan y el currículo como experiencia vivida, el primero de carácter técnico-burocrático y el segundo de carácter personal (Pinar, 2004).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+45. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué componentes integran la dualidad estructura-acción a la que se refieren los modelos de Tian e Imants y Van der Wal?
+A. La estructura jerárquica del ministerio y la acción disciplinaria de los supervisores distritales y departamentales
+B. La estructura del presupuesto escolar y la acción de las familias en la recaudación de fondos
+C. La estructura de referencias organizativas, curriculares y culturales, y la agencia de los sujetos
+D. La estructura física del edificio escolar y la acción administrativa de la dirección del centro
+Respuesta correcta: C
+Explicación: “Ambos modelos se refieren a la dualidad estructura-acción, en la que la estructura que concierne a las referencias organizativas, curriculares y pedagógicas, incluyendo las cosmovisiones y el contexto cultural, así como la agencia humana constituida por las acciones de los sujetos en un determinado contexto escolar…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+46. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué diferencia el modelo de Imants y Van der Wal (2020) del de Tian (2016), según el capítulo?
+A. Imants y Van der Wal enfatizan la agencia que vincula contexto y práctica, y reforma y resultados
+B. Imants y Van der Wal enfatizan el poder vinculado al contexto sociocultural y a la diversidad y la diferencia
+C. Imants y Van der Wal enfatizan la centralización de las decisiones en el director escolar
+D. Imants y Van der Wal enfatizan la dualidad recurso-agencia y el liderazgo como recurso
+Respuesta correcta: A
+Explicación: “Otro modelo de liderazgo es el presentado por Imants y Van der Wal (2020), con énfasis en el concepto de agencia que vincula el contexto y la práctica individual, por un lado, y la reforma y los resultados por otro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+47. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué diferencia el capítulo entre la autoevaluación orientada a la mejora y el ejercicio burocrático?
+A. La autoevaluación busca sancionar al personal, y no tanto informar la toma de decisiones del centro
+B. La autoevaluación busca clasificar a las escuelas, y no tanto cuestionar las prácticas escolares
+C. La autoevaluación busca mejorar la calidad, y no tanto controlar y verificar el cumplimiento normativo
+D. La autoevaluación busca verificar el cumplimiento normativo, y no tanto mejorar la calidad educativa del centro
+Respuesta correcta: C
+Explicación: “También podemos hablar del concepto de agencia aplicado a la escuela como institución […], especialmente por la asunción de prácticas de autoevaluación dirigidas a la mejora de la calidad y no tanto para el ejercicio burocrático de control y verificación del cumplimiento normativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+48. [LIDEI 2022 – OEI · Capítulo 1] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE la posición del capítulo sobre el liderazgo distribuido?
+A. Se concibe en su esencia pedagógica e inclusiva, no solo en lo organizativo
+B. Valora más la eficacia de los resultados que a las personas y su aprendizaje
+C. Valora más a las personas y su aprendizaje que la eficacia de los resultados obtenidos
+D. Mantiene el compromiso de la dirección de mejorar el éxito de los alumnos
+Respuesta correcta: B
+Explicación: “Sin embargo, el liderazgo distribuido –en su esencia pedagógica e inclusiva– valora más a las personas y su aprendizaje que la eficacia de los resultados, aunque el compromiso de la dirección de un centro escolar sea siempre mejorar el éxito de los alumnos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+49. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué distingue a los modelos de liderazgo de origen político de los de origen moral (Berkovich y Benoliel, 2020)?
+A. Los políticos usan el poder para asignar recursos y gestionar conflictos; los morales, valores consensuados
+B. Los políticos se basan en valores definidos y consensuados; los morales usan el poder para asignar los recursos
+C. Los políticos se aplican en emergencias; los morales se aplican solo en situaciones normales
+D. Los políticos corresponden a los docentes; los morales corresponden solo a las familias
+Respuesta correcta: A
+Explicación: “Los primeros incluyen el uso del poder para asignar recursos y gestionar conflictos en las escuelas y en el ámbito político, y los segundos implican centrar la gestión y el trabajo escolar en valores definidos y consensuados…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+50. [LIDEI 2022 – OEI · Capítulo 1] ¿Cómo se diferencia el mundo “globalizado” del “glocalizado” en el capítulo?
+A. Globalizado alude a la economía digital; glocalizado, a la educación rural sin conexión a internet
+B. Globalizado alude a los países desarrollados; glocalizado, a los países en desarrollo de la región
+C. Globalizado alude a pensar localmente y actuar globalmente; glocalizado, al mundo como lugar aislado y desconectado
+D. Globalizado alude al mundo como lugar interconectado; glocalizado, a pensar globalmente y actuar localmente
+Respuesta correcta: D
+Explicación: “…en tiempos de un mundo globalizado (mundo como lugar interconectado) y glocalizado (persona o grupo dispuesto y capaz de pensar globalmente y actuar localmente)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+51. [LIDEI 2022 – OEI · Capítulo 1] Un director impone la incorporación de plataformas digitales sin consultar a los docentes, y estos se resisten. ¿Qué análisis se fundamenta en la cita de Fullan (2016)?
+A. La imposición es adecuada, pues el cambio digital no requiere la participación de los docentes
+B. La resistencia se debe solo a la falta de equipos y se resolverá cuando se adquieran más dispositivos digitales
+C. Las personas se disponen a cambiar cuando el cambio les interesa y tienen algo que ver en su evolución
+D. La resistencia demuestra que los docentes no son capaces de usar tecnologías en la enseñanza
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…‘las personas se disponen a cambiar cuando es intrínsecamente interesante y cuando tienen algo que ver en su evolución’ (p. 98).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+52. [LIDEI 2022 – OEI · Capítulo 1] En una Unidad Educativa, todas las innovaciones dependen del director; cuando este es trasladado, las mejoras desaparecen. ¿Qué análisis se apoya en Hargreaves y Fink (2007)?
+A. Es una situación inevitable, ya que las mejoras escolares dependen siempre del talento de un solo líder
+B. La solución es prohibir el traslado de directores exitosos, para garantizar la continuidad de todas las mejoras logradas
+C. El problema fue la falta de normas nacionales, que deberían obligar a continuar las mejoras del director
+D. Faltó distribuir el liderazgo y crear culturas profesionales fuertes, para que la sucesión no dependiera de él
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…‘distribuir el liderazgo de manera eficaz para que la sucesión exitosa no dependa excesivamente del talento de determinadas personas’; ‘crear culturas profesionales fuertes y amplias’…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+53. [LIDEI 2022 – OEI · Capítulo 1] Una Unidad Educativa realiza su autoevaluación solo para llenar los formularios exigidos por la supervisión. ¿Qué crítica se fundamenta en el capítulo?
+A. Reduce la autoevaluación a un trámite, cuando debería sustituirse por una evaluación externa
+B. Es la práctica correcta, pues la autoevaluación tiene como fin verificar el cumplimiento normativo del centro
+C. Es suficiente, siempre que los formularios se entreguen puntualmente a la autoridad educativa
+D. Reduce la autoevaluación a un ejercicio burocrático, cuando debería orientarse a la mejora de la calidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…prácticas de autoevaluación dirigidas a la mejora de la calidad y no tanto para el ejercicio burocrático de control y verificación del cumplimiento normativo. Como fuente de información para la toma de decisiones, la autoevaluación es un ejercicio de cuestionamiento de las prácticas escolares…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+54. [LIDEI 2022 – OEI · Capítulo 1] Un director dedica casi todo su tiempo a trámites administrativos y apenas atiende los procesos de enseñanza. ¿Qué análisis se apoya en el capítulo?
+A. Actúa correctamente, pues la dimensión pedagógica corresponde solo a los docentes
+B. Descuida la dimensión pedagógica del liderazgo, cuyo foco es el aprendizaje del alumnado
+C. Cumple con su función principal, que es la administración y gestión de la escuela
+D. Descuida solo la dimensión inclusiva, pero cumple con la dimensión pedagógica del cargo directivo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…una dimensión pedagógica –entendida en muchos textos como liderazgo instruccional (Rodrigues y Lima, 2021), en la que el foco del liderazgo está en el aprendizaje del alumnado y no en la administración y gestión de la escuela–…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Autonomía escolar y dimensiones del liderazgo; página impresa 16; página PDF 14.
+
+55. [LIDEI 2022 – OEI · Capítulo 1] Una dirección distrital evalúa la calidad de las escuelas solo por la contribución individual de cada docente, sin mirar la institución en conjunto. ¿Qué crítica se fundamenta en el capítulo?
+A. La calidad depende solo de los resultados en pruebas, sin necesidad de evaluar la institución
+B. La calidad depende de una evaluación institucional integral y diversificada, no de aportes fragmentados
+C. Es el enfoque correcto, pues la calidad depende sobre todo del rendimiento individual de cada docente en el aula
+D. Es adecuado, siempre que la evaluación individual se complemente con sanciones a los docentes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…la calidad de la escuela, especialmente vista por los resultados del alumnado en términos de resultados académicos y educativos, depende de una evaluación institucional integral y diversificada, en la que los modelos de valor agregado son útiles como herramientas de monitoreo (Prior et al., 2021) y no tanto la contribución individual en una escuela centrada en la fragmentación de las decisiones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+56. [LIDEI 2022 – OEI · Capítulo 1] Un director afirma que, como el sistema es centralizado, la escuela no tiene margen para decidir nada sobre inclusión. ¿Qué valoración se fundamenta en el capítulo?
+A. Es correcto, siempre que la escuela cumpla las normas y espere instrucciones de la autoridad
+B. Tiene razón, pues en los sistemas centralizados las escuelas carecen de cualquier espacio propio de decisión
+C. Tiene razón, ya que la inclusión es una competencia exclusiva de las autoridades nacionales
+D. Aunque la autonomía no sea amplia, existen espacios para decidir en diversificación, inclusión y equidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Aunque esta autonomía no sea amplia, (sobre todo cuando predominan los sistemas de administración centralizados), existen espacios en las escuelas para la toma de decisiones en un contexto de diversificación, inclusión y equidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Autonomía escolar y dimensiones del liderazgo; página impresa 16; página PDF 14.
+
+57. [LIDEI 2022 – OEI · Capítulo 1] Una Unidad Educativa aplica el currículo oficial al pie de la letra, sin considerar las experiencias de sus estudiantes. ¿Qué análisis se apoya en la distinción de Aoki (2011)?
+A. Atiende al currículo como plan técnico-burocrático y descuida el currículo como experiencia vivida
+B. Atiende al currículo como experiencia vivida, que exige seguir el plan oficial sin ninguna modificación
+C. Atiende correctamente al currículo, pues la experiencia de los estudiantes no forma parte de él
+D. Atiende al currículo de forma adecuada, ya que el currículo solo existe como documento normativo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…destacando Aoki (2011) el currículo como plan y el currículo como experiencia vivida, el primero de carácter técnico-burocrático y el segundo de carácter personal (Pinar, 2004).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+58. [LIDEI 2022 – OEI · Capítulo 1] Una reforma llega a una Unidad Educativa, pero los docentes no la hacen suya y sus prácticas no cambian. ¿Qué análisis se fundamenta en las fases de la innovación?
+A. Se logró la personalización del cambio, aunque los docentes no modificaron sus prácticas
+B. Se completó la innovación, pues basta con que la reforma haya sido aprobada externamente por la autoridad
+C. Se quedó en el cambio externo, sin lograr el cambio interno ni la personalización del cambio
+D. La innovación fracasó por falta de normas, que son la única fase necesaria del cambio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…la innovación es un proceso que abarca tres fases interconectadas –el cambio externo, el cambio interno y la personalización del cambio […]–, que no solo son el resultado de diferentes niveles de regulación, sino también del compromiso personal.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+59. [LIDEI 2022 – OEI · Capítulo 1] En una Unidad Educativa cada docente trabaja aislado y no comparte prácticas, y las innovaciones curriculares no prosperan. ¿Qué condición de éxito señala el capítulo que está ausente?
+A. Una evaluación externa más frecuente de los docentes
+B. Una mayor dotación de equipos tecnológicos
+C. Un reglamento interno más estricto y detallado
+D. Una cultura escolar de colaboración y de compartir
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Por lo tanto, el liderazgo escolar tiene como marco de actuación la gestión y desarrollo curricular centrada en la innovación, la diversidad y la inclusión, siendo la cultura escolar de colaboración y compartir una de sus condiciones de éxito (Torres y Palhares, 2014).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+60. [LIDEI 2022 – OEI · Capítulo 1] Un informe atribuye los resultados de una Unidad Educativa a un solo factor aislado. ¿Qué crítica se fundamenta en el capítulo?
+A. Es correcto, ya que el rendimiento escolar depende solo del nivel socioeconómico de las familias
+B. Ninguna variable marca la diferencia aisladamente, aunque el liderazgo escolar sea un factor clave
+C. Es correcto, pues el rendimiento escolar depende exclusivamente de las características del director
+D. Ninguna variable influye en el rendimiento, por lo que el liderazgo escolar resulta irrelevante
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Aunque ninguna de las variables de estos modelos marque la diferencia de forma aislada, es incuestionable que el liderazgo escolar es un factor clave, incluyendo aspectos personales, de formación y de toma de decisiones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+61. [LIDEI 2022 – OEI · Capítulo 1] Una dirección departamental elabora un instrumento para analizar la gestión de las Unidades Educativas. Conforme al modelo de la OEI (2017), ¿qué dimensiones debe incluir?
+A. Política educativa, organización administrativa, gestión curricular, convivencia y competencias de liderazgo
+B. Rendimiento en pruebas, ranking distrital, prestigio institucional, demanda de matrícula y premios recibidos en concursos
+C. Infraestructura, mobiliario, equipamiento tecnológico, matrícula y número de docentes por escuela
+D. Asistencia docente, puntualidad, disciplina del alumnado, uniformes y cumplimiento del horario
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “El modelo de análisis de gestión presentado integra cinco dimensiones: ‘política educativa; organización administrativa financiera u operativa; gestión curricular o técnica pedagógica; gestión de la convivencia escolar o social; competencias conductuales de liderazgo’ (OEI, 2017, pp. 22-23).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+62. [LIDEI 2022 – OEI · Capítulo 1] Al diseñar la evaluación institucional de su Unidad Educativa con el modelo de Stufflebeam, ¿qué variables debe considerar el equipo directivo?
+A. Contexto y normas, como variables independientes de los resultados
+B. Solo los resultados de aprendizaje, como única variable de la evaluación institucional
+C. Contexto, insumos, proceso y resultados, como variables interdependientes
+D. Insumos y resultados, prescindiendo del contexto y del proceso escolar
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Uno de los modelos más centrados en la evaluación orientada a la toma de decisiones considera la existencia de cuatro variables interdependientes: contexto, insumos, proceso y resultados (Stufflebeam, 2003).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+63. [LIDEI 2022 – OEI · Capítulo 1] Al aplicar el modelo de Stufflebeam a la evaluación institucional, ¿qué criterios de calidad de la evaluación debe procurar el equipo evaluador?
+A. Brevedad, publicidad, competencia y ranking
+B. Adecuación, conveniencia, utilidad y fiabilidad
+C. Uniformidad, rigidez, control y plena obligatoriedad
+D. Rapidez, economía, confidencialidad y sanción
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Aplicado a la evaluación institucional –y buscando su adecuación, conveniencia, utilidad y fiabilidad–, el modelo propuesto por el mismo autor se centra en los estándares profesionales dentro de una visión holística…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+64. [LIDEI 2022 – OEI · Capítulo 1] Al revisar las variables de contexto y de entrada de su Unidad Educativa según Sanders y Davidson (2003), ¿qué aspectos debe considerar el director?
+A. Antigüedad docente, categoría salarial, licencias del personal y horarios de atención
+B. Calificaciones del alumnado, ranking distrital, número de aprobados y premios obtenidos
+C. Presupuesto ejecutado, número de aulas, equipamiento informático y mobiliario disponible en el centro
+D. Clima escolar, cualificaciones, implicación de familias, docentes y alumnado, y seguridad escolar
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…Sanders y Davidson (2003), en las variables de contexto y, de entrada, mencionan el clima escolar y las cualificaciones profesionales, además de la implicación de las familias, el profesorado, el alumnado y la seguridad escolar, hoy en día también interconectada con el bienestar personal y social.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+65. [LIDEI 2022 – OEI · Capítulo 1] Una normativa nacional establece lineamientos de gestión para todas las escuelas. Según el capítulo, ¿cómo debe actuar el liderazgo frente a ella?
+A. Esperar instrucciones detalladas de la autoridad antes de adoptar decisiones en la escuela
+B. Ignorar la normativa nacional, ya que el liderazgo depende solo del contexto de cada escuela
+C. Actuar según el contexto escolar, aunque las referencias nacionales oficialicen una normatividad
+D. Aplicar la normativa sin adaptación alguna, pues el contexto escolar no condiciona el liderazgo escolar
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Así, el liderazgo se refiere siempre a una actuación definida por el contexto escolar, aunque las referencias nacionales oficialicen una normatividad específica, y debe estar vinculado a un proyecto de educación y formación…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+66. [LIDEI 2022 – OEI · Capítulo 1] Al elaborar un plan de mejora de su liderazgo, un director usa los indicadores de la OEI (2017). ¿Qué indicador corresponde a la gestión de cambios con proyección comunitaria?
+A. Administración del presupuesto anual
+B. Supervisión de la disciplina de todo el alumnado
+C. Control del cumplimiento del reglamento
+D. Gestión de la innovación, compromiso social
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “6. Gestión de la innovación, compromiso social.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+67. [LIDEI 2022 – OEI · Capítulo 1] Una política de formación de futuros directores se diseña con base en los principios de Hargreaves y Fink (2007). ¿Qué orientación debe seguir?
+A. Preparar a los futuros líderes orientando su acción según las competencias de liderazgo del futuro
+B. Formar a los futuros líderes solo en normativa administrativa y en procedimientos financieros
+C. Preparar a los futuros líderes replicando exactamente las prácticas de los directores actuales
+D. Seleccionar a los futuros líderes solo por su antigüedad en la docencia y su categoría salarial en el escalafón
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…‘desarrollar una reserva de talento de liderazgo más profunda y amplia’; ‘preparar a los futuros líderes orientando su acción en función de las competencias de liderazgo del futuro’ (p. 105).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+68. [LIDEI 2022 – OEI · Capítulo 1] Una autoridad diseña un programa de desarrollo profesional para directores y docentes. Según el capítulo, ¿qué enfoques comprenden los programas basados en la escuela?
+A. Desde la evaluación sancionatoria de docentes hasta la reducción de horas de formación
+B. Desde la capacitación tecnológica exclusiva hasta la supresión del trabajo colaborativo
+C. Desde cursos externos aislados y masivos hasta certificaciones individuales sin ningún vínculo con la escuela
+D. Desde la valorización de la cualificación docente y directiva hasta programas de colaboración entre actores
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Con la valorización del director y de todos los actores del proceso educativo, los programas de desarrollo profesional basados en la escuela adquieren mayor relevancia (Rice et al., 2021). Esto ocurre a partir de una amplia gama de enfoques […], desde la valorización de la cualificación profesional del profesorado y los directores hasta el desarrollo de programas centrados en la colaboración entre los diferentes actores escolares.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+69. [LIDEI 2022 – OEI · Capítulo 1] Una dirección distrital busca herramientas para monitorear la calidad de sus escuelas. ¿Qué uso de los modelos de valor agregado se fundamenta en el capítulo?
+A. Utilizarlos para clasificar públicamente a las escuelas en rankings de prestigio y de reputación local
+B. Descartarlos por completo, pues no aportan información útil sobre la calidad escolar
+C. Utilizarlos como criterio único para sancionar a los docentes de bajo desempeño
+D. Utilizarlos como herramientas de monitoreo, dentro de una evaluación institucional integral
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…depende de una evaluación institucional integral y diversificada, en la que los modelos de valor agregado son útiles como herramientas de monitoreo (Prior et al., 2021)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+70. [LIDEI 2022 – OEI · Capítulo 1] Al usar la autoevaluación como fuente para la toma de decisiones, ¿qué dimensiones de las prácticas escolares debe cuestionar la Unidad Educativa (Pacheco et al., 2020)?
+A. La dimensión organizativa, la curricular y la pedagógica
+B. La dimensión disciplinaria, la legal y la sindical
+C. Solo la dimensión financiera y la de infraestructura física
+D. Solo la dimensión de resultados en pruebas externas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Como fuente de información para la toma de decisiones, la autoevaluación es un ejercicio de cuestionamiento de las prácticas escolares tanto en la dimensión organizativa, como en la curricular y pedagógica (Pacheco et al., 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+71. [LIDEI 2022 – OEI · Capítulo 1] Un nuevo director llega a una Unidad Educativa rural con alta migración estacional de familias. Según el primer indicador de la OEI (2017), ¿por dónde debe comenzar?
+A. Por solicitar el cierre temporal de la escuela durante la migración
+B. Por sancionar las inasistencias del alumnado vinculadas a la migración estacional
+C. Por aplicar el mismo plan que utilizaba en su anterior escuela urbana
+D. Por comprender el contexto del centro escolar antes de definir sus acciones
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la OEI (2017) identifica seis indicadores principales para un liderazgo activo, integrado y contextualizado: 1. Comprensión del contexto del centro escolar.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+72. [LIDEI 2022 – OEI · Capítulo 1] En una Unidad Educativa surgen tensiones porque el director decide todo solo y los docentes se sienten excluidos. ¿Qué resolución se fundamenta en el liderazgo distribuido descrito por Spillane (2006)?
+A. Diseñar de manera compartida las actividades con la comunidad, reflexionando sobre las prácticas
+B. Delegar todas las decisiones a los docentes y retirarse de la conducción pedagógica del centro escolar
+C. Mantener las decisiones centralizadas y explicar a los docentes que la ley así lo establece
+D. Reemplazar a los docentes inconformes por otros más dispuestos a seguir las instrucciones
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…las actividades y dinámicas educativas desarrolladas en el centro educativo que son diseñadas de manera compartida por los miembros de la comunidad para promover la motivación hacia la formación del alumnado, en un contexto de reflexión y análisis continuo de las propias prácticas de liderazgo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+73. [LIDEI 2022 – OEI · Capítulo 1] Durante una emergencia sanitaria, el consenso amplio no permite responder con la rapidez necesaria. ¿Qué respuesta del director se fundamenta en Brown et al. (2021)?
+A. Recurrir también a un liderazgo situacional, sin abandonar los beneficios del liderazgo distribuido
+B. Suspender toda forma de participación y asumir un mando autoritario de manera permanente
+C. Trasladar todas las decisiones a las familias, para evitar responsabilidades propias en la emergencia sanitaria
+D. Esperar a que se logre el consenso de toda la comunidad antes de adoptar cualquier medida
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…a pesar de los beneficios del liderazgo distribuido y de un enfoque basado en el consenso, los propios directores sienten la necesidad de recurrir a otros modos de liderazgo en forma de liderazgo situacional, algo que se convirtió en una práctica para hacer frente a la multitud de desafíos…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+74. [LIDEI 2022 – OEI · Capítulo 1] Tras la pandemia, una Unidad Educativa constata que creció la brecha entre estudiantes de distinto origen social y nacionalidad. ¿Qué lectura del contexto ofrece el capítulo a partir de Reimers (2021)?
+A. La pandemia no tuvo efectos en América Latina, por lo que la brecha es un problema anterior
+B. La brecha es ajena a la pandemia y se explica solo por el esfuerzo individual y familiar de cada estudiante
+C. La pandemia incrementó las brechas de oportunidad y exige sistemas más relevantes ante los desafíos
+D. La pandemia redujo las brechas, pues todos los estudiantes accedieron por igual a la educación
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…‘se inicia la quinta ola de transformación de los sistemas educativos de América Latina, incrementando las brechas de oportunidad educativa entre el alumnado de distinta clase social y nacionalidad, y aumentando con ello también la necesidad de una mayor relevancia de los sistemas educativos…’”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+75. [LIDEI 2022 – OEI · Capítulo 1] Una Unidad Educativa recibe una plataforma que recopila masivamente datos personales del alumnado. ¿Qué dinámicas del futuro digital, señaladas en el capítulo, debe considerar el director al decidir su uso?
+A. La conectividad, la dataficación y la digitalización, unidas a la gestión masiva de datos personales
+B. La conectividad rural, la telefonía móvil y la televisión educativa, sin gestión de datos
+C. La gamificación, la robótica y la realidad virtual, sin relación con los datos del alumnado
+D. La desconexión, la privacidad absoluta y la enseñanza presencial, sin uso alguno de datos personales del alumnado
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Provoca cambios significativos en la vida cotidiana de las personas, en los que la conectividad, la dataficación y la digitalización, unidas a la gestión masiva de datos personales, son dinámicas predominantes (Couldry y Mejías, 2019)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+76. [LIDEI 2022 – OEI · Capítulo 1] En una Unidad Educativa las reuniones son escasas y cada área trabaja por su cuenta, lo que genera descoordinación. ¿Qué indicador de la OEI (2017) debe fortalecer el director?
+A. Supervisión externa de cada área curricular
+B. Trabajo en equipo, reuniones de trabajo
+C. Redacción de informes administrativos
+D. Control individual del desempeño docente
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “4. Trabajo en equipo, reuniones de trabajo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.
+
+77. [LIDEI 2022 – OEI · Capítulo 1] Un grupo de docentes cuestiona que la escuela evalúe su desempeño, pero se niega a participar en la autoevaluación institucional. ¿Cómo debe abordarlo el director según el capítulo?
+A. Explicar que la autoevaluación es uno de los factores de la cultura del aprendizaje y convocar su participación
+B. Sustituir la autoevaluación por un informe de la supervisión, para evitar conflictos internos con el plantel docente
+C. Excluir a esos docentes de la autoevaluación y realizarla solo con el equipo directivo del centro escolar
+D. Suspender la autoevaluación institucional, pues no es un elemento relevante de la cultura del aprendizaje
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En este marco, la cultura del aprendizaje se desarrolla a partir de la intervención de tres factores: el profesorado en su desarrollo profesional […]; el alumnado en su tarea de formación y educación; y la escuela, a través de los procesos de autoevaluación institucional.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+78. [LIDEI 2022 – OEI · Capítulo 1] Un director quiere reconocer a los coordinadores de nivel y jefes de área en la toma de decisiones. ¿Qué fundamento ofrece el capítulo?
+A. El reconocimiento de líderes intermedios debilita la autoridad del director y debe evitarse siempre en la escuela
+B. Los líderes intermedios solo deben intervenir en asuntos administrativos y no en decisiones pedagógicas
+C. Los líderes intermedios deben limitarse a ejecutar las decisiones del director sin participar en ellas
+D. El liderazgo transformacional exige colaboración en las decisiones y reconocimiento de los líderes intermedios
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El desarrollo profesional de los directores es, por tanto, esencial para una práctica de liderazgo escolar transformacional en la que la colaboración adquiere protagonismo a nivel de las decisiones tomadas en el contexto escolar (Polatcan et al., 2021), y mediante el reconocimiento de los líderes intermedios (Nobile, 2018).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+79. [LIDEI 2022 – OEI · Capítulo 1] Una Unidad Educativa con estudiantes de diversas culturas aplica las mismas estrategias a todos sin reconocer su diversidad. ¿Qué orientación del capítulo debe guiar al director?
+A. Dejar la atención a la diversidad en manos de las familias, fuera del ámbito de la escuela
+B. Vincular el liderazgo al concepto de agente de cambio y a la atención a la diversidad, con justicia social
+C. Uniformar las prácticas para garantizar la igualdad de trato, sin considerar las diferencias culturales existentes
+D. Separar a los estudiantes por cultura de origen para ofrecerles programas totalmente distintos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Es en este marco de regulación personal, normativa y conceptual donde se puede entender el modelo de liderazgo pedagógico, inclusivo y distribuido en una sociedad más humanizada por la justicia social (Ferreira, 2003), cuyos supuestos están referenciados con el concepto de agente de cambio y de atención a la diversidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+80. [LIDEI 2022 – OEI · Capítulo 1] Ante crecientes exigencias de reportes de datos, un director y sus docentes sienten que pierden tiempo y control sobre su trabajo. ¿Qué aspecto, según el estudio de Gunnulfsen (2021), está poco estudiado en estas situaciones?
+A. La forma sutil en que líderes y docentes usan su tiempo, su poder y su discurso ante esas demandas
+B. El costo económico de los sistemas informáticos que se utilizan para reportar los datos escolares oficiales
+C. La cantidad de formularios que cada escuela debe completar para la autoridad educativa central
+D. La opinión de las familias sobre los informes de rendición de cuentas que publican las escuelas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la forma sutil en que los líderes escolares y los docentes utilizan su tiempo, su poder y su discurso cuando se enfrentan a las demandas de la política exterior, en la práctica diaria está poco estudiada…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 15; página PDF 13.
+
+81. [LIDEI 2022 – OEI · Capítulo 1] Los datos de seguimiento muestran que una estrategia que el director defendía no da resultados. ¿Qué decisión es coherente con el segundo rasgo de liderazgo propuesto por Fullan?
+A. Aprender de los buenos datos y cambiar su forma de pensar cuando sea necesario
+B. Mantener la estrategia para no perder autoridad frente a la comunidad educativa
+C. Descartar los datos, pues contradicen la experiencia acumulada del director
+D. Esperar varios años más antes de revisar la estrategia, por coherencia
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En segundo lugar, aprender de los buenos datos, permitiendo cambiar su forma de pensar cuando es necesario.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+82. [LIDEI 2022 – OEI · Capítulo 1] Un director debe decidir cómo mejorar su Unidad Educativa. Según la segunda clave de Fullan, ¿qué decisión es la más adecuada?
+A. Concentrarse solo en el interior de la escuela, evitando las influencias externas
+B. Esperar que el sistema educativo resuelva primero los problemas de la escuela
+C. Copiar sin adaptación las prácticas de otras escuelas con mejores resultados
+D. Actuar en la escuela y en el sistema, mirando hacia fuera para mejorar dentro
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…Fullan (2016) presenta tres claves esenciales para el ejercicio del liderazgo: aprender a liderar; actuar en la escuela y el sistema educativo, mirando hacia fuera para mejorar dentro; y convertirse en un agente de cambio.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 12; página PDF 10.
+
+83. [LIDEI 2022 – OEI · Capítulo 1] Al fijar las prioridades del año, un director duda entre centrarse solo en elevar resultados o en el aprendizaje de las personas. ¿Qué decisión es coherente con el liderazgo distribuido?
+A. Delegar la definición de prioridades a la autoridad distrital, para evitar decisiones institucionales
+B. Priorizar exclusivamente la eficacia de los resultados, aunque se descuide por completo el aprendizaje de las personas
+C. Priorizar a las personas y su aprendizaje, sin abandonar el compromiso de mejorar el éxito de los alumnos
+D. Renunciar a mejorar el éxito de los alumnos, pues el liderazgo distribuido no se ocupa de los resultados
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…el liderazgo distribuido –en su esencia pedagógica e inclusiva– valora más a las personas y su aprendizaje que la eficacia de los resultados, aunque el compromiso de la dirección de un centro escolar sea siempre mejorar el éxito de los alumnos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+84. [LIDEI 2022 – OEI · Capítulo 1] Al planificar el uso de nuevos recursos digitales, el equipo directivo debe decidir el rol del alumnado. ¿Qué decisión se alinea con la noción de agencia de los estudiantes de la OCDE (2019)?
+A. Postergar el uso de recursos digitales hasta que los alumnos terminen la educación secundaria
+B. Restringir el uso de recursos digitales a los docentes, para mantener el control docente del aprendizaje
+C. Limitar el rol del alumnado a recibir contenidos digitales preparados, sin decisiones propias
+D. Promover que los alumnos asuman autonomía en su aprendizaje y usen con capacidad los nuevos recursos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La forma en que la OCDE (2019) entiende la noción de agencia de los estudiantes es, principalmente, la forma en que asumen su autonomía en el proceso de aprendizaje en una era dominada por las tecnologías digitales. La metáfora de la brújula de aprendizaje traduce así las ideas de capacidad y autonomía de los alumnos en el uso de nuevos recursos…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Innovación y cultura del aprendizaje; página impresa 14; página PDF 12.
+
+85. [LIDEI 2022 – OEI · Capítulo 1] Con recursos limitados para formación, un director debe elegir el modelo de desarrollo profesional. ¿Qué decisión adquiere mayor relevancia según el capítulo?
+A. Cursos individuales externos, sin vínculo con las necesidades ni con los proyectos institucionales de la escuela
+B. Programas de desarrollo profesional basados en la escuela, centrados en la colaboración entre actores
+C. Suspender la formación y destinar todos los recursos a la adquisición de equipos tecnológicos
+D. Formación solo para el director, excluyendo a los docentes y demás actores del proceso educativo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Con la valorización del director y de todos los actores del proceso educativo, los programas de desarrollo profesional basados en la escuela adquieren mayor relevancia (Rice et al., 2021).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+86. [LIDEI 2022 – OEI · Capítulo 1] Al definir el plan curricular de su Unidad Educativa, ¿qué decisión es coherente con el marco de actuación del liderazgo escolar que propone el capítulo?
+A. Centrar la gestión curricular en la uniformidad de prácticas entre todos los docentes
+B. Centrar la gestión curricular en el cumplimiento formal de los plazos administrativos
+C. Centrar la gestión y el desarrollo curricular en la innovación, la diversidad y la inclusión
+D. Centrar la gestión curricular en la cobertura total de contenidos y en las pruebas finales de cada trimestre
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Por lo tanto, el liderazgo escolar tiene como marco de actuación la gestión y desarrollo curricular centrada en la innovación, la diversidad y la inclusión, siendo la cultura escolar de colaboración y compartir una de sus condiciones de éxito…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Regulación del liderazgo y gestión curricular; página impresa 14; página PDF 12.
+
+87. [LIDEI 2022 – OEI · Capítulo 1] Un equipo directivo debe decidir cómo generar conocimiento para mejorar su liderazgo. ¿Qué decisión se apoya en la cita de la OEI (2021) recogida en el capítulo?
+A. Contratar consultorías externas que definan el plan de mejora sin participación del personal escolar
+B. Evitar compartir experiencias con otras escuelas, para proteger las prácticas propias de la institución
+C. Limitarse a cumplir los reportes de datos exigidos, sin generar espacios propios de intercambio ni estudios internos
+D. Promover espacios de intercambio de experiencias y buenas prácticas, y fomentar investigaciones y diagnósticos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…basadas no solo en la evidencia de datos (Segerholm et al., 2021), sino también en la ‘generación de conocimiento a partir de la promoción de espacios de intercambio de experiencias y buenas prácticas y el fomento de investigaciones, diagnósticos y estudios orientados a la mejora de la innovación y el liderazgo escolar’ (OEI, 2021, p. 45).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 15; página PDF 13.
+
+88. [LIDEI 2022 – OEI · Capítulo 1] Al tomar decisiones en su Unidad Educativa, ¿por qué cuestiones deben guiarse, según el capítulo, para maximizar el impacto del liderazgo escolar?
+A. Por cuestiones de imagen, prestigio y publicidad de la escuela
+B. Por cuestiones organizativas, curriculares y pedagógicas
+C. Por cuestiones disciplinarias, punitivas y de control
+D. Por cuestiones políticas, partidarias y electorales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Aprender a liderar, actuar en contexto y convertirse en agente de cambio son las tres claves enunciadas por Fullan para maximizar el impacto del liderazgo escolar, cuyo proceso incluirá la relevancia de las prácticas de toma de decisiones guiadas por cuestiones organizativas, curriculares y pedagógicas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelo pedagógico, inclusivo y distribuido; página impresa 13; página PDF 11.
+
+89. [LIDEI 2022 – OEI · Capítulo 1] Al organizar el proceso de evaluación del desempeño docente en su Unidad Educativa, ¿qué decisión se apoya en la tendencia europea descrita por Eurydice?
+A. Asumir el director un papel protagónico, solo o junto con otros líderes escolares o inspectores
+B. Abstenerse el director de participar, dejando la evaluación solo a evaluadores externos
+C. Reducir la evaluación docente a la verificación de la asistencia y del cumplimiento horario del personal
+D. Delegar íntegramente la evaluación docente en las familias, sin intervención del director
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…destaca la figura del director como el principal referente en casi todos los países donde se regula el proceso de evaluación docente, ya sea solo o con otros evaluadores como líderes escolares o inspectores…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+90. [LIDEI 2022 – OEI · Capítulo 1] Al decidir cómo evaluar a directores y docentes, una autoridad educativa adopta el modelo de Stufflebeam. ¿En qué debe centrarse esa evaluación?
+A. En los resultados de una prueba única aplicada a todo el personal
+B. En la antigüedad en el cargo, sin considerar otros criterios
+C. En la sanción de errores, con una visión fragmentada del trabajo
+D. En los estándares profesionales, dentro de una visión holística
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…el modelo propuesto por el mismo autor se centra en los estándares profesionales dentro de una visión holística para la evaluación de directores, profesorado y profesionales de la educación, entre otros, en el sistema educativo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+91. [LIDEI 2022 – OEI · Capítulo 1] Al formular la estrategia institucional, ¿en qué dimensiones de los procesos y prácticas escolares se manifiesta, según el capítulo, el cambio en las condiciones de liderazgo?
+A. Exclusivamente en la dimensión tecnológica y en el equipamiento digital
+B. Únicamente en la dimensión disciplinaria y en el control del alumnado
+C. Especialmente en las dimensiones financiera, legal y de infraestructura
+D. Especialmente en las dimensiones organizativa, curricular y pedagógica
+Respuesta correcta: D
+Explicación: “Significa, por tanto, que las condiciones de liderazgo están en un amplio y profundo proceso de cambio tanto a nivel de políticas como a nivel de procesos y prácticas escolares en todas sus dimensiones, especialmente las de carácter organizativo, curricular y pedagógico.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo en el futuro digital; página impresa 11; página PDF 9.
+
+92. [LIDEI 2022 – OEI · Capítulo 1] Al planificar un cambio institucional sostenible, ¿qué características del cambio defienden Hargreaves y Fink (2007)?
+A. Su rapidez, visibilidad y bajo costo
+B. Su uniformidad, rigidez y obligatoriedad
+C. Su profundidad, amplitud y durabilidad
+D. Su brevedad, simplicidad y temporalidad
+Respuesta correcta: C
+Explicación: “Partiendo del concepto de sostenibilidad del cambio, y defendiendo su profundidad, amplitud y durabilidad, Hargreaves y Fink (2007)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+93. [LIDEI 2022 – OEI · Capítulo 1] Para fortalecer la capacidad de liderazgo de su Unidad Educativa a largo plazo, ¿qué principios de Hargreaves y Fink (2007) debe incorporar el plan estratégico?
+A. Importar líderes externos en cada gestión y renovar por completo el plantel cada pocos años
+B. Crear culturas profesionales fuertes y amplias y desarrollar una reserva de talento de liderazgo
+C. Crear una estructura jerárquica rígida y seleccionar líderes solo por su antigüedad en el centro educativo
+D. Concentrar el talento en el director y reducir la participación de los docentes en el liderazgo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…‘crear culturas profesionales fuertes y amplias’; ‘desarrollar una reserva de talento de liderazgo más profunda y amplia’…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Sostenibilidad del cambio (Hargreaves y Fink); página impresa 12; página PDF 10.
+
+94. [LIDEI 2022 – OEI · Capítulo 1] Al sintetizar el modelo, el capítulo afirma que permite que el liderazgo sea clave para la innovación. ¿Según qué principios debe organizarse principalmente?
+A. Eficiencia económica, uniformidad curricular y competencia entre las instituciones
+B. Rendimiento en pruebas, selección del alumnado y prestigio institucional en la zona
+C. Justicia social, diversidad curricular e identidad de los sujetos en su contexto educativo
+D. Control normativo, estandarización de prácticas y obediencia estricta a la autoridad central del sistema
+Respuesta correcta: C
+Explicación: “En resumen, el modelo de liderazgo pedagógico, inclusivo y distribuido permite que el liderazgo de las escuelas sea un aspecto clave para el desarrollo de innovación a la vez que necesario y principalmente organizado según los principios relacionados con la justicia social, la diversidad curricular y la identidad de los sujetos en un contexto educativo determinado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Agencia del profesorado y autoevaluación; página impresa 15; página PDF 13.
+
+95. [LIDEI 2022 – OEI · Capítulo 1] Al plantear la estrategia de mejora de la calidad, ¿por qué es esencial, según el capítulo, la interacción estratégica de todos los actores?
+A. Porque la calidad depende de la cantidad de recursos, con independencia de la interacción
+B. Porque la calidad se mide únicamente por la suma de los aportes individuales de cada docente del centro
+C. Porque la calidad depende de una evaluación institucional integral, no de decisiones fragmentadas
+D. Porque la calidad depende solo del director, y los demás actores deben limitarse a apoyarlo
+Respuesta correcta: C
+Explicación: “Si para el desempeño de la escuela todos los actores cuentan, su interacción estratégica es esencial, porque la calidad de la escuela […] depende de una evaluación institucional integral y diversificada […] y no tanto la contribución individual en una escuela centrada en la fragmentación de las decisiones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Rendición de cuentas, evaluación y desarrollo profesional; página impresa 16; página PDF 14.
+
+96. [LIDEI 2022 – OEI · Capítulo 1] Al elaborar su proyecto institucional, ¿qué dimensiones debe integrar un liderazgo escolar amplio y distribuido, según el capítulo?
+A. Una dimensión pedagógica centrada en el aprendizaje y otra de inclusión e integración del alumnado
+B. Una dimensión tecnológica centrada en equipos y otra de selección del alumnado más destacado
+C. Una dimensión financiera centrada en costos y otra de competencia con otras escuelas cercanas de la zona
+D. Una dimensión administrativa centrada en recursos y otra disciplinaria de control del alumnado
+Respuesta correcta: A
+Explicación: “…el liderazgo escolar amplio y distribuido incluye tanto una dimensión pedagógica […], en la que el foco del liderazgo está en el aprendizaje del alumnado y no en la administración y gestión de la escuela–, como una dimensión de inclusión e integración del alumnado, como se reconoce en los Objetivos de Desarrollo Sostenible (UN, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Autonomía escolar y dimensiones del liderazgo; página impresa 16; página PDF 14.
+
+97. [LIDEI 2022 – OEI · Capítulo 1] Al proyectar el rol del liderazgo escolar en la calidad del sistema, ¿qué afirma el capítulo?
+A. Que desempeña un papel exclusivamente técnico, ajeno a cualquier dimensión política o de valores
+B. Que desempeña un papel clave e implica modelos de muchos aspectos, incluidos los de origen político y moral
+C. Que desempeña un papel solo administrativo, limitado a ejecutar los recursos asignados a la escuela
+D. Que desempeña un papel secundario, subordinado por completo a las decisiones de la autoridad central del sistema
+Respuesta correcta: B
+Explicación: “Desde esta perspectiva, el liderazgo escolar desempeña un papel clave en la calidad de un sistema educativo, implicando modelos que abarcan muchos aspectos diferentes, incluyendo los de origen político y moral (Berkovich y Benoliel, 2020).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos político y moral; liderazgo en pandemia; página impresa 17; página PDF 15.
+
+98. [LIDEI 2022 – OEI · Capítulo 1] Al diseñar una política de evaluación del liderazgo, ¿a qué culturas atribuye el capítulo los avances recientes en las políticas de evaluación del desempeño profesional?
+A. A una cultura de confidencialidad de resultados, y a una cultura de evaluación solo externa
+B. A una cultura de control punitivo y sanción, y a una cultura de competencia entre escuelas
+C. A una cultura de rendición de cuentas y responsabilidad, y a una cultura de evaluación integral
+D. A una cultura de autonomía absoluta, y a una cultura de ausencia total de evaluación institucional interna
+Respuesta correcta: C
+Explicación: “…especialmente a partir de las políticas de evaluación del desempeño profesional, cada vez más orientadas por una cultura de la rendición de cuentas y de la responsabilidad y, también, por una cultura de la evaluación integral (Stake, 2006).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Modelos de evaluación y papel del director; página impresa 17; página PDF 15.
+
+99. [LIDEI 2022 – OEI · Capítulo 1] Al promover un cambio en las dinámicas de liderazgo de su Unidad Educativa, ¿qué valor estratégico atribuye el capítulo al liderazgo distribuido?
+A. Es una herramienta administrativa para distribuir el presupuesto, sin efectos reales en las dinámicas escolares cotidianas
+B. Es una herramienta para concentrar el poder en el director y reducir la participación de los docentes
+C. Es una herramienta que puede permitir el cambio de las dinámicas de liderazgo con referencia en la innovación
+D. Es una herramienta para mantener estables las dinámicas de liderazgo y evitar procesos de innovación
+Respuesta correcta: C
+Explicación: “Es, por tanto, una herramienta que puede permitir el cambio de las dinámicas de liderazgo (Spillane et al., 2004) en el transcurso de un proceso que tiene como referencia la innovación (Fullan, 2015).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Liderazgo distribuido, estructura y agencia; página impresa 13; página PDF 11.
+
+100. [LIDEI 2022 – OEI · Capítulo 1] Al revisar el marco de gestión escolar, ¿de qué parte la revisión conceptual sobre gestión escolar y liderazgo directivo presentada en el capítulo?
+A. De las políticas públicas y su normatividad ante una autoridad centralizada, y de la autonomía escolar
+B. De la experiencia personal de los directores, al margen de la normativa y de la autonomía escolar
+C. De los resultados de pruebas internacionales, sin relación con la normatividad de cada país
+D. De las preferencias de las familias y del mercado educativo, sin considerar las políticas públicas vigentes
+Respuesta correcta: A
+Explicación: “Por otro lado, la revisión conceptual realizada sobre gestión escolar y liderazgo directivo parte de las políticas públicas y del análisis de su normatividad en un contexto de existencia de una autoridad centralizada, así como de la manera de asumir y gestionar la autonomía de los centros educativos para adaptarse a sus contextos específicos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual – Indicadores y dimensiones de gestión (OEI); página impresa 12; página PDF 10.

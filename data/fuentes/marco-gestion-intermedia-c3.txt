@@ -1,0 +1,995 @@
+# Fuente: marco-gestion-intermedia-c3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Capítulo evaluado: 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?
+# Páginas: impresas 22 a 44 (PDF 22 a 44)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?» del documento Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada)
+# Alcance
+# Capítulo 3 completo: antecedentes conceptuales y redefinición del nivel intermedio, tendencias educativas (derechos, género, bienestar, calidad y equidad, ruralidad, inclusión, ciudadanía, redes, transformación digital, aprendizaje profundo), dimensión política educativa, factores estratégicos, condiciones de base, ámbitos de logro y prácticas efectivas. La página 22 contiene solo el título del capítulo
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (22–44)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 60 de contenido textual · 40 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 3 del Marco para la Gestión y el Liderazgo Educativo Local (págs. 22 a 44).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: marco-gestion-intermedia-c3
+
+1. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según Rincón-Gallardo (2018), ¿desde qué tres direcciones se ejerce la estrategia de influencia del liderazgo de nivel intermedio?
+A. Hacia abajo, lateralmente y hacia arriba
+B. Hacia arriba, hacia el centro y hacia la periferia
+C. Hacia abajo, hacia el aula y hacia las familias
+D. Hacia dentro, afuera y hacia el futuro
+Respuesta correcta: A
+Explicación: “…la que se ejerce desde las siguientes tres direcciones (Rincón-Gallardo, 2018): • Hacia abajo […]. • Lateralmente […]. • Hacia arriba…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 23; página PDF 23.
+
+2. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según el capítulo, ¿qué porcentaje de los chilenos vive en comunas mayoritariamente rurales y qué parte del territorio representan?
+A. El 30 % de los chilenos, equivalente al 50 % del territorio del país
+B. El 83 % de los chilenos, equivalente al 25,5 % del territorio total del país
+C. El 15 % de los chilenos, equivalente al 60 % del territorio nacional
+D. El 25,5 % de los chilenos, equivalente al 83 % del territorio del país
+Respuesta correcta: D
+Explicación: “El 25,5% de los chilenos vive en comunas cuya población habita mayoritariamente en sectores rurales, lo que equivale al 83% del territorio del país (MINEDUC, 2020b).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 29; página PDF 29.
+
+3. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué proporción de los establecimientos del país corresponde a escuelas rurales, según el capítulo?
+A. Un 30 % de los establecimientos, en su mayoría multigrado
+B. Un 83 % de los establecimientos, en su mayoría urbanos
+C. Un 10 % de los establecimientos, todos ellos unidocentes y urbanos
+D. Un 50 % de los establecimientos, en su mayoría privados
+Respuesta correcta: A
+Explicación: “Un 30% de los establecimientos del país corresponde a escuelas rurales, en su mayoría multigrado, con el gran desafío de asegurar que sus estudiantes tengan las mismas oportunidades de acceso a las experiencias de aprendizaje de calidad (MINEDUC, 2020b).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 29; página PDF 29.
+
+4. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuáles son las seis competencias globales (6 C) del aprendizaje profundo?
+A. Ciudadanía, cálculo, comprensión lectora, conducta, cortesía y concentración
+B. Cálculo, ciencia, cultura, comunicación, cooperación y conocimiento disciplinar escolar
+C. Carácter, ciudadanía, colaboración, comunicación, creatividad y pensamiento crítico
+D. Carácter, convivencia, competencia, control, constancia y pensamiento lógico
+Respuesta correcta: C
+Explicación: “1) seis competencias globales denominadas las 6 C´s (carácter, ciudadanía, colaboración, comunicación, creatividad y pensamiento crítico)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+5. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuáles son los cuatro aspectos para el diseño del aprendizaje en el enfoque de aprendizaje profundo?
+A. Relaciones con las familias, textos escolares, horarios de clase y uso de pruebas de selección
+B. Relaciones para el aprendizaje, prácticas pedagógicas, entornos de aprendizaje y apalancamiento digital
+C. Contenidos disciplinares, memorización, ejercitación y evaluación sumativa al final de cada nivel
+D. Planificación curricular, evaluación estandarizada, infraestructura escolar y control disciplinario del aula
+Respuesta correcta: B
+Explicación: “2) cuatro aspectos para el diseño del aprendizaje (relaciones para el aprendizaje, prácticas pedagógicas, entornos de aprendizaje y apalancamiento digital)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+6. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué tres aspectos considera fundamentalmente la dimensión política educativa de la gestión y el liderazgo educativo local?
+A. Organización y coherencia del sistema; gobernanza local y autonomía; participación y responsabilidad
+B. Supervisión y fiscalización; sanciones administrativas; competencia entre establecimientos
+C. Currículo nacional; formación docente inicial; selección de estudiantes y control de la matrícula
+D. Financiamiento y presupuesto; infraestructura y equipamiento; evaluación estandarizada de los resultados
+Respuesta correcta: A
+Explicación: “…dimensión política educativa del nivel y considera fundamentalmente tres aspectos (ver figura 1): • Organización y coherencia del sistema educativo. • Gobernanza local y autonomía. • Participación y responsabilidad por los resultados.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa y la actual institucionalidad del nivel intermedio en Chile; página impresa 32; página PDF 32.
+
+7. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuáles son las tres condiciones de base para que la gestión y el liderazgo intermedio funcionen apropiadamente?
+A. Autonomía total, ausencia de metas y libertad de cada escuela
+B. Roles claros y definidos, capacidades profesionales y financiamiento
+C. Infraestructura moderna, tecnología avanzada y matrícula creciente
+D. Autoridad jerárquica, control externo y sanciones por incumplimiento de metas
+Respuesta correcta: B
+Explicación: “…es posible distinguir al menos tres condiciones de base para que la gestión y el liderazgo intermedio logren un funcionamiento apropiado: • Roles claros y definidos […] • Capacidades profesionales […] • Financiamiento…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+8. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿En qué cuatro ámbitos se espera que la gestión y el liderazgo del nivel intermedio produzcan un impacto?
+A. Disciplina escolar, puntualidad docente, uniformes del alumnado y cumplimiento del calendario anual
+B. Infraestructura escolar, equipamiento tecnológico, transporte escolar y alimentación de estudiantes
+C. Prestigio institucional, rankings de escuelas, captación de matrícula y reducción del gasto público educativo
+D. Valor social de la educación pública, resultados de aprendizaje, equidad y eficacia interna de la gestión
+Respuesta correcta: D
+Explicación: “…podemos destacar al menos cuatro de ellos […]: (i) Valor social de la educación pública […] (ii) Resultados de aprendizaje […] (iii) Equidad y distribución del aprendizaje […] (iv) Eficacia y eficiencia interna de la gestión educativa del territorio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Ámbitos y logros esperados de la gestión y el liderazgo de nivel intermedio; página impresa 40; página PDF 40.
+
+9. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuántos factores o prioridades estratégicas de los equipos del nivel intermedio distingue el capítulo y cuál es el primero?
+A. Cinco factores; el primero es el liderazgo con foco en los aprendizajes integrales
+B. Cinco factores; el primero es el equilibrio entre control y autonomía de las escuelas
+C. Tres factores; el primero es la disponibilidad y el uso de los recursos
+D. Siete factores; el primero es la coordinación y coherencia institucional del sistema
+Respuesta correcta: A
+Explicación: “1. Liderazgo con foco en los aprendizajes integrales […] 2. Equilibrio entre control y autonomía […] 3. Relación colaborativa y de confianza […] 4. Coordinación y coherencia institucional […] 5. Disponibilidad y uso de los recursos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 37; página PDF 37.
+
+10. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según la nota 7, ¿qué nivel concentra la mayor matrícula en educación rural en Chile?
+A. La educación parvularia, con 36.192 niños y niñas
+B. La educación media, con 29.145 estudiantes
+C. La educación básica, con 205.118 estudiantes
+D. La educación especial, con 3.844 estudiantes
+Respuesta correcta: C
+Explicación: “[7] […] la distribución de matrículas en educación rural para los diferentes niveles es: educación parvularia (36.192), educación básica (205.118), educación media (29.145) y modalidad de Educación Especial (3.844).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas – Calidad integral y equidad (notas al pie 6 y 7); página impresa 29; página PDF 29.
+
+11. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo ha evolucionado la comprensión conceptual y práctica del nivel intermedio y de su rol en la mejora escolar?
+A. De administrador y transmisor de orientaciones centrales a mediador, intérprete e implementador local
+B. De gestor pedagógico del territorio a proveedor exclusivo de recursos financieros para las escuelas
+C. De implementador local de políticas a fiscalizador del cumplimiento normativo de los establecimientos escolares
+D. De mediador e intérprete de políticas a simple administrador y transmisor de orientaciones centrales
+Respuesta correcta: A
+Explicación: “La elaboración conceptual y práctica, respecto del nivel intermedio y su rol en la mejora escolar, ha pasado desde una comprensión de administrador y transmisor de orientaciones centrales, a una de mediador, intérprete e implementador de políticas en el nivel local de educación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 23; página PDF 23.
+
+12. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué definición específica del nivel educativo intermedio acoge el documento?
+A. Organismos internacionales que asesoran a los ministerios de educación en políticas públicas
+B. Agencias públicas del Estado ubicadas entre el nivel micro de los establecimientos y el nivel central
+C. Unidades técnicas internas de cada establecimiento que coordinan el trabajo de sus docentes
+D. Organizaciones privadas que administran redes de escuelas con financiamiento compartido del Estado chileno
+Respuesta correcta: B
+Explicación: “Este documento acoge una definición y perspectiva más específica del nivel educativo intermedio, que considera a aquellas agencias públicas que forman parte del Estado, ubicadas entre un nivel micro (relacionado a los establecimientos educacionales) y el nivel central.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Redefinición del concepto de nivel educativo intermedio; página impresa 23; página PDF 23.
+
+13. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo definen los Estándares Indicativos de Desempeño (EID) al sostenedor educativo?
+A. Como el responsable último de los resultados, la viabilidad y las alianzas y redes de sus establecimientos
+B. Como un intermediario administrativo sin responsabilidad sobre los resultados de sus establecimientos educacionales
+C. Como el supervisor externo que fiscaliza el cumplimiento normativo de las escuelas de su territorio
+D. Como el financiador de las escuelas, cuya responsabilidad se limita a la entrega oportuna de recursos
+Respuesta correcta: A
+Explicación: “Los Estándares Indicativos de Desempeño (EID) definen al sostenedor educativo como ‘el responsable último de los resultados de los establecimientos a su cargo, de la viabilidad de estos y de la generación y el fortalecimiento de alianzas y redes entre establecimientos y con otras instituciones’…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Redefinición del concepto de nivel educativo intermedio; página impresa 23; página PDF 23.
+
+14. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según el capítulo, ¿qué roles debe combinar adecuadamente el equipo de liderazgo del nivel intermedio (Queen y Adam, 2015)?
+A. Agente de control, auditor financiero y responsable de la selección de alumnos
+B. Agente de cambio, conector del sistema y potenciador de las trayectorias educativas
+C. Transmisor de políticas, supervisor de escuelas y gestor de la infraestructura
+D. Fiscalizador del sistema, evaluador de docentes y administrador de los recursos financieros
+Respuesta correcta: B
+Explicación: “El equipo de liderazgo del nivel intermedio debe ser capaz de combinar adecuadamente todos sus roles: agente de cambio, conector del sistema y potenciador de las trayectorias educativas (Queen y Adam, 2015)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+15. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia existe entre un líder y un administrador, según el enfoque del capítulo?
+A. El administrador decide sobre lo pedagógico; el líder decide solo sobre los recursos financieros
+B. El líder trabaja dentro de la cultura existente; el administrador crea nuevas culturas reflexionando y modelando
+C. No existe diferencia, pues ambos realizan su labor dentro de la cultura en la que se encuentran
+D. El administrador trabaja dentro de la cultura existente; el líder crea culturas reflexionando y modelando
+Respuesta correcta: D
+Explicación: “…mientras que este último realiza su labor dentro de la cultura en la que se encuentra, muchas veces no teniendo siquiera conciencia de ello; el líder crea culturas, reflexionando, comprendiendo, monitoreando, demostrando y modelando su propio aprendizaje (Schein, 2010; Elmore, 2010).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+16. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo concibe el enfoque de derechos a niñas, niños y jóvenes en las políticas educativas chilenas?
+A. Como sujetos de derecho solo a partir de la enseñanza media, cuando adquieren mayor autonomía
+B. Como destinatarios de las decisiones adultas, sin participación en la construcción de sus procesos
+C. Como sujetos de derecho y co-constructores de sus procesos educativos, desde la parvularia hasta la media
+D. Como beneficiarios pasivos de los servicios educativos que el Estado les entrega de forma gratuita y obligatoria
+Respuesta correcta: C
+Explicación: “En Chile, el diseño, implementación y ejecución de las políticas, planes y programas relacionados con la educación, se orientan en la actualidad hacia esa perspectiva de ‘enfoque de derechos’, concibiendo a niñas, niños y jóvenes como sujetos de derecho, co-constructores de sus procesos educativos, desde la educación parvularia hasta el término de la enseñanza media.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 26; página PDF 26.
+
+17. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo redefine la Agenda Educación 2030 la educación de calidad, según el capítulo?
+A. Como la obtención de altos puntajes en las pruebas estandarizadas nacionales e internacionales
+B. Como la transmisión eficiente de contenidos disciplinares definidos por el currículo nacional
+C. Como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos
+D. Como la cobertura universal de la enseñanza, con independencia de la pertinencia del aprendizaje logrado
+Respuesta correcta: C
+Explicación: “En la actualidad, la Agenda Educación 2030 de las Naciones Unidas para el Desarrollo Sostenible, redefine la educación de calidad como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 28; página PDF 28.
+
+18. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo se entiende el aprendizaje profundo, según el capítulo?
+A. Un aprendizaje centrado en la memorización exhaustiva de contenidos para las pruebas nacionales estandarizadas
+B. Un aprendizaje significativo, memorable y liberador, que integra conocimientos, habilidades y actitudes
+C. Un aprendizaje individual y competitivo, orientado a la selección de los mejores estudiantes
+D. Un aprendizaje técnico, limitado al dominio de herramientas digitales y plataformas en línea
+Respuesta correcta: B
+Explicación: “Aprendizaje profundo se entiende como un concepto amplio e integral, que hace referencia a un proceso de aprendizaje significativo, memorable, liberador, que congrega y debe desarrollar no sólo conocimientos pertinentes y situados, sino también habilidades y actitudes que niñas, niños y jóvenes necesitan para ser ciudadanos responsables…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+19. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo se define un ecosistema educativo, según el capítulo (Global Education Futures, 2018)?
+A. Un conjunto aislado de escuelas que comparten un mismo currículo nacional y un mismo calendario escolar durante todo el año
+B. Un sistema de financiamiento que distribuye recursos entre escuelas según la asistencia de estudiantes
+C. Una red interconectada de espacios educativos, personas e instituciones que ofrece aprendizajes durante toda la vida
+D. Una estructura jerárquica de supervisión que vincula al Ministerio con cada uno de los establecimientos
+Respuesta correcta: C
+Explicación: “Un ecosistema educativo puede ser definido como red interconectada de espacios educativos, entre individuos y de estos con diversas instituciones y organizaciones que ofrecen una variedad de experiencias de aprendizaje individuales y colectivas a lo largo de todo el ciclo de vida (Global Education Futures, 2018).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa y la actual institucionalidad del nivel intermedio en Chile; página impresa 32; página PDF 32.
+
+20. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo define el capítulo la gobernanza del sistema educativo?
+A. Como el control jerárquico que ejerce el Ministerio sobre cada uno de los establecimientos del país
+B. Como la gestión financiera de los recursos que el Estado asigna a cada Servicio Local
+C. Como la distribución de decisiones y responsabilidades entre los niveles y órganos del sistema
+D. Como la autonomía absoluta de cada escuela para definir sus propias políticas educativas
+Respuesta correcta: C
+Explicación: “La gobernanza del sistema se refiere a la distribución de las decisiones y ámbitos de responsabilidad entre los niveles y órganos que lo integran. Define las formas mediante las cuales se establece la política y se determinan las prioridades educativas (OCDE, 2015).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+21. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según los EID, ¿qué debe hacer el sostenedor respecto de los equipos directivos de los establecimientos, dado que hay diversas formas válidas de organizar el trabajo?
+A. Aplicar un único modelo de organización en todos los establecimientos, sin considerar diferencias entre ellos
+B. Delimitar su rol, definiendo claramente funciones y responsabilidades para trabajar de manera efectiva
+C. Asumir directamente la dirección de cada establecimiento para garantizar el buen funcionamiento
+D. Dejar que cada equipo directivo defina sus funciones sin ninguna coordinación con el sostenedor
+Respuesta correcta: B
+Explicación: “…es necesario que el sostenedor delimite su rol respecto de los equipos directivos de los establecimientos, definiendo claramente las funciones y responsabilidades para trabajar de manera efectiva” (p. 5).
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+22. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según el MINEDUC, ¿cuál es la misión actual del nivel intermedio respecto de las unidades educativas de su dependencia?
+A. Transmitir sin cambios las orientaciones centrales, sin intervenir en la gestión pedagógica
+B. Proponer desafíos permanentes, asegurando apoyo técnico-pedagógico y contención emocional
+C. Financiar las unidades según su matrícula, dejando a cada una la definición de sus desafíos
+D. Fiscalizar el cumplimiento normativo y sancionar a las unidades que no logren sus metas
+Respuesta correcta: B
+Explicación: “En esta línea, el MINEDUC considera actualmente que el nivel intermedio tiene como misión proponer desafíos permanentes a las unidades educativas de su dependencia, asegurando apoyo técnico-pedagógico y contención emocional (MINEDUC, 2016).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+23. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] En el caso del liderazgo intermedio, ¿qué rol le asigna el capítulo frente a los establecimientos de su territorio?
+A. Evaluar externamente a los docentes de cada escuela y proponer su remoción cuando sea necesario
+B. Intervenir directamente en los procesos educativos de cada escuela, reemplazando a sus equipos directivos y docentes
+C. Generar condiciones para la mejora y fortalecer capacidades, más que intervenir directamente en cada escuela
+D. Limitarse a la gestión administrativa y financiera, dejando la mejora pedagógica a cada establecimiento
+Respuesta correcta: C
+Explicación: “En el caso del liderazgo intermedio, tiene el rol de generar condiciones para la mejora del conjunto de establecimientos de su territorio, desarrollando y fortaleciendo capacidades profesionales, generando relaciones basadas en la confianza, reflexión, colaboración y distribución del liderazgo, más que intervenir directamente en los procesos educativos de cada escuela o unidad educativa…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+24. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuál es el rol fundamental de los profesionales del nuevo nivel intermedio, según el capítulo?
+A. Supervisar de forma tradicional a los establecimientos, con menos énfasis en el apoyo a sus equipos directivos y docentes
+B. Concentrarse en la gestión administrativa, delegando el liderazgo pedagógico en los ministerios
+C. Potenciar el liderazgo pedagógico y generar condiciones para una mejora sostenible, con más apoyo que supervisión
+D. Reemplazar a los directores en el liderazgo pedagógico de los establecimientos de menor desempeño
+Respuesta correcta: C
+Explicación: “El rol fundamental de las y los profesionales, del nuevo nivel intermedio, es potenciar el liderazgo pedagógico y generar condiciones en todos los niveles y modalidades de enseñanza, para lograr procesos de mejoramiento en los centros educativos de manera sostenible. Con menos énfasis, en la supervisión como se comprende tradicionalmente y más atención en el apoyo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+25. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo logran legitimidad profesional los equipos del nivel intermedio ante los equipos directivos, según el capítulo?
+A. Evitando acordar límites de rol para mantener flexibilidad en su relación con los equipos directivos
+B. Demostrando un conocimiento profundo del funcionamiento del centro, que les permite retroalimentar y orientar
+C. Aplicando sanciones administrativas a los equipos directivos que no cumplen las metas acordadas
+D. Ejerciendo la autoridad jerárquica que les confiere la ley sobre los directores de cada establecimiento del territorio
+Respuesta correcta: B
+Explicación: “…y, finalmente, logrando legitimidad profesional, ya que demuestran un conocimiento profundo del funcionamiento del centro educativo, lo que les permite retroalimentar prácticas instaladas y orientar la mejora de los procesos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+26. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según el enfoque de derechos, ¿qué deber tienen los liderazgos, en especial los de nivel intermedio?
+A. Ser fiscalizadores de los derechos, sancionando a las familias que no cumplen sus obligaciones con la escuela
+B. Ser garantes solo de los derechos de los docentes y asistentes de la educación del territorio
+C. Ser promotores y garantes del enfoque de derechos, promoviendo la no discriminación y la participación
+D. Ser observadores neutrales, sin intervenir en la promoción de los derechos de los estudiantes
+Respuesta correcta: C
+Explicación: “Los liderazgos en todos los niveles del sistema, muy particularmente los de nivel intermedio, tienen el deber de ser promotores y garantes de ese enfoque de derechos en el sistema escolar, promoviendo la no discriminación y la participación de todos los niños, niñas y jóvenes (NNJ), sus familias y comunidades…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 26; página PDF 26.
+
+27. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] En relación con el enfoque de género, ¿qué deben hacer constantemente los líderes intermedios?
+A. Identificar y visibilizar brechas en las trayectorias, eliminar barreras y prevenir la violencia de género
+B. Aplicar sanciones a los estudiantes que no cumplan los roles asignados según su sexo biológico
+C. Mantener los roles tradicionales de género, para no alterar la cultura escolar de cada territorio
+D. Delegar el enfoque de género en las familias, pues no corresponde a la gestión del nivel intermedio del sistema
+Respuesta correcta: A
+Explicación: “Para esto, las y los líderes deben constantemente identificar y visibilizar brechas en las trayectorias escolares, así como buscar formas de eliminar barreras y prevenir situaciones de violencia de género que se puedan suscitar en sus territorios, desde un enfoque de sensibilización y equidad.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 27; página PDF 27.
+
+28. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Como condición de base, ¿con qué encargados deben contar los equipos líderes del nivel intermedio?
+A. Con consultores externos temporales que sustituyan al equipo profesional estable del servicio
+B. Con encargados exclusivamente jurídicos y financieros, sin perfiles pedagógicos ni psicosociales en el equipo
+C. Con inspectores de disciplina y fiscalizadores de asistencia en cada uno de los establecimientos
+D. Con encargados técnico-pedagógicos, psicosociales y administrativos capaces de un trabajo territorial
+Respuesta correcta: D
+Explicación: “Es una condición base que los equipos líderes del nivel intermedio cuenten con encargados técnico-pedagógicos, psicosociales y administrativos con las capacidades necesarias para desarrollar un trabajo territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+29. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Además del desarrollo profesional, ¿de qué condiciones del personal debe preocuparse el nivel intermedio según el capítulo?
+A. De los resultados individuales del personal, para fijar sus remuneraciones mensuales
+B. De la vida privada del personal, en particular de su situación familiar y sus creencias personales
+C. De la afiliación sindical del personal, para limitar su participación en organizaciones
+D. De las condiciones laborales, en particular la estabilidad laboral y las jornadas de trabajo
+Respuesta correcta: D
+Explicación: “También, es clave que el nivel intermedio se preocupe por las condiciones laborales de las y los profesionales de la educación, asistentes y equipo directivo, en particular, por su estabilidad laboral y jornadas de trabajo (Bellei et al., 2014).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.
+
+30. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según la práctica de gestión de recursos alineados a los objetivos, ¿qué deben ser capaces de hacer los líderes del nivel intermedio?
+A. Priorizar recursos para infraestructura, postergando las opciones vinculadas a los aprendizajes
+B. Priorizar recursos vinculados a metas estratégicas y suspender programas que no son efectivos
+C. Mantener todos los programas existentes, aunque no aporten a las metas estratégicas
+D. Distribuir los recursos en partes iguales entre programas, sin considerar su efectividad real
+Respuesta correcta: B
+Explicación: “Las y los líderes del nivel intermedio deben priorizar recursos para las opciones directamente vinculadas con las metas estratégicas, con foco en los aprendizajes y ser capaces de suspender programas que no son efectivos o no aportan significativamente a ellas (Waters y Marzano, 2006).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.
+
+31. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿En qué radica la fuerza del enfoque de liderazgo intermedio que se ejerce en tres direcciones?
+A. En transformar al nivel intermedio en gatillador y responsable de la mejora, con una perspectiva colectiva
+B. En concentrar en el nivel intermedio todas las decisiones pedagógicas de los establecimientos del territorio
+C. En limitar el cambio a la acción individual de cada director, sin intervención del nivel intermedio
+D. En reducir las conexiones institucionales para que el nivel intermedio actúe de forma independiente
+Respuesta correcta: A
+Explicación: “La fuerza de este enfoque radica en su capacidad de transformar al nivel intermedio en gatillador y responsable de la mejora, con múltiples conexiones institucionales y comunitarias, donde la perspectiva de cambio no es individual, sino colectiva (entre educadores, unidades educativas, comunidad y sistema).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 23; página PDF 23.
+
+32. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿De qué depende el impacto del nivel intermedio en la calidad educativa, según la evidencia citada?
+A. Solo de la normativa que lo crea, con independencia de las prácticas que desarrolla en el territorio asignado
+B. De sus características, pero principalmente del contexto, de sus prácticas y de la reflexión sobre ellas
+C. Exclusivamente del monto de recursos financieros que recibe del Estado para su funcionamiento
+D. Únicamente de su tamaño organizacional y del número de establecimientos que tiene a su cargo
+Respuesta correcta: B
+Explicación: “Sin embargo, su impacto depende no sólo de las características del nivel intermedio como organización, sino principalmente de los factores de contexto que influyen en estas prácticas y de las prácticas en sí mismas […], así como el proceso de reflexión permanente sobre cuáles, cómo y por qué dichas prácticas, en ese contexto en particular, hacen la mayor diferencia…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+33. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué expresa la frase de Peter Drucker “la cultura se come a la estrategia en el desayuno”, en el contexto del capítulo?
+A. Que la mejora depende solo de la planificación estratégica y no de las creencias colectivas
+B. Que la cultura organizacional es irrelevante para el éxito de las reformas educativas
+C. Que el poder de la cultura dominante puede suprimir cualquier intento de cambio y mejora
+D. Que la estrategia siempre prevalece sobre la cultura cuando está bien diseñada y difundida
+Respuesta correcta: C
+Explicación: “El poder de la cultura dominante en una institución puede suprimir cualquier intento de cambio y mejora, lo que está relacionado a la famosa frase de Peter Drucker ‘la cultura se come a la estrategia en el desayuno’ (Rincón-Gallardo, 2019).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+34. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué explica, en gran medida, los límites y el fracaso de numerosas reformas educacionales, según el capítulo?
+A. El exceso de participación de las familias
+B. No considerar la cultura organizacional
+C. La ausencia de pruebas estandarizadas
+D. La falta de financiamiento internacional
+Respuesta correcta: B
+Explicación: “No considerar la cultura organizacional explica, en gran medida, los límites y fracaso de numerosas reformas educacionales (Fullan, 2006; Elmore, 2010; Aziz, 2018).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+35. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuál es el gran desafío de los SLEP como nuevo nivel intermedio, según el capítulo?
+A. Mantener las culturas de trabajo heredadas de la gestión municipal para evitar conflictos internos
+B. Aumentar la matrícula pública mediante campañas publicitarias en cada uno de los territorios del país y en los medios
+C. Reducir el gasto educativo mediante la fusión de establecimientos y la disminución de su personal
+D. Generar nuevas culturas de trabajo, éticas y con cierta épica, que devuelvan la confianza en la escuela pública
+Respuesta correcta: D
+Explicación: “Su gran desafío, es generar nuevas culturas de trabajo, ético y con cierta épica, enfocado en los valores y principios que orientarán las acciones de toda la comunidad educativa, de manera que devuelva la credibilidad y confianza en el sistema escolar público en Chile.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+36. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según el capítulo, ¿qué revela el rápido cambio hacia el aprendizaje en línea?
+A. Que el contenido antiguo en una plataforma nueva sigue siendo antiguo y no basta con nuevas tecnologías
+B. Que la tecnología debe reemplazar por completo la relación entre docentes y estudiantes en el aula
+C. Que las plataformas digitales garantizan por sí solas un aprendizaje significativo para todos los estudiantes
+D. Que la pedagogía tradicional es la más adecuada para los entornos virtuales y las clases en línea
+Respuesta correcta: A
+Explicación: “El rápido cambio hacia el aprendizaje en línea revela que el contenido antiguo en una nueva plataforma sigue siendo contenido antiguo, y que el uso de pedagogías antiguas con nuevas tecnologías no permite un aprendizaje significativo.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+37. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuál es el principal desafío y la principal oportunidad de la transformación digital en educación (Fundación Orange, 2016)?
+A. El desafío es la colaboración sin fronteras; la oportunidad, la resistencia al cambio
+B. El desafío es el costo de los equipos; la oportunidad, la reducción de los docentes
+C. El desafío es la falta de conexión; la oportunidad, el control de la asistencia escolar
+D. El desafío es la resistencia al cambio; la oportunidad, la colaboración sin fronteras
+Respuesta correcta: D
+Explicación: “El principal desafío, en este ámbito, es la resistencia al cambio, mientras que la principal oportunidad es la colaboración sin fronteras (Fundación Orange, 2016).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+38. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué potencial atribuye el capítulo al aprendizaje profundo respecto de la justicia social?
+A. Conectar el cambio educativo y la justicia social, poniendo en el centro la transformación del núcleo pedagógico
+B. Separar el cambio educativo de la justicia social, que corresponde exclusivamente a otras políticas públicas
+C. Garantizar la justicia social mediante la selección de los estudiantes con mayor potencial académico
+D. Sustituir las políticas de justicia social por estrategias pedagógicas centradas en el rendimiento individual del alumno
+Respuesta correcta: A
+Explicación: “Es interesante percibir que el aprendizaje profundo tiene el potencial de conectar el cambio educativo y la justicia social, redefiniendo la cultura institucional hacia una que tenga en el centro la transformación del núcleo pedagógico a nivel sistémico y territorial (Rincón-Gallardo, 2019).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+39. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según Fullan y Quinn (2016), ¿qué implica la coherencia de un sistema más allá del alineamiento de políticas?
+A. La centralización de todas las decisiones en el nivel central para evitar contradicciones entre niveles
+B. La aprobación de nuevas normas que obliguen a todos los niveles a cumplir las mismas metas cuantitativas anuales del sistema
+C. Una mentalidad compartida entre líderes y profesionales que desarrolla responsabilidad común sobre lo que se logra
+D. La uniformidad de las prácticas pedagógicas en todos los establecimientos de cada uno de los territorios
+Respuesta correcta: C
+Explicación: “La coherencia de un sistema, según Fullan y Quinn (2016), va más allá del alineamiento de políticas o dispositivos regulatorios, siendo necesaria una mentalidad que permee al conjunto de líderes y profesionales que trabajan en los distintos niveles del sistema, a través de la cual se desarrolla un sentido de responsabilidad compartida acerca de lo que el sistema es capaz de lograr.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Organización y coherencia del sistema; página impresa 34; página PDF 34.
+
+40. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué implica para las expectativas sobre profesores y líderes que los sistemas descentralizados otorguen más autonomía y responsabilidad por resultados?
+A. Que las expectativas respecto de su rol se reducen de manera notable
+B. Que las expectativas respecto de su rol se vuelven más exigentes
+C. Que las expectativas se trasladan por completo al nivel central
+D. Que las expectativas dejan de vincularse con los resultados
+Respuesta correcta: B
+Explicación: “Los países con sistemas descentralizados promueven que los niveles intermedios y las unidades educativas tengan más autonomía para tomar decisiones y les otorgan una mayor responsabilidad por los resultados. Esto hace que las expectativas respecto al rol de las y los profesores y líderes sean más exigentes.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+41. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia la dirección “lateral” de la dirección “hacia arriba” en el liderazgo intermedio (Rincón-Gallardo, 2018)?
+A. Lateral: influir en la política nacional; hacia arriba: liderar junto con las comunidades educativas
+B. Lateral: apoyar el cambio del núcleo pedagógico; hacia arriba: colaborar entre pares de otros territorios del país
+C. Lateral: conectar desde el medio colaborando entre pares; hacia arriba: influir en la política como socio
+D. Lateral: fiscalizar a los establecimientos; hacia arriba: rendir cuentas solo a los municipios locales
+Respuesta correcta: C
+Explicación: “• Lateralmente: Conectando desde el medio, colaborando entre pares. • Hacia arriba: Aprovechando oportunidades e influyendo en la política, siendo un socio eficaz, implementador local de las políticas públicas diseñadas en el nivel macro.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 23; página PDF 23.
+
+42. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué se entiende por socialización de género prescriptiva, según el capítulo?
+A. La estrategia que equipara las oportunidades sin enmarcar a las personas en función de su género
+B. El enfoque que visibiliza brechas para intervenir desde la política pública y superar inequidades
+C. El trato diferenciado según roles asignados por sexo, que genera desempeños y trayectorias desiguales
+D. La educación que reconoce en cada persona su potencial con independencia de sus diferencias biológicas o sociales
+Respuesta correcta: C
+Explicación: “…en sus trayectorias educativas niños, niñas, jóvenes y personas adultas son tratados de manera diferenciada y reciben sanciones si no cumplen con roles y estereotipos que la sociedad asigna según su sexo biológico […]. Esto se entiende como una socialización de género prescriptiva, que se traduce en desempeños desiguales en las distintas áreas del conocimiento…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 27; página PDF 27.
+
+43. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia el aprendizaje socioemocional del concepto de bienestar integral, ambos relacionados en el capítulo?
+A. El primero resguarda la seguridad física; el segundo se limita a la enseñanza de contenidos académicos del currículo escolar
+B. Ambos son idénticos y se refieren exclusivamente a la prevención de enfermedades en la escuela
+C. El primero corresponde solo a los docentes; el segundo corresponde solo a los servicios de salud
+D. El primero desarrolla habilidades para regular emociones y relacionarse; el segundo resguarda derechos e integridad
+Respuesta correcta: D
+Explicación: “El interés por el aprendizaje socioemocional […] permite a estudiantes y adultos adquirir y aplicar los conocimientos, las actitudes y las habilidades necesarias para comprender y regular las emociones […]. Este ámbito, está muy relacionado con el concepto de bienestar integral, que comprende aspectos relativos tanto al resguardo del enfoque de derechos, la seguridad y protección de niños, niñas y jóvenes…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 28; página PDF 28.
+
+44. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia la trayectoria educativa de la trayectoria escolar, según el capítulo?
+A. La educativa abarca solo la enseñanza media; la escolar, todos los aprendizajes a lo largo de toda la vida
+B. Ambas son equivalentes y se refieren al recorrido por los niveles de la enseñanza básica
+C. La educativa se refiere a la repitencia; la escolar, a los aprendizajes fuera del contexto oficial
+D. La educativa abarca todos los aprendizajes en todos los contextos; la escolar, los del sistema escolar
+Respuesta correcta: D
+Explicación: “La trayectoria educativa es el recorrido que realizan las personas para consolidar, fortalecer y transformar sus aprendizajes, incluyendo todos los aprendizajes en todos los contextos posibles (UNICEF, 2019). […] se distingue el concepto de trayectoria escolar, que se refiere a los procesos y resultados de aprendizaje que se van materializando en su avance en este camino (OEI, 2015).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 42; página PDF 42.
+
+45. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuáles son los tres niveles del sistema considerados en el enfoque de aprendizaje profundo?
+A. Individual o personal, grupal o de aula, y familiar o comunitario
+B. Escolar o local, territorial o intermedio, y central o político
+C. Municipal o comunal, regional o provincial, e internacional
+D. Inicial o parvulario, básico o primario, y medio o secundario
+Respuesta correcta: B
+Explicación: “…y 3) tres niveles del sistema (escolar o local, territorial o intermedio y central o político).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+46. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué se entiende por núcleo pedagógico, según el capítulo?
+A. La relación entre directores, sostenedores y el nivel central
+B. La relación entre estudiantes, docentes y objetivos de aprendizaje
+C. La relación entre familias, municipios y organismos de fiscalización
+D. La relación entre presupuesto, infraestructura y equipamiento escolar
+Respuesta correcta: B
+Explicación: “Esta comprensión tiene como foco el núcleo pedagógico, es decir, la relación entre estudiantes, docentes y objetivos de aprendizaje, que debe ser el centro de atención de todos los componentes del sistema (ver figura 3).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Organización y coherencia del sistema; página impresa 34; página PDF 34.
+
+47. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia la perspectiva de gobernanza de Elmore (2010) de la definición de la OCDE (2015) recogidas en el capítulo?
+A. Elmore la entiende como construcción de acuerdos y acciones para la mejora; la OCDE, como distribución de decisiones
+B. Elmore la entiende como distribución de decisiones; la OCDE, como construcción de acuerdos para la mejora educativa local
+C. Elmore la entiende como autonomía total de las escuelas; la OCDE, como centralización de las decisiones
+D. Elmore la entiende como control financiero; la OCDE, como supervisión jerárquica de los establecimientos
+Respuesta correcta: A
+Explicación: “La gobernanza del sistema se refiere a la distribución de las decisiones y ámbitos de responsabilidad entre los niveles y órganos que lo integran (OCDE, 2015) […]. Otra perspectiva, en relación con la gobernanza educativa local, es la que presenta Elmore (2010), entendida como un ejercicio permanente de construcción de acuerdos y desarrollo de acciones movilizadoras para la mejora…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+48. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia el factor “equilibrio entre control y autonomía” del factor “relación colaborativa y de confianza”?
+A. El primero se refiere al presupuesto; el segundo, a la alineación de propósito entre los niveles del sistema
+B. El primero elimina las metas no negociables; el segundo establece sanciones por incumplimiento de metas
+C. El primero construye confianza cotidiana; el segundo articula acompañamiento, monitoreo y metas compartidas
+D. El primero articula acompañamiento, monitoreo y metas compartidas; el segundo construye confianza cotidiana
+Respuesta correcta: D
+Explicación: “2. Equilibrio entre control y autonomía. Se necesita un equilibrio entre acompañamiento y monitoreo […]. Esto conlleva implementar un proceso colaborativo de definición de metas […]. 3. Relación colaborativa y de confianza […] resulta vital construir en el día a día una relación colaborativa y de confianza…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 37; página PDF 37.
+
+49. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo diferencia el Modelo de Desarrollo de Capacidades de la DEP (2022) el apoyo técnico-pedagógico de otras formas de asistencia?
+A. Es fiscalización del cumplimiento curricular y sanción de los establecimientos de bajo desempeño académico
+B. Es traspaso de conocimiento experto desde el SLEP hacia los docentes de cada establecimiento
+C. No es traspaso de conocimiento ni asesoría externa, sino acompañamiento que fortalece capacidades
+D. Es asesoría de un experto externo contratado para resolver problemas puntuales de cada escuela
+Respuesta correcta: C
+Explicación: “La DEP (2022), ha desarrollado un Modelo de Desarrollo de Capacidades para el Apoyo Técnico-Pedagógico, en que se define que dicho apoyo no puede ser visto como el traspaso de conocimiento o la asesoría de un experto externo, sino como un proceso de acompañamiento diseñado para fortalecer las capacidades…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+50. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE los ámbitos de logro del nivel intermedio?
+A. El valor social se relaciona con la satisfacción de necesidades de la comunidad educativa del territorio
+B. La eficacia interna se refleja en los procesos de gestión y en el logro de las metas
+C. La equidad se mide solo por resultados en pruebas, sin considerar clima ni convivencia escolar
+D. La equidad se refleja en el logro de aprendizajes por género y nivel socioeconómico
+Respuesta correcta: C
+Explicación: “Para medir su efecto, también se consideran aspectos del desarrollo social y cultural, como el clima y la convivencia escolar, la participación y formación ciudadana, y la motivación y autoestima académica.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Ámbitos y logros esperados de la gestión y el liderazgo de nivel intermedio; página impresa 40; página PDF 40.
+
+51. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local lanza una estrategia ambiciosa sin considerar las creencias y la cultura de sus equipos, y fracasa. ¿Qué análisis se fundamenta en el capítulo?
+A. Las culturas cambian por instrucción formal, por lo que bastaba con reforzar las normas internas
+B. Ninguna cultura cambia por mandato; deben identificarse creencias y modelarse nuevos valores desde los líderes
+C. La estrategia fracasó por exceso de participación, que debe reducirse para implementar cambios rápidos
+D. El fracaso se explica solo por falta de recursos, pues la cultura no influye en la estrategia institucional del servicio
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…para poner en práctica cualquier nueva estrategia, es necesario identificar las creencias personales y colectivas de la organización para construir una nueva cultura de mejora, ya que ninguna cultura se cambia por mandato, dependiendo fundamentalmente del modelamiento de nuevos valores y comportamientos desde las y los propios líderes…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+52. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un equipo intermedio decide intervenir directamente en las clases de cada escuela, sustituyendo a sus directivos. ¿Qué crítica se apoya en el capítulo?
+A. Su rol es generar condiciones y capacidades, más que intervenir directamente en cada escuela
+B. Su rol es solo administrativo, por lo que no debe relacionarse con los directivos escolares
+C. Es lo adecuado, siempre que la intervención se limite a las escuelas de mayor matrícula
+D. Es lo adecuado, pues el nivel intermedio debe conducir directamente las clases de cada escuela
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En el caso del liderazgo intermedio, tiene el rol de generar condiciones para la mejora del conjunto de establecimientos de su territorio, desarrollando y fortaleciendo capacidades profesionales […], más que intervenir directamente en los procesos educativos de cada escuela o unidad educativa…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+53. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un territorio entrega tabletas a todos los estudiantes, pero los docentes siguen dictando contenidos igual que antes. ¿Qué análisis se fundamenta en el capítulo?
+A. Sin integrar tecnología y pedagogía no hay aprendizaje profundo; pedagogías antiguas no se renuevan con equipos
+B. La pedagogía tradicional es la más adecuada para el uso de dispositivos digitales en el aula
+C. La entrega de equipos asegura por sí sola un aprendizaje significativo, aunque no cambie la pedagogía de los docentes
+D. El problema es la cantidad de dispositivos, que debe aumentarse para lograr la transformación digital
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…el uso de pedagogías antiguas con nuevas tecnologías no permite un aprendizaje significativo. […] Lo digital asumió un papel fundamental, pero es la integración de la tecnología con la pedagogía lo que permite un proceso de aprendizaje más profundo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+54. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Ante cada problema, un servicio local lanza una iniciativa aislada de corto plazo, sin articulación entre ellas. ¿Qué crítica se apoya en la evidencia?
+A. Es la práctica más efectiva, pues las soluciones rápidas resuelven mejor los problemas específicos de cada escuela
+B. Es adecuado, siempre que cada iniciativa tenga un responsable distinto dentro del servicio local
+C. Las estrategias aisladas solo fallan por falta de recursos, no por su falta de articulación
+D. Las estrategias aisladas no son efectivas; se requiere un trabajo coordinado y sistémico a varios plazos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las evidencias nacionales e internacionales levantan una serie de prácticas efectivas […], indican que la implementación de estrategias aisladas para solucionar rápidamente problemas específicos no tiene efectividad y se debe propender a un trabajo coordinado y sistémico en pos de objetivos de corto, mediano y largo plazo…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 41; página PDF 41.
+
+55. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local monitorea a sus escuelas con controles exhaustivos, pero no les ofrece apoyo ni acuerda metas con ellas. ¿Qué análisis se fundamenta en los factores estratégicos?
+A. Falta solo financiamiento, ya que el control y el apoyo no influyen en la mejora escolar
+B. Es lo adecuado, siempre que los controles se realicen con mayor frecuencia en cada escuela
+C. Es lo adecuado, pues el control exhaustivo es el único factor que garantiza la mejora escolar en el territorio
+D. Falta equilibrio entre control y autonomía, con apoyo continuo y metas definidas colaborativamente
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “2. Equilibrio entre control y autonomía. Se necesita un equilibrio entre acompañamiento y monitoreo del trabajo realizado en cada establecimiento educativo del territorio, y apoyarlos continuamente y de manera pertinente. Esto conlleva implementar un proceso colaborativo de definición de metas…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 37; página PDF 37.
+
+56. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] En un territorio nadie sabe quién decide sobre los apoyos pedagógicos ni a quién se rinden cuentas. ¿Qué condición de base está ausente?
+A. Autonomía total de cada escuela para decidir sin coordinarse con el nivel intermedio
+B. Roles claros y definidos, con relaciones precisas sobre quién decide y a quién se rinde cuentas
+C. Capacidades tecnológicas avanzadas para digitalizar todos los procesos del servicio local
+D. Financiamiento adicional para contratar más personal administrativo en cada establecimiento educacional
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Roles claros y definidos. La gestión educacional también pasa por establecer claramente los roles y funciones de los distintos niveles del sistema. Es necesario que exista una definición precisa de las relaciones entre los distintos actores, quién decide y sobre qué temas, a quién se rinde cuentas, cómo se hace, cuándo y por qué.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+57. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Los fondos de un servicio local llegan tarde y se calculan sin considerar el costo real de educar. ¿Qué análisis se fundamenta en el capítulo?
+A. Los montos deben estar disponibles oportunamente y calcularse sobre el costo real de educar a los estudiantes
+B. Los fondos deben calcularse según la asistencia, sin considerar el costo real de la educación
+C. El momento de llegada de los fondos es irrelevante, pues lo importante es su monto total anual asignado por el Estado
+D. La gestión educativa no depende de la disponibilidad ni de la oportunidad de los recursos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Para ello, es necesario que los montos recibidos por la administración de nivel intermedio estén disponibles oportunamente, su gasto responda a prioridades que aseguren condiciones para una buena enseñanza y estén calculados sobre la base del costo real que tiene educar a las y los estudiantes.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+58. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local mantiene durante años un programa costoso sin evaluar su impacto. ¿Qué crítica se apoya en la práctica de información y evidencia para el mejoramiento?
+A. La evidencia no debe influir en la asignación de recursos, que depende de criterios políticos de cada autoridad
+B. Es adecuado mantener los programas, pues evaluarlos genera costos adicionales innecesarios
+C. Evaluar el impacto de los programas y usar sus resultados para decidir continuidad, reorientación y recursos
+D. Basta con la opinión de los directores para decidir la continuidad de los programas vigentes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, resulta pertinente que, a nivel de la gestión educativa local, se desarrollen sistemas para evaluar el impacto de las prácticas y programas implementados a nivel territorial y utilizar los resultados para analizar su continuidad, reorientación y recursos asociados (Santos, 2015).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+59. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local cree que el desarrollo profesional de sus docentes se resuelve solo con cursos externos. ¿Qué crítica se fundamenta en el capítulo?
+A. Es lo correcto, siempre que los cursos externos sean dictados por universidades extranjeras
+B. La profesionalización también se realiza dentro de los centros y en redes orientadas a comunidades de aprendizaje
+C. Es lo correcto, pues los cursos externos son la única vía efectiva de desarrollo profesional docente del territorio
+D. La profesionalización docente no es responsabilidad del nivel intermedio, sino de cada docente
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Es importante considerar que el apoyo a la profesionalización, en el caso de los directivos, educadores/as y docentes no se realiza sólo a través de cursos externos, sino también al interior de los centros educativos y mediante un trabajo de redes orientado a la construcción de comunidades de aprendizaje.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.
+
+60. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local diseña sus programas pensando solo en escuelas urbanas, aunque tiene muchas escuelas rurales multigrado. ¿Qué análisis se apoya en el capítulo?
+A. La ruralidad es irrelevante para la equidad, pues afecta a un porcentaje mínimo de estudiantes
+B. Lo rural no desaparece y ha sido invisibilizado; sus estudiantes requieren las mismas oportunidades de calidad
+C. Es lo adecuado, pues la ruralidad está en desaparición y no requiere estrategias diferenciadas para sus escuelas rurales
+D. Es lo adecuado, siempre que las escuelas rurales adopten los mismos programas que las urbanas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Un 30% de los establecimientos del país corresponde a escuelas rurales, en su mayoría multigrado, con el gran desafío de asegurar que sus estudiantes tengan las mismas oportunidades de acceso a las experiencias de aprendizaje de calidad” (p. 29); “[6] […] lo rural no está desapareciendo, lo que ha sucedido es que ha sido tradicionalmente invisibilizado…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 29; página PDF 29.
+
+61. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al diseñar el apoyo técnico-pedagógico, ¿qué debe considerar un SLEP según el artículo 18 de la Ley 21.040 citado en el capítulo?
+A. Las preferencias del director ejecutivo, sin relación con los planes de mejoramiento de los centros
+B. Los resultados de las pruebas nacionales, como único criterio para definir el apoyo a cada escuela
+C. Un programa único para todas las escuelas, con independencia de los proyectos educativos institucionales de cada una
+D. Las necesidades de cada comunidad, considerando los PEI y los planes de mejoramiento de cada establecimiento
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Promover un enfoque de apoyo implica comprender, desde el nivel intermedio, ‘las necesidades de cada comunidad educativa, para lo cual deberá considerar los contenidos establecidos en los proyectos educativos institucionales y los planes de mejoramiento educativo de cada establecimiento’ (art. 18).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+62. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al fundamentar una política territorial de inclusión, ¿qué cuerpos normativos chilenos identifican, según el capítulo, un modelo que favorece la inclusión?
+A. La Ley de Alta Dirección Pública, la Ley de Presupuesto y la Ley de la Superintendencia de Educación
+B. La Ley de Carrera Docente, la Ley de Subsecretaría Parvularia y la Ley de Aseguramiento de la Calidad
+C. La Ley General de Educación, la Ley de Inclusión Escolar y la ley que crea el Sistema de Educación Pública
+D. La Ley Orgánica Constitucional de Enseñanza, la Ley SEP y la ley de financiamiento compartido de las escuelas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Al analizar los referentes normativos y de política educativa actuales, desde la Ley General de Educación (20.370, 2009), pasando por la Ley de la Inclusión Escolar (20.845, 2015), a la nueva ley que crea el Sistema de Educación Pública (21,040,2017) se identifica un modelo que favorece la inclusión educativa…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 29; página PDF 29.
+
+63. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Según la Ley 21.040 citada en el capítulo, ¿qué función de los SLEP fundamenta que diseñen apoyos para sus establecimientos?
+A. Diseñar y prestar apoyo técnico-pedagógico a los establecimientos bajo su dependencia
+B. Fiscalizar y sancionar a los establecimientos que no cumplen la normativa vigente
+C. Aprobar y financiar los proyectos de infraestructura de los establecimientos privados del territorio
+D. Evaluar y certificar a los docentes de todos los establecimientos del territorio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La Ley N°21.040 señala que, entre las funciones de los Servicios Locales de Educación Pública (SLEP), está el diseñar y prestar apoyo técnico-pedagógico a los establecimientos bajo su dependencia.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+64. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al revisar los procedimientos de un sostenedor, ¿qué destacan los Estándares Indicativos de Desempeño sobre su diseño?
+A. La importancia de que el liderazgo intermedio diseñe procedimientos generales para el buen funcionamiento
+B. La prohibición de que el sostenedor establezca procedimientos comunes para sus establecimientos educacionales
+C. La delegación de todos los procedimientos en la Superintendencia de Educación del país
+D. La obligación de que cada escuela diseñe sus procedimientos sin intervención del sostenedor
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los EID determinan así ‘la importancia de que el liderazgo intermedio diseñe los procedimientos generales para asegurar el buen funcionamiento de los establecimientos a su cargo…’”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 23; página PDF 23.
+
+65. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al iniciar su relación con las escuelas, ¿qué debe definir tempranamente un servicio local, dado que la autonomía es un ámbito de tensión constante?
+A. El listado de sanciones aplicables a las escuelas que excedan su autonomía pedagógica
+B. La supresión de toda autonomía escolar para evitar tensiones con el nivel intermedio
+C. La transferencia total de las decisiones presupuestarias a cada uno de los establecimientos del territorio
+D. Las formas de relación, comunicación y los ámbitos de autonomía entre el nivel intermedio y el micro
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La menor o mayor autonomía educativa, como los temas pedagógicos o presupuestarios, son siempre un ámbito de tensión constante. Por lo tanto, se requiere definir tempranamente las formas de relación, comunicación y los ámbitos de autonomía entre el nivel intermedio y el nivel micro.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+66. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Para ordenar las funciones del sistema, ¿qué revisión plantea el capítulo como necesaria?
+A. Revisar las reglas del sistema regulando las funciones de los niveles central, intermedio y micro
+B. Derogar las reglas del sistema para que cada nivel actúe según su propio criterio y sus propias prioridades
+C. Transferir todas las funciones al nivel micro para fortalecer la autonomía de las escuelas
+D. Concentrar todas las funciones en el nivel central para evitar la superposición de roles
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Por lo tanto, es necesario revisar las reglas en que se basa el sistema educativo, regulando las funciones de cada nivel (central, intermedio y micro), estipulando los roles y ámbitos de acción de cada uno…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+67. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al administrar los recursos recibidos, ¿qué procedimientos debe seguir el nivel intermedio según el capítulo?
+A. Administrarlos según los criterios del director ejecutivo, sin procedimientos formales ni registros
+B. Administrarlos mediante empresas privadas, al margen de la administración pública
+C. Administrarlos de forma reservada, sin rendición de cuentas a ningún organismo
+D. Administrarlos de manera eficiente y siguiendo los procedimientos de la administración pública
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos recursos deben ser administrados de manera eficiente y siguiendo los procedimientos de la administración pública.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+68. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al administrar recursos humanos, económicos y de equipamiento, ¿qué tipo de administración constituye una responsabilidad esencial del nivel intermedio?
+A. Una administración ordenada, transparente y eficiente, al servicio de lo pedagógico y alineada con los planes
+B. Una administración flexible y discrecional, que priorice la infraestructura sobre lo pedagógico
+C. Una administración centralizada y reservada, ajena a los planes de mejoramiento de los establecimientos del territorio
+D. Una administración delegada en cada escuela, sin alineación con los objetivos del territorio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “El manejo de recursos, tanto humanos como económicos y de equipamiento, una administración ordenada, transparente y eficiente, con una gestión de recursos que está al servicio de lo pedagógico y no le reste tiempo a esa tarea, alineando su asignación con los planes de mejoramiento, constituye una responsabilidad esencial del nivel intermedio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.
+
+69. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al diseñar una política territorial, ¿qué instrumentos internacionales menciona el capítulo como base del establecimiento de la educación como derecho?
+A. La Declaración de Incheon (2015) y la Convención contra la Discriminación en la Enseñanza (1960)
+B. La Agenda Educación 2030 (2015) y la Declaración de Jomtien sobre Educación para Todos
+C. La Declaración de los Derechos Humanos (1948) y la Convención de los Derechos del Niño (1990)
+D. La Carta de las Naciones Unidas (1945) y el Pacto de San José de Costa Rica (1969)
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Desde la Declaración de los Derechos Humanos (1948), y más específicamente con la Convención de los Derechos del Niño (1990), diversos cuerpos legales internacionales y nacionales han establecido la educación como un derecho que tiene cada niño y niña desde su nacimiento.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 26; página PDF 26.
+
+70. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al planificar el uso de recursos, ¿qué exige el factor estratégico “disponibilidad y uso de los recursos”?
+A. Financiamiento privado, administración discrecional y ausencia de control sobre los costos
+B. Financiamiento por resultados, administración centralizada y reducción de costos por cada estudiante atendido
+C. Financiamiento anual fijo, administración delegada y sin estimación de costos por estudiante
+D. Financiamiento oportuno, administración ordenada con foco pedagógico y preparación técnica para costear
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Para lograr experiencias exitosas, deben existir mecanismos de financiamiento que aseguren oportunamente los recursos y que sean administrados de forma ordenada y eficiente, con foco en lo pedagógico. La gestión de los recursos requiere una adecuada formación y preparación técnica, para determinar los costos y controlar los recursos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 38; página PDF 38.
+
+71. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un equipo del nivel intermedio inicia su trabajo con un director que desconfía de su presencia. ¿Qué acciones recomienda el capítulo para construir la relación?
+A. Evitar acuerdos formales para mantener flexibilidad y no comprometer al servicio con el director
+B. Limitar el contacto con el director a la entrega de informes escritos sobre el desempeño de la escuela
+C. Acordar límites de rol, expresar expectativas, establecer acuerdos formales y demostrar conocimiento del centro
+D. Imponer su autoridad desde el primer día y exigir al director el cumplimiento inmediato de todas sus instrucciones técnicas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…los equipos del nivel intermedio procuran establecer relaciones de confianza y de aprendizaje profesional con los equipos directivos […], acordando los límites de cada rol y expresando sus expectativas y responsabilidades desde el comienzo, estableciendo acuerdos formales sobre condiciones de trabajo y cumplimiento de objetivos y, finalmente, logrando legitimidad profesional…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 25; página PDF 25.
+
+72. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] En una escuela del territorio, las niñas son orientadas solo hacia carreras “propias de mujeres”. ¿Cómo debe intervenir el liderazgo intermedio según el capítulo?
+A. Respetar la orientación tradicional, pues refleja las preferencias culturales de las familias del territorio
+B. Dejar la orientación vocacional a cada familia, sin intervención del nivel intermedio
+C. Asegurar un enfoque de género que equipare oportunidades sin enmarcar a las personas por su género
+D. Crear programas separados para niñas, con contenidos acordes a los roles tradicionales
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los liderazgos en todos los niveles del sistema, y muy particularmente los líderes intermedios, deben asegurar una educación con enfoque de género. Esto requiere equiparar las oportunidades de desarrollo sin enmarcar a las personas en función de su género.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 27; página PDF 27.
+
+73. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Tras una emergencia, aumenta la incertidumbre y el malestar en estudiantes y docentes de un territorio. ¿Qué rol corresponde al nivel intermedio?
+A. Postergar el trabajo socioemocional hasta recuperar los contenidos curriculares atrasados por la emergencia
+B. Promover enfoques que integren competencias socioemocionales en el quehacer educativo del territorio
+C. Delegar el bienestar en los servicios de salud, sin acciones desde el sistema educativo local
+D. Limitarse a reanudar las clases, pues el bienestar no influye en el aprendizaje escolar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…el nivel educativo intermedio es clave para promover como meta, a nivel de sistema, la promoción de enfoques que permitan integrar competencias socioemocionales en el quehacer educativo del territorio (Cuadros, 2021). Este abordaje es esencial para el logro de una educación integral, especialmente, en un mundo cambiante y en contextos de emergencia…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 28; página PDF 28.
+
+74. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] En un territorio llegan estudiantes de diversas culturas y algunas escuelas los reciben con reticencia. ¿Qué orientación ofrece el capítulo al nivel intermedio?
+A. Dejar que cada escuela decida libremente si los recibe, sin intervención del nivel intermedio
+B. Agruparlos en escuelas específicas para facilitar su adaptación y evitar conflictos culturales en las aulas
+C. Exigirles la adopción inmediata de la cultura local como condición para su permanencia escolar
+D. Promover con fuerza el respeto por la diversidad, reconociéndolos como agentes activos de sus culturas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…habrá que promover, desde todos los niveles del sistema educativo y, por lo tanto, con mucha fuerza desde el nivel intermedio de la Nueva Educación Pública, el respeto por la diversidad de cada estudiante y comunidad, considerando que son agentes activos de sus propias culturas y territorios.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 29; página PDF 29.
+
+75. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local quiere fortalecer la formación ciudadana en sus escuelas. ¿Qué tipo de actividades debe promover según el capítulo?
+A. Actividades diversas y pertinentes a la identidad, necesidades e intereses del territorio
+B. Actividades solo teóricas, limitadas al estudio de la Constitución y las leyes nacionales
+C. Actividades uniformes, idénticas para todas las escuelas del país sin adaptación local
+D. Actividades extracurriculares voluntarias, sin vinculación con el acompañamiento pedagógico
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Desde el liderazgo educativo del nivel intermedio, y en vista de su función de acompañar y apoyar en lo pedagógico a los establecimientos de su dependencia, subyace el objetivo de desarrollar actividades de formación ciudadana, diversas y pertinentes a la identidad, necesidades e intereses del territorio (Raczynski et al., 2019).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 30; página PDF 30.
+
+76. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Varios estudiantes de un territorio interrumpen su escolaridad por inasistencias prolongadas y repitencia. ¿Cómo debe actuar el nivel intermedio según el capítulo?
+A. Derivar a esos estudiantes a programas externos, sin involucrar a los centros ni a las familias
+B. Esperar a que los estudiantes regresen por iniciativa propia, sin acciones del nivel intermedio
+C. Sancionar a las familias por las inasistencias y suspender la matrícula de los estudiantes afectados por esta situación
+D. Trabajar con centros, familias y comunidades e incentivar una experiencia escolar positiva que evite la pérdida
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El nivel intermedio debe garantizar el cumplimiento de las trayectorias educativas: Trabajando junto a los centros educativos, las familias y las comunidades […]. De la misma manera, deben incentivar a los directivos […], a lograr una experiencia escolar positiva que estimule un ambiente atractivo para la formación y el aprendizaje, de tal forma de evitar una baja asistencia, repetición…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 42; página PDF 42.
+
+77. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Las escuelas de un territorio presentan necesidades muy distintas, pero el servicio local les ofrece el mismo apoyo. ¿Qué corrección recomienda el capítulo?
+A. Suspender el apoyo a las escuelas con necesidades complejas, hasta que mejoren por sí mismas
+B. Concentrar el apoyo solo en las escuelas de mejor desempeño, para consolidar sus resultados
+C. Mantener el mismo apoyo para todas, pues la igualdad de trato garantiza la equidad entre las escuelas del territorio
+D. Contar con estrategias diferenciadas según las necesidades de cada unidad, alineadas con objetivos territoriales
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…el nivel intermedio debe generar un sistema de apoyo integrado a la gestión pedagógica de los establecimientos, alineado con los objetivos estratégicos del territorio, así como contar con estrategias diferenciadas de acuerdo con las necesidades de cada unidad educativa…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 42; página PDF 42.
+
+78. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Los directivos de un territorio se quejan de que la carga administrativa les impide la reflexión pedagógica. ¿Qué acción del nivel intermedio recomienda el capítulo?
+A. Reducir los espacios de reflexión para que los directivos dispongan de más tiempo administrativo
+B. Promover relaciones horizontales y espacios de reflexión, esforzándose por liberarlos de carga administrativa
+C. Aumentar los reportes administrativos para controlar mejor el trabajo de los directivos escolares en cada establecimiento
+D. Trasladar la carga administrativa a los docentes de aula, sin cambios en la reflexión pedagógica
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…la importancia de que el liderazgo de nivel intermedio promueva relaciones horizontales, con espacios de reflexión pedagógica al interior de los establecimientos, haciendo un esfuerzo por liberarlos de carga administrativa, generando confianza y colaboración, con un liderazgo distribuido (Honig, 2012).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 42; página PDF 42.
+
+79. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Una red de escuelas pierde dinamismo porque sus participantes se relacionan poco y desconfían. ¿Qué aspecto del funcionamiento de las redes debe fortalecer el nivel intermedio?
+A. El capital social: participación, relaciones y confianza que los agentes mantienen en el tiempo
+B. La estructura jerárquica de la red, designando a un director que controle a los demás
+C. La supervisión externa de la red, para obligar a sus miembros a reunirse periódicamente
+D. El financiamiento de la red, pues su funcionamiento depende solo de los recursos asignados por el servicio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Su funcionamiento depende de la participación, las relaciones y los niveles de confianza que los agentes de la red mantienen a lo largo del tiempo, es decir, de su capital social.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+80. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local implementa una estrategia sin revisar sus avances ni compartir los datos con la comunidad. ¿Qué recomienda la evidencia sobre buenas gestiones?
+A. Reservar los datos al equipo directivo del servicio, para evitar presiones de la comunidad
+B. Monitorear la implementación, revisar progresos y usar los datos con instancias participativas de decisión
+C. Esperar el término del periodo para evaluar los resultados, sin ningún monitoreo durante toda la implementación
+D. Usar los datos solo para informar a la DEP, sin instancias de análisis con la comunidad
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La evidencia existente sobre buenas gestiones educativas desde el nivel intermedio subraya la necesidad de monitorear la implementación de las estrategias educativas, revisar los progresos y resultados, y utilizar los datos para retroalimentar, estableciendo instancias de participación para el análisis y la toma de decisiones…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Sistemas de participación y responsabilidad por los resultados; página impresa 36; página PDF 36.
+
+81. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un nuevo equipo de un servicio local debe definir su primera prioridad. ¿Cuál es, según las prácticas efectivas?
+A. Reducir el número de escuelas para concentrar los recursos en las de mayor matrícula
+B. Contratar consultores externos para elaborar un diagnóstico sin participación de la comunidad educativa
+C. Aplicar pruebas estandarizadas propias para clasificar a las escuelas del territorio
+D. Construir y movilizar una visión compartida para el territorio, con sentido de eficacia colectiva
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Visión estratégica: Una de las primeras prioridades del nivel intermedio es construir y movilizar una visión compartida para el territorio, basada en una concepción ambiciosa del educando que se quiere formar, imprimiéndole un fuerte sentido de eficacia colectiva…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 41; página PDF 41.
+
+82. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Con recursos limitados, un servicio local debe decidir qué intervenciones financiar. ¿Qué criterio fundamental señala el capítulo?
+A. La evidencia, priorizando las estrategias e intervenciones comprobadamente más efectivas
+B. La igualdad de montos, asignando el mismo presupuesto a todas las intervenciones
+C. La antigüedad de los programas, priorizando los que llevan más tiempo en funcionamiento
+D. La preferencia de las autoridades, priorizando las iniciativas de mayor visibilidad pública
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Finalmente, la evidencia debe ser el criterio fundamental para asignar y priorizar los recursos en las estrategias e intervenciones que resulten comprobadamente más efectivas (Valenzuela et al., 2010).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+83. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al acordar metas con sus escuelas, un servicio local debe decidir si hay aspectos innegociables. ¿Qué orientación ofrece el capítulo?
+A. Definir metas colaborativamente, incluyendo algunas no negociables en áreas de impacto pedagógico
+B. Definir solo metas administrativas, evitando las que tienen impacto en lo pedagógico
+C. Imponer todas las metas desde el servicio local, sin proceso colaborativo con las escuelas del territorio
+D. Dejar que cada escuela fije todas sus metas, sin ninguna meta común en áreas estratégicas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Esto conlleva implementar un proceso colaborativo de definición de metas entre las y los líderes intermedios y las unidades educativas, que incluya algunas metas no negociables en áreas estratégicas enfocadas en los aspectos del trabajo educativo que tengan impacto en lo pedagógico…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 37; página PDF 37.
+
+84. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al conformar su equipo de trabajo para un periodo de cambio, ¿qué conocimientos debe exigir un líder intermedio según el capítulo?
+A. Conocimientos administrativos básicos, pues los cambios no requieren capacidades técnicas
+B. Conocimientos exclusivamente educativos, sin necesidad de competencias en gobernanza territorial ni sistémica
+C. Conocimientos técnicos para liderar sistemas complejos, incluidos los educativos y los de gobernanza
+D. Conocimientos exclusivamente jurídicos, para enfrentar los conflictos derivados del cambio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En momentos de cambio para la mejora, las y los líderes educativos del nivel intermedio requieren conformar equipos de trabajo con conocimientos y capacidades técnicas adecuadas para liderar sistemas complejos (Daly y Finnigan, 2016). Las características de la visión territorial-sistémica hacen que sus conocimientos y habilidades no se limitan a temas educativos y deban incluir también los de gobernanza…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+85. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un líder intermedio debe decidir cómo involucrar a la comunidad en las decisiones del territorio. ¿Qué decisión se fundamenta en el capítulo?
+A. Delegar todas las decisiones en las familias, liberando al servicio de su responsabilidad
+B. Definir con claridad estrategias de involucramiento, con espacios de diálogo y deliberación colectiva
+C. Limitar la participación a encuestas anuales de satisfacción, sin deliberación con la comunidad
+D. Concentrar las decisiones en el equipo del servicio, informando a la comunidad solo una vez que han sido adoptadas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La participación local tiene un impacto directo en la relación entre las y los líderes intermedios y la comunidad. Por este motivo, las y los líderes han de definir con claridad las estrategias de involucramiento, con espacios para el diálogo y la deliberación colectiva (Uribe et al., 2017).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Sistemas de participación y responsabilidad por los resultados; página impresa 36; página PDF 36.
+
+86. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al diseñar programas de desarrollo profesional, ¿qué decisión se alinea con el sistema de desarrollo de capacidades?
+A. Fijar expectativas claras y exigentes y diseñar programas según las necesidades de cada establecimiento
+B. Ofrecer un único programa para todo el territorio, sin considerar las necesidades de cada escuela y de su comunidad
+C. Reducir las expectativas sobre el desempeño para evitar tensiones con los profesionales
+D. Dejar el desarrollo profesional a la iniciativa individual, sin programas del nivel intermedio
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, fijar expectativas claras y exigentes respecto del desempeño y la práctica de cada profesional, alineadas con los objetivos educativos definidos para el territorio y, con base a ello, impulsar programas de desarrollo profesional que respondan a las necesidades específicas de cada establecimiento y territorio…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.
+
+87. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al organizar el acompañamiento a las redes de escuelas, ¿qué decisión recomienda el capítulo?
+A. Fijar un único modelo rígido de funcionamiento para todas las redes del territorio
+B. Asignar a un funcionario del servicio la dirección permanente de cada una de las redes
+C. Dejar las redes sin acompañamiento, para que funcionen de manera completamente autónoma y sin orientación
+D. Acompañar con flexibilidad, permitiendo que directivos y profesionales asuman distintos roles en la red
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El acompañamiento, desde el nivel intermedio, debe ser flexible respecto al propósito y funcionamiento de las redes, de modo que tanto los directivos como profesionales que conforman el equipo sostenedor puedan asumir distintos roles para orientar el trabajo hacia el mejoramiento educativo de los centros escolares que participan…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 43; página PDF 43.
+
+88. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Para transformar la inclusión en dimensión esencial de la calidad, ¿qué decisión debe tomar el equipo de liderazgo intermedio?
+A. Limitar la inclusión a la admisión, sin acompañar el ajuste de las prácticas pedagógicas
+B. Dejar que cada establecimiento decida si adopta prácticas inclusivas, sin orientación ni apoyo del servicio local
+C. Abordar el tema con acuerdos y compromisos específicos, orientando y acompañando a los establecimientos
+D. Crear escuelas especiales separadas para atender la diversidad fuera de los establecimientos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En este contexto, es imprescindible que el equipo de liderazgo intermedio aborde el tema a través de acuerdos y compromisos específicos, orientando y acompañando a los establecimientos en la generación de prácticas y lineamientos necesarios, apoyando así el cambio cultural que demanda la inclusión…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 41; página PDF 41.
+
+89. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al planificar el presupuesto, ¿qué debe comprender el nivel intermedio para anticipar montos y tiempos?
+A. Las preferencias personales de los directores sobre el uso de los recursos
+B. Los resultados de otros territorios, para replicar sus montos sin adaptación
+C. La cantidad de reclamos de las familias recibidos durante el año anterior
+D. Las demandas específicas de los establecimientos según sus planes de mejora
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Desde el nivel intermedio, es importante comprender las demandas específicas según planes de mejora, de tal forma de anticipar disponibilidad de montos y tiempos a asignar a partir de ellos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Condiciones de base para la gestión y el liderazgo intermedio; página impresa 39; página PDF 39.
+
+90. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Al definir el foco de las estrategias de apoyo pedagógico, ¿qué objetivo deben perseguir según el capítulo?
+A. Cumplir los trámites administrativos exigidos por los organismos fiscalizadores
+B. Mejorar los aprendizajes y disminuir la brecha entre estudiantes de bajo y buen desempeño
+C. Consolidar los resultados de los mejores estudiantes, sin atender a los rezagados
+D. Mejorar la imagen de los establecimientos y aumentar su matrícula total en el territorio asignado
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Las estrategias de apoyo deben tener un foco claro en la mejora de los aprendizajes, con el objetivo de disminuir la brecha que separa a las y los estudiantes de desempeño deficiente de aquellos y aquellas que tienen buen desempeño…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 42; página PDF 42.
+
+91. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué rol estratégico atribuye el documento al liderazgo educativo intermedio, más allá de la articulación entre niveles?
+A. Administrar exclusivamente los recursos financieros, sin intervenir en la concreción de las políticas
+B. Transmitir sin modificaciones las políticas centrales a cada uno de los establecimientos del territorio asignado
+C. Fiscalizar el cumplimiento normativo de los establecimientos y aplicar las sanciones correspondientes
+D. Generar capacidades y condiciones para concretar las políticas a nivel local, propiciando su coherencia
+Respuesta correcta: D
+Explicación: “En ese sentido, el liderazgo educativo intermedio, como se entiende en este documento, tiene un rol estratégico en el sistema que va más allá de la articulación entre niveles y se constituye como un nivel que genera capacidades y condiciones para concretar las políticas educativas a nivel local, propiciando además coherencia entre las mismas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Redefinición del concepto de nivel educativo intermedio; página impresa 23; página PDF 23.
+
+92. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué capacidad debe tener la gestión educativa desde el nivel intermedio para asegurar oportunidades de aprendizaje de calidad?
+A. Movilizar y articular instituciones y recursos humanos, técnico-educativos, financieros y de información
+B. Reducir el número de instituciones involucradas para simplificar la gestión del territorio
+C. Delegar la gestión de los recursos en los municipios, manteniendo solo funciones de control
+D. Concentrar en el servicio todas las decisiones pedagógicas y financieras de cada establecimiento del territorio
+Respuesta correcta: A
+Explicación: “Para ello, la gestión educativa, desde dicho nivel, debe tener la capacidad de movilizar y articular instituciones y recursos humanos, técnico-educativos, financieros y de información. Esto permite establecer las bases organizacionales y de confianza para asegurar oportunidades educativas y de aprendizaje de calidad…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Antecedentes conceptuales y tendencias educativas para el liderazgo intermedio; página impresa 24; página PDF 24.
+
+93. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿En qué tres áreas fundamentales puede dividirse la labor del nivel intermedio para contribuir a la coherencia del sistema?
+A. Planificar hacia abajo, aislarse lateralmente para proteger su autonomía e ignorar lo que pasa arriba
+B. Fiscalizar hacia abajo, competir lateralmente con otros territorios y obedecer lo que se decide arriba
+C. Liderar y apoyar hacia abajo, conectar y colaborar lateralmente, e influir y aprovechar lo que pasa arriba
+D. Financiar hacia abajo, supervisar lateralmente a otros servicios y reportar hacia arriba los resultados obtenidos
+Respuesta correcta: C
+Explicación: “…la labor del nivel intermedio puede ser dividida en tres áreas fundamentales para contribuir a la coherencia del sistema: 1) liderar y apoyar hacia abajo […]; 2) conectar y colaborar lateralmente para aprender unos de otros […]; y 3) influir y aprovechar lo que pasa arriba…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Organización y coherencia del sistema; página impresa 34; página PDF 34.
+
+94. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué factores que movilizan el cambio permite implementar una visión integradora centrada en el núcleo pedagógico (Quinn et al., 2020)?
+A. Control jerárquico, competencia entre escuelas, políticas diversas y reducción del uso de tecnologías
+B. Selección de estudiantes, supervisión externa, políticas cambiantes y currículo uniforme
+C. Capacidades con foco en resultados, trabajo colaborativo, políticas coherentes y pedagogía digital
+D. Evaluación sancionatoria, trabajo individual, políticas independientes y enseñanza tradicional
+Respuesta correcta: C
+Explicación: “Esta visión integradora permite a las y los líderes implementar combinaciones pertinentes de factores que movilizan el cambio, entre los que se destacan la creación de capacidades con foco en los resultados; el trabajo colaborativo; la implementación de un conjunto de políticas coherentes entre sí y el desarrollo de pedagogía con uso de herramientas digitales…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Organización y coherencia del sistema; página impresa 34; página PDF 34.
+
+95. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué rol se espera de la gobernanza educativa intermedia frente al funcionamiento del sistema educativo?
+A. Un rol pasivo, limitado a observar la fragmentación sin intervenir en el sistema
+B. Un rol fiscalizador, centrado en sancionar a las escuelas que se apartan de la norma vigente del sistema
+C. Un rol de aislamiento, que proteja la autonomía de cada escuela frente al sistema
+D. Un rol activo para lograr mayor cohesión frente a la fragmentación que caracteriza al sistema
+Respuesta correcta: D
+Explicación: “En este sentido, se esperaría un rol activo por lograr una mayor cohesión frente a la fragmentación que caracteriza al funcionamiento del sistema educativo (Tedesco, 2007).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Gobernanza local y autonomía; página impresa 35; página PDF 35.
+
+96. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué carácter tiene el nuevo Sistema de Educación Pública en materia de participación, según la DEP (2021)?
+A. Un carácter privado, en que la participación depende de los aportes de cada familia
+B. Un carácter técnico y centralizado, con participación limitada a las autoridades y funcionarios del sistema
+C. Un carácter consultivo ocasional, sin responsabilidad de la comunidad por los resultados
+D. Un fuerte carácter participativo, fundado en una responsabilidad compartida entre instituciones y actores
+Respuesta correcta: D
+Explicación: “El nuevo Sistema de Educación Pública, entre sus ventajas, características y acentos, tiene un fuerte carácter participativo, fundado en una responsabilidad compartida entre las instituciones del sistema y los distintos actores de la comunidad…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Sistemas de participación y responsabilidad por los resultados; página impresa 36; página PDF 36.
+
+97. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué aporta instalar una cultura de trabajo colaborativo y en red, según el capítulo?
+A. Intercambiar aprendizajes y generar conocimiento contextual que desarrolla capacidades para una mejora sostenible
+B. Reducir costos mediante la fusión de establecimientos y la eliminación de equipos de trabajo
+C. Concentrar el conocimiento en el nivel central, que lo distribuye a cada establecimiento
+D. Uniformar las prácticas de todas las escuelas para facilitar su control y supervisión externa desde el nivel central
+Respuesta correcta: A
+Explicación: “En línea con la participación, se hace necesario instalar una cultura de trabajo colaborativo y en red para facilitar el intercambio y transferencia de aprendizajes y, lo que es más importante, la generación de conocimientos específicos al contexto, contribuyendo así al desarrollo de capacidades […], lo que contribuye al mejoramiento sistémico y sostenible…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Dimensión política educativa – Sistemas de participación y responsabilidad por los resultados; página impresa 36; página PDF 36.
+
+98. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿En qué premisa se basa la importancia de alinear el propósito entre los niveles central, meso y micro?
+A. Que el nivel micro debe subordinarse por completo al central para evitar cualquier contradicción
+B. Que con cierto grado de coherencia institucional es posible impactar en el núcleo pedagógico y los resultados
+C. Que cada nivel debe actuar de forma independiente para lograr mejores resultados en las escuelas
+D. Que la alineación de propósito solo es relevante para la gestión financiera del sistema educativo en su conjunto
+Respuesta correcta: B
+Explicación: “La importancia de conseguir una alineación de propósito entre el nivel central, meso y micro para impulsar procesos de mejora exitosos se basa en la premisa de que, con un cierto grado de coherencia institucional, es posible impactar realmente en el núcleo pedagógico y en los resultados de los establecimientos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Factores estratégicos de los equipos de gestión y liderazgo de nivel intermedio; página impresa 38; página PDF 38.
+
+99. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué roles le permiten al liderazgo intermedio propiciar el aprendizaje profundo en todos los establecimientos de su territorio?
+A. Proveedor de tecnología, gestor de infraestructura y coordinador de transporte escolar
+B. Constructor de cultura, desarrollador de propósito y pertenencia compartidos, y distribuidor del liderazgo
+C. Fiscalizador de resultados, evaluador de docentes y administrador exclusivo del presupuesto anual del territorio
+D. Transmisor de contenidos, supervisor de horarios y responsable de la disciplina escolar
+Respuesta correcta: B
+Explicación: “…el liderazgo educativo del nivel intermedio es clave para propiciar el aprendizaje profundo […], desde su rol como constructor de cultura, y como desarrollador de propósito, entendimiento y pertenencia compartidos […]. También, como distribuidor del liderazgo al permitir el aumento de las capacidades necesarias…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Tendencias educativas para el liderazgo de nivel intermedio; página impresa 31; página PDF 31.
+
+100. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué capacidades basales debe desarrollar el sistema de desarrollo de capacidades, según la DEP (2022)?
+A. Gestión financiera, compras públicas, inventario de bienes y auditoría contable
+B. Control disciplinario, cumplimiento horario, obediencia normativa y liderazgo jerárquico vertical
+C. Reflexión crítica, colaboración profesional, confianza relacional y liderazgo distribuido
+D. Competencia individual, rendimiento en pruebas, selección de alumnos y prestigio escolar
+Respuesta correcta: C
+Explicación: “A través de un trabajo coordinado, se deben desarrollar un conjunto de recursos personales e interpersonales, especialmente, aquellas capacidades basales relativas a la reflexión crítica, la colaboración profesional, la confianza relacional y el liderazgo distribuido (DEP, 2022).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia? – Prácticas efectivas de nivel intermedio; página impresa 44; página PDF 44.

@@ -1,0 +1,995 @@
+# Fuente: ods-2030-c2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Capítulo evaluado: II. Objetivo, enfoques estratégicos, metas e indicadores
+# Páginas: impresas 29 a 56 (PDF 27 a 54)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «II. Objetivo, enfoques estratégicos, metas e indicadores» del documento Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Alcance
+# Sección II completa: objetivo global, enfoques estratégicos, metas 4.1 a 4.7, medios de aplicación 4.a a 4.c e indicadores (párrafos 11 a 76 y sus notas)
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 29–56 = PDF 27–54)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 50 de contenido textual · 50 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo II (párrafos 11 a 76 y sus notas al pie).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: ods-2030-c2
+
+1. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuál es la formulación exacta del objetivo global sobre educación (ODS 4) que encabeza el capítulo II?
+A. Garantizar una educación primaria universal y gratuita y promover oportunidades de alfabetización para todos los adultos del país
+B. Asegurar una educación pertinente y eficiente de calidad y promover oportunidades de empleo productivo para los jóvenes
+C. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+D. Garantizar una educación básica obligatoria y de calidad y promover oportunidades de formación técnica para todos
+Respuesta correcta: C
+Explicación: “Objetivo global: Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 11; página impresa 29; página PDF 27.
+
+2. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 12, ¿qué duración mínima debe tener la educación primaria y secundaria gratuita y financiada con fondos públicos, y cuántos años serán obligatorios?
+A. Al menos 12 años, de los cuales al menos seis de manera obligatoria
+B. Al menos 10 años, de los cuales al menos ocho de forma obligatoria y universal
+C. Al menos 12 años, de los cuales al menos nueve de manera obligatoria
+D. Al menos 9 años, todos ellos de manera obligatoria y gratuita
+Respuesta correcta: C
+Explicación: “…una educación primaria y secundaria inclusiva y equitativa de calidad, que sea gratuita y financiada con fondos públicos, y que dure al menos 12 años, de los cuales al menos nueve de manera obligatoria…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 12; página impresa 29; página PDF 27.
+
+3. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué se deberá promover respecto de la educación preescolar, de acuerdo con los aspectos novedosos del ODS 4 enunciados en el párrafo 12?
+A. Que se imparta la educación preescolar de calidad en el hogar, con apoyo de los servicios de salud
+B. Que se impartan por lo menos dos años de educación preescolar de calidad gratuita y voluntaria
+C. Que se imparta por lo menos un año de preescolar subvencionada para familias pobres
+D. Que se imparta por lo menos un año de educación preescolar de calidad gratuita y obligatoria
+Respuesta correcta: D
+Explicación: “También se deberá promover que se imparta por lo menos un año de educación preescolar de calidad gratuita y obligatoria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 12; página impresa 29; página PDF 27.
+
+4. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuál es el enunciado de la Meta 4.1 del ODS 4?
+A. Asegurar el acceso igualitario de hombres y mujeres a una formación técnica, profesional y superior de calidad
+B. Asegurar que todos accedan a la educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria
+C. Asegurar que todos terminen la primaria y secundaria, gratuita, equitativa y de calidad, con resultados pertinentes
+D. Asegurar que todos los jóvenes y una proporción considerable de adultos estén alfabetizados y sepan aritmética
+Respuesta correcta: C
+Explicación: “Meta 4.1: De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas, Meta 4.1; página impresa 35; página PDF 33.
+
+5. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 29, ¿cuántos niños y adolescentes seguían sin escolarizar en 2013?
+A. Unos 21 millones en edad de primaria y 36 millones en edad del ciclo superior de secundaria
+B. Unos 250 millones en edad de primaria y 124 millones en edad de secundaria completa
+C. Unos 59 millones en edad de primaria y 65 millones en edad del ciclo inicial de secundaria
+D. Unos 65 millones en edad de primaria y 59 millones en edad del ciclo inicial de secundaria
+Respuesta correcta: C
+Explicación: “…en 2013 seguían sin escolarizar unos 59 millones de niños en edad de cursar la escuela primaria y 65 millones de adolescentes en edad de cursar el ciclo inicial de educación secundaria, de los cuales la mayoría sigue siendo de sexo femenino.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 29; página impresa 36; página PDF 34.
+
+6. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] A diferencia de la mayoría de las metas del ODS 4, ¿qué plazo fija la Meta 4.b para aumentar el número de becas disponibles para los países en desarrollo?
+A. Para el año 2025
+B. Antes de 2015
+C. De aquí a 2030
+D. De aquí a 2020
+Respuesta correcta: D
+Explicación: “Meta 4.b: De aquí a 2020, aumentar considerablemente a nivel mundial el número de becas disponibles para los países en desarrollo…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación, Meta 4.b; página impresa 52; página PDF 50.
+
+7. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuántos docentes adicionales se requerirán de aquí a 2030, según el párrafo 71?
+A. 2,5 millones para la primaria universal y 4,0 millones más para el ciclo superior de secundaria
+B. 3,2 millones para la educación preescolar y 5,1 millones más para la educación terciaria
+C. 5,1 millones para la primaria universal y 3,2 millones más para el ciclo inicial de secundaria
+D. 3,2 millones para la primaria universal y 5,1 millones más para el ciclo inicial de secundaria
+Respuesta correcta: D
+Explicación: “De aquí a 2030 se requerirán 3,2 millones de docentes adicionales para lograr la universalidad de la educación primaria y 5,1 millones más en el caso del ciclo inicial de educación secundaria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 71; página impresa 54; página PDF 52.
+
+8. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 58, ¿cuántos adultos (de 15 años y más) no sabían leer ni escribir en 2013 y qué proporción eran mujeres?
+A. 575 millones de adultos, de los cuales un tercio eran mujeres
+B. 250 millones de adultos, de los cuales dos tercios eran mujeres
+C. 757 millones de adultos, de los cuales dos tercios eran mujeres
+D. 757 millones de adultos, de los cuales más de la mitad eran mujeres
+Respuesta correcta: C
+Explicación: “En todo el mundo, en 2013, 757 millones de adultos (de 15 años y más), de los cuales dos tercios eran mujeres, no sabían leer ni escribir.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.6, párr. 58; página impresa 47; página PDF 45.
+
+9. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuáles son los cuatro niveles de indicadores que propone el Marco de Acción?
+A. Globales, temáticos, nacionales y escolares
+B. Mundiales, temáticos, intermedios y finales
+C. Mundiales, sectoriales, regionales y municipales
+D. Mundiales, temáticos, regionales y nacionales
+Respuesta correcta: D
+Explicación: “Se proponen indicadores de cuatro niveles: • mundiales […]; • temáticos […]; • regionales […]; • nacionales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Indicadores, párr. 75; página impresa 56; página PDF 54.
+
+10. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El párrafo 29 señala que por lo menos 250 millones de niños en edad de primaria no alcanzan los niveles mínimos de aprendizaje. ¿Qué dato añade sobre ellos?
+A. Que más del 70 % de ellos viven en zonas afectadas por conflictos armados
+B. Que más del 50 % de ellos nunca han asistido a ningún tipo de institución escolar
+C. Que más del 50 % de ellos han asistido durante al menos cuatro años a la escuela
+D. Que más del 50 % de ellos abandonan la escuela antes de terminar el primer año
+Respuesta correcta: C
+Explicación: “Por lo menos 250 millones de niños en edad de cursar la escuela primaria, de los que más del 50% han asistido durante al menos cuatro años a la escuela, no alcanzan los niveles mínimos de aprendizaje en lectura, escritura o cálculo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 29; página impresa 36; página PDF 34.
+
+11. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según la nota 5, ¿en qué reposa básicamente el aprendizaje a lo largo de la vida?
+A. En la extensión de la escolaridad obligatoria, para niños y jóvenes, en la escuela y luego en la universidad
+B. En la integración de la escuela y la familia, para la primera infancia, en el hogar y la comunidad
+C. En la formación continua para el empleo, para adultos activos, en el lugar de trabajo y en línea
+D. En la integración del aprendizaje y la vida, para todas las edades, en todos los contextos y modalidades
+Respuesta correcta: D
+Explicación: “Básicamente, el aprendizaje a lo largo de la vida reposa en la integración del aprendizaje y la vida, lo que comprende actividades de aprendizaje para personas de todas las edades […], en todos los contextos de la vida […] y mediante diversas modalidades (educación formal, no formal e informal)…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, nota 5 (párr. 15); página impresa 30; página PDF 28.
+
+12. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué supone, como mínimo, la calidad de la educación según el párrafo 14?
+A. Que los alumnos aprueben satisfactoriamente las evaluaciones estandarizadas nacionales e internacionales de rendimiento
+B. Que los alumnos permanezcan en la escuela durante al menos nueve años de educación obligatoria
+C. Que los alumnos dominen competencias de orden superior antes de consolidar la lectura y la escritura
+D. Que los alumnos adquieran competencias básicas de lectura, escritura y cálculo, pilares del aprendizaje futuro
+Respuesta correcta: D
+Explicación: “La calidad de la educación supone, por lo menos, que los alumnos adquieran competencias básicas de lectura, escritura y cálculo, que serán los pilares para el aprendizaje futuro, así como para las competencias de orden superior.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 14; página impresa 30; página PDF 28.
+
+13. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué criterio establece el párrafo 13 para considerar cumplida una meta relativa a la educación?
+A. Que se considerará cumplida cuando la alcance la mayoría de la población escolar
+B. Que se considerará cumplida cuando el promedio nacional supere el umbral fijado
+C. Que nunca deberá considerarse cumplida mientras no haya sido alcanzada por todos
+D. Que se considerará cumplida cuando la alcancen los grupos priorizados por el país
+Respuesta correcta: C
+Explicación: “Una meta relativa a la educación nunca deberá considerarse cumplida mientras no haya sido alcanzada por todos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 13; página impresa 30; página PDF 28.
+
+14. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cómo diferencia el párrafo 54 la paridad de género de la igualdad de género?
+A. La paridad es el objetivo final del ODS 4; la igualdad es solo un indicador intermedio de los progresos
+B. La paridad exige iguales resultados de aprendizaje; la igualdad se limita a igual número de niñas y niños matriculados
+C. La paridad sirve para evaluar progresos; la igualdad, más ambiciosa, exige idénticas oportunidades y beneficios
+D. La paridad y la igualdad son equivalentes, pues ambas se miden por el número de niñas y niños inscritos
+Respuesta correcta: C
+Explicación: “Si bien la paridad de género resulta útil para evaluar los progresos, se necesitan mayores esfuerzos para alcanzar la igualdad. Esto constituye un objetivo más ambicioso, ya que la igualdad supone que todas las niñas y niños, y todas las mujeres y hombres, cuenten con idénticas oportunidades de recibir una educación de alta calidad, alcanzar los mismos niveles de enseñanza y gozar de los mismos beneficios de la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 54; página impresa 44; página PDF 42.
+
+15. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según la nota 7, ¿qué puede abarcar la expresión “aptitudes no cognitivas” empleada en el documento?
+A. Disciplina y obediencia, hábitos de higiene, puntualidad, presentación personal y respeto de las normas
+B. Lectura, escritura y cálculo, aptitudes técnicas y profesionales, manejo de las TIC y conocimientos disciplinares básicos
+C. Memoria y atención, razonamiento lógico, comprensión lectora, cálculo mental y resolución de ejercicios
+D. Pensamiento crítico e innovador, aptitudes inter e intrapersonales, ciudadanía mundial y alfabetización mediática
+Respuesta correcta: D
+Explicación: “…en este documento se utiliza ‘aptitudes no cognitivas’, lo que puede abarcar el pensamiento crítico e innovador, las aptitudes interpersonales, las aptitudes intrapersonales, las aptitudes ligadas a la ciudadanía mundial, la alfabetización mediática e informacional, etc.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, nota 7 (párr. 31); página impresa 36; página PDF 34.
+
+16. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿En qué se sustenta el enfoque actual de la alfabetización que adopta la Meta 4.6?
+A. En la dicotomía entre alfabetismo y analfabetismo, medida por la capacidad de firmar y de leer un texto breve y sencillo
+B. En la acreditación de un número mínimo de años de escolaridad, sin considerar el uso real de las destrezas
+C. En una escala única y universal de competencia, idéntica para todos los contextos y para todas las personas
+D. En una idea de continuidad entre los niveles de competencia, y no en la dicotomía alfabetismo-analfabetismo
+Respuesta correcta: D
+Explicación: “Los principios, estrategias y medidas relativos a esta meta se sustentan en el enfoque actual de la alfabetización, que ya no reposa en una simple dicotomía entre ‘alfabetismo’ y ‘analfabetismo’, sino en una idea de continuidad entre los niveles de competencia.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.6, párr. 59; página impresa 47; página PDF 45.
+
+17. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cómo define la nota 10 la alfabetización?
+A. Como la capacidad de memorizar el alfabeto, las operaciones básicas y las normas de ortografía vigentes
+B. Como la capacidad de identificar, entender, interpretar, crear, comunicar y calcular con materiales escritos
+C. Como la capacidad de leer en voz alta y escribir al dictado textos simples y breves en la lengua oficial del país
+D. Como la capacidad de usar dispositivos digitales para acceder a la información y comunicarse en red
+Respuesta correcta: B
+Explicación: “La alfabetización se define como la capacidad de identificar, entender, interpretar, crear, comunicar y calcular, mediante el uso de materiales escritos e impresos vinculados con distintos contextos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.6, nota 10 (párr. 58); página impresa 47; página PDF 45.
+
+18. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿A qué hace referencia la “preparación para la escuela primaria”, según el párrafo 36?
+A. A la adaptación de la conducta del niño a las normas disciplinarias y a los horarios de la escuela
+B. Al logro de hitos de desarrollo en salud y nutrición, y en lo lingüístico, cognitivo, social y emocional
+C. Al cumplimiento de la edad cronológica mínima establecida por la normativa nacional para la primaria
+D. Al dominio anticipado de la lectura, la escritura y el cálculo antes del ingreso formal al primer grado escolar
+Respuesta correcta: B
+Explicación: “La ‘preparación para la escuela primaria’ hace referencia al logro de hitos en el desarrollo en una serie de ámbitos, incluido un estado satisfactorio de salud y nutrición y un desarrollo lingüístico, cognitivo, social y emocional acorde con la edad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.2, párr. 36; página impresa 39; página PDF 37.
+
+19. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué supone la gratuidad de la educación, según el párrafo 30?
+A. La sustitución de los aportes familiares por donaciones del sector privado y de la cooperación
+B. La reducción de los costes de enseñanza para las familias que acrediten situación de pobreza
+C. La eliminación de las barreras ligadas a los costes de la enseñanza primaria y secundaria
+D. La eliminación del cobro de matrícula, aunque se mantengan otros costes familiares
+Respuesta correcta: C
+Explicación: “La gratuidad de la educación supone la eliminación de las barreras ligadas a los costes de la enseñanza primaria y secundaria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 30; página impresa 36; página PDF 34.
+
+20. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cómo caracteriza la nota 8 a la educación terciaria?
+A. Parte de lo aprendido en secundaria y busca un aprendizaje de alta complejidad y especialización
+B. Corresponde a los niveles CINE 3 y 4, posteriores a la educación secundaria baja obligatoria
+C. Comprende solo la educación universitaria académica, con exclusión de toda la formación profesional avanzada
+D. Se limita a los posgrados de maestría y doctorado, orientados a la investigación científica
+Respuesta correcta: A
+Explicación: “La educación terciaria parte de los conocimientos adquiridos en la educación secundaria y proporciona actividades de aprendizaje en campos especializados. Su objetivo es el aprendizaje a un alto nivel de complejidad y especialización.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.3, nota 8 (párr. 40); página impresa 40; página PDF 38.
+
+21. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Entre las estrategias indicativas de la Meta 4.c, ¿qué se propone de manera expresa respecto de la dirección de las escuelas?
+A. Centralizar la dirección de las escuelas a fin de uniformar la gestión administrativa escolar
+B. Reducir la dirección de las escuelas a fin de transferir sus funciones a los docentes
+C. Fortalecer la dirección de las escuelas a fin de mejorar la enseñanza y el aprendizaje
+D. Evaluar la dirección de las escuelas a fin de sancionar los bajos resultados obtenidos
+Respuesta correcta: C
+Explicación: “• Fortalecer la dirección de las escuelas a fin de mejorar la enseñanza y el aprendizaje.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 74; página impresa 55; página PDF 53.
+
+22. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 73, ¿qué necesitan los docentes para tomar más la iniciativa en su labor?
+A. Autonomía total respecto de los directores y exención de las actividades de formación continua
+B. Mayor control externo sobre su trabajo y evaluaciones periódicas realizadas por los directores
+C. Tiempo y espacio para trabajar con sus colegas y los directores, y aprovechar el desarrollo profesional
+D. Programas cerrados de enseñanza y guías detalladas elaboradas por las autoridades gubernamentales centrales
+Respuesta correcta: C
+Explicación: “Al mismo tiempo, necesitan tiempo y espacio para tomar más la iniciativa de trabajar con sus colegas y los directores de los establecimientos, así como para aprovechar las oportunidades de desarrollo profesional.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 73; página impresa 54; página PDF 52.
+
+23. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Para reforzar la eficiencia y eficacia de la administración escolar, la estrategia de la Meta 4.1 propone ampliar la participación comunitaria. ¿Qué implica esto para un director?
+A. Limitar la participación de la comunidad a actividades festivas y a aportes económicos voluntarios anuales
+B. Incorporar a la comunidad, incluidos los jóvenes y los padres, en la gestión de la Unidad Educativa
+C. Restringir la gestión de la Unidad Educativa al equipo directivo para preservar su eficiencia
+D. Delegar íntegramente la gestión de la Unidad Educativa en la junta de padres y en los estudiantes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Reforzar la eficiencia y eficacia de las instituciones, la administración escolar y la gobernanza ampliando la participación de las comunidades, incluidos los jóvenes y los padres, en la gestión de las escuelas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 34; página impresa 37; página PDF 35.
+
+24. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un director revisa las prácticas de evaluación de su Unidad Educativa. Según las estrategias de la Meta 4.1, ¿cómo deben concebirse las evaluaciones formativas?
+A. Como parte integral de los procesos de enseñanza y aprendizaje, en relación directa con la pedagogía
+B. Como pruebas externas aplicadas al final de cada nivel, independientes de las prácticas pedagógicas
+C. Como actividades opcionales que cada docente aplica cuando dispone de tiempo al final de la gestión
+D. Como instrumentos de calificación trimestral destinados exclusivamente a decidir la promoción escolar
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Diseñar evaluaciones formativas como parte integral de los procesos de enseñanza y aprendizaje en todos los niveles, en relación directa con la pedagogía.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 34; página impresa 38; página PDF 36.
+
+25. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa recibe a varios estudiantes con discapacidad. Según el párrafo 21, ¿qué responsabilidad debe priorizar el director?
+A. Gestionar su derivación a programas especiales externos, en lugar de atenderlos dentro del centro
+B. Prestar especial atención a garantizar su acceso a un aprendizaje de calidad y al logro de buenos resultados
+C. Esperar la elaboración de datos nacionales sobre discapacidad antes de adoptar medidas en el centro
+D. Garantizar su asistencia regular, aunque sin exigir el logro de resultados de aprendizaje comparables a los del resto
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…resulta esencial prestar especial atención a garantizar el acceso de niños, jóvenes y adultos con discapacidad a una educación y aprendizaje de calidad, así como al logro de buenos resultados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Poner de relieve la equidad, la inclusión y la igualdad de género, párr. 21; página impresa 33; página PDF 31.
+
+26. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 27, ¿qué deben garantizar las partes interesadas respecto de los establecimientos educativos?
+A. Que se utilicen como refugios o centros de acopio prioritarios durante las situaciones de conflicto
+B. Que se protejan solo en zonas de conflicto armado, y las demás bajo la normativa ordinaria
+C. Que se cierren preventivamente durante los conflictos para evitar daños a la infraestructura escolar
+D. Que se protejan como zonas de paz exentas de violencia, incluida la violencia por razón de género
+Respuesta correcta: D
+Explicación: “Las partes interesadas deberán hacer todo lo posible para garantizar que se protejan los establecimientos educativos, como zonas de paz exentas de violencia, incluida la violencia por razón de género en la escuela.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 27; página impresa 35; página PDF 33.
+
+27. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un director quiere mejorar el acompañamiento pedagógico a su plantel. ¿Qué estrategia de la Meta 4.c orienta esa responsabilidad?
+A. Aplicar sanciones administrativas a los docentes cuyos estudiantes obtengan bajos resultados de aprendizaje en las pruebas
+B. Limitar la retroalimentación a la evaluación anual de desempeño exigida por la normativa administrativa
+C. Sustituir el acompañamiento por cursos externos obligatorios, sin seguimiento posterior en las aulas
+D. Poner en marcha sistemas eficaces de retroalimentación que respalden la buena enseñanza y el desarrollo docente
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Idear y poner en marcha sistemas eficaces de retroalimentación para respaldar la buena enseñanza y el desarrollo profesional de los docentes, garantizando que la formación repercuta positivamente en la labor de estos últimos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 74; página impresa 55; página PDF 53.
+
+28. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En el nivel inicial, una maestra advierte posibles signos de discapacidad en un niño. Según el párrafo 35, ¿qué valor tiene la AEPI en esta situación?
+A. Permite derivar al niño a un centro especial y liberar a la familia de la responsabilidad de su atención diaria
+B. Permite la detección temprana para que padres, salud y educadores planifiquen intervenciones oportunas
+C. Permite registrar el caso con fines estadísticos, sin que ello implique acciones educativas concretas
+D. Permite postergar toda intervención hasta el ingreso del niño a la primaria, cuando puede evaluarse
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La AEPI también permite detectar de forma temprana discapacidades y el riesgo de que algún niño las sufra, lo que permite a los padres, los proveedores de servicios de salud y los educadores planificar, poner a punto y llevar a la práctica de forma más eficaz intervenciones oportunas…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.2, párr. 35; página impresa 38; página PDF 36.
+
+29. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según las estrategias indicativas de la Meta 4.4, ¿qué requisito se establece para los directores y docentes de los establecimientos de EFTP?
+A. Que sean designados por los empleadores y sindicatos que financian la formación técnica
+B. Que estén calificados o acreditados, incluidos los formadores y las empresas que participan
+C. Que posean título universitario de posgrado en el área técnica que imparten o dirigen
+D. Que provengan del sector productivo, con prescindencia de su formación pedagógica o académica previa
+Respuesta correcta: B
+Explicación: “…y que los directores y docentes de los establecimientos de EFTP, incluidos los formadores y empresas, estén calificados/acreditados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.4, párr. 50; página impresa 43; página PDF 41.
+
+30. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un director debe informar sobre la exclusión escolar en su Unidad Educativa. Conforme al párrafo 19, ¿cómo debe tratar la información?
+A. Reunir y analizar datos desglosados por grupos de población para estimar la marginación y medir avances
+B. Limitarse a contar el número total de inscritos y retirados, sin distinguir características de la población
+C. Reportar solo promedios generales del centro para no estigmatizar a determinados grupos de estudiantes
+D. Esperar que la autoridad nacional recoja los datos, ya que su análisis no compete a la Unidad Educativa
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “A fin de estimar el nivel de marginación en la educación, fijar metas para reducir la desigualdad y medir el progreso hacia el logro de dichas metas, todos los países deberán reunir, analizar y emplear datos desglosados en función de las características específicas de grupos de población determinados…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Poner de relieve la equidad, la inclusión y la igualdad de género, párr. 19; página impresa 33; página PDF 31.
+
+31. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué función atribuye el párrafo 28 a los indicadores intermedios (por ejemplo, para 2020 y 2025)?
+A. Servir como único criterio de financiación internacional para los países menos adelantados
+B. Postergar la evaluación de los avances hasta que concluya el periodo fijado para 2030
+C. Reemplazar las metas mundiales por metas nacionales menos exigentes y más fáciles de cumplir
+D. Paliar la escasa rendición de cuentas que suele asociarse a las metas a más largo plazo
+Respuesta correcta: D
+Explicación: “Los indicadores intermedios son indispensables para paliar la escasa rendición de cuentas que se suele asociar a las metas a más largo plazo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas, párr. 28; página impresa 35; página PDF 33.
+
+32. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cómo deben interpretarse las estrategias indicativas que el Marco describe para cada meta?
+A. Son recomendaciones dirigidas solo a los países en desarrollo con mayores rezagos educativos
+B. Son bastante genéricas y cada gobierno debe adaptarlas a sus contextos y prioridades nacionales
+C. Son prescripciones obligatorias y uniformes que todos los gobiernos deben aplicar sin cambios
+D. Son orientaciones para los organismos internacionales, sin incidencia en las políticas nacionales
+Respuesta correcta: B
+Explicación: “Por otra parte, para cada meta se describen estrategias indicativas específicas. Cabe señalar que dichas estrategias son bastante genéricas y será necesario que cada gobierno las adapte como resulte conveniente, según los distintos contextos y prioridades de los países.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos, párr. 16; página impresa 31; página PDF 29.
+
+33. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Por qué el párrafo 48 advierte sobre un enfoque centrado en gran medida en aptitudes específicas para el trabajo?
+A. Porque aleja a los estudiantes de la educación universitaria, que es la única vía de inserción laboral
+B. Porque reduce la capacidad de los diplomados de adaptarse a las exigencias cambiantes del mercado laboral
+C. Porque eleva excesivamente los costes de la formación técnica para los establecimientos públicos y privados de EFTP
+D. Porque contradice las necesidades de los empleadores, que demandan sobre todo conocimientos teóricos
+Respuesta correcta: B
+Explicación: “Un enfoque centrado en gran medida en aptitudes específicas para el trabajo reduce la capacidad de los diplomados de adaptarse a las exigencias en rápida evolución del mercado laboral.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.4, párr. 48; página impresa 43; página PDF 41.
+
+34. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 54, ¿por qué las políticas contra la desigualdad de género en la educación son más eficaces cuando se integran en medidas más amplias?
+A. Porque esa desigualdad depende sobre todo de la infraestructura escolar y del presupuesto educativo
+B. Porque esa desigualdad afecta solo a las zonas rurales, donde actúan otros sectores del Estado
+C. Porque esa desigualdad se origina exclusivamente en la escuela y debe corregirse siempre desde fuera de ella
+D. Porque esa desigualdad suele reflejar las normas y la discriminación de género imperantes en la sociedad
+Respuesta correcta: D
+Explicación: “La desigualdad de género en la educación suele reflejar las normas y la discriminación en materia de género imperantes en la sociedad en un sentido más amplio, por lo que las políticas orientadas a acabar con dicha desigualdad son más eficaces cuando forman parte de una serie más amplia de medidas encaminadas también a promover la salud, la justicia, la buena gobernanza y la abolición del trabajo infantil.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 54; página impresa 45; página PDF 43.
+
+35. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Por qué la educación en situaciones de emergencia tiene un efecto protector inmediato, según el párrafo 25?
+A. Porque proporciona conocimientos y aptitudes para la supervivencia y apoyo psicosocial a los afectados
+B. Porque permite evacuar con rapidez a la población escolar hacia zonas libres de conflicto
+C. Porque garantiza la entrega de alimentos y medicinas a las familias y comunidades afectadas por la emergencia
+D. Porque asegura la continuidad del calendario escolar oficial y de las evaluaciones previstas
+Respuesta correcta: A
+Explicación: “La educación en las situaciones de emergencia tiene un efecto protector inmediato, ya que proporciona conocimientos y aptitudes para la supervivencia y apoyo psicosocial a los afectados por las crisis.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 25; página impresa 34; página PDF 32.
+
+36. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 71, ¿cuáles son los principales factores que empobrecen la calidad de los resultados del aprendizaje?
+A. La falta o inadecuación del desarrollo profesional continuo y del apoyo docente, y de normas para la profesión
+B. La baja participación de las familias en la escuela y el escaso interés de los estudiantes por aprender
+C. La insuficiencia de infraestructura escolar y de materiales didácticos en las zonas rurales más alejadas del país
+D. El exceso de contenidos en los planes de estudio y la escasa carga horaria destinada a las áreas básicas
+Respuesta correcta: A
+Explicación: “La falta y/o inadecuación de un desarrollo profesional continuo y de apoyo para los docentes, así como de normas nacionales para la profesión docente, son los principales factores que empobrecen la calidad de los resultados del aprendizaje.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 71; página impresa 54; página PDF 52.
+
+37. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué lugar asigna el párrafo 52 a la pobreza entre los factores de exclusión educativa?
+A. Es una barrera ya superada gracias a los programas de transferencia de efectivo
+B. Es un factor secundario frente a la discriminación de género y a la discapacidad
+C. Es una barrera relevante solo en los países de bajos ingresos y en la educación primaria y preescolar
+D. Es aún la mayor barrera a la inclusión en todos los niveles y en todas las regiones del mundo
+Respuesta correcta: D
+Explicación: “La pobreza debe seguir siendo una cuestión prioritaria, ya que es aún la mayor barrera a la inclusión en todos los niveles y en todas las regiones del mundo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 52; página impresa 44; página PDF 42.
+
+38. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué problema identifica el párrafo 61 que justifica asignar una función destacada a la educación para los derechos humanos, la paz y la ciudadanía?
+A. Que los sistemas educativos pocas veces integran plenamente enfoques transformadores de ese tipo
+B. Que los sistemas educativos dedican mucho tiempo a la ciudadanía en desmedro de las ciencias
+C. Que los sistemas educativos han sustituido los contenidos disciplinares por la educación en valores
+D. Que los sistemas educativos ya integran esos enfoques, pero carecen de financiación internacional
+Respuesta correcta: A
+Explicación: “…resulta esencial una educación que contribuya a construir sociedades pacíficas y sostenibles. No obstante, los sistemas educativos pocas veces integran plenamente enfoques transformadores de ese tipo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.7, párr. 61; página impresa 49; página PDF 47.
+
+39. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué efecto atribuye el párrafo 65 a la falta de servicios privados y de acceso a compresas, y a la estigmatización ligada a la menstruación?
+A. Incrementan las tasas de absentismo de las niñas y frenan su rendimiento educativo
+B. Afectan la salud de las niñas, pero no inciden en su asistencia ni en su rendimiento
+C. Reducen la matrícula de las niñas solo en la educación preescolar y primaria
+D. Incrementan la deserción de los varones al generar conflictos de convivencia escolar
+Respuesta correcta: A
+Explicación: “La falta de servicios privados y de acceso a compresas, así como la estigmatización relativa a la higiene cuando las niñas comienzan a menstruar, pueden repercutir negativamente en su educación, debido a que incrementan sus tasas de absentismo y frenan su rendimiento educativo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.a, párr. 65; página impresa 51; página PDF 49.
+
+40. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿En qué cinco criterios se basan los indicadores temáticos del Anexo II, según el párrafo 76?
+A. Pertinencia, exhaustividad, recolección mensual de datos, complejidad técnica y validez estadística
+B. Eficiencia, bajo costo, recolección anual de datos, comparabilidad regional y aprobación ministerial previa
+C. Pertinencia, alineamiento a la meta, recolección periódica de datos, facilidad de comunicación y claridad
+D. Representatividad, neutralidad, recolección censal de datos, confidencialidad y uniformidad mundial
+Respuesta correcta: C
+Explicación: “Se basan en cinco criterios, a saber, pertinencia, alineamiento a los conceptos de la meta, posibilidad de recabar datos de forma periódica (aunque no necesariamente anual) en los países, facilidad de comunicar a un público mundial, y claridad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Indicadores, párr. 76; página impresa 56; página PDF 54.
+
+41. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuál de las siguientes descripciones corresponde a los indicadores temáticos?
+A. Indicadores seleccionados o formulados por cada país para adaptarse a sus sistemas, planes y políticas
+B. Indicadores adicionales para contextos regionales específicos, en conceptos que se prestan menos a comparación global
+C. Conjunto más amplio de indicadores comparables, propuestos por la comunidad educativa, que incluye los mundiales
+D. Pequeño conjunto de indicadores comparables para todos los ODS, liderado por la Comisión de Estadística
+Respuesta correcta: C
+Explicación: “• temáticos: un conjunto más amplio de indicadores comparables en el plano mundial, propuestos por la comunidad educativa para realizar un seguimiento más completo de las metas sobre la educación en los países; entre estos figurarán los indicadores mundiales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Indicadores, párr. 75; página impresa 56; página PDF 54.
+
+42. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El párrafo 33 menciona dos tipos de evaluación como fuentes de información. ¿Qué diferenciación es correcta?
+A. La evaluación formativa o continua se realiza en las aulas; la cumulativa se aplica en distintos niveles
+B. La evaluación formativa es externa y estandarizada; la cumulativa es interna y propia de cada docente
+C. La evaluación formativa mide la gestión directiva; la cumulativa mide el desempeño de los docentes
+D. La evaluación formativa se aplica en distintos niveles; la cumulativa se realiza de forma continua en el aula
+Respuesta correcta: A
+Explicación: “…así como de información obtenida mediante la evaluación formativa o continua (en las aulas) y la evaluación cumulativa en distintos niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 33; página impresa 37; página PDF 35.
+
+43. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El párrafo 17 distingue dos tipos de instrumentos normativos internacionales. ¿Qué clasificación es correcta?
+A. Vinculantes: tratados, convenios, acuerdos y protocolos; de valor político y moral: recomendaciones y declaraciones
+B. Vinculantes: declaraciones y protocolos; de valor político y moral: convenios, acuerdos y recomendaciones
+C. Vinculantes: leyes nacionales y decretos; de valor político y moral: tratados, convenios y acuerdos
+D. Vinculantes: recomendaciones y declaraciones; de valor político y moral: tratados, convenios, acuerdos y demás protocolos
+Respuesta correcta: A
+Explicación: “Los instrumentos jurídicamente vinculantes, como tratados, convenios, acuerdos y protocolos, así como los instrumentos internacionales, como recomendaciones y declaraciones que tienen valor político y moral, han establecido un sólido marco normativo internacional…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Fortalecer las políticas, planes, legislaciones y sistemas, párr. 17; página impresa 31; página PDF 29.
+
+44. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué enunciado corresponde a la Meta 4.4 y la distingue de la Meta 4.3?
+A. Aumentar el número de becas para que estudiantes de países en desarrollo cursen estudios superiores
+B. Asegurar el acceso igualitario de hombres y mujeres a la formación técnica, profesional y superior de buena calidad
+C. Aumentar el número de jóvenes y adultos con competencias para el empleo, el trabajo decente y el emprendimiento
+D. Eliminar las disparidades de género y asegurar el acceso igualitario de las personas vulnerables a la enseñanza
+Respuesta correcta: C
+Explicación: “Meta 4.4: De aquí a 2030, aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas, Meta 4.4; página impresa 42; página PDF 40.
+
+45. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] La nota 6 precisa los primeros nueve años de educación formal. ¿Qué diferenciación entre CINE 1 y CINE 2 es correcta?
+A. CINE 1 es la preescolar, de unos tres años; CINE 2 es la primaria, de unos seis años
+B. CINE 1 es la secundaria baja, de tres años; CINE 2 es la secundaria alta, de tres años
+C. CINE 1 es la primaria, de unos seis años; CINE 2 es la secundaria baja, de unos tres años
+D. CINE 1 es la primaria, de unos nueve años; CINE 2 es la educación terciaria de ciclo corto
+Respuesta correcta: C
+Explicación: “Los primeros nueve años de educación formal, es decir, la duración acumulada de CINE 1 y 2: CINE 1 es el nivel de educación primaria, que suele durar seis años (con variaciones entre los países de entre cuatro y siete años), y CINE 2 corresponde a la educación secundaria baja, que por lo general dura tres años…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, nota 6 (párr. 30); página impresa 36; página PDF 34.
+
+46. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuál de las siguientes caracterizaciones corresponde específicamente a la educación para el desarrollo sostenible (EDS), según la nota 12?
+A. Busca dotar de un conocimiento a fondo de cuestiones mundiales y valores universales como la justicia y la dignidad
+B. Habilita para decidir y actuar responsablemente en favor del medio ambiente y la viabilidad de la economía
+C. Desarrolla aptitudes sociales como la empatía y la resolución de conflictos con personas de otros orígenes
+D. Fomenta capacidades de comportamiento para actuar de forma colaborativa y perseguir el bien colectivo
+Respuesta correcta: B
+Explicación: “La EDS habilita a los educandos para tomar decisiones fundamentadas y adoptar medidas responsables en favor de la integridad del medio ambiente y la viabilidad de la economía.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.7, nota 12 (párr. 62); página impresa 49; página PDF 47.
+
+47. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En el capítulo II, ¿qué metas se agrupan bajo el apartado “Medios de aplicación”?
+A. Las metas 4.1 (primaria), 4.2 (primera infancia) y 4.3 (formación superior)
+B. Las metas 4.a (financiación), 4.b (alianzas) y 4.c (gobernanza educativa)
+C. Las metas 4.5 (equidad), 4.6 (alfabetización) y 4.7 (sostenibilidad)
+D. Las metas 4.a (instalaciones), 4.b (becas) y 4.c (docentes calificados)
+Respuesta correcta: D
+Explicación: “Medios de aplicación. Meta 4.a: Construir y adecuar instalaciones educativas […]. Meta 4.b: […] aumentar considerablemente […] el número de becas […]. Meta 4.c: […] aumentar considerablemente la oferta de docentes calificados…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación, Meta 4.a; página impresa 51; página PDF 49.
+
+48. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Respecto de la disparidad de género en la educación terciaria, ¿qué afirmación diferencia correctamente la situación según los ingresos de los países?
+A. En los países de bajos ingresos las mujeres están más desfavorecidas; en los de altos ingresos, los hombres
+B. En todos los países, sin importar sus ingresos, son siempre las mujeres quienes se encuentran más desfavorecidas
+C. En los países de bajos ingresos los hombres están más desfavorecidos; en los de altos ingresos, las mujeres
+D. En los países de ingresos medios se concentra la desventaja masculina; en los demás, no hay disparidad
+Respuesta correcta: A
+Explicación: “Las mujeres se encuentran en una situación más desfavorecida en los países de bajos ingresos, mientras que en lo países de altos ingresos son los hombres que se encuentran en una situación más desfavorecida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.3, párr. 40; página impresa 40; página PDF 38.
+
+49. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE lo dispuesto en el párrafo 30 sobre la educación primaria y secundaria?
+A. No menos de nueve de los doce años deberán ser obligatorios para todos los niños
+B. Los doce años de enseñanza deberán ser gratuitos, inclusivos y financiados con fondos públicos
+C. Los doce años de enseñanza primaria y secundaria deberán ser obligatorios para todos
+D. Los años obligatorios deberán conducir a resultados del aprendizaje pertinentes
+Respuesta correcta: C
+Explicación: “Se deberá velar por que todos reciban, sin discriminación, 12 años de enseñanza primaria y secundaria gratuita, financiada con fondos públicos, inclusiva, equitativa y de calidad, de los cuales no menos de nueve deberán ser obligatorios y conducir a resultados del aprendizaje pertinentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 30; página impresa 36; página PDF 34.
+
+50. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 15, ¿qué relación existe entre la enseñanza formal y las oportunidades de aprendizaje no formal e informal?
+A. Las no formales e informales son complemento y suplemento de la enseñanza formal
+B. Las no formales e informales son subsidiarias y solo se ofrecen en emergencias
+C. La enseñanza formal es complemento de las no formales en la educación básica
+D. Las no formales e informales sustituyen a la enseñanza formal en toda la etapa adulta
+Respuesta correcta: A
+Explicación: “Como complemento y suplemento de la enseñanza formal, deberán ofrecerse oportunidades amplias y flexibles de aprendizaje a lo largo de la vida por medios no formales, con recursos y mecanismos adecuados, y mediante un aprendizaje informal estimulante…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Objetivo global, párr. 15; página impresa 30; página PDF 28.
+
+51. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa amplió su cobertura, pero las clases siguen siendo expositivas y centradas en la copia. ¿Qué análisis se fundamenta en el párrafo 22?
+A. La enseñanza expositiva es la más eficaz para atender a grupos numerosos tras ampliar la cobertura
+B. La calidad pedagógica solo puede mejorarse cuando la cobertura alcance a toda la población escolar
+C. La ampliación del acceso basta para cumplir el ODS 4, por lo que los métodos de enseñanza son una cuestión menor
+D. La ampliación del acceso debe ir con enfoques centrados en el educando, dinámicos y de colaboración
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La ampliación del acceso debe ir de la mano de medidas para mejorar la calidad y la pertinencia de la educación y el aprendizaje. […] los docentes y educadores competentes, en cantidad suficiente, deberán aplicar enfoques pedagógicos centrados en el educando, dinámicos y de colaboración…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Centrarse en la calidad y el aprendizaje, párr. 22; página impresa 33; página PDF 31.
+
+52. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Ante la falta de maestros, una autoridad propone contratar personal sin formación pedagógica como solución permanente. ¿Qué valoración crítica se apoya en el párrafo 71?
+A. Es una medida adecuada, pues el párrafo 71 prioriza la cantidad de docentes sobre su calificación profesional
+B. Es una medida neutra, ya que la calificación docente no incide en los resultados del aprendizaje
+C. Bajar el nivel ante la escasez ha intensificado la presencia de personal no calificado en las aulas
+D. Es una medida recomendada, siempre que el personal contratado tenga experiencia laboral previa
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Las decisiones del pasado de bajar el nivel cuando había escasez de docentes han contribuido a intensificar una tendencia a tener en las aulas a personal no calificado y sin la preparación necesaria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 71; página impresa 54; página PDF 52.
+
+53. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una dirección distrital declara cumplida la igualdad de género porque matricula igual número de niñas y niños. ¿Qué crítica se fundamenta en el párrafo 54?
+A. Es correcta, pues el documento define la igualdad de género como igual número de niñas y niños matriculados
+B. Confunde paridad con igualdad, que exige idénticas oportunidades, niveles alcanzados y beneficios
+C. Confunde igualdad con equidad, que exige matricular más niñas que niños en todos los niveles
+D. Es correcta, siempre que la paridad se mantenga durante al menos dos gestiones consecutivas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Si bien la paridad de género resulta útil para evaluar los progresos, se necesitan mayores esfuerzos para alcanzar la igualdad. Esto constituye un objetivo más ambicioso, ya que la igualdad supone que todas las niñas y niños, y todas las mujeres y hombres, cuenten con idénticas oportunidades…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 54; página impresa 44; página PDF 42.
+
+54. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El plan de estudios técnico de una Unidad Educativa se limita a destrezas operativas de un oficio. ¿Qué análisis crítico es pertinente según el párrafo 48?
+A. Es adecuado, pues la EFTP debe concentrarse exclusivamente en las aptitudes específicas del oficio
+B. Es adecuado, siempre que la Unidad Educativa garantice el empleo inmediato de todos sus egresados
+C. Debe suprimir la formación técnica y sustituirla por contenidos académicos de preparación universitaria
+D. Debe incluir aptitudes transferibles de alto nivel, como resolución de problemas y trabajo en equipo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…más allá de dominar dichas aptitudes, es preciso hacer hincapié en el desarrollo de aptitudes cognitivas y no cognitivas/transferibles de alto nivel, como la resolución de problemas, el pensamiento crítico, la creatividad, el trabajo en equipo, las competencias de comunicación y la resolución de conflictos…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.4, párr. 48; página impresa 43; página PDF 41.
+
+55. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un programa de alfabetización para adultos quechuahablantes se imparte solo en castellano, con cartillas uniformes. ¿Qué crítica se fundamenta en el párrafo 59?
+A. Es adecuado, siempre que las cartillas incluyan ilustraciones de la cultura local de los educandos
+B. Desatiende el idioma materno; los programas deberían ser bilingües, interculturales y adaptados al contexto
+C. Es adecuado, pues la alfabetización debe realizarse siempre en la lengua oficial de mayor difusión
+D. Desatiende la tecnología; el único cambio necesario es reemplazar las cartillas por teléfonos móviles inteligentes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Se deberá prestar una atención particular a la importancia del idioma materno de los educandos en la alfabetización y el aprendizaje. Los programas y metodologías de alfabetización deberán corresponder a las necesidades y situaciones de los educandos, entre otras cosas poniendo en marcha programas de alfabetización bilingües e interculturales adaptados al contexto…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.6, párr. 59; página impresa 47; página PDF 45.
+
+56. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El sistema de evaluación de una Unidad Educativa mide únicamente conocimientos memorizados. ¿Qué limitación revela según el párrafo 22?
+A. Omite la evaluación externa, que debe sustituir por completo a la evaluación de los docentes
+B. Omite los resultados del aprendizaje no cognitivos, que deben definirse y evaluarse continuamente
+C. Ninguna, pues el párrafo 22 limita la evaluación a los conocimientos disciplinares memorizados por el alumno
+D. Omite la evaluación de la infraestructura, que es el único insumo relevante para la calidad
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Será necesario definir claramente los resultados pertinentes del aprendizaje en los campos cognitivo y no cognitivo, y evaluarlos continuamente como parte elemental del proceso de enseñanza y aprendizaje.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Centrarse en la calidad y el aprendizaje, párr. 22; página impresa 33; página PDF 31.
+
+57. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un plan institucional fija metas solo para 2030, sin hitos intermedios ni proceso participativo. ¿Qué debilidad identifica el párrafo 28?
+A. Carece de indicadores intermedios y de un proceso inclusivo que asegure rendición de cuentas
+B. Carece de metas más ambiciosas, ya que deberían fijarse para 2040 y no para 2030
+C. Carece de aprobación internacional, requisito previo para toda meta institucional
+D. Ninguna, pues el párrafo 28 desaconseja fijar hitos antes de la fecha final establecida para las metas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Para ello es necesario establecer indicadores intermedios adecuados (por ejemplo, para 2020 y 2025) mediante un proceso inclusivo de total transparencia y real rendición de cuentas, en el que participen todos los asociados […]. Los indicadores intermedios son indispensables para paliar la escasa rendición de cuentas…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas, párr. 28; página impresa 35; página PDF 33.
+
+58. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa celebra el aumento de su matrícula, aunque muchos estudiantes de familias pobres abandonan a mitad de gestión. ¿Qué análisis se apoya en el párrafo 18?
+A. Los sistemas deben llegar a los excluidos y también atraerlos y retenerlos, no solo matricularlos
+B. El abandono es ajeno a la escuela, pues el párrafo 18 solo exige ampliar la matrícula inicial
+C. La matrícula es el único indicador de eficacia que exige el párrafo 18 a los sistemas educativos nacionales
+D. El abandono debe aceptarse como costo inevitable de toda ampliación rápida de la cobertura
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En la ejecución de la nueva agenda deberá darse gran importancia a la eficiencia, la eficacia y la equidad de los sistemas educativos. Estos últimos deberán llegar a las personas actualmente excluidas o que corren el riesgo de resultar marginadas, y también atraerlas y retenerlas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Fortalecer las políticas, planes, legislaciones y sistemas, párr. 18; página impresa 31; página PDF 29.
+
+59. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En una Unidad Educativa los baños son compartidos, no tienen privacidad y las adolescentes faltan varios días al mes. ¿Qué análisis se fundamenta en los párrafos 65 y 66?
+A. El problema es menor, pues el párrafo 66 no exige servicios sanitarios separados por sexo en las escuelas
+B. La falta de servicios privados y separados incrementa el absentismo de las niñas y frena su rendimiento
+C. La solución es reducir la exigencia académica de las niñas durante los días de inasistencia
+D. Las inasistencias responden a decisiones familiares y no guardan relación con las instalaciones
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La falta de servicios privados y de acceso a compresas […] pueden repercutir negativamente en su educación, debido a que incrementan sus tasas de absentismo y frenan su rendimiento educativo.” (párr. 65); “…servicios separados para hombres y mujeres que estén en buen estado y sean accesibles…” (párr. 66)
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.a, párr. 65; página impresa 51; página PDF 49 / Medios de aplicación – Meta 4.a, párr. 66; página impresa 52; página PDF 50.
+
+60. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una institución adjudica becas sin convocatoria pública y favorece a hijos de funcionarios. ¿Qué valoración crítica corresponde según el párrafo 68?
+A. Las becas deben adjudicarse por sorteo entre todos los estudiantes, sin otro criterio
+B. Es válido, pues las becas premian la trayectoria institucional de las familias postulantes
+C. Es válido, siempre que los beneficiarios estudien carreras de ciencias o tecnología
+D. Las becas deben destinarse con total transparencia a jóvenes de medios desfavorecidos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “De conformidad con la importancia que tienen para el ODS 4-Educación 2030 la equidad, la inclusión y la calidad, las becas deberán destinarse, con total transparencia, a jóvenes de medios desfavorecidos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.b, párr. 68; página impresa 53; página PDF 51.
+
+61. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa fiscal exige a las familias el pago de materiales y cuotas para inscribir a sus hijos en primaria. ¿Qué disposición del párrafo 30 se ve afectada?
+A. Que la gratuidad se aplica únicamente a las familias que acrediten pobreza extrema ante la escuela
+B. Que la gratuidad se limita a la matrícula y permite cobrar materiales con autorización previa de los padres de familia
+C. Que la gratuidad corresponde solo a la secundaria, mientras la primaria admite aportes familiares
+D. Que la gratuidad supone eliminar las barreras ligadas a los costes de la enseñanza primaria y secundaria
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La gratuidad de la educación supone la eliminación de las barreras ligadas a los costes de la enseñanza primaria y secundaria.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 30; página impresa 36; página PDF 34.
+
+62. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En una comunidad donde los niños hablan aimara en casa, ¿qué orientación de las estrategias de la Meta 4.1 debe aplicarse?
+A. Promover la primera lengua solo como asignatura optativa, fuera del horario regular de enseñanza
+B. Promover la educación bilingüe y plurilingüe, comenzando con el aprendizaje temprano en la primera lengua
+C. Promover una lengua extranjera como primera lengua de enseñanza, por la creciente interdependencia
+D. Promover la enseñanza exclusiva en la lengua oficial desde el primer grado para acelerar la integración social
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• En los contextos plurilingües, promover la educación bilingüe y plurilingüe, comenzando con el aprendizaje temprano en la primera lengua de los niños o la hablada en casa.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 34; página impresa 38; página PDF 36.
+
+63. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Se denuncia que un grupo armado intenta reclutar estudiantes en la ruta hacia la escuela. ¿Qué disposición del párrafo 27 se aplica?
+A. Las escuelas deben suspender sus actividades hasta que las autoridades restablezcan el orden público en la zona
+B. Las escuelas y sus rutas de acceso deben mantenerse libres de ataques, reclutamientos forzosos y secuestros
+C. Las escuelas deben coordinar con el grupo armado para garantizar la seguridad de los estudiantes
+D. Las escuelas deben protegerse, aunque sus rutas de acceso quedan fuera del ámbito de protección escolar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Las escuelas y establecimientos educativos, así como sus rutas de acceso, deben mantenerse libres de ataques, reclutamientos forzosos, secuestros y violencia sexual.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 27; página impresa 35; página PDF 33.
+
+64. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un joven que aprendió carpintería trabajando solicita que sus saberes se consideren en su formación. ¿Qué disposición del párrafo 23 es aplicable?
+A. La obligación de cursar nuevamente toda la formación formal, sin considerar los saberes previos
+B. El reconocimiento de saberes previos solo cuando provienen de instituciones privadas acreditadas
+C. El reconocimiento, acreditación y convalidación de lo adquirido en la educación no formal e informal
+D. La exclusión de los saberes adquiridos en el trabajo, por no estar vinculados a un plan de estudios oficial
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Esto requiere […] un fortalecimiento de los vínculos entre las estructuras formales y no formales; y el reconocimiento, acreditación y convalidación de los conocimientos, las aptitudes y las competencias adquiridos en la educación no formal e informal.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Promover el aprendizaje a lo largo de la vida, párr. 23; página impresa 33; página PDF 31.
+
+65. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Varios adolescentes de 15 años nunca terminaron la primaria. ¿Qué estrategia de la Meta 4.1 debe aplicarse?
+A. Ofrecerles cursos libres sin acreditación estatal, para no interferir con la enseñanza formal regular
+B. Ofrecer modalidades alternativas y programas de equivalencia y transición reconocidos por el Estado
+C. Inscribirlos obligatoriamente en primer grado de primaria junto con los niños de seis años de edad
+D. Derivarlos directamente al mercado laboral, pues ya superaron la edad de escolarización obligatoria
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Ofrecer modalidades alternativas de aprendizaje y educación para niños y adolescentes que no estén escolarizados ni en la enseñanza primaria ni secundaria, y crear programas de equivalencia y transición, reconocidos y acreditados por el Estado…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 34; página impresa 38; página PDF 36.
+
+66. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una dirección distrital elabora su plan de educación en emergencias. ¿Qué referentes deben guiar la planificación según el párrafo 26?
+A. Los protocolos de seguridad militar y las directrices de los organismos de defensa nacional del país
+B. Los principios de prevención, preparación y respuesta, y directrices como las Normas Mínimas de la INEE
+C. Las normas de construcción civil vigentes, que sustituyen a cualquier otra directriz educativa internacional
+D. Los principios de reacción posterior al desastre, sin acciones previas de anticipación de los riesgos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los principios de prevención, preparación y respuesta, y las directrices establecidas internacionalmente, como las Normas Mínimas de la Red Interinstitucional para la Educación en Situaciones de Emergencia (INEE), deberán guiar la planificación y la respuesta.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 26; página impresa 34; página PDF 32.
+
+67. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al revisar una política salarial docente, ¿qué estándar fija la estrategia de la Meta 4.c para los sueldos de docentes y demás personal educativo?
+A. Que sean inferiores a otros puestos, compensados con estabilidad laboral y vacaciones más extensas
+B. Que dependan de los aportes de las familias y de los recursos propios generados por la escuela
+C. Que se fijen según los resultados de sus estudiantes en las evaluaciones nacionales de logro
+D. Que sean por lo menos comparables a los de otros puestos que requieren calificaciones similares
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…asegurando que los sueldos de los docentes y demás personal educativo sean por lo menos comparables a los que se pagan en otros puestos que requieren calificaciones similares o equivalentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 74; página impresa 55; página PDF 53.
+
+68. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En los textos escolares se detectan imágenes que asignan las tareas domésticas solo a las mujeres. ¿Qué estrategia de la Meta 4.5 debe aplicarse?
+A. Mantener los textos, pues reflejan la realidad cultural de las familias y no afectan el aprendizaje
+B. Examinar planes de estudio y libros de texto para garantizar que estén exentos de estereotipos de género
+C. Añadir una nota aclaratoria al final de cada libro sin modificar las imágenes ni los contenidos
+D. Retirar los textos de forma inmediata y suprimir el uso de libros impresos en las aulas de la Unidad Educativa
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Asegurar que los gobiernos examinen los planes sectoriales de la educación, los presupuestos, los planes de estudio y los libros de texto, así como la formación y supervisión de los docentes, a fin de garantizar que estén exentos de estereotipos de género…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 57; página impresa 46; página PDF 44.
+
+69. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un municipio diseña un plan de educación para adultos. ¿Qué enfoque exige el párrafo 24?
+A. Intersectorial, con políticas de educación, empleo, familia, migración, bienestar social y financiación
+B. Sectorial y exclusivo del sistema educativo, sin coordinación con otras áreas de la gestión pública
+C. Voluntario, basado en iniciativas privadas sin ninguna participación del Estado ni de la financiación pública
+D. Asistencial, centrado en la entrega de bonos a los adultos que asistan a cursos de alfabetización
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Deberán aplicarse enfoques intersectoriales que abarquen políticas sobre educación, ciencias y tecnología, familia, empleo, desarrollo industrial y económico, migración e integración, ciudadanía, bienestar social y financiación pública.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Promover el aprendizaje a lo largo de la vida, párr. 24; página impresa 34; página PDF 32.
+
+70. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una autoridad educativa prepara una reforma del escalafón docente. ¿Qué estrategia de la Meta 4.c debe observar respecto de las organizaciones de docentes?
+A. Un diálogo social institucionalizado para que participen en formular, aplicar y evaluar la política
+B. Un diálogo limitado a la etapa de ejecución, una vez definida la política por las autoridades
+C. La exclusión de las organizaciones docentes para garantizar la neutralidad técnica de la reforma
+D. Una consulta informativa posterior a la aprobación, sin incidencia real en el contenido de la reforma
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Crear o reforzar mecanismos para un diálogo social institucionalizado con docentes y sus organizaciones representativas, velando por que participen de lleno en la formulación, aplicación, seguimiento y evaluación de la política educativa.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 74; página impresa 55; página PDF 53.
+
+71. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una estudiante denuncia acoso sexual por parte de compañeros. ¿Qué respuesta institucional es coherente con el párrafo 55?
+A. Trasladar a la estudiante a otro curso para evitar el contacto, sin adoptar medidas con los agresores
+B. Esperar la denuncia formal de la familia antes de que la Unidad Educativa adopte cualquier medida
+C. Aplicar políticas contra toda forma de violencia y acoso sexual y por razones de género en la escuela
+D. Tratar el caso como un conflicto menor entre estudiantes y resolverlo solo mediante una conciliación verbal
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Se deberán adoptar medidas especiales para velar por la seguridad personal de las niñas y las mujeres en los establecimientos de enseñanza […], así como para eliminar la violencia por motivo de género en las escuelas, aplicando políticas contra toda forma de violencia y acoso sexual y por razones de género.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 55; página impresa 45; página PDF 43.
+
+72. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una adolescente que dejó la escuela por un embarazo desea retomar sus estudios. ¿Qué tipo de medida, prevista en el párrafo 19, corresponde aplicar?
+A. La reincorporación condicionada a que no asista con su hijo ni solicite permisos
+B. Programas de segunda oportunidad y reinserción que le permitan continuar su educación
+C. La derivación definitiva a cursos libres sin acreditación, fuera del sistema educativo
+D. La postergación de su reincorporación hasta que el niño alcance la edad preescolar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre las políticas y estrategias basadas en evidencia para hacer frente a la exclusión podrían figurar […] programas de segunda oportunidad y reinserción…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Poner de relieve la equidad, la inclusión y la igualdad de género, párr. 19; página impresa 32; página PDF 30.
+
+73. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Familias rurales retiran a sus hijos porque no pueden costear transporte ni alimentación. ¿Qué medidas del párrafo 19 pueden orientar la respuesta?
+A. Eliminar obstáculos financieros con transferencias, comidas escolares y servicios de transporte
+B. Reubicar a los niños en internados urbanos sin consultar previamente a sus familias de origen
+C. Reducir los contenidos del plan de estudios para que los niños aprendan en menos días de clase
+D. Flexibilizar la asistencia obligatoria para que los niños acudan solo cuando la familia pueda costearlo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la eliminación de los obstáculos financieros mediante, por ejemplo, programas de transferencia de efectivo; comidas en las escuelas y servicios de nutrición y salud; materiales de aprendizaje y enseñanza y servicios de transporte…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Poner de relieve la equidad, la inclusión y la igualdad de género, párr. 19; página impresa 32; página PDF 30.
+
+74. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una riada destruyó parte de la infraestructura de una Unidad Educativa. Al planificar la rehabilitación, ¿qué criterio del párrafo 26 debe orientar al equipo directivo?
+A. Postergar la reconstrucción hasta que pase la temporada de lluvias de los próximos cinco años
+B. Reponer la infraestructura exactamente como estaba, para no generar gastos adicionales imprevistos al Estado
+C. “Reconstruir” mejor, procurando crear entornos educativos más seguros y equitativos que los anteriores
+D. Trasladar la Unidad Educativa a otra zona sin evaluar los riesgos ni consultar a la comunidad
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Es necesario contar con respuestas y sistemas nacionales, regionales y mundiales bien coordinados para prepararse para las emergencias y responder a ellas, así como para poder ‘reconstruir’ mejor, procurando crear sistemas educativos más seguros y equitativos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 26; página impresa 34; página PDF 32.
+
+75. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un grupo de docentes veteranos se muestra reticente a una nueva propuesta pedagógica. ¿Qué enfoque directivo se fundamenta en el párrafo 73?
+A. Confiar en su apertura al cambio y darles tiempo y espacio para trabajar con colegas y el director
+B. Desistir de la propuesta, pues los docentes con mayor experiencia no están dispuestos a aprender
+C. Imponer la propuesta mediante memorándum y sancionar a quienes no la apliquen de forma inmediata
+D. Excluir a los docentes veteranos de la propuesta y encargarla solo a los docentes recién titulados del centro
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Existen pruebas fehacientes de que los docentes están abiertos al cambio y dispuestos a aprender y crecer a lo largo de sus carreras. Al mismo tiempo, necesitan tiempo y espacio para tomar más la iniciativa de trabajar con sus colegas y los directores…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 73; página impresa 54; página PDF 52.
+
+76. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Las niñas de una comunidad dispersa recorren a pie un trayecto peligroso hasta la escuela. ¿Qué medida es coherente con el párrafo 20?
+A. Aplicar medidas especiales para la seguridad personal de las niñas en el trayecto entre hogar y escuela
+B. Recomendar a las familias que las niñas dejen de asistir hasta que mejoren las condiciones de seguridad del camino
+C. Limitar la responsabilidad de la escuela al interior del establecimiento, excluyendo el trayecto
+D. Adelantar la salida de las niñas sin coordinar acompañamiento ni otras medidas con la comunidad
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Deberán aplicarse medidas especiales para velar por la seguridad personal de las niñas y las mujeres en los establecimientos educativos y el trayecto del hogar a la escuela y viceversa, en todas las situaciones…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Poner de relieve la equidad, la inclusión y la igualdad de género, párr. 20; página impresa 32; página PDF 30.
+
+77. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un diagnóstico revela que estudiantes de quinto de primaria no leen comprensivamente. ¿Qué meta del párrafo 31 debe orientar el plan de mejora?
+A. Que todos reciban más contenidos disciplinares, postergando la lectura comprensiva para la educación secundaria
+B. Que todos repitan el año escolar completo hasta que superen una prueba estandarizada de lectura
+C. Que todos avancen de grado de manera automática, aunque no consoliden la lectura ni la escritura
+D. Que todos sienten las bases de lectura, escritura y cálculo y logren los resultados de los planes oficiales
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Una vez terminado el ciclo completo de educación primaria y secundaria, todos los niños deberán haber sentado las bases que representan las competencias básicas de lectura, escritura y cálculo, y haber obtenido una serie de resultados pertinentes del aprendizaje definidos en los planes de estudio y normas oficiales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 31; página impresa 36; página PDF 34.
+
+78. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Los egresados de la formación técnica de una Unidad Educativa no encuentran empleo y se desconoce por qué. ¿Qué acción se fundamenta en el párrafo 49?
+A. Reunir datos sobre la transición al mundo laboral y las oportunidades de empleo de los diplomados
+B. Atribuir el problema a los egresados y reforzar la disciplina y el control en los cursos técnicos existentes
+C. Suprimir la formación técnica, pues su falta de resultados demuestra que carece de pertinencia
+D. Mantener la oferta técnica sin cambios, ya que el empleo de egresados no compete a la escuela
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Resulta crucial evaluar las repercusiones y los resultados de las políticas y programas educativos de EFTP y reunir datos sobre la transición del aprendizaje al mundo laboral, así como sobre las oportunidades de empleo de los diplomados, prestando atención a la disparidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.4, párr. 49; página impresa 43; página PDF 41.
+
+79. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Llegan a una Unidad Educativa niños de familias desplazadas por un desastre en otra región. ¿Qué principio del párrafo 56 debe guiar la respuesta?
+A. Mantener su educación y satisfacer las necesidades educativas de los desplazados internos
+B. Derivarlos a su región de origen, donde deben continuar sus estudios una vez superada la crisis
+C. Admitirlos como oyentes, sin registro oficial ni evaluación, hasta que regularicen documentos
+D. Inscribirlos solo al inicio de la siguiente gestión para no alterar el calendario
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Es crucial mantener la educación durante las situaciones de emergencia, conflicto y posteriores a conflictos y desastres, y satisfacer las necesidades educativas de los desplazados internos y los refugiados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 56; página impresa 45; página PDF 43.
+
+80. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Madres y padres de la comunidad, de edad avanzada, consultan al director si aún pueden acceder a estudios universitarios. ¿Qué orientación se fundamenta en el párrafo 44?
+A. Que el acceso de adultos mayores depende exclusivamente de becas internacionales de la Meta 4.b
+B. Que los adultos mayores solo pueden acceder a cursos recreativos no reconocidos académicamente
+C. Que la universidad está reservada a quienes egresan de la secundaria en la edad oficialmente correspondiente
+D. Que deben crearse oportunidades equitativas de acceso a la universidad para los adultos mayores
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es preciso crear oportunidades equitativas de acceso a las universidades para los adultos mayores, prestando una atención particular a los grupos vulnerables.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.3, párr. 44; página impresa 41; página PDF 39.
+
+81. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Para un programa de alfabetización en zonas alejadas con buena cobertura de telefonía, ¿qué decisión respaldan los párrafos 59 y 60?
+A. Promover el uso de las TIC, en especial las tecnologías móviles, en la alfabetización y la aritmética
+B. Descartar el uso de las TIC, pues el documento las considera inadecuadas para la alfabetización
+C. Sustituir a los alfabetizadores por aplicaciones móviles, sin acompañamiento ni evaluación alguna
+D. Usar las TIC solo con jóvenes, ya que los adultos no pueden aprender eficazmente mediante tecnologías móviles
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Las TIC, y en particular las tecnologías móviles, son muy prometedoras para acelerar el progreso hacia la consecución de esta meta.” (párr. 59); “• Promover el uso de las TIC, en especial las tecnologías móviles, en los programas de alfabetización y aritmética.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.6, párr. 60; página impresa 48; página PDF 46 / Metas y estrategias indicativas – Meta 4.6, párr. 59; página impresa 47; página PDF 45.
+
+82. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una dirección distrital debe asignar a los docentes mejor calificados. ¿Qué decisión es coherente con la estrategia de la Meta 4.c?
+A. Concentrarlos en las escuelas con mejores resultados para mantener su prestigio
+B. Asignarlos a las escuelas urbanas de mayor matrícula para maximizar su influencia pedagógica
+C. Atraer a los mejores candidatos y velar por que se les envíe a donde más se necesitan
+D. Asignarlos según la antigüedad de su solicitud, sin considerar las necesidades
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “• Formular estrategias que tengan en cuenta la perspectiva de género para atraer a los mejores candidatos, y más motivados, a la enseñanza, y velar por que se les envíe a donde más se necesitan.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 74; página impresa 55; página PDF 53.
+
+83. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa decide fortalecer su orientación vocacional hacia carreras científicas. ¿Qué decisión se alinea con las estrategias de la Meta 4.3?
+A. Postergar la enseñanza de conceptos STEM hasta el ingreso a la educación universitaria
+B. Reservar la orientación STEM a estudiantes que puedan costear formación complementaria
+C. Orientar hacia carreras STEM solo a los varones con mejores calificaciones en matemática y física
+D. Promover la asimilación temprana de conceptos STEM, en particular por parte de las niñas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Formular políticas y programas que pongan de relieve la función investigativa en la educación terciaria y universitaria, mediante la asimilación temprana de conceptos del ámbito de las ciencias, la tecnología, la ingeniería y las matemáticas (STEM), en particular por parte de las niñas y las mujeres.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.3, párr. 45; página impresa 42; página PDF 40.
+
+84. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Para dar seguimiento a la exclusión social en la educación de su distrito, ¿qué decisión sobre fuentes de información es más coherente con la Meta 4.5?
+A. Utilizar solo los registros de matrícula de inicio de gestión, por ser la fuente más fácil y económica de obtener
+B. Utilizar múltiples fuentes, como los sistemas de información de gestión y encuestas domiciliarias y escolares
+C. Utilizar exclusivamente las percepciones de los directores, recogidas en reuniones informales anuales
+D. Utilizar únicamente los datos de evaluaciones internacionales, que reflejan por sí solos la exclusión
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Procurar que se utilicen múltiples fuentes de datos e información, en especial los sistemas de información sobre la gestión de la educación, y encuestas domiciliarias y escolares pertinentes, para facilitar el seguimiento de la exclusión social en la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 57; página impresa 46; página PDF 44.
+
+85. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al aprobar el plan y el presupuesto institucional en una zona propensa a desastres, ¿qué decisión se fundamenta en las estrategias de la Meta 4.5?
+A. Incluir la evaluación del riesgo, la preparación y la respuesta ante emergencias en el plan y el presupuesto
+B. Limitar la gestión de riesgos a un simulacro anual, sin asignarle recursos en el presupuesto escolar
+C. Incluir la gestión de riesgos solo después de que ocurra un desastre que afecte directamente a la Unidad Educativa
+D. Excluir la gestión de riesgos del presupuesto, ya que su financiación corresponde a otros sectores
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Garantizar que las políticas educativas, los planes sectoriales y la planificación presupuestaria incluyan la evaluación del riesgo, la preparación y la respuesta ante situaciones de emergencia en lo que respecta a la educación…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 57; página impresa 45; página PDF 43.
+
+86. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al definir la oferta curricular, el consejo educativo debate si incluir una lengua extranjera. ¿Qué decisión respalda el párrafo 32?
+A. Excluir las lenguas extranjeras, pues el párrafo 32 solo admite la primera lengua o la hablada en el hogar
+B. Ofrecer al menos una lengua extranjera como asignatura, por la creciente interdependencia mundial
+C. Sustituir la primera lengua por una lengua extranjera desde el primer año de escolaridad
+D. Ofrecer la lengua extranjera solo a estudiantes que no hablen una lengua originaria en el hogar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Habida cuenta del aumento de la interdependencia social, ambiental y económica en todo el mundo, también se recomienda ofrecer al menos una lengua extranjera como asignatura.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 32; página impresa 37; página PDF 35.
+
+87. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] El equipo directivo debe elegir un modelo de formación para su plantel docente. ¿Qué decisión se apoya en el párrafo 71?
+A. Un curso intensivo único al inicio de la gestión, sin acciones posteriores de seguimiento ni de apoyo
+B. La suspensión de la formación para priorizar el cumplimiento del calendario de clases establecido
+C. Un desarrollo profesional continuo que favorezca el aprendizaje y la mejora docente a lo largo de la carrera
+D. La formación individual voluntaria fuera del horario laboral, sin vínculo alguno con el proyecto educativo institucional
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los sistemas educativos exitosos que garantizan la calidad y la equidad se han centrado en un desarrollo profesional continuo que favorece el aprendizaje y el mejoramiento de los mismos docentes a lo largo de sus carreras.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.c, párr. 71; página impresa 54; página PDF 52.
+
+88. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] En un distrito, el seguimiento muestra que los varones abandonan la secundaria en mayor proporción que las niñas. ¿Qué decisión respalda la Meta 4.5?
+A. Tratar el abandono masculino como un problema laboral ajeno a las políticas educativas
+B. Centrar medidas específicas en los varones, pues en ese contexto son ellos los desfavorecidos
+C. No intervenir, pues las medidas de género del documento se refieren exclusivamente a niñas y mujeres
+D. Reducir el apoyo a las niñas para equilibrar los recursos destinados a ambos sexos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Evaluar, controlar y mejorar el acceso de las niñas y mujeres a la educación de calidad […]. En contextos en los que los niños se vean desfavorecidos, centrar en ellos medidas específicas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.5, párr. 57; página impresa 46; página PDF 44.
+
+89. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa evalúa abrir sus ambientes por las tardes a programas comunitarios. ¿Qué decisión respalda la estrategia de la Meta 4.a?
+A. Prestar sus ambientes solo para actos sociales y festivos de las familias de los estudiantes
+B. Alquilar sus ambientes a empresas privadas para generar ingresos propios destinados al mantenimiento de la escuela
+C. Mantener cerrados sus ambientes fuera del horario escolar para proteger el mobiliario y equipos
+D. Poner sus espacios a disposición del aprendizaje no formal y de adultos, como centro comunitario
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Poner ampliamente a disposición espacios y entornos para el aprendizaje y la educación no formal y de adultos, incluyendo redes de centros y espacios comunitarios de aprendizaje, y acceso a recursos basados en las TIC, como elementos fundamentales del aprendizaje a lo largo de la vida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Medios de aplicación – Meta 4.a, párr. 66; página impresa 52; página PDF 50.
+
+90. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una Unidad Educativa con nivel inicial decide cómo hacer seguimiento del progreso de los niños pequeños. ¿Qué decisión se fundamenta en el párrafo 36?
+A. Seguir el desarrollo y el aprendizaje desde una fase temprana, en los planos individual y sistémico
+B. Evaluar a los niños solo al ingresar a primaria, mediante una prueba estandarizada de lectura
+C. Registrar únicamente la asistencia diaria, sin observar el desarrollo integral ni el aprendizaje infantil
+D. Prescindir del seguimiento en el nivel inicial, pues su único fin es el cuidado de los niños
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, es indispensable realizar un seguimiento del desarrollo y el aprendizaje de los niños desde una fase temprana, tanto en el plano individual como sistémico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.2, párr. 36; página impresa 39; página PDF 37.
+
+91. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el párrafo 16, ¿hacia qué orientaciones deben movilizarse los esfuerzos nacionales, regionales y mundiales para alcanzar el ODS 4?
+A. Infraestructura escolar, equipamiento tecnológico, ampliación de la matrícula y control administrativo
+B. Alianzas eficaces, mejores políticas, sistemas equitativos y de calidad, recursos suficientes y seguimiento
+C. Privatización de servicios, evaluación estandarizada, competencia entre escuelas y reducción del gasto
+D. Alianzas internacionales, reformas curriculares, formación técnica, becas universitarias y acreditación externa
+Respuesta correcta: B
+Explicación: “…será necesario movilizar esfuerzos nacionales, regionales y mundiales orientados a: • establecer alianzas eficaces e inclusivas; • mejorar las políticas educativas y su funcionamiento conjunto; • garantizar sistemas educativos altamente equitativos, inclusivos y de calidad para todos; • movilizar recursos para financiar correctamente la educación; y • asegurar la supervisión, el seguimiento y el examen de todas las metas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos, párr. 16; página impresa 31; página PDF 29.
+
+92. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un equipo de gestión intermedia debe traducir las metas mundiales a su ámbito. Siguiendo la lógica del párrafo 28, ¿en qué deben basarse esas metas?
+A. En las prioridades y planes propios, la organización del sistema, la capacidad institucional y los recursos
+B. En las preferencias de los organismos financiadores, que definen la viabilidad de las metas educativas
+C. En los resultados obtenidos por otros países de la región, para asegurar la comparabilidad internacional inmediata
+D. En las metas mundiales tal como están formuladas, sin adaptación alguna a la realidad de cada contexto
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Se espera que los gobiernos conviertan las metas mundiales en metas nacionales realistas, basadas en sus prioridades educativas, sus estrategias y sus planes nacionales de desarrollo, la organización de sus sistemas educativos, su capacidad institucional y la disponibilidad de recursos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas, párr. 28; página impresa 35; página PDF 33.
+
+93. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Para reforzar los sistemas educativos y obtener resultados eficaces, ¿qué componentes deben crear o mejorar los gobiernos según el párrafo 18?
+A. Gobernanza y rendición de cuentas, garantía de calidad, sistemas de información y financiación transparente
+B. Inspección punitiva, pruebas de selección, rankings de escuelas y financiación según los resultados obtenidos
+C. Descentralización total, autonomía financiera de cada escuela y supresión de la supervisión estatal
+D. Infraestructura escolar, transporte, alimentación y servicios de salud gestionados desde la escuela
+Respuesta correcta: A
+Explicación: “…los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Fortalecer las políticas, planes, legislaciones y sistemas, párr. 18; página impresa 31; página PDF 29.
+
+94. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al planificar la incorporación del aprendizaje a lo largo de la vida en el sistema educativo, ¿qué requiere estratégicamente el párrafo 23?
+A. La concentración del aprendizaje permanente en la educación superior, con exclusión de los demás niveles educativos
+B. Vías de aprendizaje múltiples y flexibles, vínculos entre lo formal y no formal, y reconocimiento de saberes
+C. Una vía única y lineal de escolaridad, con ingreso a edad fija y sin posibilidad de reanudar estudios
+D. La separación estricta entre la educación formal y la no formal para preservar la calidad académica
+Respuesta correcta: B
+Explicación: “Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y en todos los niveles educativos; un fortalecimiento de los vínculos entre las estructuras formales y no formales; y el reconocimiento, acreditación y convalidación de los conocimientos, las aptitudes y las competencias adquiridos en la educación no formal e informal.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Promover el aprendizaje a lo largo de la vida, párr. 23; página impresa 33; página PDF 31.
+
+95. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al diseñar el sistema de evaluación de la calidad de su Unidad Educativa, ¿qué ámbitos debe comprender según el párrafo 22?
+A. El examen exclusivo de los resultados en pruebas estandarizadas
+B. El examen de insumos, entornos, procesos y resultados del aprendizaje
+C. El examen de la asistencia, la disciplina y el cumplimiento horario
+D. El examen de la infraestructura, el mobiliario y los recursos materiales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Se deberán instaurar o mejorar sistemas y prácticas para la evaluación de la calidad del aprendizaje, que comprendan el examen de insumos, entornos, procesos y resultados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Centrarse en la calidad y el aprendizaje, párr. 22; página impresa 33; página PDF 31.
+
+96. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Además del aprendizaje en el aula, ¿de qué otros factores de gestión depende la calidad educativa según el párrafo 33?
+A. De la donación de recursos privados y de la competencia entre escuelas por la matrícula estudiantil
+B. De la autonomía absoluta de cada docente y de la ausencia de mecanismos externos de supervisión
+C. De la gestión del personal docente, la buena gobernanza, la rendición de cuentas y la gestión financiera
+D. De la cantidad de estudiantes matriculados, el prestigio institucional y la ubicación geográfica de la escuela
+Respuesta correcta: C
+Explicación: “Por último, la calidad depende también de la existencia de sistemas de gestión del personal docente, una buena gobernanza, mecanismos de rendición de cuentas y una sólida gestión de la financiación pública.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 33; página impresa 37; página PDF 35.
+
+97. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al planificar la gestión de riesgos, ¿qué deben anticipar y favorecer los planes y políticas educativas según el párrafo 26?
+A. Anticipar riesgos financieros del sistema educativo, sin considerar las necesidades de los estudiantes
+B. Favorecer la reacción posterior a la crisis, sin incluir medidas preventivas ni de preparación en la planificación educativa
+C. Anticipar solo los desastres naturales, dejando los conflictos sociales a cargo de otras instituciones
+D. Anticipar riesgos, cubrir necesidades en crisis y favorecer la seguridad, la recuperación y la cohesión social
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Los planes y políticas del ámbito de la educación deberán anticipar los riesgos y comprender medidas para cubrir las necesidades educativas de los niños y adultos en situaciones de crisis; asimismo, deberán favorecer la seguridad, la capacidad de recuperación y la cohesión social, a fin de reducir los riesgos de conflicto y desastres naturales.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos – Ocuparse de la educación en situaciones de emergencia, párr. 26; página impresa 34; página PDF 32.
+
+98. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Para integrar la EDS y la ECM en la educación, ¿qué vías estratégicas propone la primera estrategia indicativa de la Meta 4.7?
+A. Un proyecto aislado anual, a cargo de voluntarios externos y sin vínculo con el plan de estudios vigente
+B. Una asignatura optativa nueva, sin formación docente ni cambios en los demás planes de estudio
+C. Intervenciones en todo el sistema, formación de docentes, reformas curriculares y respaldo pedagógico
+D. Campañas publicitarias en medios de comunicación, al margen de la educación formal y no formal
+Respuesta correcta: C
+Explicación: “• Formular políticas y programas para promover la EDS y la ECM e integrarlas en la educación habitual formal, no formal e informal, mediante intervenciones en todo el sistema, la formación de docentes, reformas de los planes de estudio y el respaldo pedagógico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.7, párr. 63; página impresa 50; página PDF 48.
+
+99. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué mecanismo de gestión propone la estrategia de la Meta 4.2 para respaldar políticas de AEPI integradas y multisectoriales?
+A. Coordinación limitada entre escuelas primarias, sin intervención de los servicios de salud
+B. Gestión exclusiva del ministerio de educación, sin participación de otros ministerios ni sectores del Estado
+C. Coordinación entre ministerios de nutrición, salud, protección social, agua, justicia y educación
+D. Delegación total de la AEPI a las familias, con apoyo ocasional de organizaciones caritativas
+Respuesta correcta: C
+Explicación: “• Adoptar políticas y estrategias de AEPI integradas y multisectoriales, respaldadas por un mecanismo de coordinación entre los ministerios encargados de la nutrición, la salud, la protección social e infantil, los asuntos relacionados con el agua y el saneamiento, la justicia y la educación…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.2, párr. 37; página impresa 39; página PDF 37.
+
+100. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al distribuir recursos entre las Unidades Educativas de un distrito, ¿qué criterio estratégico fija la estrategia de la Meta 4.1?
+A. Asignarlos prioritariamente a las escuelas con mejores resultados, como incentivo a su desempeño institucional
+B. Asignarlos en partes iguales a todas las escuelas, sin considerar su situación socioeconómica
+C. Asignarlos según la matrícula total de cada escuela, sin atender a otros criterios de necesidad
+D. Asignarlos de manera más equitativa entre escuelas favorecidas y desfavorecidas socioeconómicamente
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Asignar los recursos de manera más equitativa entre las escuelas favorecidas y desfavorecidas desde un punto de vista socioeconómico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Metas y estrategias indicativas – Meta 4.1, párr. 34; página impresa 37; página PDF 35.

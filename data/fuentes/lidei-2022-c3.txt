@@ -1,0 +1,995 @@
+# Fuente: lidei-2022-c3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Capítulo evaluado: 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar
+# Páginas: impresas 30 a 82 (PDF 28 a 80)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar» del documento LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI)
+# Alcance
+# Capítulo 3 completo: diseño del cuestionario, pilotaje con 77 directores de Argentina, Chile y España, Dimensiones 1 a 4, educación en emergencia, demandas de los directores y disposición a repetir en el cargo. Solo se usan datos explícitos del texto (no se infieren valores leídos únicamente en gráficos)
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 30–82 = PDF 28–80)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 61 de contenido textual · 39 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo 3 del documento LIDEI 2022 (págs. impresas 30 a 82).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: lidei-2022-c3
+
+1. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué cuatro dimensiones se dividió el formato de la herramienta diseñada en la primera fase del proyecto?
+A. Perfil del director, financiación del centro, evaluación del alumnado y convivencia escolar del centro
+B. Selección del director, salario docente, supervisión externa y participación de las familias del centro
+C. Responsabilidades del director, autonomía del director, liderazgo distribuido y atractivo de la dirección
+D. Responsabilidades del director, currículo nacional, infraestructura escolar y resultados de aprendizaje del alumnado
+Respuesta correcta: C
+Explicación: “Basándose en los informes y estudios realizados se diseña un formato dividido en cuatro dimensiones: responsabilidades del director o directora, autonomía del director o directora, promoción del liderazgo distribuido y atractivo de la dirección escolar.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 30; página PDF 28.
+
+2. [LIDEI 2022 – OEI · Capítulo 3] ¿Cuántos directores y directoras participaron en total en el estudio piloto y cómo se distribuyeron por país?
+A. 90 directores: 36 de España, 28 de Chile, 26 de Argentina
+B. 77 directores en total: 26 de España, 15 de Chile y 36 de Argentina
+C. 62 directores: 36 de España, 10 de Chile y 16 de Argentina
+D. 77 directores: 36 de España, 15 de Chile y 26 de Argentina
+Respuesta correcta: D
+Explicación: “En total han participado 77 directores y directoras […]: ∙ España. […] Se reciben un total de 36 encuestas […]. ∙ Chile. […] En total, 15 directores rellenaron la encuesta. ∙ Argentina. […] Se reciben un total de 26 encuestas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Pilotaje y resultados; página impresa 33; página PDF 31.
+
+3. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué fecha se realizó el Taller de Validación del Cuestionario del director o directora sobre Liderazgo Directivo?
+A. En abril de 2019
+B. En el año 2022
+C. En febrero de 2019
+D. En mayo de 2021
+Respuesta correcta: D
+Explicación: “En mayo de 2021 se realiza el Taller de Validación del Cuestionario del director o directora sobre Liderazgo Directivo (ver anexo)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 31; página PDF 29.
+
+4. [LIDEI 2022 – OEI · Capítulo 3] Según las horas de trabajo totales declaradas, ¿cuál es la media semanal de trabajo de los directores en cada país?
+A. 37,5 horas en Argentina, 40 horas en Chile y 45 horas en España
+B. 40,2 horas en Argentina, 50 horas en Chile y 37,5 horas en España
+C. 40,2 horas en Argentina, 42,1 horas en Chile y 42 horas en España
+D. 42,0 horas en Argentina, 40,2 horas en Chile y 42,1 horas en España
+Respuesta correcta: C
+Explicación: “A tenor de las horas de trabajo totales declaradas en Argentina, los directores tienen una media de 40,2 horas a la semana de trabajo, 42,1 horas en Chile y 42 horas en España.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 47; página PDF 45.
+
+5. [LIDEI 2022 – OEI · Capítulo 3] ¿Cuál es la jornada semanal oficial de trabajo establecida en España, según el capítulo?
+A. 42,0 horas a la semana
+B. 35 horas a la semana
+C. 37,5 horas a la semana
+D. Cuarenta horas semanales
+Respuesta correcta: C
+Explicación: “En España, la jornada semanal oficial está establecida en 37,5 horas de trabajo a la semana.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 49; página PDF 47.
+
+6. [LIDEI 2022 – OEI · Capítulo 3] Según los datos de la muestra, ¿qué ratio media de estudiantes por profesor presenta cada país?
+A. Chile 10,1; España 14,9; y Argentina 7,6
+B. Chile 14,9; España 10,1; Argentina 7,6
+C. Chile 19,9; España 10,1; Argentina 3,7
+D. Chile 14,9; España 7,6; Argentina 10
+Respuesta correcta: B
+Explicación: “Chile presenta la ratio más elevada con 14,9 estudiantes por cada profesor, le sigue España con 10,1 estudiantes por profesor y, por último, Argentina que ofrece un valor medio de 7,6 estudiantes por profesor.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Datos generales de la muestra (apartados I y II); página impresa 37; página PDF 35.
+
+7. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué proporción de directores declara no haber recibido formación una vez nombrados?
+A. El 50 % en Argentina, 13 % en Chile y el 36 % en España
+B. Solo el 25 % en Argentina, el 33 % en Chile y el 50 % en España
+C. El 70 % en Argentina, el 50 % en Chile y el 72 % en España
+D. El 50 % en Argentina, el 33 % en Chile y el 25 % en España
+Respuesta correcta: D
+Explicación: “El 50% de los directores argentinos, el 33% de los chilenos y el 25% de los españoles no han recibido formación una vez han sido nombrados.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 53; página PDF 51.
+
+8. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué porcentaje de directores ha sido nombrado forzosamente por la administración en los tres países, pese a existir un proceso regulado?
+A. Entre el 20 % y el 30 % de los directores
+B. Entre el 35 % y el 40 % de los directores
+C. Entre el 8 % y el 14 % de los directores
+D. Entre el 1 % y el 3 % de los directores
+Respuesta correcta: C
+Explicación: “Pese a ello, en todos los países, hay un porcentaje de directores de entre el 8% y 14% que han sido nombrados forzosamente por parte de la administración.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+9. [LIDEI 2022 – OEI · Capítulo 3] Tras su experiencia, ¿qué porcentaje de directores de cada país desea seguir siendo director?
+A. El 92 % en Argentina, el 100 % en Chile y el 81 % en España
+B. El 62 % en Argentina, el 73 % en Chile y el 47 % en España
+C. El 92 % en Argentina, el 80 % en Chile y el 61 % en España
+D. Solo el 81 % en Argentina, el 92 % en Chile y el 100 % en España
+Respuesta correcta: A
+Explicación: “Pese a todos los obstáculos y demandas no reconocidas, el 92% de los directores y directores de Argentina, el 100% de los directores de Chile y el 81% de los directores de España desean seguir siendo directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – ¿Volvería a ser director o directora?; página impresa 82; página PDF 80.
+
+10. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué regula la normativa española desde 2014 respecto de la formación de los directores?
+A. Que deberán hacer una formación de al menos 70 horas cada año
+B. Que deberán hacer una formación de al menos 120 horas al ingresar
+C. Que deberán hacer una formación de al menos 60 horas cada 8 años
+D. Que deberán hacer una formación de al menos 37 horas cada 4 años
+Respuesta correcta: C
+Explicación: “Desde 2014, la normativa regula que los directores deberan hacer una formación de al menos 60 horas cada 8 años para poder…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 55; página PDF 53.
+
+11. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué se pretendía valorar con la herramienta para el análisis de buenas prácticas políticas sobre liderazgo escolar de la primera fase?
+A. La manera en que las administraciones y la normativa favorecen el liderazgo pedagógico, inclusivo y distribuido
+B. El grado de satisfacción salarial de los docentes respecto de otras profesiones con formación universitaria o terciaria
+C. La cantidad de recursos tecnológicos disponibles en las escuelas para la enseñanza a distancia
+D. El rendimiento académico de los estudiantes de cada país en las pruebas internacionales estandarizadas
+Respuesta correcta: A
+Explicación: “Se pretendía valorar la manera en que las administraciones educativas y la normativa existente favorecen el modelo de Liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 30; página PDF 28.
+
+12. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué pretende la segunda fase del proyecto descrito en el capítulo?
+A. Evaluar el desempeño individual de cada director para asignarle un complemento salarial según sus resultados anuales
+B. Diseñar una ley común de dirección escolar para todos los países iberoamericanos participantes
+C. Conocer la situación actual de los directores, las posibilidades que les da la normativa y experiencias exitosas
+D. Comparar el rendimiento académico del alumnado de los centros dirigidos por hombres y por mujeres
+Respuesta correcta: C
+Explicación: “La segunda fase de este proyecto pretende conocer cuál es la situación actual de los directores y directoras de centros escolares de Iberoamérica, las posibilidades que la normativa les ofrece para ejercer un liderazgo educativo y propone recoger información y experiencias exitosas de liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 30; página PDF 28.
+
+13. [LIDEI 2022 – OEI · Capítulo 3] En el cuestionario, ¿qué diferencia a las variables independientes de las dependientes?
+A. Las independientes sitúan al sujeto y su centro; las dependientes son de opinión e implican un juicio de valor
+B. Las independientes miden resultados del alumnado; las dependientes miden el salario del director
+C. Las independientes son de opinión personal; las dependientes recogen datos personales y del contexto del centro educativo
+D. Las independientes provienen de la administración; las dependientes provienen de las familias
+Respuesta correcta: A
+Explicación: “La primera sección –dentro de lo que se denominan variables independientes–, solicita información personal para situar al sujeto […]. En la tercera sección comienzan las variables dependientes o de opinión, que implican un juicio de valor personal…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 31; página PDF 29.
+
+14. [LIDEI 2022 – OEI · Capítulo 3] ¿Por qué los datos del cuestionario de los directores adquieren mayor relevancia, según el capítulo?
+A. Porque sustituyen por completo a la normativa como fuente para las políticas públicas de dirección escolar
+B. Porque son representativos de todos los directores de la región iberoamericana sin excepción
+C. Porque permiten conocer las diferencias entre la normativa y la realidad del director en su centro
+D. Porque permiten sancionar a los directores que no cumplen las funciones fijadas por la norma
+Respuesta correcta: C
+Explicación: “Los datos que se recogen de este cuestionario de los directores y directoras de los centros educativos de Iberoamérica toman mayor relevancia al permitir conocer la diferencias entre la normativa y la realidad del director o directora en su centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 32; página PDF 30.
+
+15. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué valor atribuye el capítulo al pilotaje realizado con 77 directores, dado que la muestra no es representativa?
+A. Ha permitido clasificar a los países según la calidad del liderazgo de sus directores escolares
+B. Ha permitido identificar tendencias y formular hipótesis de trabajo para nuevos estudios extensivos
+C. Ha permitido aprobar una normativa común sobre dirección escolar para los tres países analizados
+D. Ha permitido establecer conclusiones definitivas y generalizables a todos los países de la región iberoamericana
+Respuesta correcta: B
+Explicación: “No obstante, el esfuerzo realizado por los 77 directores y directoras de los países de Iberoamérica que han respondido al cuestionario y que ha supuesto realizar un piloto de la encuesta, ha permitido identificar tendencias en políticas y prácticas de liderazgo escolar y formular hipótesis de trabajo para nuevos estudios extensivos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Pilotaje y resultados; página impresa 32; página PDF 30.
+
+16. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué cuestión se sienten los directores más reforzados por la normativa y qué aspecto común revela?
+A. Gestionar el presupuesto y contratar al personal docente; revela un sentir de autonomía financiera plena
+B. Impulsar prácticas de equidad, integración y respeto a los más desfavorecidos; revela un sentir de justicia social
+C. Seleccionar al alumnado que ingresa al centro; revela un sentir de exigencia académica y de excelencia
+D. Aplicar sanciones disciplinarias al alumnado; revela un sentir de autoridad y control sobre la convivencia del centro escolar
+Respuesta correcta: B
+Explicación: “La cuestión en la que los directores se sienten más reforzados por parte de la normativa es a la hora de impulsar prácticas que fomenten la equidad, la integración y el respeto, en concreto, de los más desfavorecidos. La defensa y empoderamiento de justicia social es un aspecto común en el sentir de los directores educativos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1 Perfil de funciones y normativa; página impresa 43; página PDF 41.
+
+17. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué opinan los directores sobre la relación entre autonomía y liderazgo, según la Dimensión 2?
+A. Que la autonomía es irrelevante, ya que las decisiones importantes dependen siempre de las familias
+B. Que la autonomía es un obstáculo para el liderazgo, pues dispersa las decisiones entre muchos actores del centro
+C. Que la autonomía solo es útil para la gestión económica y no influye en el trabajo del profesorado
+D. Que la autonomía es esencial para impulsar proyectos, mejorar el trabajo docente y desarrollar planes
+Respuesta correcta: D
+Explicación: “Los directores opinan que la autonomía es esencial para poder impulsar proyectos, mejorar la calidad del trabajo del profesorado y desarrollar planes de trabajo, todo ello íntimamente ligado al liderazgo pedagógico, inclusivo y distribuido que se desea promover.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 67; página PDF 65.
+
+18. [LIDEI 2022 – OEI · Capítulo 3] Según la Dimensión 3, ¿qué efecto puede tener que un órgano de participación sea consultivo o decisivo sobre el liderazgo del director?
+A. Le otorga mayor control, pues todo órgano consultivo se subordina por completo al director
+B. Elimina el liderazgo del director, que queda sustituido por las decisiones del órgano colegiado
+C. No tiene por qué restarle liderazgo, sino propiciar el respaldo de la comunidad a las decisiones conjuntas
+D. Le resta siempre liderazgo, pues todo órgano decisivo debilita la autoridad formal y jerárquica del director del centro
+Respuesta correcta: C
+Explicación: “La diferencia entre un órgano de participación consultivo o un órgano de participación decisivo no tiene porqué restar liderazgo al director, sino propiciar el respaldo de toda la comunidad educativa a las decisiones tomadas conjuntamente.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 69; página PDF 67.
+
+19. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué debería apoyarse la profesionalización de la función directiva, según el capítulo?
+A. En una categorización definida del puesto con incentivos profesionales y salariales y perspectiva de futuro
+B. En la eliminación de la evaluación del desempeño y en la estabilidad indefinida en el cargo directivo
+C. En la equiparación total del salario del director con el del profesorado de aula del mismo centro
+D. En la designación de los directores por antigüedad, sin incentivos ni perspectivas de carrera profesional futura
+Respuesta correcta: A
+Explicación: “La profesionalización de la función directiva debería apoyarse en una definida categorización del puesto con incentivos profesionales y salariales, con perspectiva profesional de futuro que oferte puestos en consonancia con los niveles de desempeño desarrollados y experiencia en el puesto.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 71; página PDF 69.
+
+20. [LIDEI 2022 – OEI · Capítulo 3] Además de incentivos, ¿qué exige también la profesionalización de la función directiva, según el capítulo?
+A. La supresión de toda evaluación externa, para garantizar la autonomía plena y total del director escolar
+B. La designación vitalicia en el cargo, para garantizar la continuidad de los proyectos
+C. La dependencia jerárquica de las familias, que deben aprobar todas las decisiones
+D. Una rendición de cuentas, la posibilidad de mejora y la evaluación de la realización del trabajo
+Respuesta correcta: D
+Explicación: “La profesionalización también exige una rendición de cuentas, la posibilidad de mejora y la evaluación de la realización del trabajo. Además, se podría asociar a complementos económicos en función de la evaluación del desempeño.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 72; página PDF 70.
+
+21. [LIDEI 2022 – OEI · Capítulo 3] En los tres países, ¿qué tareas requieren más tiempo de los directores?
+A. La docencia directa con el alumnado, la gestión de la convivencia y la interacción con otras organizaciones externas
+B. La gestión administrativa, el liderazgo pedagógico y otro tipo de tareas no incluidas en los demás apartados
+C. La interacción con la comunidad, la docencia directa y las reuniones con los sindicatos de profesorado
+D. La gestión de la convivencia, la atención a familias y la elaboración de informes para la inspección
+Respuesta correcta: B
+Explicación: “En los tres países, las tareas que requieren más tiempo son la gestión administrativa, el liderazgo pedagógico y otro tipo de tareas que no están incluidas en los apartados anteriores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 48; página PDF 46.
+
+22. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué porcentaje del tiempo de los directores ocupa la gestión de la convivencia en los tres países?
+A. Entre un 40 % y un 45 % del tiempo
+B. Entre un 2 % y un 5 % del tiempo
+C. Entre un 25 % y un 30 % del tiempo total
+D. Entre un 13 % y un 15 % del tiempo
+Respuesta correcta: D
+Explicación: “La gestión de la convivencia requiere entre un 15% y un 13% en los tres países.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 48; página PDF 46.
+
+23. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué país la docencia directa ocupa un mayor porcentaje del tiempo de los directores?
+A. En Argentina, con un 14 %, frente al 10 % de España y el 7 % de Chile
+B. En España, con un 14 %, frente al 10 % de Argentina y el 7 % de Chile
+C. En España, con un 24 %, frente al 20 % de Argentina y el 17 % de Chile
+D. En Chile, con un 14 %, frente al 10 % de Argentina y 7 % de España
+Respuesta correcta: B
+Explicación: “La docencia es un porcentaje mayor en España (14%), que en Argentina (10%) y en Chile (7%).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 48; página PDF 46.
+
+24. [LIDEI 2022 – OEI · Capítulo 3] En la Dimensión 3, ¿qué porcentaje de directores declara permitir la distribución del liderazgo en su centro?
+A. El 91 % en Argentina, el 80 % en Chile y el 42 % en España
+B. El 91 % en Argentina, el 100 % en Chile y el 92 % en España
+C. El 61 % en Argentina, el 70 % en Chile y el 52 % en España
+D. El 100 % en Argentina, el 91 % en Chile y solo el 72 % en España
+Respuesta correcta: B
+Explicación: “En cuanto a la pregunta sobre si el director permite, según su punto de vista, la distribución del liderazgo en su centro, el 91% en Argentina, el 100% en Chile y el 92% en España declara hacerlo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 69; página PDF 67.
+
+25. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué debe propiciar el director para que los órganos de participación funcionen realmente?
+A. Espacios de diálogo para que se reúnan, analicen datos, sugieran y tomen decisiones periódicamente
+B. Votaciones secretas sobre cada decisión, sin espacios previos de análisis ni de diálogo
+C. Reuniones anuales protocolares, en las que solo se informe de las decisiones ya adoptadas
+D. Comunicaciones escritas de la dirección, que sustituyan por completo las reuniones de los órganos colegiados
+Respuesta correcta: A
+Explicación: “No solo es necesario que existan los órganos de participación, sino que también es necesario que se reúnan periódicamente, que analicen datos, que sugieran y tomen decisiones. Para ello, el director debe propiciar espacios de diálogo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 70; página PDF 68.
+
+26. [LIDEI 2022 – OEI · Capítulo 3] ¿Cuál es el factor más utilizado para evaluar el desempeño de los directores, según declaran ellos mismos?
+A. La tasa de graduación o titulación del alumnado al final de la etapa educativa
+B. La consecución de objetivos del Plan de Centro Anual o del proyecto de dirección
+C. El número de sanciones disciplinarias aplicadas al alumnado durante la gestión
+D. Los resultados externos del alumnado en las calificaciones y pruebas nacionales estandarizadas
+Respuesta correcta: B
+Explicación: “Mayoritariamente los directores declaran que, entre los factores analizados para evaluar el desempeño, el más utilizado es la consecución de objetivos del Plan de Centro Anual. El 55% de los directores en Argentina, el 100% en Chile, y el 87% en España, declaran que este factor es evaluado.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.4 Evaluación del desempeño; página impresa 57; página PDF 55.
+
+27. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué papel tienen los directores frente a las Administraciones educativas por normativa?
+A. Son delegados sindicales del profesorado ante las Administraciones educativas del país
+B. Son funcionarios independientes de la Administración, sin relación jerárquica con ella
+C. Son representantes exclusivos de las familias, sin obligación de seguir a la Administración
+D. Son los representantes de las Administraciones, y el centro debe seguir sus instrucciones
+Respuesta correcta: D
+Explicación: “Por normativa, los directores son los representantes de las Administraciones, y el centro, por tanto, debe seguir las instrucciones de la misma.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 68; página PDF 66.
+
+28. [LIDEI 2022 – OEI · Capítulo 3] Durante la pandemia, ¿qué porcentaje de directores afirma que se añadieron más responsabilidades, funciones y tareas a la dirección?
+A. El 50 % en Argentina, el 33 % en Chile y el 25 % en España
+B. El 100 % en Argentina y Chile, y el 97 % en España
+C. El 97 % en Argentina; el 100 % en Chile y España
+D. El 62 % en Argentina, el 67 % en Chile y el 56 % en España
+Respuesta correcta: B
+Explicación: “La pandemia ha venido acompañada de más responsabilidades, nuevas funciones del director y nuevas tareas para supervisar y gestionar […]. El 100% de los directores de Argentina y Chile, y el 97% de los españoles están de acuerdo con esta afirmación.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 79; página PDF 77.
+
+29. [LIDEI 2022 – OEI · Capítulo 3] Durante la pandemia, ¿qué porcentaje de directores afirma haber priorizado la atención al alumnado desfavorecido y las medidas de inclusión?
+A. El 80 % en Argentina, 96 % en Chile y el 63 % en España
+B. El 38 % en Argentina, el 73 % en Chile y el 60 % en España
+C. El 96 % en Argentina, el 80 % en Chile y el 97 % en España
+D. Solo el 69 % en Argentina, el 80 % en Chile y el 72 % en España
+Respuesta correcta: C
+Explicación: “La dirección ha priorizado la atención al alumnado desfavorecido y ha trabajado para propiciar medidas de inclusión. Esto ocurre para el 96% de los directores argentinos, para el 80% de los chilenos y el 97% de los españoles.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 79; página PDF 77.
+
+30. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué indican la voluntad de distribuir el liderazgo, considerar los órganos de participación y propiciar espacios de encuentro, según el capítulo?
+A. El deseo de los directores de transferir toda su responsabilidad a los órganos de participación del centro escolar
+B. La intención de los directores de reducir la carga docente mediante la delegación de clases
+C. La obligación legal de los directores de cumplir trámites formales sin efecto en las decisiones
+D. El trabajo de los directores por conseguir estructuras democráticas que recojan opiniones y fijen metas
+Respuesta correcta: D
+Explicación: “La voluntad de distribuir el liderazgo en el centro, tener en cuenta la opinión de los órganos de participación o propiciar espacios y momentos de encuentro son aspectos indican la voluntad y trabajo que desarrollan los directores y directoras para conseguir en los centros educativos estructuras democráticas que recojan opiniones, analicen datos, sugieran estrategias y determinen los objetivos y metas…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 70; página PDF 68.
+
+31. [LIDEI 2022 – OEI · Capítulo 3] ¿Cómo interpreta el capítulo la percepción general de los directores sobre el marco normativo y el liderazgo pedagógico, inclusivo y distribuido?
+A. Existe una percepción negativa de que el marco normativo impide por completo ese tipo de liderazgo
+B. Existe una percepción indiferente, pues los directores desconocen la normativa de su país
+C. Existe una percepción positiva de que el marco normativo proporciona apoyo para ese liderazgo
+D. Existe una percepción dividida, con mayoría en contra en los tres países analizados
+Respuesta correcta: C
+Explicación: “En general, existe una percepción positiva de que el marco normativo proporciona apoyo para el desempeño de un liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1 Perfil de funciones y normativa; página impresa 42; página PDF 40.
+
+32. [LIDEI 2022 – OEI · Capítulo 3] Dentro de valores altos de acuerdo, ¿en qué país expresan los directores que la normativa es más estricta?
+A. En Argentina, donde solo el 30 % acepta diseñar nuevos roles y el 42 % adaptar funciones al centro
+B. En España, donde el 92 % acepta diseñar nuevos roles y el 100 % adaptar funciones al tipo de centro
+C. En Chile, donde el 72 % acepta diseñar nuevos roles y el 69 % adaptar funciones al tipo de centro
+D. En España, donde el 72 % acepta diseñar nuevos roles y el 69 % adaptar funciones al tipo de centro
+Respuesta correcta: D
+Explicación: “Dentro de que son valores altos, España es el país donde los directores expresan que la normativa es más estricta. El 72% está de acuerdo con que los directores puedan diseñar nuevos roles […], y el 69% se muestra conforme con la posibilidad que da la normativa para adaptar las funciones del director al tipo de centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1 Perfil de funciones y normativa; página impresa 42; página PDF 40.
+
+33. [LIDEI 2022 – OEI · Capítulo 3] ¿Cuál es la opinión de los directores de los tres países sobre su salario en relación con otros puestos de responsabilidad similar?
+A. Que su salario no es acorde al de otras personas en puestos con responsabilidades similares
+B. Que su salario es adecuado en España y Argentina, pero insuficiente únicamente en Chile
+C. Que su salario es plenamente equiparable al de otros puestos de responsabilidad similar
+D. Que su salario es superior al de otras personas en puestos con responsabilidades similares o mayores
+Respuesta correcta: A
+Explicación: “En los tres países, la opinión de los directores es que su salario no es acorde al de otras personas en puestos con niveles de responsabilidad similares.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1.2 Salarios de los directores; página impresa 44; página PDF 42.
+
+34. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué contraste se observa en Argentina entre la valoración de la administración y la de los directores sobre la equiparación salarial?
+A. La administración y los directores coinciden en valorarla con la puntuación máxima de la escala
+B. La administración la valora con 1 sobre 6, mientras el 72 % de los directores está muy de acuerdo con ella
+C. La administración la valora con 3 sobre 6, y los directores con una opinión dividida al 50 %
+D. La administración la valora con 6 sobre 6, mientras el 72 % de los directores está muy poco de acuerdo
+Respuesta correcta: D
+Explicación: “La opinión de los directores encuestados es unánime, ya que el 72% está ‘muy poco de acuerdo’ con la afirmación […]. Por el contrario, las administraciones educativas argentinas valoran con un 6 sobre 6 indicando que el salario es equiparable…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1.2 Salarios de los directores; página impresa 44; página PDF 42.
+
+35. [LIDEI 2022 – OEI · Capítulo 3] ¿Por qué el capítulo considera preferible trabajar la comparabilidad del tiempo de los directores con porcentajes?
+A. Porque la suma real de horas por apartados difiere del total de horas de trabajo declarado
+B. Porque la normativa de los tres países prohíbe registrar las horas de trabajo directivo
+C. Porque los directores no declararon el total de horas de trabajo semanal en ningún país
+D. Porque las horas semanales difieren tanto entre países que no admiten comparación alguna entre ellos
+Respuesta correcta: A
+Explicación: “Estos valores son muy similares en los tres países. Cuando se hace la suma real de los valores por apartados, el número es diferente, por ello es preferible trabajar la comparabilidad con porcentajes.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.2 Distribución de tareas del director; página impresa 47; página PDF 45.
+
+36. [LIDEI 2022 – OEI · Capítulo 3] Aunque no se preguntó por las causas, ¿qué explicación plantea el capítulo para los nombramientos forzosos de directores?
+A. Que las comunidades educativas rechazan los procesos de selección por considerarlos injustos
+B. Que la normativa de los tres países obliga a designar al docente de mayor antigüedad del centro educativo
+C. Que nadie quiere asumir la dirección al no compensar dedicación, trabajo, salario o valoración social
+D. Que la administración prefiere designar directamente a los docentes con mejores calificaciones
+Respuesta correcta: C
+Explicación: “Aunque no se ha preguntado por las causas, hay casos en los que nadie quiere asumir la responsabilidad de dirección al no compensar la dedicación, trabajo, compensación económica o valoración social.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+37. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué denota, según el capítulo, que las habilidades de liderazgo se tuvieran en cuenta solo para el 36 % de los directores españoles?
+A. Que las habilidades de liderazgo son irrelevantes para el buen desempeño de la dirección escolar en los centros
+B. Que las administraciones deberían establecer más claramente criterios relacionados con el liderazgo
+C. Que los directores españoles carecen de habilidades de liderazgo en comparación con los chilenos
+D. Que el proceso de selección español debería basarse únicamente en los años de experiencia
+Respuesta correcta: B
+Explicación: “Las habilidades de liderazgo se tuvieron en cuenta para un 36% de los directores. Este aspecto denota que deberían establecerse más claramente por parte de las Administraciones educativas los criterios directamente relacionados con el liderazgo directivo que permita la promoción y elección de los mejores directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+38. [LIDEI 2022 – OEI · Capítulo 3] En relación con el desarrollo curricular, ¿dónde perciben los directores mayor autonomía, y por qué?
+A. En liderar modificaciones curriculares más que en orientar la oferta, limitada por las administraciones
+B. En ambos aspectos por igual, pues las administraciones no imponen límites sobre ninguno de ellos
+C. En ninguno de los dos aspectos, pues el currículo y la oferta dependen solo de las familias
+D. En orientar la oferta educativa más que en modificar el currículo, que está totalmente prescrito por la norma
+Respuesta correcta: A
+Explicación: “En general, existe mayor autonomía a la hora de liderar modificaciones en el desarrollo curricular que se adapten a las necesidades del alumnado que a poder orientar la oferta educativa, ya que son los límites establecidos por las Administraciones educativas las que determinan estas opciones.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 61; página PDF 59.
+
+39. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué indica la menor autonomía de los directores para disponer de recursos destinados a proyectos de inclusión (62 % Argentina, 73 % Chile, 47 % España)?
+A. Que la normativa prohíbe a los directores liderar proyectos de inclusión educativa
+B. Que cuando se necesita esfuerzo económico de las administraciones se reducen las posibilidades
+C. Que los proyectos de inclusión se financian exclusivamente con aportes voluntarios de las familias
+D. Que los directores no consideran prioritarios los proyectos de inclusión y equidad en sus centros
+Respuesta correcta: B
+Explicación: “…62% en Argentina, 73% en Chile, y el 47% en España. Esto indica que cuando se necesita del esfuerzo económico de las Administraciones se reducen las posibilidades, aunque la finalidad sea la implementación de proyectos de inclusión y equidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 67; página PDF 65.
+
+40. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué prueba, según el capítulo, que la mayoría de los directores considere sus acciones mediatizadas por lo impuesto por las Administraciones?
+A. Que las Administraciones carecen de influencia real sobre la gestión de los centros escolares
+B. Que los directores rechazan sistemáticamente las líneas educativas de las Administraciones
+C. Que los directores prefieren actuar al margen de la normativa y de las instrucciones oficiales
+D. Que las líneas educativas trazadas por las Administraciones son seguidas por los directores
+Respuesta correcta: D
+Explicación: “Que las acciones de los directores estén mediatizadas por lo impuesto desde las Administraciones educativas es cierto para el 88% de los directores argentinos, para el 80% de los chilenos y para el 92% de los españoles. Esta información prueba que las líneas educativas que se trazan desde las Administraciones educativas son seguidas por los directores de los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 67; página PDF 65.
+
+41. [LIDEI 2022 – OEI · Capítulo 3] Para facilitar la comparabilidad, ¿qué dos tipos de respuestas se distinguen en los resultados del capítulo?
+A. Las de los directores (Liderazgo Directivo 2022) y las de la publicación sobre la normativa (INEE-OEI, 2019)
+B. Las de los directores de centros privados y las de los directores de centros públicos de cada país
+C. Las de los docentes de aula (TALIS 2018) y las de las familias de los estudiantes de cada centro (Aprender, 2016)
+D. Las de los inspectores educativos (Eurydice) y las de los ministerios de educación (OCDE, 2021)
+Respuesta correcta: A
+Explicación: “…se muestran en cada pregunta, en los casos que hay datos, ambos resultados y para ayudar a diferenciarlos se les ha denominado: ∙ Respuestas: directores y directoras sobre Liderazgo Directivo 2022. ∙ Respuestas: publicación Liderazgo Directivo. Dimensiones para el análisis de la normativa…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Conclusiones sobre la muestra; página impresa 40; página PDF 38.
+
+42. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué aspecto fue el más valorado en el proceso de selección de los directores en cada país?
+A. Argentina: años de experiencia; Chile: habilidades de liderazgo; España: proyecto de dirección
+B. Argentina: habilidades de liderazgo; Chile: examen; España: años de experiencia docente
+C. Argentina: examen; Chile: proyecto de dirección; España: nombramiento por la administración
+D. Argentina: proyecto de dirección; Chile: años de experiencia; España: habilidades personales de liderazgo
+Respuesta correcta: A
+Explicación: “En Argentina, el aspecto que se ha tenido en cuenta para el 69% de los directores en el proceso de selección son los años de experiencia […]. El 93% de los directores chilenos estima que en el proceso de selección se han valorado las habilidades personales de liderazgo. […] En España […] el aspecto más valorado es el proyecto de dirección (67%)…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+43. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué carga predomina en la formación recibida por los directores noveles en España, según el capítulo?
+A. Mentoría personalizada (47 %), por encima de los contenidos pedagógicos (42 %) y administrativos
+B. Contenidos administrativos (47 %), por encima de los pedagógicos (42 %) y del trabajo en equipo (36 %)
+C. Técnicas de trabajo en equipo (47 %), por encima de lo administrativo (42 %) y lo pedagógico (36 %)
+D. Contenidos pedagógicos (47 %), muy por encima de los administrativos (42 %) y del trabajo en equipo (36 %)
+Respuesta correcta: B
+Explicación: “En España, la formación recibida por los directores noveles tiene una mayor carga de contenidos administrativos (47%), que de aspectos pedagógicos (42%) o de técnicas de trabajo en equipo (36%).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 54; página PDF 52.
+
+44. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué diferencia a Chile de España y Argentina en el tipo de formación recibida por los directores?
+A. En Chile la formación se centra solo en técnicas de mediación de conflictos y habilidades sociales
+B. En Chile pesa más la formación en liderazgo de la innovación pedagógica (40 %) que la administrativa
+C. En Chile pesa más la formación administrativa (47 %) que la de liderazgo de la innovación pedagógica (40 %)
+D. En Chile no existe ningún tipo de formación inicial para los directores recién nombrados
+Respuesta correcta: B
+Explicación: “En Chile, es más importante la formación en el liderazgo de la innovación pedagógica (40%) que en las actividades administrativas (33%), o las técnicas de liderazgo de equipos (27%).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 54; página PDF 52.
+
+45. [LIDEI 2022 – OEI · Capítulo 3] ¿En qué país los directores perciben mayor autonomía para definir y gestionar el presupuesto del centro?
+A. En Argentina (86 %), frente a Chile (40 %) y a España (27 %)
+B. En Chile (86 %), ante España (40 %) y Argentina (27 %)
+C. En España (86 %), frente a Chile (40 %) y Argentina (27 %)
+D. En España (47 %), frente a Chile (73 %) y Argentina (62 %)
+Respuesta correcta: C
+Explicación: “En Argentina, solo el 27% de los directores opina que existe entre bastante y mucha autonomía […]. En Chile, el 40% de los directores estima que tienen autonomía para gestionar el presupuesto del centro. […] Sin embargo, en España, el 86% opina que existe autonomía para definir y gestionar el presupuesto del centro…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 63; página PDF 61.
+
+46. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué diferencia perciben los directores entre su autonomía para gestionar la convivencia y para resolver conflictos laborales del personal?
+A. Carecen de autonomía en ambos aspectos, que dependen solo de las Administraciones educativas
+B. Tienen la misma autonomía en ambos aspectos en los tres países analizados en la encuesta
+C. Tienen mucha más autonomía para resolver conflictos laborales que para gestionar la convivencia escolar
+D. Tienen mucha más autonomía para gestionar la convivencia que para resolver conflictos laborales
+Respuesta correcta: D
+Explicación: “El 75% de los directores españoles valora como bastante o mucha la autonomía para adaptar documentos que regula la convivencia, y el 97% la gestión de la resolución de conflictos y convivencia. Muy diferente es la resolución de conflictos laborales, pues solo el 34% se considera con autonomía para resolver conflictos provocados por la falta de cumplimiento de funciones del personal.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 65; página PDF 63.
+
+47. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué diferencia existe entre el modelo salarial de los directores en Argentina y en España, según el capítulo?
+A. En Argentina el salario es docente más complemento; en España, el director es una categoría propia
+B. En ambos países el director cobra exactamente el mismo salario que un docente, sin complemento
+C. En Argentina el director es una categoría con salario propio; en España, salario docente más complemento
+D. En Argentina el complemento depende del desempeño; en España depende de los resultados académicos del alumnado
+Respuesta correcta: C
+Explicación: “En algunos países el director es una categoría y, por tanto, tiene establecido su salario y parámetros aparte del de los profesores. Esto ocurre en Argentina […]. En otros países, el salario de director se calcula por una fórmula consistente en el salario de profesor más un complemento salarial asociado a la dirección.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 71; página PDF 69.
+
+48. [LIDEI 2022 – OEI · Capítulo 3] ¿De qué depende el complemento salarial de los directores en España, según el capítulo?
+A. De las características del centro, pero no del desempeño del cargo
+B. De la antigüedad docente del director, sin relación con el centro
+C. Del desempeño anual del cargo, pero no de las características del centro
+D. De los resultados del alumnado en las pruebas externas nacionales
+Respuesta correcta: A
+Explicación: “En España este complemento varía en función de las características del centro, pero no en función del desempeño del cargo…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 71; página PDF 69.
+
+49. [LIDEI 2022 – OEI · Capítulo 3] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE los resultados sobre remuneración asociada a la evaluación del desempeño?
+A. En Argentina la mayoría de los directores recibe una remuneración por la evaluación del desempeño
+B. No existe una opinión uniforme sobre asociar la evaluación del desempeño a una compensación económica
+C. El 40 % de los directores de Chile afirma haber recibido alguna remuneración por desempeño
+D. Solo el 9 % de los directores de España afirma que existe esa remuneración por desempeño
+Respuesta correcta: A
+Explicación: “A la vista de los resultados de la encuesta, no hay remuneración económica a los directores en Argentina. Solo el 9% de los directores de España afirma que existe, y el 40% de los directores de Chile afirma que han recibido algún tipo de remuneración económica fruto de la evaluación del desempeño de su cargo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 72; página PDF 70.
+
+50. [LIDEI 2022 – OEI · Capítulo 3] Sobre la promoción desde la dirección a puestos de supervisión o inspección, ¿qué diferencia hay entre las opiniones de los directores?
+A. Los directores de los tres países coinciden en que no existe ninguna promoción hacia esos puestos
+B. Los chilenos están mayoritariamente de acuerdo (73 %), a diferencia de argentinos y españoles (14 %)
+C. Los argentinos están mayoritariamente de acuerdo (73 %), a diferencia de españoles y chilenos (14 %)
+D. Los directores españoles están mayoritariamente de acuerdo (73 %), a diferencia de argentinos y chilenos (14 %)
+Respuesta correcta: C
+Explicación: “Lo directores argentinos están generalmente de acuerdo (73%), a diferencia de los españoles (14%) y los chilenos (14%), que afirman que no existe una promoción hacia esos puestos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 72; página PDF 70.
+
+51. [LIDEI 2022 – OEI · Capítulo 3] Un informe usa los datos del piloto para afirmar conclusiones válidas sobre todos los directores de Chile. ¿Qué crítica se fundamenta en el capítulo?
+A. La muestra solo omite a los directores de Argentina, pero representa bien a Chile y España
+B. Es correcto, pues la muestra del piloto es representativa de todos los directores de cada uno de los países
+C. Es correcto, siempre que se incluyan además los datos del informe TALIS del mismo periodo
+D. La muestra no es representativa: infrarrepresenta directoras, centros privados y centros pequeños
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La muestra de la prueba piloto no es representativa del conjunto de directores y directoras o del conjunto de centros educativos a nivel nacional. Hay aspectos fundamentales que han quedado infrarrepresentados: ∙ Están infrarrepresentadas las mujeres directoras […]. ∙ La relación entre centros públicos y privados no es similar a la realidad del país […]. ∙ Faltan directores representantes de centros pequeños…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Conclusiones sobre la muestra; página impresa 40; página PDF 38.
+
+52. [LIDEI 2022 – OEI · Capítulo 3] Una administración sostiene que los salarios directivos son adecuados porque así lo indica su valoración oficial, mientras los directores opinan lo contrario. ¿Qué análisis se apoya en el capítulo?
+A. Los directores están satisfechos con su salario, aunque declaren lo contrario en la encuesta
+B. Existe una demanda unánime de remuneración más adecuada a la responsabilidad que asumen los directores
+C. La valoración oficial basta, pues las percepciones de los directores carecen de valor para la política educativa
+D. El problema salarial es exclusivo de un país y no se observa en los otros dos analizados
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Las demandas salariales siempre son foco de conflicto, pero los encuestados reflejan que existe una demanda unánime de que la remuneración económica sea más adecuada al grado de responsabilidad que asumen los directores en los centros escolares.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1.2 Salarios de los directores; página impresa 46; página PDF 44.
+
+53. [LIDEI 2022 – OEI · Capítulo 3] En un distrito, varias direcciones quedan vacantes y la autoridad designa de oficio a docentes que no las solicitaron. ¿Qué análisis se fundamenta en el capítulo?
+A. El nombramiento forzoso es irrelevante, pues no se relaciona con el atractivo del cargo
+B. El nombramiento forzoso puede vincularse al bajo atractivo de la función directiva en algunos centros
+C. El nombramiento forzoso demuestra que no existe proceso regulado de acceso a la dirección
+D. El nombramiento forzoso garantiza la selección de los mejores líderes para cada uno de los centros escolares
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Sorprende el nombramiento forzoso del 14% de los directores, que se puede vincular al bajo atractivo de la función directiva en algunos centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+54. [LIDEI 2022 – OEI · Capítulo 3] Una administración ofrece la misma formación a directores noveles y experimentados, sin acompañamiento posterior. ¿Qué crítica se apoya en los resultados de la encuesta?
+A. Los directores opinan que la formación no está diferenciada por experiencia y el acompañamiento es escaso
+B. Los directores rechazan cualquier tipo de acompañamiento posterior a su nombramiento
+C. Es adecuada, ya que la experiencia en el cargo no influye en las necesidades formativas
+D. Es la práctica más valorada, pues los directores prefieren una formación idéntica para todos los directores
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los directores opinan que la formación recibida no está diferenciada en función de la experiencia en la función directiva. […] Solo el 25% de los directores españoles opina que la Administración realiza una labor de acompañamiento de los directores noveles, el 31% en Argentina, y sube hasta un 40% en Chile.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 53; página PDF 51.
+
+55. [LIDEI 2022 – OEI · Capítulo 3] Un director quiere impulsar un proyecto, pero los trámites administrativos tardan meses y lo paralizan. ¿Qué análisis se fundamenta en el capítulo?
+A. La demora se debe solo a la falta de iniciativa del director y no a los procesos administrativos vigentes
+B. La demora es positiva, pues garantiza que solo prosperen los proyectos de mayor calidad
+C. La complejidad y duración de los procesos administrativos bloquean decisiones y debilitan la autonomía
+D. Los procesos administrativos no influyen en la autonomía de los directores según la encuesta
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Un gran escollo son la complejidad y la larga duración de los procesos administrativos que acompañan a decisiones educativas para muchos directores. […] La complejidad y duración de los procesos administrativos bloquean y ralentizan decisiones, proyectos, metas, objetivos obstaculizando la autonomía de los directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 68; página PDF 66.
+
+56. [LIDEI 2022 – OEI · Capítulo 3] Una autoridad interpreta que los directores prefieren recibir instrucciones detalladas antes que ejercer autonomía. ¿Qué crítica se apoya en los datos de la encuesta?
+A. Pocos directores se sienten más cómodos siguiendo instrucciones; desean ejercer autonomía dentro de la norma
+B. La gran mayoría de los directores prefiere seguir instrucciones detalladas antes que ejercer su propia autonomía
+C. Los directores rechazan cualquier límite normativo y desean actuar sin ninguna regulación
+D. Los directores no se pronunciaron sobre su preferencia entre instrucciones y autonomía
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los directores estiman que desean ejercer su autonomía dentro de los límites que establezca la normativa sin necesidad del tutelaje de las Administraciones educativas. No se sienten necesariamente más cómodos siguiendo las instrucciones, pues solo lo indican el 23% en Argentina, el 20% en Chile y el 31% en España.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 68; página PDF 66.
+
+57. [LIDEI 2022 – OEI · Capítulo 3] Un sistema educativo busca plantillas docentes estables, pero los directores casi no pueden intervenir en la selección del profesorado. ¿Qué análisis se apoya en el caso español?
+A. Los directores españoles tienen plena autonomía para contratar, igual que los de centros privados
+B. El 86 % percibe amplia autonomía para seleccionar la plantilla, por lo que el problema no es la falta de autonomía
+C. Solo el 14 % percibe autonomía para seleccionar o renovar la plantilla, lo que indica escaso poder de decisión
+D. La selección de la plantilla no influye en la estabilidad docente según los resultados del capítulo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En España, solo el 14% de directores estima que hay entre bastante y mucha autonomía en la contratación y renovación. Este porcentaje indica que existe un escaso nivel de decisión por parte de los directores a la hora de seleccionar o renovar la plantilla.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 59; página PDF 57.
+
+58. [LIDEI 2022 – OEI · Capítulo 3] Tras el cierre de escuelas, una autoridad afirma que la enseñanza a distancia no afectó la equidad. ¿Qué crítica se fundamenta en la opinión de los directores?
+A. Los directores opinan que el alumnado con medidas de inclusión fue el más beneficiado por la enseñanza a distancia
+B. La mayoría considera que aumentaron las desigualdades y que se penalizó más al alumnado con medidas de inclusión
+C. Los directores no observaron ningún efecto de la enseñanza a distancia en el aprendizaje
+D. La mayoría considera que la enseñanza a distancia redujo las desigualdades entre los estudiantes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Para el 72% de los directores argentinos han aumentado las desigualdades, lo mismo opina el 86% de los chilenos y el 64% de los españoles. También están mayoritariamente de acuerdo los directores en que el aprendizaje a distancia ha perjudicado más a los estudiantes con medidas de inclusión…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 75; página PDF 73.
+
+59. [LIDEI 2022 – OEI · Capítulo 3] Durante la pandemia se asignaron nuevas tareas a la dirección sin crear nuevas figuras de apoyo. ¿Qué análisis se fundamenta en el capítulo?
+A. Las nuevas tareas se distribuyeron siempre entre figuras creadas específicamente para gestionar la pandemia
+B. La pandemia redujo las responsabilidades de la dirección al suspenderse la actividad presencial
+C. Esas responsabilidades no se distribuyeron mediante nuevas figuras, sino que las asumió la dirección
+D. Las nuevas tareas fueron asumidas por las familias, liberando a la dirección de esa carga
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Para un importante porcentaje la gestión de la pandemia no ha sido acompañada de la creación de nuevas figuras que permitiesen la distribución y liberación de responsabilidades, sino que han sido asumidas por la dirección del centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 79; página PDF 77.
+
+60. [LIDEI 2022 – OEI · Capítulo 3] Un sistema evalúa a sus directores solo por el número de sanciones aplicadas al alumnado. ¿Qué crítica se apoya en los factores que los directores declaran evaluados?
+A. Ignora solo la tasa de graduación, que es el único factor que los directores declaran evaluado
+B. Ignora el factor más utilizado, el logro de objetivos del Plan de Centro, junto al clima y la innovación
+C. Es coherente con la encuesta, que excluye el Plan de Centro de los factores de evaluación
+D. Es coherente con la encuesta, que señala las sanciones como el factor de evaluación más utilizado en los tres países
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Mayoritariamente los directores declaran que, entre los factores analizados para evaluar el desempeño, el más utilizado es la consecución de objetivos del Plan de Centro Anual. […] En España, a la consecución de objetivos del Plan de Centro, también se evalúa el rendimiento por medio de la valoración de la innovación y proyectos de centro (83%) y el clima escolar…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.4 Evaluación del desempeño; página impresa 58; página PDF 56.
+
+61. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿cómo regula la normativa española (LOE modificada por la LOMLOE) el acceso a la dirección escolar?
+A. Mediante la elección exclusiva por el claustro de profesores, sin participación de la Administración
+B. Mediante un examen nacional único que excluye la presentación de proyectos y la valoración de méritos profesionales
+C. Mediante una comisión de representantes de la comunidad y la Administración que valora proyecto y méritos
+D. Mediante la designación directa del director por la inspección educativa, sin comisión ni proyecto
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En España, el proceso de acceso a la dirección viene regulado en la Ley Orgánica de Educación modificada por la LOMLOE (2020). La selección es realizada por una comisión constituida por diferentes representantes de la comunidad educativa y la Administración que establecen los criterios, objetivos y procedimientos de valoración del proyecto presentado y de los méritos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+62. [LIDEI 2022 – OEI · Capítulo 3] En algunas comunidades autónomas españolas, como Navarra y Cataluña, ¿qué ha definido la normativa sobre la formación del profesorado?
+A. Que la formación del profesorado es voluntaria y no puede vincularse en ningún caso al Plan de Centro
+B. Que toda la formación debe organizarse fuera del centro, sin relación con su proyecto
+C. Que la formación del profesorado queda bajo decisión exclusiva de las familias
+D. Que parte de la formación debe estar ligada al Plan de Centro de cada centro educativo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En algunas comunidades autónomas, como Navarra y Cataluña, se ha definido por normativa que parte de la formación debe estar ligada al Plan de Centro que se debe realizar en los centros educativos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 61; página PDF 59.
+
+63. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿cómo se asigna y administra el presupuesto de los centros en el modelo español?
+A. Un presupuesto financiado por las familias, cuyo reparto decide el consejo de padres del centro
+B. Un presupuesto según grupos y alumnos, repartido con independencia y justificado, sin gastos de personal
+C. Un presupuesto que incluye los gastos de personal, decidido libremente por cada director sin justificar
+D. Un presupuesto igual para todos los centros, gestionado por la Administración sin ninguna intervención directiva
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “El modelo español parte de un presupuesto determinado para cada centro en función de indicadores como son el número de grupos y de alumnos, y una independencia a la hora de repartir dicho presupuesto (que no incluye los gastos de personal), en distintas partidas que deben ser debidamente justificadas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 63; página PDF 61.
+
+64. [LIDEI 2022 – OEI · Capítulo 3] En España, ¿cómo se regula la convivencia escolar y qué autonomía confiere a los centros?
+A. Mediante decretos autonómicos que los centros adaptan; da autonomía en convivencia, no en conflictos laborales
+B. Mediante decretos que otorgan a los centros plena autonomía también en los conflictos laborales
+C. Mediante reglamentos que cada centro dicta con total libertad, sin ningún decreto autonómico ni estatal de referencia
+D. Mediante una ley nacional única que no admite adaptación por parte de los centros educativos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Las comunidades autónomas han desarrollado decretos de convivencia que deben ser adaptados por los centros educativos. Este aspecto confiere autonomía a los centros para la gestión de la convivencia, pero no para la resolución de…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 65; página PDF 63.
+
+65. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué sistema establece la legislación española para el acceso a la inspección y qué peso tiene la experiencia como director?
+A. Un concurso-oposición en el que la experiencia como director pesa más que la experiencia docente
+B. Un concurso de méritos en el que solo se valora la experiencia docente en el aula
+C. Un sorteo entre docentes en el que la experiencia directiva y docente tienen idéntico peso
+D. Una designación directa en la que la experiencia como director no se considera en ningún caso ni momento
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La legislación española establece un sistema de concurso-oposición para el acceso a los puestos de inspección y los años de experiencia como director tienen un peso mayor que la experiencia de profesor…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 73; página PDF 71.
+
+66. [LIDEI 2022 – OEI · Capítulo 3] En España, según el capítulo, ¿qué establece la normativa respecto de la participación del profesorado en el funcionamiento del centro?
+A. Que promoverla corresponde a la inspección educativa externa, valorada con 3 sobre 6 por la Administración
+B. Que promoverla está prohibido al director, valorada con 1 sobre 6 por la Administración
+C. Que promoverla es optativa para el director, sin valoración alguna de la Administración
+D. Que promoverla es una de las funciones del director, valorada con 5 sobre 6 por la Administración
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En España, las proporciones de directores que sienten autonomía para liderar la participación son también muy altas; desde el 86% para alumnado, familias y entidades locales, al 97% para el profesorado. De hecho, la normativa establece que es una de sus funciones. La Administración educativa lo valora con un 5 sobre 6.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 66; página PDF 64.
+
+67. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué medios establece la normativa para distribuir el liderazgo dentro del centro?
+A. La prohibición de delegar funciones, que deben concentrarse en la figura del director
+B. Una serie de cargos, departamentos y secciones que permiten derivar las gestiones del centro
+C. La rotación anual obligatoria del cargo de director entre todos los docentes del centro
+D. La contratación de gerentes externos que asumen la gestión en lugar del equipo directivo del centro
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Para ello hay varias posibilidades, por una parte, la normativa establece una serie de cargos, departamentos y secciones que permiten derivar las gestiones del centro. […] Por tanto, la normativa establece medios para distribuir el liderazgo en el centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 69; página PDF 67.
+
+68. [LIDEI 2022 – OEI · Capítulo 3] Respecto de las oportunidades de formación en España, ¿qué existe en el salario según el capítulo?
+A. Un complemento exclusivo para los directores que superan un examen nacional anual
+B. Un complemento ligado a los resultados del alumnado en las evaluaciones externas
+C. Un complemento específico ligado a la formación para todo el profesorado y los directores
+D. Ningún tipo de complemento salarial relacionado con la formación de los directores ni del profesorado
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el salario existe un complemento específico ligado a la formación para todo el profesorado y directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 55; página PDF 53.
+
+69. [LIDEI 2022 – OEI · Capítulo 3] ¿Con qué escala valoraron las administraciones educativas los ítems de la publicación sobre la normativa (INEE-OEI, 2019)?
+A. De 0 (nunca) a 10 (siempre) en cada ítem
+B. De 1 (insuficiente) a 5 (sobresaliente) en total
+C. De 1 (nada o en absoluto) a 6 (totalmente)
+D. De 1 (muy en desacuerdo) a 4 (muy de acuerdo)
+Respuesta correcta: C
+Explicación: “(Puntuación: 1 Nada o en absoluto; 6 Totalmente)”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.1 Perfil de funciones y normativa; página impresa 41; página PDF 39.
+
+70. [LIDEI 2022 – OEI · Capítulo 3] Según el capítulo, ¿qué excepción existe en España a la escasa autonomía de los directores para renovar la plantilla?
+A. Los centros rurales agrupados, donde el director contrata libremente a todo el profesorado que necesita
+B. Experiencias en alguna comunidad autónoma y los centros privados, donde la autonomía es mucho mayor
+C. Los centros de más de 2.000 alumnos, donde la Administración delega toda la contratación
+D. Ninguna, pues la normativa prohíbe en todos los casos la intervención del director
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Hay que señalar que existen algunas experiencias en alguna comunidad autónoma en la que los directores pueden, bajo algunas condiciones, determinar la renovación del profesorado permitiendo que las plantillas de los centros sean más estables, así como los directores de centros privados, cuya autonomía en este sentido es mucho mayor que la de los directores de centros públicos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 59; página PDF 57.
+
+71. [LIDEI 2022 – OEI · Capítulo 3] En una Unidad Educativa los órganos de coordinación se quejan de que sus opiniones no se consideran. ¿Qué práctica, señalada en la Dimensión 3, debe asumir el director?
+A. Delegar todas las decisiones en los órganos, renunciando a su función de liderazgo
+B. Tener en cuenta las opiniones de los órganos de participación y coordinación al decidir medidas
+C. Disolver los órganos de coordinación para agilizar al máximo la toma de decisiones del equipo directivo
+D. Escuchar a los órganos solo cuando la Administración lo exija expresamente por escrito
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Para poder ser un buen líder hay que tener en cuenta las opiniones de los demás, en este caso son los órganos de participación y coordinación del centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 69; página PDF 67.
+
+72. [LIDEI 2022 – OEI · Capítulo 3] Un director tiene cargos complementarios definidos por la norma, pero el profesorado se implica poco en el liderazgo. ¿Qué orientación ofrece el capítulo?
+A. Esperar a que la Administración modifique la norma antes de adoptar ninguna medida
+B. Mantener solo los cargos definidos, pues crear otros perfiles está desaconsejado
+C. Crear otros puestos o perfiles que fomenten la distribución de responsabilidad e implicación docente
+D. Suprimir los cargos complementarios y concentrar todas las decisiones en la figura del director escolar
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Las figuras de liderazgo complementario están normalmente definidas. El 90% de los directores de todos los centros lo corrobora, pero ello no quita importancia a la creación de otros puestos o perfiles que fomenten la distribución de la responsabilidad y la implicación del profesorado en el liderazgo educativo del centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 3 – Promoción del liderazgo distribuido; página impresa 70; página PDF 68.
+
+73. [LIDEI 2022 – OEI · Capítulo 3] Tras la reapertura, los docentes de una Unidad Educativa discuten si priorizar el avance de contenidos o el acompañamiento emocional. ¿Qué orientación ofrecen los directores encuestados?
+A. Que la enseñanza de los contenidos debe priorizarse siempre sobre cualquier tipo de acompañamiento emocional
+B. Que el acompañamiento emocional de los estudiantes es más importante que la enseñanza de los contenidos
+C. Que ninguno de los dos aspectos fue relevante para los directores tras la reapertura de los centros
+D. Que el acompañamiento emocional corresponde solo a las familias y no a la escuela
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Por último, es importante destacar que los directores señalan que el acompañamiento emocional de los estudiantes es más importante que la enseñanza de los contenidos. Esto es afirmado por el 85% de los directores de Argentina, el 80% de los de Chile y el 63% de los españoles.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 78; página PDF 76.
+
+74. [LIDEI 2022 – OEI · Capítulo 3] Una Unidad Educativa detecta pérdida de aprendizajes tras el cierre por la pandemia. ¿Qué tipo de respuesta institucional ilustra el capítulo con el caso español?
+A. Crear medidas y programas destinados a la recuperación de los aprendizajes, como el programa PROA+
+B. Repetir automáticamente el curso completo para todos los estudiantes afectados por el cierre
+C. Ignorar la pérdida de aprendizajes, pues se recuperará sola con el retorno a la presencialidad plena
+D. Reducir el currículo de forma permanente para ajustarlo al nivel alcanzado durante el cierre
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “El 69% de los directores de Argentina ha observado pérdida de aprendizaje, lo mismo que para el 87% de los directores chilenos y, en menor medida es detectado por el 51% de los españoles. En España se han creado medidas y programas destinados a la recuperación de los aprendizajes como el programa PROA+.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 76; página PDF 74.
+
+75. [LIDEI 2022 – OEI · Capítulo 3] Durante la emergencia, varias familias se quejan de falta de comunicación con la escuela. ¿Qué esfuerzo de la dirección, reportado por los directores, es pertinente?
+A. Reducir la comunicación con las familias para concentrar los esfuerzos en tareas administrativas internas
+B. Delegar la comunicación con las familias en la Administración educativa durante la emergencia
+C. Mejorar la relación y la comunicación con las familias, como hizo la casi totalidad de los directores
+D. Limitar la comunicación a un aviso anual, para evitar sobrecargar a los docentes del centro
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Para el 100% de los directores de Chile y España se ha empleado más esfuerzo en la mejora de la relación y comunicación con las familias, lo mismo ocurre para el 92% en Argentina.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 79; página PDF 77.
+
+76. [LIDEI 2022 – OEI · Capítulo 3] Un director novel se siente solo tras su nombramiento y no sabe cómo afrontar la gestión. ¿Qué tipo de apoyo, cuya incidencia es escasa según la encuesta, respondería a su necesidad?
+A. Un examen de conocimientos normativos para verificar su idoneidad para el cargo
+B. Una reducción de su salario hasta que adquiera experiencia suficiente en el cargo
+C. Una evaluación de desempeño con sanciones si no alcanza los objetivos de su primer año en el cargo
+D. Un programa de mentoría personalizada para introducirse en sus funciones como director
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En cuanto a la mentoría de directores noveles la incidencia es escasa. En Chile el 33% habla de este programa, el 19% en Argentina y el 14%…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 54; página PDF 52.
+
+77. [LIDEI 2022 – OEI · Capítulo 3] Un grupo de directores propone intercambiar experiencias con otros centros tras su nombramiento. ¿Qué acción de la administración, mejor valorada en Chile, fundamenta la propuesta?
+A. Sustituir el intercambio por informes escritos remitidos a la Administración educativa
+B. Favorecer la creación de redes de centros para el intercambio de experiencias y buenas prácticas
+C. Prohibir el intercambio entre centros para proteger la autonomía de cada proyecto educativo institucional
+D. Limitar el intercambio a reuniones convocadas por la inspección una vez cada cinco años
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En este país es donde, en opinión de los directores, se favorece más la creación de redes de centros; un 73% están de acuerdo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.2 y 1.3.3 Formación de los directores; página impresa 53; página PDF 51.
+
+78. [LIDEI 2022 – OEI · Capítulo 3] Tras la pandemia, el alumnado de una Unidad Educativa muestra cansancio, pero también colaboración. ¿Qué lectura ofrecen los directores encuestados?
+A. Coexisten cansancio generalizado y aspectos positivos como la colaboración y mayor capacidad del alumnado
+B. Los directores no observaron cambios en el alumnado como consecuencia de la pandemia
+C. El alumnado solo presenta aspectos negativos, sin ningún tipo de comportamiento positivo de colaboración mutua
+D. El alumnado no muestra cansancio y solo presenta aspectos positivos tras la pandemia
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “El 100% de los directores de Argentina opina que el alumnado se siente cansado de esta situación […]. Ante las dificultades, algo más de la mitad de los directores opina que el alumnado se ha empoderado y se siente más capaz de superar las dificultades. […] El que los alumnos tengan comportamientos positivos de colaboración es detectado por el 73% de los directores argentinos, el 80% de los chilenos…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 77; página PDF 75.
+
+79. [LIDEI 2022 – OEI · Capítulo 3] Un director quiere aplicar una metodología innovadora para la inclusión, pero teme no tener margen de decisión. ¿Qué indican los resultados sobre su autonomía metodológica?
+A. Que las metodologías están totalmente prescritas por la Administración, sin margen para el director
+B. Que la autonomía metodológica depende exclusivamente de la aprobación de las familias
+C. Que la autonomía metodológica es ilimitada y no depende de ningún factor externo
+D. Que las medidas metodológicas cuentan con amplia autonomía, aunque la limiten formación o recursos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las medidas metodológicas que se toman en los centros cuentan con una amplia autonomía por parte de los directores. […] Posiblemente algunos límites a la autonomía estén ligados a agentes externos a la dirección como es la formación del profesorado o los recursos económicos disponibles.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 61; página PDF 59.
+
+80. [LIDEI 2022 – OEI · Capítulo 3] Tras la pandemia, un director observa que muchos docentes se muestran dispuestos a nuevos proyectos colaborativos. ¿Qué aprovechamiento se fundamenta en el capítulo?
+A. Impulsar proyectos de trabajo en redes de colaboración, pues el profesorado apuesta por ellos
+B. Concentrar los proyectos en la dirección, ya que el profesorado no desea participar activamente en ellos
+C. Evitar nuevos proyectos, pues el profesorado quedó desmotivado y rechaza la colaboración
+D. Postergar los proyectos hasta la siguiente gestión, para no alterar la rutina del centro
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La vocación, implicación y motivación del profesorado ha sido la clave esencial para poder superar las dificultades del periodo de cierre […] y un porcentaje mayor (81% en Argentina, 71% en Chile y 63% en España) son de la opinión de que el profesorado apuesta por nuevos proyectos de trabajo en redes de colaboración.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 77; página PDF 75.
+
+81. [LIDEI 2022 – OEI · Capítulo 3] Una autoridad rediseña el proceso de selección de directores para atraer a los mejores líderes. ¿Qué decisión se apoya en el análisis del caso español?
+A. Eliminar la presentación de proyectos de dirección del proceso de selección
+B. Ampliar el nombramiento forzoso para cubrir rápidamente las direcciones vacantes del distrito
+C. Definir con más claridad criterios directamente relacionados con el liderazgo directivo
+D. Basar la selección solo en los años de experiencia docente de los postulantes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Este aspecto denota que deberían establecerse más claramente por parte de las Administraciones educativas los criterios directamente relacionados con el liderazgo directivo que permita la promoción y elección de los mejores directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 1 – 1.3.1 Selección del director; página impresa 51; página PDF 49.
+
+82. [LIDEI 2022 – OEI · Capítulo 3] Una autoridad diseña programas de formación para directores con el objetivo de hacer más atractivo el cargo. ¿Qué decisión se fundamenta en el capítulo?
+A. Hacerlos obligatorios y extensos, aunque no respondan a las necesidades de los directores
+B. Considerar sus necesidades y hacerlos tan atractivos que supongan un incentivo más para la dirección
+C. Reducirlos al mínimo, pues la formación no influye en el atractivo de la función directiva
+D. Diseñarlos sin consultar a los directores, ya que la Administración conoce mejor sus necesidades formativas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Otro atractivo es que los puestos de dirección facilitan el acceso a otros puestos mediante la obtención de méritos. Los programas de formación de directores deberían considerar sus necesidades y ser tan atractivas que supongan un incentivo más para la dirección.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 74; página PDF 72.
+
+83. [LIDEI 2022 – OEI · Capítulo 3] Al definir la oferta de formación directiva, una administración debe decidir cómo identificar las mejores propuestas. ¿Qué decisión se apoya en los resultados de la encuesta?
+A. Prescindir de la opinión de los directores, pues la mayoría rechaza ser consultada
+B. Copiar sin cambios la oferta de otros países, sin considerar el contexto propio
+C. Delegar la definición de la oferta formativa en las familias de los estudiantes de cada centro escolar
+D. Consultar a los directores, pues en Argentina y España rara vez se les pregunta sobre la formación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las ofertas de formación para directores no son consultadas por las Administraciones de Argentina o España, aunque el 38% de los directores en Argentina, y el 25% en España, indica que se ha tenido en cuenta su opinión a la hora de establecer la formación. En Chile, el 57% de los directores declara que se le ha consultado…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 73; página PDF 71.
+
+84. [LIDEI 2022 – OEI · Capítulo 3] Con un presupuesto limitado, una administración debe priorizar una medida para ayudar a los directores. ¿Cuál es la demanda común más destacada en los tres países?
+A. Un programa de formación pedagógica y de liderazgo educativo para directores
+B. Una mayor autonomía del director en la elección de la formación docente
+C. Una normativa más flexible y una nueva definición de funciones directivas
+D. Una estructura organizativa con nuevos órganos de participación en el centro educativo
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Luego son muy claras las necesidades de los directores de los tres países: • Un programa de formación pedagógica y liderazgo educativo. Se necesita formación para saber afrontar los retos de la educación del siglo XXI…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+85. [LIDEI 2022 – OEI · Capítulo 3] En España, una administración evalúa qué demanda atender primero. ¿Cuál es la principal demanda de los directores españoles?
+A. Un programa de mentoría personalizada para los directores noveles (83 %)
+B. La definición de funciones y responsabilidades del director (83 %)
+C. El apoyo a los centros en contexto vulnerable o de conflicto (83 %)
+D. La autonomía del director en la gestión de los recursos humanos (83 %)
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En España, la principal demanda, para el 83%, es autonomía del director o directora en la gestión de los recursos humanos de los centros.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+86. [LIDEI 2022 – OEI · Capítulo 3] Al definir incentivos económicos para directores, ¿con qué deberían vincularse según las demandas recogidas en el capítulo?
+A. Con la antigüedad en el cargo, sin evaluar el desempeño ni los objetivos del Plan de Centro
+B. Con el número de estudiantes matriculados, sin considerar el clima escolar ni los objetivos
+C. Con los resultados de una prueba anual de conocimientos normativos aplicada cada año a todos los directores
+D. Con el desempeño profesional, evaluando la mejora del clima y el logro de objetivos del Plan de Centro
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Por último, está la demanda económica para establecer incentivos acordes con el desempeño profesional. Evaluar las responsabilidades y la mejora (tal y como analizó el apartado 1.3.4.) del clima escolar y consecución de objetivos de los Planes de Centro.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+87. [LIDEI 2022 – OEI · Capítulo 3] Una administración quiere fortalecer el liderazgo directivo. Considerando que en Argentina solo el 38 % de los directores se siente respaldado, ¿qué decisión se apoya en el capítulo?
+A. Reducir la autonomía de los directores para evitar decisiones que requieran respaldo
+B. Mantener la situación, pues el respaldo no influye en el ejercicio de la autonomía
+C. Brindar mayor respaldo a los directores en sus decisiones y en el ejercicio de su autonomía
+D. Aumentar el tutelaje administrativo para que los directores sigan instrucciones detalladas y precisas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Sería deseable que los directores se sintiesen más respaldados por la Administración en sus decisiones. En Argentina, solo el 38% se siente bastante o muy respaldado…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 68; página PDF 66.
+
+88. [LIDEI 2022 – OEI · Capítulo 3] Un director decide cómo organizar el trabajo de su comunidad para impulsar el liderazgo distribuido. ¿Qué demanda de los directores orienta esa decisión?
+A. Aumentar la supervisión individual de cada docente en lugar del trabajo en equipo
+B. Concentrar la planificación en el equipo directivo, sin espacios de trabajo con la comunidad
+C. Reducir las reuniones colectivas para dar más tiempo a las tareas administrativas individuales del personal
+D. Generar tiempos y espacios que propicien el trabajo colaborativo entre los miembros de la comunidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Tiempos y espacios que propicien el trabajo colaborativo entre los miembros de la comunidad educativa, lo cual está alineado con el objetivo de…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+89. [LIDEI 2022 – OEI · Capítulo 3] Al formular su proyecto de centro, un director debe decidir sus principios rectores. ¿Qué aspiración de los directores recoge el capítulo?
+A. Proyectos diseñados solo por la dirección, con mínima participación de la comunidad educativa
+B. Proyectos centrados en la competencia entre docentes y en la selección del mejor alumnado
+C. Proyectos que impliquen a toda la comunidad con cooperación, reparto de responsabilidades e inclusión
+D. Proyectos dependientes de la Administración, sin participación de las familias ni del alumnado del centro
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los directores quieren crear Proyectos de Centro donde se implique a toda la comunidad educativa y donde los principios de cooperación, reparto y distribución de responsabilidades e inclusión sean compartidos por todos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+90. [LIDEI 2022 – OEI · Capítulo 3] Una administración estudia ampliar la autonomía de los directores en un área donde estos ya perciben un amplio margen. ¿En cuál de estas áreas los directores chilenos declaran mayor autonomía (93 %)?
+A. Definir y orientar la oferta educativa del centro más allá de lo fijado por la norma
+B. Decidir estrategias, metodologías y recursos didácticos vinculados a equidad, calidad e inclusión
+C. Seleccionar y renovar la plantilla docente para estabilizar el profesorado del centro
+D. Definir y gestionar el presupuesto del centro educativo según sus necesidades propias e institucionales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En Argentina, un 77% de los directores encuestados opinan que existe entre bastante y mucha autonomía a la hora de decidir estrategias, metodologías y recursos didácticos; en Chile alcanza el 93% y, en España, el 74%.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Autonomía del director; página impresa 61; página PDF 59.
+
+91. [LIDEI 2022 – OEI · Capítulo 3] Al planificar estrategias para atraer y retener a los mejores profesionales en la dirección, ¿qué abarca la sección del cuestionario sobre el atractivo de la dirección escolar?
+A. Género y edad del director, tipo de centro, localización geográfica y número de estudiantes
+B. Profesionalización de la función, oportunidades de promoción, medidas de mayor impacto y apoyos necesarios
+C. Enseñanza a distancia, conectividad, salud emocional de la comunidad y reapertura de los centros
+D. Rendimiento del alumnado, infraestructura escolar, equipamiento tecnológico y número de docentes por centro escolar
+Respuesta correcta: B
+Explicación: “Finalmente –y en relación con la manera en que se puede atraer y retener a los mejores profesionales para los cargos de dirección–, se solicita información para conocer el atractivo de la dirección escolar, abarcando ítems sobre la profesionalización de la función directiva, las oportunidades de promoción profesional y las medidas de mayor impacto, así como los aspectos que el encuestado considera necesarios…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 32; página PDF 30.
+
+92. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué considera el capítulo una de las mayores demandas de los directores para el atractivo estratégico del cargo?
+A. La profesionalización: selección objetiva, funciones reguladas, nivel diferenciado y salario ajustado
+B. La designación vitalicia en el cargo y la exención de la rendición de cuentas ante la comunidad educativa
+C. La reducción de la jornada laboral y la supresión de toda evaluación del desempeño directivo
+D. La eliminación de los órganos colegiados y la concentración de decisiones en la dirección
+Respuesta correcta: A
+Explicación: “Una de las mayores demandas de los directores es la profesionalización de la función directiva, con procesos selectivos objetivos, funciones más reguladas, nivel diferenciado del profesorado y salarios ajustados a su puesto de responsabilidad.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 73; página PDF 71.
+
+93. [LIDEI 2022 – OEI · Capítulo 3] Al analizar la estrategia de incentivos, ¿qué concluye el capítulo sobre las posibilidades de las administraciones?
+A. Que deben reducir los incentivos actuales para garantizar la sostenibilidad
+B. Que el atractivo del cargo no depende de las administraciones educativas
+C. Que ya han agotado todas las posibilidades de mejorar el atractivo del cargo directivo
+D. Que todavía tienen posibilidades de hacer más atractivo el cargo de director
+Respuesta correcta: D
+Explicación: “Respecto a las afirmaciones recogidas en este informe se deduce que las administraciones todavía tienen posibilidades de hacer más atractivo el cargo de…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 73; página PDF 71.
+
+94. [LIDEI 2022 – OEI · Capítulo 3] Para retener a directores, ¿qué incentivos no salariales se mencionan como otra forma de atraerlos y retenerlos?
+A. El acceso prioritario a formación, la capacitación y la participación en proyectos de investigación
+B. El uso de vehículo oficial, la vivienda gratuita y la asignación de personal de servicio
+C. La designación de familiares en cargos del centro y la libertad para fijar su propio horario de trabajo
+D. La reducción de la jornada laboral, las vacaciones extendidas y la exención de evaluaciones
+Respuesta correcta: A
+Explicación: “Los incentivos no salariales como el acceso prioritario a formación, oportunidades de capacitación y participación en proyectos de investigación son otra forma de atraer y retener a los directores en sus puestos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 4 – Atractivo de la dirección escolar; página impresa 73; página PDF 71.
+
+95. [LIDEI 2022 – OEI · Capítulo 3] Al diseñar una política de recursos humanos que impulse el liderazgo distribuido, ¿qué consideran clave los directores respecto de la autonomía en esa gestión?
+A. Contratar al profesorado solo por antigüedad, sin vincularlo al proyecto del centro
+B. Renovar anualmente toda la plantilla docente para evitar la acomodación del profesorado en el centro educativo
+C. Delegar toda la gestión de personal en la Administración, sin intervención del director
+D. Promocionar a los mejores docentes, crear plantillas estables y alinear al profesorado en un proyecto
+Respuesta correcta: D
+Explicación: “• Autonomía del director y de los centros en la gestión de los recursos humanos. La posibilidad de promocionar a los mejores profesores, de crear plantillas estables en los centros, de gestionar comunidades de profesores que se alineen en un proyecto con líneas de futuro y no depender de la renovación cada año, son la clave…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Aspectos necesarios para el liderazgo pedagógico, inclusivo y distribuido; página impresa 81; página PDF 79.
+
+96. [LIDEI 2022 – OEI · Capítulo 3] Como cierre del capítulo, ¿qué se considera necesario para que los directores desarrollen su labor dentro del modelo de liderazgo propuesto?
+A. Valorar su trabajo, ofrecerles confianza y cubrir sus demandas y necesidades
+B. Aumentar el control sobre su trabajo y reducir su margen de autonomía
+C. Mantener las condiciones actuales, pues no existen demandas pendientes
+D. Sustituir a los directores actuales por gestores externos especializados en administración
+Respuesta correcta: A
+Explicación: “Es necesario valorar el trabajo de los directores y directoras de los centros educativos, ofrecerles confianza y cubrir sus demandas y necesidades para desarrollar su labor de dirección dentro de los valores y objetivos del liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – ¿Volvería a ser director o directora?; página impresa 82; página PDF 80.
+
+97. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué beneficio estratégico se espera del análisis comparado de las encuestas sobre políticas y prácticas en liderazgo educativo?
+A. Establecer un ranking de países según la calidad de sus directores escolares para asignar financiación
+B. Determinar qué directores deben ser removidos de sus cargos por no cumplir el modelo de liderazgo
+C. Sustituir la normativa nacional de cada país por un reglamento único y común de dirección escolar para toda Iberoamérica
+D. Obtener más claves que permitan a las administraciones fomentar el liderazgo pedagógico, inclusivo y distribuido
+Respuesta correcta: D
+Explicación: “Fruto del análisis del estudio comparado de las encuestas sobre políticas y prácticas en liderazgo educativo se podrán obtener más claves que permitan a las administraciones educativas fomentar el liderazgo pedagógico, inclusivo y distribuido.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Pilotaje y resultados; página impresa 32; página PDF 30.
+
+98. [LIDEI 2022 – OEI · Capítulo 3] Las cuatro preguntas sobre autonomía (mediatización, respaldo, comodidad con instrucciones y procesos administrativos) suponen una síntesis. ¿De qué?
+A. De la opinión de los directores sobre la autonomía directiva y la necesidad de políticas educativas comunes
+B. De la opinión de las familias sobre la gestión de los directores en los centros escolares
+C. De la satisfacción salarial de los directores en comparación con el profesorado de aula
+D. Del rendimiento académico del alumnado en relación con la autonomía financiera y administrativa del centro escolar
+Respuesta correcta: A
+Explicación: “Estas cuatro preguntas suponen una síntesis de la opinión de los directores sobre la autonomía de la función directiva y la necesidad de las Administraciones educativas de establecer políticas comunes educativas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Dimensión 2 – Consideraciones sobre la autonomía; página impresa 67; página PDF 65.
+
+99. [LIDEI 2022 – OEI · Capítulo 3] Al planificar recursos tras la pandemia, ¿qué esfuerzo de la Administración describe el capítulo?
+A. Entrega de recursos solo a centros privados, sin apoyo a los centros públicos durante la pandemia
+B. Suspensión de las partidas económicas y transferencia de los gastos informáticos a las familias
+C. Reducción del profesorado de apoyo y cierre de plataformas educativas en la mayoría de los centros públicos
+D. Más ordenadores y mejores plataformas, más profesorado en algunos centros y partidas económicas en España
+Respuesta correcta: D
+Explicación: “La Administración ha realizado un esfuerzo importante en cuanto a los recursos informáticos, disponiendo más ordenadores para el alumnado en la mayoría de los centros y mejorando las plataformas educativas. En cuanto a los recursos humanos, […] se ha incrementado el número de profesores de plantilla y el número de profesores de apoyo. En cuanto a los recursos materiales, en España, se han dispuesto partidas económicas en el 50% de los centros…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Educar en tiempos de emergencia; página impresa 76; página PDF 74.
+
+100. [LIDEI 2022 – OEI · Capítulo 3] Al planificar el seguimiento de la gestión directiva, ¿qué datos recoge la cuarta sección del cuestionario además de las responsabilidades del cargo?
+A. El tiempo semanal dedicado a diversas tareas y los procesos y prácticas de evaluación del desempeño
+B. El estado de salud del director y su situación familiar durante el periodo de la pandemia
+C. Las preferencias políticas del director y su afiliación a organizaciones sindicales docentes del país
+D. El rendimiento académico del alumnado y los resultados en pruebas nacionales de cada centro
+Respuesta correcta: A
+Explicación: “También se recogen datos tanto del tiempo semanal dedicado, a juicio de cada director, en diversas tareas y actividades, así como información de los procesos y prácticas de evaluación de desempeño.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar – Diseño de la encuesta; página impresa 31; página PDF 29.

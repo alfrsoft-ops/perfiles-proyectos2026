@@ -1,0 +1,995 @@
+# Fuente: ods-2030-c3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Capítulo evaluado: III. Modalidades de aplicación
+# Páginas: impresas 57 a 71 (PDF 55 a 69)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio del capítulo «III. Modalidades de aplicación» del documento Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO)
+# Alcance
+# Sección III completa: gobernanza, rendición de cuentas y alianzas; coordinación; supervisión, seguimiento y examen; financiación; y conclusión (párrafos 77 a 109 y nota 16)
+# Correspondencia de páginas
+# Página impresa = página PDF + 2 (impresas 57–71 = PDF 55–69)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 52 de contenido textual · 48 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede del capítulo III (párrafos 77 a 109).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: ods-2030-c3
+
+1. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Según el párrafo 77, ¿qué mecanismos serán necesarios en los planos nacional, regional y mundial para poner en marcha el ODS 4-Educación 2030?
+A. De gobernanza, rendición de cuentas, coordinación, supervisión, seguimiento, examen, informes y evaluación
+B. De gobernanza, regulación laboral, negociación colectiva, supervisión, sanción administrativa y control
+C. De planificación, inspección escolar, acreditación, certificación, control presupuestario y auditoría externa
+D. De financiación, cooperación técnica, transferencia tecnológica, becas, intercambio docente y acreditación
+Respuesta correcta: A
+Explicación: “Para poner en marcha el ODS 4-Educación 2030 serán necesarios mecanismos nacionales, regionales y mundiales de gobernanza, rendición de cuentas, coordinación, supervisión, seguimiento y examen, presentación de informes y evaluación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Modalidades de aplicación (introducción), párr. 77; página impresa 57; página PDF 55.
+
+2. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cuál es el objetivo central de los mecanismos destinados a realizar el ODS 4-Educación 2030?
+A. Respaldar las actividades lideradas por los países
+B. Sustituir las políticas educativas de cada país miembro
+C. Uniformar los sistemas educativos de todas las regiones
+D. Dirigir desde la UNESCO las reformas de cada país
+Respuesta correcta: A
+Explicación: “El objetivo central de los mecanismos destinados a realizar el ODS 4-Educación 2030 es respaldar las actividades lideradas por los países.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Modalidades de aplicación (introducción), párr. 77; página impresa 57; página PDF 55.
+
+3. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué organismos se identifican en el párrafo 88 como organismos coordinadores del ODS 4-Educación 2030?
+A. UNESCO, PNUD, OEI, CEPAL, UNICEF, ONU Mujeres, Banco Interamericano y OIT
+B. UNESCO, PNUMA, UNFPA, OMC, UNICEF, ONU Hábitat, Banco Mundial y OIT
+C. UNESCO, OMS, FAO, ACNUR, UNICEF, ONU Mujeres, Banco Mundial y OCDE
+D. UNESCO, PNUD, UNFPA, ACNUR, UNICEF, ONU Mujeres, Banco Mundial y OIT
+Respuesta correcta: D
+Explicación: “La cooperación entre los organismos coordinadores del ODS 4-Educación 2030 (la UNESCO, el PNUD, el UNFPA, la ACNUR, el UNICEF, ONU Mujeres, el Banco Mundial y la OIT)…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 88; página impresa 61; página PDF 59.
+
+4. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué puntos de referencia internacionales y regionales de gasto en educación recoge el párrafo 105?
+A. Al menos entre el 4 % y el 6 % del PIB y/o entre el 15 % y el 20 % del gasto público
+B. Al menos entre el 2 % y el 4 % del PIB y/o entre el 10 % y el 15 % del gasto público
+C. Al menos entre el 6 % y el 8 % del PIB y/o entre el 20 % y el 25 % del gasto público total
+D. Al menos el 0,7 % del INB y/o entre el 0,15 % y el 0,2 % del gasto público total
+Respuesta correcta: A
+Explicación: “• asignar por lo menos entre el 4% y el 6% del producto interno bruto (PIB) a la educación; y/o • asignar por lo menos entre el 15% y el 20% del gasto público a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 105; página impresa 67; página PDF 65.
+
+5. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Según el párrafo 105, ¿cuánto asignaron en promedio los países a la educación en 2012?
+A. El 5 % del PIB y el 13,7 % del gasto público
+B. El 3 % del PIB y el 10,5 % del gasto público
+C. El 6 % del PIB y el 20,0 % del gasto público total
+D. El 4 % del PIB y el 15 % del gasto público
+Respuesta correcta: A
+Explicación: “En 2012, los países asignaron, en promedio, el 5% del PIB y el 13,7% del gasto público a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 105; página impresa 67; página PDF 65.
+
+6. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿A cuánto se calcula la brecha anual promedio de financiación entre 2015 y 2030 en los países de ingresos bajos y medianos-bajos?
+A. A 149.000 millones de dólares estadounidenses
+B. A 39.000 millones de dólares estadounidenses
+C. A 340.000 millones de dólares estadounidenses
+D. A 3.200 millones de dólares estadounidenses
+Respuesta correcta: B
+Explicación: “Se calcula que la brecha total anual de financiación entre los recursos internos disponibles y el monto necesario para alcanzar las nuevas metas en materia de educación será en promedio de 39.000 millones de dólares estadounidenses entre 2015 y 2030 en los países de ingresos bajos y medianos-bajos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+7. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué porcentaje de los fondos conseguidos mediante llamamientos de ayuda humanitaria se asigna a la educación, según el documento?
+A. Un 13,7 % de dichos fondos
+B. Cerca del 20 % de dichos fondos
+C. Solo el 2 % de dichos fondos
+D. Alrededor del 42 % de los fondos
+Respuesta correcta: C
+Explicación: “Solo el 2% de los fondos conseguidos mediante llamamientos de ayuda humanitaria se asignan a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+8. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué compromisos de AOD de los países desarrollados recuerda el párrafo 107?
+A. El 4 % del PIB para países en desarrollo y entre el 15 % y el 20 % para los menos adelantados
+B. El 0,7 % del INB para países en desarrollo y entre el 0,15 % y el 0,2 % para los menos adelantados
+C. El 2 % del INB para países en desarrollo y entre el 0,5 % y el 0,7 % para los Estados insulares
+D. El 0,2 % del INB para países en desarrollo y entre el 0,7 % y el 1 % para los países menos adelantados
+Respuesta correcta: B
+Explicación: “…incluido el de muchos países desarrollados de alcanzar la meta de asignar el 0,7% del ingreso nacional bruto (INB) a la AOD en favor de los países en desarrollo y entre el 0,15% y el 0,2% del INB en favor de los países menos adelantados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+9. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Con qué periodicidad mínima se reunirá el Comité de Dirección del ODS-Educación 2030?
+A. Por lo menos dos veces al mes
+B. Solo cada cinco años como mínimo
+C. Por lo menos una vez al año
+D. Por lo menos cada dos años
+Respuesta correcta: C
+Explicación: “El Comité de Dirección del ODS-Educación 2030 se reunirá por lo menos una vez al año.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 94; página impresa 62; página PDF 60.
+
+10. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] En la composición del Comité de Dirección, ¿qué organización representará a las organizaciones regionales de América Latina y el Caribe?
+A. La Comisión Económica para América Latina y el Caribe de las Naciones Unidas
+B. La Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura
+C. El Banco Interamericano de Desarrollo, por su función en la financiación regional
+D. La Organización de los Estados Americanos y su consejo interamericano de educación y cultura
+Respuesta correcta: B
+Explicación: “…un representante de las organizaciones regionales de cada una de las seis regiones […]. Para América Latina y el Caribe, el representante será de la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 94; página impresa 63; página PDF 61.
+
+11. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué características deberán tener los mecanismos del ODS 4-Educación 2030 para resultar más eficaces?
+A. Serán integradores, jerárquicos y reservados, y se crearán íntegramente nuevos para la agenda
+B. Serán centralizados, técnicos y confidenciales, y en lo posible reemplazarán por completo a los ya existentes
+C. Serán voluntarios, informales y flexibles, y funcionarán al margen de los mecanismos existentes
+D. Serán integradores, participativos y transparentes, y en lo posible reposarán en otros ya existentes
+Respuesta correcta: D
+Explicación: “Para resultar más eficaces, estos mecanismos serán integradores, participativos y transparentes. Además, en lo posible reposarán en otros ya existentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Modalidades de aplicación (introducción), párr. 77; página impresa 57; página PDF 55.
+
+12. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Por qué principios deben guiarse las alianzas en todos los niveles, según el párrafo 79?
+A. Consulta posterior a las decisiones, delegación de responsabilidades, autonomía de cada asociado y reserva
+B. Diálogo técnico entre expertos, rendición de cuentas unilateral ante donantes, discreción y especialización
+C. Diálogo sobre políticas abierto, integrador y participativo, rendición de cuentas mutua, transparencia y sinergias
+D. Negociación bilateral reservada, competencia entre asociados, control jerárquico, eficiencia administrativa y confidencialidad
+Respuesta correcta: C
+Explicación: “Las alianzas en todos los niveles deben guiarse por los principios de un diálogo sobre políticas abierto, integrador y participativo, junto con una rendición de cuentas mutua, transparencia y sinergias.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 79; página impresa 58; página PDF 56.
+
+13. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué significa el enfoque de la educación “del gobierno en su conjunto” planteado en el párrafo 86?
+A. Transferir la conducción de la educación a la presidencia, relegando al ministerio de educación del país
+B. Distribuir las competencias educativas entre los gobiernos locales, sin ninguna coordinación con el nivel central
+C. Concentrar en el ministerio de educación todas las decisiones, sin intervención de los demás ministerios
+D. Fortalecer el liderazgo, la coordinación y las sinergias dentro de todo el gobierno en el desarrollo educativo
+Respuesta correcta: D
+Explicación: “…resulta necesario un enfoque de la educación ‘del gobierno en su conjunto’. […] es necesario fortalecer el liderazgo, la coordinación y las sinergias dentro de los gobiernos en lo que respecta al desarrollo de la educación y su integración en marcos más amplios de desarrollo socioeconómico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 86; página impresa 60; página PDF 58.
+
+14. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Según el párrafo 97, ¿qué enfoque se requiere para supervisar la calidad de la educación?
+A. Un enfoque multidimensional que abarque solo los insumos materiales y las horas de clase efectivamente impartidas
+B. Un enfoque multidimensional que abarque el diseño, las aportaciones, el contenido, los procesos y los resultados
+C. Un enfoque unidimensional centrado en los resultados de pruebas estandarizadas aplicadas al final de cada nivel
+D. Un enfoque administrativo que abarque la asistencia, la matrícula, el presupuesto ejecutado y la infraestructura
+Respuesta correcta: B
+Explicación: “Para supervisar la calidad de la educación se requiere un enfoque multidimensional que abarque el diseño, las aportaciones, el contenido, los procesos y los resultados del sistema.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 97; página impresa 64; página PDF 62.
+
+15. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cuáles se cuentan entre los principios básicos del enfoque de la evaluación, según el párrafo 103?
+A. Rendimiento en pruebas internacionales, mérito individual, selectividad, autonomía y estandarización
+B. Calidad de la enseñanza, liderazgo escolar, equidad e inclusión, transparencia y participación de asociados
+C. Competencia entre escuelas, control disciplinario, eficiencia de costos, reserva de datos y sanciones
+D. Calidad de la infraestructura, cobertura de matrícula, cumplimiento horario, auditoría externa y confidencialidad
+Respuesta correcta: B
+Explicación: “Entre los principios básicos del enfoque de la evaluación se cuentan la centralidad de la calidad de la enseñanza y el aprendizaje; la importancia del liderazgo escolar; la equidad y la inclusión como dimensiones clave; la transparencia; y la participación de los asociados en todos los niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+16. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cómo concibe el documento la relación entre la cooperación Sur-Sur y la cooperación Norte-Sur?
+A. La Sur-Sur es fundamental siempre que complemente, y no sustituya, la cooperación Norte-Sur
+B. La Sur-Sur debe sustituir a la Norte-Sur por su menor costo y mayor cercanía
+C. La Sur-Sur es secundaria y solo debe aplicarse cuando la cooperación Norte-Sur no esté disponible
+D. La Sur-Sur y la Norte-Sur son incompatibles, por lo que cada país debe optar por una de ellas
+Respuesta correcta: A
+Explicación: “…la cooperación Sur-Sur es otro elemento fundamental de la cooperación internacional para el desarrollo, siempre y cuando complemente, y no sustituya, la cooperación Norte-Sur.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+17. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué criterio clave deberán cumplir todas las inversiones, actuales y futuras, según el párrafo 108?
+A. Que ayuden a que todos, incluidos los más marginados, adquieran lo que necesitan para ejercer su derecho
+B. Que se concentren en las instituciones de excelencia con mejores resultados en evaluaciones externas
+C. Que generen el mayor retorno económico posible en el menor plazo para los países que las financian
+D. Que se distribuyan en partes iguales entre todos los niveles educativos, con prescindencia de las necesidades
+Respuesta correcta: A
+Explicación: “Todas las inversiones, actuales y futuras, deberán responder a un criterio clave, esto es, ¿ayuda esa inversión a garantizar que todas las personas, incluidas las más marginadas y vulnerables, adquieran los conocimientos, actitudes y aptitudes que necesitan para sus vidas y su sustento y para la plena realización de su derecho a la educación?”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+18. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué papel atribuye el párrafo 78 a los gobiernos respecto del derecho a la educación?
+A. Son meros facilitadores secundarios, pues la responsabilidad principal recae en los organismos internacionales
+B. Son financiadores parciales que comparten por igual la responsabilidad con el sector privado y las ONG
+C. Son los principales responsables de hacerlo cumplir y garantes de una gobernanza y financiación eficaces
+D. Son ejecutores de las directrices de la UNESCO, sin margen para adaptar la agenda a sus prioridades
+Respuesta correcta: C
+Explicación: “Los gobiernos son los principales responsables de hacer cumplir el derecho a la educación, y desempeñan un papel esencial de garantes de una gobernanza y una financiación de la educación pública eficientes, equitativas y eficaces.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+19. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿A qué objetivos deberán contribuir, en general, las actividades de evaluación según el párrafo 103?
+A. Solo a los objetivos de control y sanción de las instituciones
+B. A los objetivos tanto de rendición de cuentas como de desarrollo
+C. Solo a los objetivos de clasificación y de selección de los alumnos
+D. A los objetivos de comparación internacional y de financiación externa
+Respuesta correcta: B
+Explicación: “En general, las actividades de evaluación deberán contribuir a la consecución de los objetivos tanto de rendición de cuentas, como de desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+20. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Según el párrafo 104, ¿por dónde deben comenzar los esfuerzos destinados a colmar la brecha de financiación?
+A. Por la financiación interna de cada país
+B. Por los préstamos de la banca multilateral
+C. Por las contribuciones del sector privado
+D. Por la ayuda humanitaria internacional
+Respuesta correcta: A
+Explicación: “Los esfuerzos destinados a colmar la brecha de financiación deben comenzar con la financiación interna.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 104; página impresa 66; página PDF 64.
+
+21. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué afirma el párrafo 79 sobre el efecto de una mayor responsabilidad en el plano escolar?
+A. Que podría reemplazar la supervisión distrital y nacional
+B. Que podría sumar eficacia a la prestación de servicios
+C. Que podría debilitar la rectoría estatal en educación
+D. Que podría elevar los costos sin mejorar los resultados
+Respuesta correcta: B
+Explicación: “Una mayor responsabilidad en el plano escolar podría sumar eficacia a la prestación de servicios.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 79; página impresa 58; página PDF 56.
+
+22. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un director quiere fortalecer la transparencia de la gestión de su Unidad Educativa. Según el párrafo 79, ¿por dónde debe comenzar la participación?
+A. Por la designación de un comité de docentes que administre de forma reservada los recursos
+B. Por la espera de instrucciones de la autoridad nacional antes de convocar a otros actores
+C. Por la contratación de una auditoría externa privada que certifique la gestión administrativa de la escuela
+D. Por el compromiso de las familias y comunidades de reforzar la transparencia y la buena gestión
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La participación debe comenzar con el compromiso de las familias y comunidades de reforzar la transparencia y garantizar una buena gestión de la administración de la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 79; página impresa 58; página PDF 56.
+
+23. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cómo caracteriza el párrafo 81 a los docentes, los educadores y sus organizaciones?
+A. Como actores consultivos ocasionales, convocados solo en la fase de evaluación
+B. Como asociados fundamentales por derecho propio que deben participar en todas las fases
+C. Como destinatarios de la capacitación, sin funciones en el planeamiento de las políticas
+D. Como ejecutores de las políticas, sin participación en su formulación ni en su seguimiento
+Respuesta correcta: B
+Explicación: “Los docentes y educadores, y sus organizaciones, son asociados fundamentales por derecho propio y deben participar en todas las fases de la formulación de políticas, el planeamiento, la aplicación y el seguimiento.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 81; página impresa 58; página PDF 56.
+
+24. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al organizar la autoevaluación institucional, un director debe definir sus principios. ¿Qué principio del párrafo 103 alude directamente a su propia función?
+A. La primacía del control administrativo, por encima de la calidad de la enseñanza
+B. La exclusión de los asociados, para que la evaluación quede a cargo solo del equipo directivo
+C. La reserva de los resultados, para evitar críticas de la comunidad hacia la gestión directiva
+D. La importancia del liderazgo escolar, junto a la centralidad de la calidad de la enseñanza
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Entre los principios básicos del enfoque de la evaluación se cuentan la centralidad de la calidad de la enseñanza y el aprendizaje; la importancia del liderazgo escolar; la equidad y la inclusión como dimensiones clave; la transparencia; y la participación de los asociados en todos los niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+25. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al elaborar el plan de mejora pedagógica, ¿qué aporte de los docentes reconocido en el párrafo 81 debe aprovechar el director?
+A. Llevar las realidades del aula al diálogo y crear un puente entre las políticas y la práctica
+B. Limitarse a reportar calificaciones, dejando la planificación al equipo directivo del centro
+C. Delegar la planificación en especialistas externos, por su mayor conocimiento de las políticas
+D. Ejecutar sin observaciones las decisiones del equipo directivo para asegurar la uniformidad
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• poner las realidades de las aulas de clase en primera fila del diálogo sobre políticas, la formulación de las mismas y el planeamiento, y crear un puente entre las políticas y la práctica…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 81; página impresa 58; página PDF 56.
+
+26. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un director revisa la forma de mejorar el aprendizaje en su Unidad Educativa. Según el párrafo 84, ¿por qué debe asegurar la participación de los estudiantes?
+A. Porque, como educandos activos, son los más indicados para determinar requisitos para mejorar el aprendizaje
+B. Porque su participación es un requisito formal, aunque sus opiniones no inciden realmente en las decisiones del centro
+C. Porque su participación sustituye la de los docentes y familias en la planificación institucional del centro
+D. Porque los estudiantes deben asumir la gestión administrativa en reemplazo del equipo directivo del centro
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los jóvenes, los estudiantes y sus organizaciones son asociados clave con conocimientos específicos y únicos […]. Por tanto, son los más indicados para determinar los requisitos para mejorar el aprendizaje, en tanto que educandos activos y responsables. Se deben desplegar esfuerzos para asegurar su representación y participación activas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 84; página impresa 59; página PDF 57.
+
+27. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una Unidad Educativa no recibirá aumento presupuestario. ¿Qué orientación del párrafo 108 debe guiar la gestión de recursos del director?
+A. Trasladar a las familias el financiamiento de toda actividad no cubierta por el presupuesto
+B. Redoblar esfuerzos para aprovechar todo el gasto actual y obtener mejores resultados
+C. Suspender los proyectos de mejora hasta que se apruebe un nuevo incremento presupuestario
+D. Seguir con lo habitual, pues sin nuevos recursos no es posible introducir mejoras
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…dejando de ‘seguir con lo habitual’ y, en algunos casos, haciendo más con menos. […] Se deberán redoblar los esfuerzos encaminados a aprovechar todo el gasto actual para obtener mejores resultados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+28. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una junta escolar propone hacer un seguimiento independiente de los recursos que llegan a la Unidad Educativa. ¿Qué postura del director se fundamenta en el párrafo 108?
+A. Apoyarlo, pues ese seguimiento puede incrementar los fondos que las escuelas reciben realmente
+B. Aceptarlo solo si los resultados se mantienen en reserva y no se comunican a la comunidad
+C. Postergarlo, ya que el seguimiento independiente se aplica solo a la financiación internacional
+D. Rechazarlo, pues el control del gasto corresponde en exclusiva a la autoridad administrativa
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Hacer frente al uso indebido de los recursos y sacarlo a la luz: la corrupción y la ineficiencia hacen perder fondos esenciales para la educación. Una supervisión y un seguimiento independientes del gasto pueden permitir incrementar de forma significativa los fondos que las escuelas reciben realmente.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+29. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una universidad propone a un director realizar una investigación activa en su Unidad Educativa. Según el párrafo 83, ¿qué contribución puede esperarse de la comunidad de investigación?
+A. Investigaciones aplicables a las políticas, incluida la investigación activa, para facilitar el logro de las metas
+B. Investigaciones teóricas desvinculadas de la práctica, destinadas solo a publicaciones e informes de carácter académico
+C. Evaluaciones sancionatorias del desempeño docente, para la toma de decisiones disciplinarias en el centro
+D. Estudios de mercado sobre la demanda de matrícula, para captar estudiantes de otras unidades educativas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La comunidad de investigación […] puede: • llevar a cabo investigaciones aplicables a las políticas, incluida la investigación activa, para facilitar el logro de las metas…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 83; página impresa 59; página PDF 57.
+
+30. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una organización de la sociedad civil propone a la Unidad Educativa un programa para estudiantes de los grupos más excluidos. ¿Qué rol reconoce el párrafo 80 a estas organizaciones?
+A. Sustituir a la escuela en la atención de los grupos excluidos, asumiendo directamente su escolarización completa
+B. Supervisar el desempeño de los docentes y aplicar sanciones cuando no atiendan a los excluidos
+C. Limitarse a la recaudación de fondos, sin intervenir en propuestas educativas para grupos excluidos
+D. Crear enfoques innovadores y complementarios para avanzar en el derecho a la educación de los excluidos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las organizaciones de la sociedad civil pueden: […] • crear enfoques innovadores y complementarios que contribuyan a avanzar en el logro del derecho a la educación, particularmente para los grupos más excluidos…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 80; página impresa 58; página PDF 56.
+
+31. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cómo debe interpretarse la afirmación de que “el ODS 4-Educación 2030 se inscribe sobre todo en el plano nacional”?
+A. Los gobiernos locales asumen la agenda sin participación del gobierno central ni de otros actores
+B. La agenda es un compromiso nacional simbólico, sin consecuencias en las políticas educativas
+C. Los gobiernos lideran y guían su contextualización según experiencias y prioridades nacionales
+D. Los organismos internacionales deciden y los gobiernos se limitan a ejecutar sus instrucciones
+Respuesta correcta: C
+Explicación: “El ODS 4-Educación 2030 se inscribe sobre todo en el plano nacional. […] Éstos deberán mantener el liderazgo político en la educación y guiar el proceso de contextualización y realización del ODS 4-objetivo y metas de la Educación 2030, sobre la base de las experiencias y prioridades nacionales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+32. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué se espera de los procesos de toma de decisiones en los 15 años hasta 2030, según el párrafo 79?
+A. Que sean más rápidos y centralizados, reduciendo las consultas a las comunidades y a las familias
+B. Que sean más democráticos solo en el plano nacional, sin alcanzar a los niveles locales y escolares
+C. Que sean más técnicos y se concentren en los expertos, limitando al mínimo la intervención de los ciudadanos
+D. Que sean más democráticos y reflejen las voces y prioridades de los ciudadanos en todos los niveles
+Respuesta correcta: D
+Explicación: “En los 15 años hasta 2030 se espera que los procesos de toma de decisiones sean más democráticos, y que las voces y prioridades de los ciudadanos se reflejen en la formulación y aplicación de las políticas educativas en todos los niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 79; página impresa 57; página PDF 55.
+
+33. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué conclusión se desprende de la afirmación de que los gobiernos “no podrán alcanzar el ambicioso objetivo de educación por sí solos”?
+A. Que deberán reducir el alcance de las metas a lo que puedan financiar por sí mismos
+B. Que deberán transferir la responsabilidad educativa al sector privado y a las ONG
+C. Que necesitarán el respaldo de todas las partes interesadas, incluidas las no estatales
+D. Que deberán depender por completo de la ayuda externa de los organismos coordinadores de la ONU
+Respuesta correcta: C
+Explicación: “Las medidas adoptadas por los países impulsarán el cambio; sin embargo, los gobiernos no podrán alcanzar el ambicioso objetivo de educación por sí solos. Necesitarán el respaldo de todas las partes interesadas, incluidas las no estatales.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 86; página impresa 60; página PDF 58.
+
+34. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Con qué finalidad, según el párrafo 86, los países coordinarán toda la asistencia externa que brinden los organismos multilaterales y bilaterales?
+A. Para garantizar que los países se apropien del proceso
+B. Para reducir el número de organismos donantes
+C. Para condicionar la ayuda a los resultados de las pruebas
+D. Para trasladar a los donantes la gestión de las escuelas
+Respuesta correcta: A
+Explicación: “Por otra parte, a fin de garantizar que los países se apropien del proceso, éstos coordinarán toda la asistencia externa que brinden los organismos coordinadores y otros organismos multilaterales y bilaterales.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 86; página impresa 60; página PDF 58.
+
+35. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué valor atribuye el párrafo 99 a los informes nacionales oficiales presentados a los órganos creados en virtud de tratados de derechos humanos?
+A. Reflejan solo la visión gubernamental y excluyen los aportes de la sociedad civil
+B. Ofrecen una importante perspectiva de la condición del derecho a la educación
+C. Sustituyen por completo a los informes de seguimiento de los ODS
+D. Tienen un valor meramente protocolar, sin incidencia en el seguimiento de la agenda
+Respuesta correcta: B
+Explicación: “Esos informes nacionales oficiales, que con frecuencia reflejan las contribuciones de la sociedad civil, ofrecen una importante perspectiva de la condición del derecho a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 99; página impresa 64; página PDF 62.
+
+36. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cómo debe interpretarse la indicación de que la asignación de los flujos de ayuda oficial no deberá guiarse únicamente por el ingreso per cápita?
+A. Debe suprimirse el ingreso per cápita como criterio para asignar cualquier tipo de ayuda
+B. Deben atenderse también otras vulnerabilidades, como las de los pequeños Estados insulares
+C. Debe asignarse la ayuda por sorteo, para evitar cualquier sesgo en su distribución
+D. Debe priorizarse a los países de ingresos altos que tengan mayores capacidades de gestión pública
+Respuesta correcta: B
+Explicación: “La asignación de los flujos de ayuda oficial no deberá guiarse únicamente por el ingreso per cápita. En este contexto, es indispensable prestar una atención particular a las necesidades de los países vulnerables, como los pequeños Estados insulares en desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+37. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué beneficio atribuye el documento a crear sinergias entre la financiación humanitaria y la de desarrollo?
+A. Sustituir la ayuda humanitaria por créditos de desarrollo con intereses preferenciales
+B. Reducir el monto total de la ayuda, pues ambas financiaciones se vuelven innecesarias
+C. Concentrar la ayuda en la fase de emergencia, dejando de lado la recuperación y la reconstrucción posterior
+D. Reforzar la eficacia de cada dólar y responder con coherencia a corto, mediano y largo plazo
+Respuesta correcta: D
+Explicación: “Crear sinergias entre la financiación de actividades humanitarias y de desarrollo, y sus modalidades, puede reforzar la eficacia de cada dólar invertido en iniciativas de recuperación y permitir responder coherentemente a las necesidades a corto, mediano y largo plazo…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+38. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué implica para los países menos adelantados lo señalado en el párrafo 105 sobre los puntos de referencia del gasto educativo?
+A. Que necesitan alcanzar o sobrepasar el límite más elevado de dichos indicadores
+B. Que deben alcanzar únicamente el promedio mundial registrado por los países en 2012
+C. Que están exentos de cumplir los indicadores mientras reciban ayuda internacional
+D. Que pueden situarse por debajo del límite inferior por sus menores recursos
+Respuesta correcta: A
+Explicación: “Los países menos adelantados necesitan alcanzar o sobrepasar el límite más elevado de dichos indicadores para conseguir las metas que se exponen en el presente Marco de Acción.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 105; página impresa 67; página PDF 65.
+
+39. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué sentido tiene, en el párrafo 107, la afirmación del año 2000 de que “ningún país que se comprometa seriamente con la Educación para Todos se verá frustrado por falta de recursos”?
+A. Que la falta de fondos no debe poner en riesgo las oportunidades educativas, aún más en la agenda ODS
+B. Que los países deben financiar por sí solos la educación, sin esperar recursos de la ayuda internacional
+C. Que solo recibirán ayuda los países que ya hayan alcanzado las metas de la Educación para Todos
+D. Que el compromiso del 2000 quedó sin efecto, por haber sido sustituido por la nueva agenda de los ODS
+Respuesta correcta: A
+Explicación: “La falta de fondos no deberá poner en riesgo las oportunidades educativas de los miles de millones de educandos que tienen derecho a recibir una educación de calidad. Este compromiso cobra una importancia aún mayor en la agenda más ambiciosa de los ODS.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+40. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué significa la frase final de la conclusión: “El éxito del ODS 4-Educación 2030 solo se podrá proclamar cuando concierna a todos”?
+A. Que el éxito se proclamará cuando la mayoría de los países supere los promedios mundiales de 2030
+B. Que el éxito se medirá solo por la participación de todos los organismos coordinadores
+C. Que el éxito dependerá de que todos los países aporten la misma cantidad de financiación
+D. Que el logro de la agenda exige que sus beneficios alcancen a todas las personas sin excepción
+Respuesta correcta: D
+Explicación: “El éxito del ODS 4-Educación 2030 solo se podrá proclamar cuando concierna a todos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Conclusión, párr. 109; página impresa 71; página PDF 69.
+
+41. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué función específica se asigna al Instituto de Estadística de la UNESCO (IEU) en el párrafo 100?
+A. Seguirá siendo la fuente oficial de datos comparables entre países sobre educación
+B. Será la plataforma de financiación de múltiples partes interesadas del ODS 4-Educación 2030
+C. Será el órgano que brinde orientación estratégica y convoque a los Estados
+D. Será el equipo independiente encargado de elaborar el Informe GEM cada año
+Respuesta correcta: A
+Explicación: “…el IEU seguirá siendo la fuente oficial de datos comparables entre países sobre educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 100; página impresa 65; página PDF 63.
+
+42. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Respecto del Informe de Seguimiento de la Educación en el Mundo (Informe GEM), ¿qué distribución de responsabilidades es correcta?
+A. Lo elabora el Comité de Dirección; la ONU lo acoge y publica, y la Alianza Mundial nombra al jefe
+B. Lo elabora la UNESCO; un equipo independiente lo acoge y publica, y el Banco Mundial nombra al jefe
+C. Lo elabora el IEU; el Comité de Dirección lo acoge y publica, y los Estados Miembros eligen por votación al jefe
+D. Lo elabora un equipo independiente; la UNESCO lo acoge y publica, y su Director General nombra al jefe
+Respuesta correcta: D
+Explicación: “Un equipo independiente se encargará de su elaboración, y la UNESCO de acogerlo y publicarlo. La Directora o el Director General de la UNESCO nombrará al jefe del equipo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 101; página impresa 65; página PDF 63.
+
+43. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] El párrafo 85 establece ante quién rinde cuentas cada actor. ¿Qué correspondencia es correcta?
+A. Las escuelas y los docentes rinden cuentas ante la comunidad educativa y, en general, ante los ciudadanos
+B. Los ministerios de educación rinden cuentas ante los donantes y no ante los ciudadanos de su país
+C. Las escuelas y los docentes rinden cuentas solo ante el ministerio de educación y ante los donantes externos
+D. Los donantes rinden cuentas ante las organizaciones multilaterales y no ante los gobiernos nacionales
+Respuesta correcta: A
+Explicación: “…las organizaciones multilaterales deberán responder ante sus Estados Miembros, los ministerios de educación y otros ministerios conexos ante los ciudadanos, los donantes ante los gobiernos nacionales y los ciudadanos, y las escuelas y los docentes ante la comunidad educativa y, de forma más general, ante los ciudadanos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 85; página impresa 60; página PDF 58.
+
+44. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] En la composición del Comité de Dirección del ODS-Educación 2030, ¿qué organismos tienen un puesto permanente?
+A. La UNESCO, la OIT y la entidad ONU Mujeres
+B. La UNESCO, el PNUD y la Alianza Mundial
+C. La UNESCO, el UNICEF y el Banco Mundial
+D. El UNICEF, la OCDE y el Banco Mundial
+Respuesta correcta: C
+Explicación: “• la UNESCO, el UNICEF y el Banco Mundial, cada uno con un puesto permanente, y un representante de los demás organismos coordinadores (el PNUD, la ACNUR, el UNFPA, ONU Mujeres y la OIT), con arreglo a un sistema de rotación…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 94; página impresa 63; página PDF 61.
+
+45. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué diferencia a los miembros asociados del Comité de Dirección respecto de sus miembros plenos?
+A. Ejercen la secretaría del Comité y representan a las organizaciones docentes de cada una de las regiones
+B. Tienen voto calificado y representan a los seis grupos regionales con arreglo a un sistema rotativo
+C. Participan como observadores, por invitación, y representan al sector privado, fundaciones y jóvenes
+D. Ocupan puestos permanentes y representan a los organismos coordinadores de las Naciones Unidas
+Respuesta correcta: C
+Explicación: “…se creará un grupo rotativo de miembros asociados […], que estará compuesto por representantes del sector privado, fundaciones y organizaciones de jóvenes y estudiantes. Los miembros asociados participarán en las reuniones en calidad de observadores, por invitación del Comité de Dirección.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 94; página impresa 63; página PDF 61.
+
+46. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué diferencia establece el párrafo 90 entre el papel de los gobiernos y el de la Organización de las Naciones Unidas?
+A. Los gobiernos son los principales garantes; la ONU coordina la Agenda 2030 en el plano mundial
+B. Los gobiernos y la ONU comparten por igual la garantía y la coordinación en el plano nacional
+C. Los gobiernos coordinan en el plano regional; la ONU ejecuta los programas en el plano nacional
+D. La ONU es la principal garante; los gobiernos coordinan la Agenda 2030 en el plano mundial
+Respuesta correcta: A
+Explicación: “Aunque los gobiernos son los principales garantes del éxito de la aplicación, el seguimiento y el examen del programa de los ODS, la Organización de las Naciones Unidas tiene la responsabilidad concreta de coordinar la Agenda 2030 para el Desarrollo Sostenible en el plano mundial…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 90; página impresa 61; página PDF 59.
+
+47. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cuál de las siguientes estructuras NO figura en el párrafo 93 como parte del mecanismo mundial de coordinación del ODS 4-Educación 2030?
+A. Las Reuniones Mundiales sobre Educación
+B. El Comité de Dirección (CD) del ODS-Educación 2030
+C. El Consejo Económico y Social de Naciones Unidas
+D. La Consulta Colectiva de las ONG (CCONG)
+Respuesta correcta: C
+Explicación: “El mecanismo mundial de coordinación del ODS 4-Educación 2030 […] abarca todas las estructuras y procesos pertinentes, como el Comité de Dirección del ODS-Educación 2030, las Reuniones Mundiales sobre Educación, reuniones regionales y la Consulta Colectiva de las Organizaciones no Gubernamentales (CCONG).”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 93; página impresa 62; página PDF 60.
+
+48. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE lo dispuesto sobre las fuentes de financiación de la educación?
+A. La financiación pública internacional complementa la movilización de recursos públicos internos
+B. Los recursos internos seguirán siendo la mayor fuente de fondos para la educación
+C. La ayuda seguirá siendo una fuente esencial de financiación en los próximos 15 años
+D. La ayuda externa seguirá siendo la mayor fuente de fondos para la educación en los países
+Respuesta correcta: D
+Explicación: “Como los recursos internos seguirán siendo la mayor fuente de fondos para la educación, resultará necesario un claro compromiso de los gobiernos de proveer una financiación equitativa…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 106; página impresa 67; página PDF 65.
+
+49. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Entre las medidas para aumentar y mejorar la financiación en el plano nacional (párr. 106), ¿cuál corresponde a ese ámbito y no al de la financiación externa?
+A. Ampliar la base impositiva, evitar la evasión fiscal y asignar mayor presupuesto a la educación
+B. Invertir el declive de la ayuda y cumplir los compromisos del 0,7 % del ingreso nacional bruto destinado a la AOD
+C. Afianzar la eficacia de la ayuda mediante la armonización y una coordinación más eficiente
+D. Promover la cooperación Sur-Sur y triangular como medio de financiar la educación y la ayuda
+Respuesta correcta: A
+Explicación: “Los países deberán: • Incrementar el gasto público en favor de la educación: para ello es necesario ampliar la base impositiva (en particular, acabando con los incentivos fiscales perjudiciales), evitar la evasión fiscal y asignar una mayor porción del presupuesto nacional a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 106; página impresa 67; página PDF 65.
+
+50. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Entre las estrategias y marcos regionales mencionados en el párrafo 87, ¿cuál corresponde a la región de América Latina y el Caribe?
+A. El Marco sobre Competencias para la Cultura Democrática del Caribe
+B. La Estrategia Continental de Educación para América 2016-2025
+C. El Proyecto Regional de Educación para América Latina y el Caribe
+D. La Community Vision 2025 de la Comunidad Andina y del Mercosur
+Respuesta correcta: C
+Explicación: “Entre las estrategias y marcos regionales existentes y previstos figuran […] el Proyecto Regional de Educación para América Latina y el Caribe; y Community Vision 2025 de la Asociación de Naciones de Asia Sudoriental.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 87; página impresa 61; página PDF 59.
+
+51. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un ministerio aprueba una reforma curricular sin consultar a los docentes y espera que estos la apliquen. ¿Qué análisis se fundamenta en el párrafo 81?
+A. Es correcta, siempre que los docentes reciban una capacitación posterior sobre la reforma aprobada
+B. Omite que los docentes deben participar en todas las fases, desde la formulación hasta el seguimiento
+C. Omite solo la consulta a los padres, pues los docentes no participan en la formulación de políticas
+D. Es correcta, pues los docentes son ejecutores y su participación se limita estrictamente a la aplicación en el aula
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los docentes y educadores, y sus organizaciones, son asociados fundamentales por derecho propio y deben participar en todas las fases de la formulación de políticas, el planeamiento, la aplicación y el seguimiento.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 81; página impresa 58; página PDF 56.
+
+52. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un programa para jóvenes vulnerables se diseña sin consultar a los propios jóvenes y registra alta deserción. ¿Qué análisis se apoya en el párrafo 84?
+A. La deserción se explica solo por la falta de recursos y no por el modo de diseñar el programa
+B. La consulta a los jóvenes es recomendable solo en programas universitarios y no en otros
+C. Los jóvenes vulnerables no están en condiciones de aportar al diseño de programas educativos
+D. Debió elaborarse en consulta con ellos para responder mejor a sus necesidades y aspiraciones
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• alentar a los gobiernos y otros asociados a elaborar programas educativos para los jóvenes en consulta con los mismos, en especial aquéllos vulnerables y marginados, con miras a responder mejor a sus necesidades y aspiraciones…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 84; página impresa 59; página PDF 57.
+
+53. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una empresa ofrece financiar un programa en algunas escuelas a cambio de que solo atienda a estudiantes de familias acomodadas. ¿Qué valoración se fundamenta en el párrafo 82?
+A. Es inadmisible, pues sus aportes deben respetar la educación como derecho y no agravar las desigualdades
+B. Es admisible, siempre que la empresa asuma también el pago de los docentes de las escuelas elegidas
+C. Es admisible, ya que todo recurso privado fortalece la educación pública con total independencia de sus fines
+D. Es inadmisible, pero solo porque el sector privado no puede intervenir de ningún modo en la educación
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Pueden favorecer la educación y el desarrollo mediante alianzas de múltiples partes interesadas, inversión y contribuciones que sean transparentes, se ajusten a las prioridades locales y nacionales, respeten la educación como un derecho humano y no agraven las desigualdades.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 82; página impresa 59; página PDF 57.
+
+54. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una auditoría revela que parte de los recursos asignados a escuelas se pierde por irregularidades administrativas. ¿Qué análisis se fundamenta en el párrafo 108?
+A. La solución consiste en reducir los recursos asignados a las escuelas para limitar posibles pérdidas
+B. El problema compete solo a los organismos de control y no a la gestión ni a la comunidad educativa
+C. Las pérdidas son inevitables en todo sistema público y no justifican cambios en la supervisión del gasto escolar
+D. La corrupción e ineficiencia hacen perder fondos esenciales; urge una supervisión independiente del gasto
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…la corrupción y la ineficiencia hacen perder fondos esenciales para la educación. Una supervisión y un seguimiento independientes del gasto pueden permitir incrementar de forma significativa los fondos que las escuelas reciben realmente.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+55. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un sistema de evaluación se usa solo para clasificar escuelas y sancionar a las de bajo desempeño. ¿Qué crítica se fundamenta en el párrafo 103?
+A. Es adecuado, siempre que las sanciones se apliquen por igual a todas las escuelas de bajo desempeño
+B. Es adecuado, pues la evaluación tiene como único propósito la rendición de cuentas con consecuencias para las escuelas
+C. Desconoce que la evaluación debe compartir enseñanzas, debatir qué funciona y servir también al desarrollo
+D. Desconoce que la evaluación debe ser confidencial y no usarse para tomar decisiones institucionales
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el proceso de evaluación se deberán analizar todos los componentes de un sistema educativo, para así compartir las enseñanzas, entablar un debate sobre lo que funciona y realizar críticas constructivas. […] las actividades de evaluación deberán contribuir a la consecución de los objetivos tanto de rendición de cuentas, como de desarrollo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+56. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un gobierno decide no aumentar su presupuesto educativo y esperar que la ayuda internacional cubra el déficit. ¿Qué valoración crítica se apoya en el párrafo 104?
+A. Es adecuada, siempre que el país sea de ingresos medianos y tenga acceso a créditos externos
+B. Es inadecuada, pues los esfuerzos para colmar la brecha deben comenzar con la financiación interna
+C. Es inadecuada, pero solo porque la ayuda internacional se suprimirá por completo antes de 2030
+D. Es adecuada, ya que la financiación internacional es la principal fuente de recursos prevista para el ODS 4
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los esfuerzos destinados a colmar la brecha de financiación deben comenzar con la financiación interna. Al mismo tiempo, las finanzas públicas internacionales desempeñan un papel importante para complementar las medidas de los países…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 104; página impresa 66; página PDF 64.
+
+57. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una autoridad decide destinar casi todo el nuevo presupuesto a un colegio emblemático que ya obtiene los mejores resultados. ¿Qué análisis se fundamenta en el párrafo 108?
+A. Es acertado, porque invertir en la excelencia es la innovación prioritaria del documento
+B. No responde al criterio de centrar las inversiones en la equidad, la inclusión y la calidad para todos
+C. Es acertado, ya que los buenos resultados del colegio garantizan el mejor uso del gasto
+D. No es criticable, pues el párrafo 108 no establece criterios para orientar las inversiones actuales y futuras
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• Centrar las inversiones en la equidad, la inclusión y la calidad: […] Todas las inversiones, actuales y futuras, deberán responder a un criterio clave, esto es, ¿ayuda esa inversión a garantizar que todas las personas, incluidas las más marginadas y vulnerables, adquieran los conocimientos, actitudes y aptitudes que necesitan…?”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+58. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un plan departamental se elabora solo con promedios generales, sin datos por grupos de población. ¿Qué debilidad identifica el párrafo 98?
+A. Utiliza demasiados datos, cuando el documento recomienda planificar sin información estadística detallada
+B. Debió basarse solo en datos internacionales, que sustituyen a los datos de cada país
+C. No desglosa los datos adecuadamente, lo que limita su uso eficaz en el planeamiento de políticas
+D. Ninguna, pues los promedios generales bastan para planificar la equidad y la inclusión
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Con miras a mejorar la evaluación y el seguimiento de la calidad, la equidad y la inclusión, se deberán encaminar las actividades a fortalecer la capacidad de los gobiernos de desglosar los datos adecuadamente y utilizarlos eficazmente para el planeamiento y la formulación de políticas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 98; página impresa 64; página PDF 62.
+
+59. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Varios donantes ejecutan proyectos educativos en un país con prioridades propias y sin coordinarse entre sí ni con el gobierno. ¿Qué crítica se fundamenta en el párrafo 107?
+A. Contraviene solo la transparencia, pero no afecta la eficacia ni la apropiación del país
+B. Contraviene la eficacia de la ayuda, que exige armonización, coordinación y propiedad del país
+C. Es positivo, pues la diversidad de prioridades de los donantes enriquece la oferta educativa del país
+D. Es aceptable, siempre que cada donante rinda cuentas solo ante su propio gobierno de origen
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los donantes deberán seguir adaptando la cooperación para el desarrollo a las directrices sobre la eficacia de la ayuda, garantizando que esté mejor armonizada y coordinada y que refuerce el sentido de propiedad de cada país y la rendición de cuentas ante sus ciudadanos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+60. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un país mantiene incentivos fiscales perjudiciales y alta evasión, mientras su presupuesto educativo es insuficiente. ¿Qué análisis se apoya en el párrafo 106?
+A. Los incentivos fiscales siempre benefician a la educación, por lo que deben ampliarse aún más
+B. La evasión fiscal solo afecta a otros sectores y no a la disponibilidad de recursos educativos públicos
+C. La política fiscal es ajena a la financiación educativa, que depende solo de la ayuda externa
+D. Para incrementar el gasto educativo debe ampliarse la base impositiva y evitarse la evasión fiscal
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Incrementar el gasto público en favor de la educación: para ello es necesario ampliar la base impositiva (en particular, acabando con los incentivos fiscales perjudiciales), evitar la evasión fiscal y asignar una mayor porción del presupuesto nacional a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 106; página impresa 67; página PDF 65.
+
+61. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un país destina el 12 % de su gasto público a la educación. Conforme a los puntos de referencia del párrafo 105, ¿qué corresponde?
+A. Reducir la asignación, ya que el máximo recomendado es el 10 % del gasto
+B. Mantener la asignación, siempre que el país reciba ayuda oficial externa
+C. Mantener la asignación, pues se aproxima al promedio mundial de 13,7 % registrado en 2012
+D. Aumentar la asignación hasta al menos entre el 15 % y el 20 % del gasto público
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• asignar por lo menos entre el 15% y el 20% del gasto público a la educación.” […] “En la Declaración de Incheon se instó a alcanzar esos indicadores y se expresó la determinación de aumentar el gasto público en educación en función de los contextos nacionales.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 105; página impresa 67; página PDF 65.
+
+62. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al distribuir un fondo departamental adicional, ¿a quiénes debe dirigirse prioritariamente según el párrafo 106?
+A. A todas las escuelas en partes iguales, sin considerar las necesidades específicas de cada grupo
+B. A las escuelas con mejores resultados, para consolidar los avances ya obtenidos
+C. A los desfavorecidos, las niñas y mujeres y las personas en zonas afectadas por conflictos
+D. A los niveles superiores, pues concentran los mayores costos por cada estudiante
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “• Dar prioridad a los más necesitados: los niños, jóvenes y adultos desfavorecidos, así como las niñas y mujeres y las personas en zonas afectadas por conflictos, suelen tener las necesidades educativas más apremiantes, por lo que a ellos deberá dirigirse la financiación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 106; página impresa 67; página PDF 65.
+
+63. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al formular una política educativa local, ¿con qué obligaciones jurídicas de los gobiernos deben ser acordes las políticas, según el párrafo 78?
+A. Con las obligaciones de evaluar, certificar y clasificar a todas las escuelas del país
+B. Con las obligaciones de financiar, administrar y supervisar todas las escuelas privadas
+C. Con las obligaciones de respetar, proteger y hacer realidad el derecho a la educación
+D. Con las obligaciones de cumplir las metas fijadas por los organismos de financiación
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “…garantizando a su vez que las políticas sean acordes a las obligaciones jurídicas de los gobiernos de respetar, proteger y hacer realidad el derecho a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+64. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una dirección distrital convoca a organizaciones de la sociedad civil solo para la presentación final de su plan. ¿Qué disposición del párrafo 80 inobserva?
+A. Excluirlas del planeamiento, pues su función se reduce a la movilización social y la sensibilización
+B. Convocarlas solo cuando el plan requiera financiamiento adicional que el Estado no pueda cubrir
+C. Limitar su participación a la difusión pública del plan una vez aprobado formalmente por las autoridades educativas
+D. Lograr su compromiso en todas las etapas, del planeamiento a la evaluación, institucionalizando su participación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es necesario lograr su compromiso y colaboración en todas las etapas, desde el planeamiento hasta el seguimiento y evaluación, institucionalizando y garantizando su participación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 80; página impresa 58; página PDF 56.
+
+65. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una autoridad educativa niega a las familias el acceso a los datos de resultados de las escuelas de su zona. ¿Qué disposición del párrafo 97 resulta inobservada?
+A. Que la información solo puede difundirse una vez al año en informes oficiales
+B. Que el acceso a los datos corresponde solo a los organismos internacionales
+C. Que es importante que todos puedan tener libre acceso a la información y los datos
+D. Que los datos educativos deben reservarse a los organismos técnicos especializados del Estado
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Es importante que todos puedan tener libre acceso a la información y los datos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 97; página impresa 64; página PDF 62.
+
+66. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un ministerio prepara por separado su informe sobre el ODS 4 y su informe al órgano de un tratado de derechos humanos. ¿Qué orientación del párrafo 99 debería aplicar?
+A. Suprimir el informe al órgano del tratado, que queda absorbido por el informe de los ODS
+B. Redoblar esfuerzos para armonizar los informes sobre los ODS con los de los órganos de tratados
+C. Elaborar solo el informe de derechos humanos, que sustituye al seguimiento de los ODS
+D. Mantener ambos informes separados, pues persiguen fines incompatibles y no deben vincularse en ningún caso
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “De conformidad con la recomendación del Secretario General de las Naciones Unidas, se redoblarán los esfuerzos para armonizar la presentación de informes sobre los ODS con la entrega de informes a los distintos órganos creados en virtud de tratados sobre derechos humanos que se enmarcan en la esfera de la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 99; página impresa 64; página PDF 62.
+
+67. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un municipio firma una alianza con empresas para financiar escuelas. ¿Qué requisito del párrafo 108 debe incorporar el convenio para que la alianza tenga éxito?
+A. Libertad total de las empresas para decidir el destino de sus aportes, sin ninguna regulación pública
+B. Exclusividad de las empresas en la gestión de las escuelas beneficiadas por sus aportes
+C. Coordinación eficaz y mecanismos de regulación que garanticen transparencia y rendición de cuentas
+D. Confidencialidad de los montos aportados, para proteger la imagen comercial de las empresas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Para que las alianzas con el sector privado tengan éxito, se requerirán una coordinación eficaz y mecanismos de regulación que garanticen la transparencia y la rendición de cuentas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+68. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al elaborar el plan educativo de una región con alta pobreza y riesgo de desastres, ¿en qué marcos debe inscribirse el planeamiento, según el párrafo 78?
+A. En las metas de recaudación fiscal y de reducción del gasto público fijadas por el gobierno
+B. En la reducción de la pobreza, las estrategias de desarrollo sostenible y la respuesta humanitaria
+C. En los programas de seguridad ciudadana y de control territorial vigentes en la región
+D. En los planes de expansión de infraestructura vial y de comunicaciones previstos para toda la región
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los gobiernos deberán, cuando resulte apropiado, enmarcar el planeamiento de la educación en la reducción de la pobreza, las estrategias de desarrollo sostenible y la respuesta humanitaria…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+69. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al revisar la normativa sobre juntas escolares y participación social, ¿qué tipo de marcos legales y políticos promueve el párrafo 85?
+A. Marcos que promuevan rendición de cuentas, transparencia, gobernanza participativa y derecho a participar
+B. Marcos que limiten la rendición de cuentas a informes internos, sin difusión a la comunidad
+C. Marcos que transfieran la gobernanza escolar a los donantes y a los organismos internacionales
+D. Marcos que restrinjan la participación a los actores estatales para asegurar decisiones más rápidas y eficientes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Será necesario crear o ampliar marcos legales y políticos que promuevan tanto la rendición de cuentas y la transparencia como una gobernanza participativa y alianzas coordinadas en todos los niveles e intersectoriales, defendiendo el derecho a participar de todas las partes interesadas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 85; página impresa 60; página PDF 58.
+
+70. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al elaborar el sistema de información financiera de la educación, ¿qué datos deben mejorarse y normalizarse según el párrafo 102?
+A. Los de matrícula y asistencia, que sustituyen a los datos financieros en el seguimiento de toda la agenda
+B. Los de movilización de recursos internos y otras fuentes, incluidas las contribuciones de los hogares
+C. Solo los de la ayuda externa recibida, por ser la fuente más relevante para el seguimiento mundial
+D. Solo los del presupuesto del ministerio, excluyendo los aportes de las familias y de otros actores
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los países y organismos deberán mejorar y normalizar los datos sobre la movilización de recursos internos y otras fuentes de financiación de la educación, incluidas las contribuciones de los hogares.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 102; página impresa 65; página PDF 63.
+
+71. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una fundación ofrece a una Unidad Educativa actividades de refuerzo para estudiantes marginados, con su propio material. ¿Cómo debe resolver el director la propuesta?
+A. Aceptarla sin condiciones, pues toda actividad privada mejora por sí misma la educación integradora
+B. Rechazarla, ya que el sector privado no puede ofrecer servicios educativos adicionales
+C. Aceptarla solo si la fundación asume además la dirección pedagógica de la escuela
+D. Aceptarla si se desarrolla dentro del marco de normas y criterios regulados por el Estado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• multiplicar las oportunidades que ofrece la educación integradora ofreciendo servicios y actividades adicionales para llegar a los más marginados, dentro del marco de normas y criterios regulados por el Estado.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 82; página impresa 59; página PDF 57.
+
+72. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una red ciudadana solicita información para hacer seguimiento del gasto educativo de un municipio y la autoridad duda en entregarla. ¿Qué respuesta se fundamenta en el párrafo 80?
+A. Facilitarla, pues la sociedad civil puede controlar gastos y garantizar la transparencia presupuestaria
+B. Negarla, porque el control del gasto corresponde solo a los organismos estatales de fiscalización
+C. Condicionarla a que la red renuncie a publicar cualquier observación sobre el gasto del municipio
+D. Entregarla parcialmente, omitiendo la ejecución presupuestaria para evitar posibles interpretaciones erróneas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…realizando actividades de promoción basadas en evidencia, controlando los gastos y garantizando la transparencia de la gobernanza y los procesos presupuestarios de la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 80; página impresa 58; página PDF 56.
+
+73. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un programa financiado para fortalecer la formación técnica y STEM inscribe casi exclusivamente a varones. ¿Qué ajuste corresponde según el párrafo 107?
+A. Crear un programa separado para mujeres con contenidos menos exigentes que los originales
+B. Garantizar la igualdad de condiciones de acceso para mujeres y niñas y promover su participación
+C. Mantener la inscripción, pues la formación técnica y STEM se dirige principalmente a estudiantes varones
+D. Suspender el programa hasta que la cantidad de mujeres inscritas iguale a la de varones
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…se mejorará la educación y formación técnica, profesional y terciaria, garantizando la igualdad de condiciones de acceso para las mujeres y niñas y promoviendo su participación en la misma…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+74. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Tras una crisis prolongada en una región, la ayuda llega solo para alimentos y refugio, sin componente educativo. ¿Qué planteamiento debe hacer la autoridad educativa?
+A. Exigir más respaldo a la educación en la respuesta humanitaria y buscar sinergias con el desarrollo
+B. Suspender las clases y redirigir los recursos educativos a la entrega de alimentos y de refugio temporal
+C. Solicitar que la educación se financie solo con créditos externos una vez superada la crisis
+D. Aceptar que la educación espere, pues la ayuda humanitaria no debe destinarse a este sector
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Se deberán desplegar esfuerzos urgentes para incrementar considerablemente el respaldo a la educación en las respuestas humanitarias y las crisis prolongadas […]. Crear sinergias entre la financiación de actividades humanitarias y de desarrollo […] puede reforzar la eficacia de cada dólar invertido…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+75. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Los padres de familia reclaman al director por los bajos resultados de la Unidad Educativa. ¿Cómo debe responder conforme al párrafo 85?
+A. Responder solo por escrito y de forma reservada a cada padre que haya reclamado
+B. Atribuir los resultados a las familias y abstenerse de presentar cualquier información adicional
+C. Remitir el reclamo a la autoridad distrital, pues la escuela solo responde ante ella
+D. Rendir cuentas ante la comunidad educativa, presentando resultados y acciones de mejora
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…y las escuelas y los docentes ante la comunidad educativa y, de forma más general, ante los ciudadanos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 85; página impresa 60; página PDF 58.
+
+76. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una organización estudiantil pide ser reconocida como interlocutora en la revisión del reglamento interno, pero algunos docentes se oponen. ¿Qué resolución se fundamenta en el párrafo 84?
+A. Reconocerla, pues los niños, adolescentes y jóvenes son titulares de derechos e interlocutores válidos
+B. Aceptarla únicamente si los estudiantes renuncian a proponer cambios a las normas de convivencia
+C. Rechazarla, pues los estudiantes solo pueden opinar una vez que el reglamento haya sido aprobado
+D. Rechazarla, ya que los menores de edad carecen de condición jurídica para intervenir en la práctica educativa
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• participar en el diálogo intergeneracional, defendiendo con razones que se reconozca que los niños, adolescentes y jóvenes, en particular las niñas y mujeres jóvenes, son titulares de derechos e interlocutores válidos en la política y la práctica educativas en todos los niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 84; página impresa 59; página PDF 57.
+
+77. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un grupo de adultos de la comunidad solicita a la Unidad Educativa apoyo para un programa de alfabetización y no hay recursos asignados. ¿Qué argumento del párrafo 107 respalda la gestión de financiación?
+A. Que la alfabetización de adultos no es prioritaria y debe financiarse solo con aportes voluntarios de la comunidad
+B. Que la educación de adultos debe esperar a que se cumplan primero todas las demás metas del ODS 4
+C. Que es necesario y urgente fomentar la financiación de la alfabetización y la educación de adultos
+D. Que los recursos deben concentrarse en la primaria, dejando a los adultos fuera de la financiación
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Resulta igualmente necesario y urgente fomentar la financiación de programas de alfabetización para jóvenes y adultos, así como las oportunidades de aprendizaje, educación y formación para adultos, en el marco de un aprendizaje a lo largo de la vida.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 70; página PDF 68.
+
+78. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un cooperante ofrece apoyo a un distrito, pero sin fechas ni montos definidos, lo que dificulta la planificación. ¿Qué principio del párrafo 107 debe invocar la autoridad educativa?
+A. Que la ayuda debe destinarse solo a infraestructura
+B. Que la ayuda para la educación deberá ser predecible
+C. Que la ayuda debe aceptarse sin observar ninguna condición
+D. Que la ayuda debe sustituir el presupuesto nacional
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La ayuda para la educación deberá ser predecible.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+79. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Los egresados de la formación técnica de una Unidad Educativa no se insertan laboralmente y una cámara empresarial ofrece colaborar. ¿Qué tipo de colaboración se fundamenta en el párrafo 82?
+A. Asumir la definición completa del plan de estudios en reemplazo de las autoridades educativas
+B. Ayudar a comprender las tendencias del mercado laboral y las calificaciones, facilitando la transición
+C. Financiar la escuela a cambio de que los estudiantes trabajen sin remuneración en sus empresas
+D. Seleccionar a los mejores estudiantes para contratarlos y excluir a todos los demás de las prácticas laborales
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “• ayudar a los planificadores de la educación y la capacitación práctica a comprender las tendencias del mercado laboral y las necesidades en materia de calificaciones, lo que facilita la transición de la escuela al trabajo…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 82; página impresa 59; página PDF 57.
+
+80. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al presentar los resultados de una evaluación institucional, los docentes temen ser señalados y se resisten a debatirlos. ¿Cómo debe conducir el director la situación según el párrafo 103?
+A. Ocultar los resultados para evitar conflictos internos y mantener la armonía en el plantel docente del centro
+B. Identificar públicamente a los docentes con bajos resultados para estimular la competencia interna
+C. Archivar la evaluación y repetirla al año siguiente con un instrumento externo más estandarizado
+D. Usar la evaluación para compartir enseñanzas, debatir qué funciona y realizar críticas constructivas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En el proceso de evaluación se deberán analizar todos los componentes de un sistema educativo, para así compartir las enseñanzas, entablar un debate sobre lo que funciona y realizar críticas constructivas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+81. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al diseñar el mecanismo de seguimiento de su plan, una dirección departamental debe decidir cómo hacerlo. ¿Qué decisión es coherente con el párrafo 97?
+A. Prescindir del seguimiento hasta 2030, cuando se evaluará de una sola vez el logro de las metas
+B. Encargar el seguimiento a cada escuela de forma aislada, sin un mecanismo común de rendición
+C. Adoptar sin cambios un sistema de seguimiento extranjero, sin ninguna consulta a la sociedad civil local
+D. Crear mecanismos eficaces de seguimiento y rendición de cuentas, adaptados a prioridades y consultados
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Como los principales responsables del seguimiento son los países, éstos deberán crear mecanismos eficaces de seguimiento y rendición de cuentas, adaptados a las prioridades nacionales, en consulta con la sociedad civil.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 97; página impresa 64; página PDF 62.
+
+82. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Tras recibir los resultados del seguimiento y de una investigación sobre su Unidad Educativa, ¿qué decisión debe adoptar el equipo directivo según el párrafo 103?
+A. Aplicar solo las conclusiones favorables, para preservar la imagen institucional ante la comunidad
+B. Archivar los informes, ya que la investigación tiene fines puramente académicos y no orienta la gestión escolar
+C. Aplicar las conclusiones para adoptar decisiones de base empírica y programas orientados a resultados
+D. Esperar a que la autoridad nacional interprete los resultados antes de tomar cualquier decisión
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Tendrán que aplicar las conclusiones del seguimiento y la investigación para obtener decisiones eficaces de base empírica y programas orientados a la obtención de resultados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+83. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un comité debe elegir entre dos proyectos con el mismo costo. ¿Qué pregunta del párrafo 108 debe servir como criterio de decisión?
+A. ¿Permite la inversión ejecutar el presupuesto con mayor rapidez antes del cierre de la gestión?
+B. ¿Beneficia la inversión sobre todo a los estudiantes con mejores resultados académicos previos?
+C. ¿Ayuda la inversión a que todos, incluidos los más marginados, ejerzan plenamente su derecho?
+D. ¿Ofrece la inversión mayor visibilidad pública a la autoridad que la promueve?
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Todas las inversiones, actuales y futuras, deberán responder a un criterio clave, esto es, ¿ayuda esa inversión a garantizar que todas las personas, incluidas las más marginadas y vulnerables, adquieran los conocimientos, actitudes y aptitudes que necesitan para sus vidas y su sustento y para la plena realización de su derecho a la educación?”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+84. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Una Unidad Educativa implementó una innovación pedagógica cuyos primeros datos muestran resultados mixtos. ¿Qué decisión se ajusta al proceso de mejora continua del párrafo 108?
+A. Mantenerla sin cambios, ya que modificar una innovación contradice su carácter innovador
+B. Seguir y evaluar sus resultados, y usar los datos para mantener logros o cambiar el curso
+C. Abandonarla de inmediato, pues toda innovación debe mostrar éxito pleno desde el primer momento
+D. Extenderla a todos los niveles sin evaluación, para acelerar sus posibles beneficios
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Es indispensable un proceso de mejoras continuas que comprenda innovar, realizar un seguimiento y una evaluación de los resultados de la innovación, y emplear nuevos datos para mantener los logros y cambiar el curso cuando sea necesario.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+85. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Varias agencias de cooperación ofrecen apoyos a un ministerio. ¿Qué decisión de gestión se fundamenta en el párrafo 86?
+A. Que el ministerio acepte todas las ofertas sin evaluar su coherencia con sus prioridades nacionales
+B. Que cada agencia ejecute su propio proyecto sin informar al ministerio de educación
+C. Que el país coordine toda la asistencia externa para garantizar su apropiación del proceso
+D. Que la coordinación se delegue a la agencia de mayor aporte económico entre todas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Por otra parte, a fin de garantizar que los países se apropien del proceso, éstos coordinarán toda la asistencia externa que brinden los organismos coordinadores y otros organismos multilaterales y bilaterales.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 86; página impresa 61; página PDF 59.
+
+86. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al planificar el seguimiento de la financiación educativa, una autoridad debe decidir cómo asegurar informes fiables. ¿Qué decisión se fundamenta en el párrafo 108?
+A. Fortalecer capacidades y reservar recursos suficientes para el acopio de datos financieros
+B. Prescindir de los informes financieros para destinar todos los recursos a las aulas
+C. Delegar el acopio de datos financieros a cada familia mediante encuestas voluntarias
+D. Elaborar informes financieros solo cuando lo soliciten los organismos de cooperación internacional
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Un compromiso de ese tipo requiere que se fortalezcan las capacidades y se reserven recursos suficientes para el acopio de datos para los informes financieros.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 108; página impresa 70; página PDF 68.
+
+87. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Los informes de seguimiento de un departamento llegan con meses de retraso y con errores frecuentes. ¿Qué decisión respalda el párrafo 97?
+A. Reducir el contenido de los informes a datos de matrícula
+B. Aceptar los retrasos como parte normal de toda gestión pública
+C. Procurar mejorar la calidad y la puntualidad de los informes
+D. Suspender la elaboración de informes hasta el año siguiente
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Por otra parte, los países deberán procurar mejorar la calidad y puntualidad de los informes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 97; página impresa 64; página PDF 62.
+
+88. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Varias direcciones departamentales enfrentan problemas similares de deserción. ¿Qué decisión de coordinación se inspira en los aspectos del párrafo 89?
+A. Que una sola dirección diseñe la solución y la imponga sin adaptación a las demás
+B. Que se espere una solución internacional antes de cualquier intercambio entre direcciones
+C. Que cada dirección resuelva por separado, evitando compartir información y datos con las demás
+D. Promover el aprendizaje mutuo y el intercambio de buenas prácticas, con exámenes cruzados
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La coordinación regional integradora y eficaz se centrará en aspectos como la recopilación de datos y el seguimiento, incluidos los exámenes cruzados entre países; el aprendizaje mutuo y el intercambio de buenas prácticas…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 89; página impresa 61; página PDF 59.
+
+89. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Un organismo de cooperación debe decidir la orientación de su financiación externa. ¿Qué decisión es coherente con el objetivo de aumentar su equidad?
+A. Orientarla a la educación superior de élite, por su impacto en el crecimiento
+B. Orientarla a los países con mejores resultados, como incentivo a su desempeño educativo
+C. Orientarla en partes iguales a todos los países, sin considerar su nivel de ingresos
+D. Orientarla a subsectores descuidados, países de ingresos bajos y grupos vulnerables
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “• Aumentar la equidad de la financiación externa: la financiación externa deberá orientarse en mayor medida a respaldar los subsectores descuidados y los países de ingresos bajos, así como los grupos vulnerables y desfavorecidos de los países de ingresos medianos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 68; página PDF 66.
+
+90. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al organizar las intervenciones de distintos sectores y actores en educación, ¿qué decisión procedimental se fundamenta en el párrafo 86?
+A. Limitar las intervenciones al sector educativo, excluyendo la colaboración con otros sectores
+B. Centralizar todas las intervenciones en un único actor privado encargado de su ejecución
+C. Establecer procedimientos para orientar y coordinar intervenciones con verdadera participación de todos
+D. Permitir que cada actor intervenga según su criterio, sin procedimientos comunes de orientación ni de coordinación
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Además, establecerán procedimientos para orientar, coordinar y fomentar intervenciones en favor del desarrollo de la educación, en diversos niveles y sectores, velando por una verdadera participación de todas las partes interesadas en el planeamiento, la aplicación y el seguimiento de políticas y estrategias educativas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 86; página impresa 61; página PDF 59.
+
+91. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Según el párrafo 78, ¿qué deben mantener y guiar los gobiernos en la realización del ODS 4-Educación 2030?
+A. La ejecución directa de todos los programas, sin participación de otros asociados clave
+B. La adopción literal de las metas mundiales, sin considerar las experiencias nacionales
+C. La transferencia del liderazgo a los organismos coordinadores para asegurar su cumplimiento efectivo
+D. El liderazgo político en educación y el proceso de contextualización y realización de las metas
+Respuesta correcta: D
+Explicación: “Éstos deberán mantener el liderazgo político en la educación y guiar el proceso de contextualización y realización del ODS 4-objetivo y metas de la Educación 2030, sobre la base de las experiencias y prioridades nacionales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+92. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿En qué ámbitos es crucial la función del Estado, según el párrafo 78?
+A. En la promoción de la competencia entre escuelas, la libertad de mercado y la reducción del gasto público
+B. En la gestión directa de cada escuela, la contratación de todos los docentes y la definición de cada horario escolar
+C. En la regulación de normas, la mejora de la calidad y la reducción de disparidades entre regiones y escuelas
+D. En la recaudación de aportes familiares, la certificación de escuelas privadas y la auditoría internacional
+Respuesta correcta: C
+Explicación: “La función del Estado es crucial en cuanto a la regulación de normas, la mejora de la calidad y la reducción de las disparidades entre las regiones, comunidades y escuelas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Gobernanza, rendición de cuentas y alianzas, párr. 78; página impresa 57; página PDF 55.
+
+93. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿De qué maneras cumplirá la UNESCO su mandato de dirigir y coordinar el ODS 4-agenda Educación 2030?
+A. Aprobación de leyes educativas nacionales, supervisión de escuelas y sanción a los incumplimientos
+B. Promoción del compromiso político, refuerzo de capacidades, diálogo sobre políticas y seguimiento
+C. Financiación directa de los sistemas educativos, gestión de escuelas y certificación de docentes
+D. Elaboración de currículos únicos, evaluación de docentes y administración de las becas mundiales
+Respuesta correcta: B
+Explicación: “• llevando a cabo actividades de promoción para respaldar el compromiso político; • fortaleciendo las capacidades; • facilitando el diálogo sobre políticas, el intercambio de conocimientos y la elaboración de normas […]; • realizando un seguimiento del progreso hacia el logro de las metas de educación…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 92; página impresa 62; página PDF 60.
+
+94. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué funciones estratégicas cumplirá el Comité de Dirección del ODS-Educación 2030?
+A. Aprobación de presupuestos nacionales, auditoría del gasto y sanción a los países que incumplan
+B. Orientación estratégica, evaluación de progresos, recomendaciones, promoción financiera y armonización
+C. Gestión de escuelas, contratación de docentes, aprobación de currículos y certificación de títulos académicos
+D. Elaboración del Informe GEM, recolección de datos censales y producción de estadísticas oficiales
+Respuesta correcta: B
+Explicación: “…brindará orientación estratégica, evaluará los progresos sobre la base del Informe de Seguimiento de la Educación en el Mundo y formulará recomendaciones a la comunidad educativa sobre las prioridades clave y las iniciativas catalíticas […]; asimismo, se encargará de la supervisión y promoción de una financiación apropiada, y fomentará la armonización y coordinación de las actividades de los asociados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 94; página impresa 62; página PDF 60.
+
+95. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al diseñar una estrategia de coordinación regional, ¿qué aspectos debe abarcar según el párrafo 89?
+A. Unificación de currículos, homologación salarial, control fronterizo y supervisión directa de escuelas
+B. Competencia entre países, clasificaciones regionales, sanciones y condicionalidad de la ayuda
+C. Datos y seguimiento, aprendizaje mutuo, políticas, diálogo, comunicación, recursos y capacidades
+D. Financiación exclusiva externa, gestión de becas y administración centralizada de escuelas
+Respuesta correcta: C
+Explicación: “La coordinación regional integradora y eficaz se centrará en aspectos como la recopilación de datos y el seguimiento […]; el aprendizaje mutuo y el intercambio de buenas prácticas; la formulación de políticas; el diálogo y las alianzas […]; las estrategias regionales de comunicación; la promoción y la movilización de recursos; el fortalecimiento de capacidades; y la implementación de proyectos conjuntos.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Una coordinación eficaz, párr. 89; página impresa 61; página PDF 59.
+
+96. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Para colmar las brechas de datos mediante una “revolución de los datos”, ¿qué estrategia propone el párrafo 102 a los organismos?
+A. Delegar la producción de datos en empresas privadas sin coordinación con los organismos públicos
+B. Suspender el acopio de datos hasta disponer de una metodología única definida por cada donante
+C. Limitar las estimaciones a los datos ya existentes, sin crear nuevas fuentes de datos comparativos
+D. Afianzar la coordinación y los grupos interinstitucionales para formular metodologías armonizadas
+Respuesta correcta: D
+Explicación: “A fin de colmar las brechas actuales en materia de datos, los organismos deberán afianzar la coordinación, entre otras cosas fortaleciendo los grupos interinstitucionales existentes y creando otros nuevos; esto permitirá formular metodologías armonizadas para obtener estimaciones comunes…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 102; página impresa 65; página PDF 63.
+
+97. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué finalidad estratégica persigue la ampliación de alianzas de múltiples partes interesadas como la Alianza Mundial para la Educación?
+A. Que la ayuda se concentre en la educación universitaria y la investigación de punta en cada país
+B. Que los países de ingresos altos financien en exclusiva la educación superior de los demás países del mundo
+C. Que el sector privado sustituya al Estado en la provisión de educación primaria y secundaria
+D. Que todos culminen una educación de la primera infancia, primaria y secundaria gratuita y de calidad
+Respuesta correcta: D
+Explicación: “Se acrecentarán la inversión y la cooperación internacional, a fin de lograr que todos los niños culminen con éxito una educación de la primera infancia, primaria y secundaria gratuita, equitativa, inclusiva y de calidad, entre otras cosas ampliando y afianzando iniciativas de múltiples partes interesadas como la Alianza Mundial para la Educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 107; página impresa 69; página PDF 67.
+
+98. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] En el plano mundial, ¿a qué se comprometen los organismos coordinadores en materia de evaluación, según el párrafo 103?
+A. A evaluar la eficacia de su coordinación y cuánto ayudan sus programas a los países
+B. A evaluar solo a los países receptores de ayuda, sin evaluarse a sí mismos
+C. A evaluar a los docentes de cada país mediante pruebas internacionales comunes
+D. A evaluar el desempeño de cada escuela y publicar clasificaciones internacionales anuales
+Respuesta correcta: A
+Explicación: “Por último, en el plano mundial, los organismos coordinadores se comprometen a evaluar la eficacia de sus mecanismos de coordinación y la medida en que sus programas ayudan a los países a realizar el ODS 4-Educación 2030.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen de políticas basadas en evidencia, párr. 103; página impresa 66; página PDF 64.
+
+99. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] Al plantear una estrategia de eficiencia del gasto, ¿qué efecto atribuye el párrafo 106 a la mejora de la gobernanza y la rendición de cuentas?
+A. Concentrar los recursos en la administración central, que es donde se pierde menos dinero
+B. Sustituir la necesidad de financiación interna por un mayor control de la ayuda internacional
+C. Aumentar la eficiencia y el uso eficaz de recursos y garantizar que la financiación llegue a las aulas
+D. Reducir el gasto educativo total, ya que una mejor gobernanza hace innecesarios los nuevos recursos financieros
+Respuesta correcta: C
+Explicación: “Fortalecer la eficiencia y la rendición de cuentas: una mejora de la gobernanza y la rendición de cuentas puede aumentar la eficiencia y el uso eficaz de recursos existentes, y garantizar que la financiación llegue a las aulas de clase.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación, párr. 106; página impresa 67; página PDF 65.
+
+100. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué compromisos asume la comunidad internacional de la educación en la conclusión del Marco de Acción?
+A. Unificación de los sistemas educativos, currículo único mundial y evaluación estandarizada global
+B. Buena gobernanza, rendición de cuentas dirigida por los ciudadanos y esfuerzos audaces e innovadores
+C. Reducción del gasto, priorización de la educación superior y transferencia de la gestión a los actores privados
+D. Financiación exclusiva por los donantes, gobernanza técnica y rendición de cuentas ante la UNESCO
+Respuesta correcta: B
+Explicación: “También hacemos hincapié en la necesidad de una buena gobernanza y una rendición de cuentas en la educación dirigida por los ciudadanos. […] nos comprometemos a desplegar esfuerzos audaces, innovadores y sostenibles para velar por que la educación realmente transforme vidas en el mundo.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Conclusión, párr. 109; página impresa 71; página PDF 69.

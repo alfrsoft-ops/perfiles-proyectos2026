@@ -1,0 +1,995 @@
+# Fuente: integrado.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: 1_ODS_4_UNESCO_2030 · 2_Lidei_2022_Liderazgo_Ed_OEI · 3_Marco_Gestión_Intermedia · 4_Estudio_Regional_ERCE_2019
+# Alcance evaluado: Banco integrado: 25 preguntas por documento (ODS 4 · LIDEI 2022 · Marco de Gestión Intermedia · ERCE 2019)
+# Páginas: ODS 4: impresas 24–71 · LIDEI: impresas 11–96 · Marco: 10–77 · ERCE: 12–37
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco integrado evalúa, con nivel muy avanzado, el dominio conjunto de los cuatro documentos de referencia: la Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO), el informe LIDEI 2022 sobre liderazgo directivo en Iberoamérica (OEI), el Marco para la Gestión y el Liderazgo Educativo Local y el Resumen ejecutivo del ERCE 2019 (UNESCO/OREALC). Cada documento aporta exactamente 25 preguntas, todas inéditas respecto de los bancos por capítulo elaborados previamente. Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# 1_ODS_4_UNESCO_2030 · 2_Lidei_2022_Liderazgo_Ed_OEI · 3_Marco_Gestión_Intermedia · 4_Estudio_Regional_ERCE_2019
+# Alcance
+# Capítulos trabajados de cada documento: ODS 4 – Secciones I, II y III (págs. impresas 24–71); LIDEI 2022 – Capítulos 1 a 4 (págs. impresas 11–96); Marco – Capítulos 2, 3 y 4 (págs. 10–77); ERCE 2019 – Secciones 2 y 4 (págs. 12–37). Distribución por documento: 25 ODS 4 · 25 LIDEI · 25 Marco · 25 ERCE. Cada pregunta indica en su encabezado el documento de procedencia
+# Correspondencia de páginas
+# ODS 4 y LIDEI: página PDF = página impresa − 2. Marco y ERCE: página PDF = página impresa
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 55 de contenido textual · 45 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede de los cuatro documentos proporcionados.
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: integrado
+
+1. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Según el Marco de Acción, ¿cómo evolucionó la matrícula total en todas las formas de educación terciaria entre 2000 y 2013?
+A. Pasó de 149 millones en 2000 a 340 millones en 2013
+B. Pasó de 199 millones en 2000 a 100 millones en 2013 en total
+C. Pasó de 100 millones en 2000 a 199 millones en 2013
+D. Pasó de 35 millones en 2000 a 58 millones en 2013
+Respuesta correcta: C
+Explicación: “Todas las formas de educación terciaria han aumentado rápidamente, ya que la cifra total de matriculación pasó de 100 millones en 2000 a 199 millones en 2013.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.3; página impresa 40; página PDF 38.
+
+2. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué proyección de la tasa bruta de escolarización en la enseñanza preescolar recoge el Marco de Acción?
+A. Un alza del 23 % en 2000 al 48 % en 2015
+B. Un aumento del 35 % en 2000 al 58 % en 2015
+C. Una disminución del 58 % en 2000 al 35 % en 2015
+D. Un aumento del 58 % en 2000 al 69 % en 2015
+Respuesta correcta: B
+Explicación: “Desde el año 2000, la matriculación en la enseñanza preescolar se ha incrementado en casi dos tercios y las proyecciones indican que la tasa bruta de escolarización aumentará del 35% en 2000 al 58% en 2015.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.2; página impresa 38; página PDF 36.
+
+3. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿En qué se convertirá el Informe de Seguimiento de la EPT en el Mundo según el Marco de Acción?
+A. En la Base de datos mundial sobre las desigualdades en la educación (WIDE)
+B. En el Informe de Seguimiento de la Educación en el Mundo (Informe GEM)
+C. En el Informe Mundial sobre Desarrollo Humano del PNUD (Informe IDH)
+D. En el Estudio Anual de Estadísticas Educativas del IEU (Informe EAE)
+Respuesta correcta: B
+Explicación: “El Informe de Seguimiento de la EPT en el Mundo se convertirá en el Informe de Seguimiento de la Educación en el Mundo (Informe GEM, por sus siglas en inglés).”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Coordinación mundial; página impresa 65; página PDF 63.
+
+4. [LIDEI 2022 – OEI · Capítulo 3] Para el pilotaje en España, ¿cuántos directores se solicitó que participaran por cada comunidad autónoma?
+A. Un único director por cada comunidad autónoma
+B. Entre veinte y treinta directores por comunidad
+C. Exactamente dos directores por comunidad
+D. Entre ocho y diez directores por comunidad
+Respuesta correcta: D
+Explicación: “Durante julio de 2021 se invita a participar a las comunidades autónomas por medio del Grupo de Trabajo de Evaluación Educativa. Se solicita la participación de entre ocho y diez directores de cada comunidad…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 33; página PDF 31.
+
+5. [LIDEI 2022 – OEI · Capítulo 3] Según la encuesta LIDEI, ¿qué proporción de los directores argentinos de la muestra es mayor de 50 años?
+A. El 100 %, todos ellos mayores de 60 años
+B. El 12 %, con un tercio mayor de 60
+C. El 82 %, con la mitad mayor de 60 años
+D. El 42 %, sin ninguno mayor de 60 años
+Respuesta correcta: D
+Explicación: “Argentina El 42% de los directores son mayores de 50 años y ninguno de los encuestados es mayor de 60 años.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 34; página PDF 32.
+
+6. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según el capítulo 2, además de un conjunto de fines y objetivos, ¿qué define el nuevo Sistema de Educación Pública?
+A. Los principios que deben guiar el trabajo cotidiano de sus actores
+B. Las sanciones aplicables a los municipios que no traspasen sus escuelas
+C. Los textos que deben utilizar todas las escuelas públicas
+D. Los salarios que deben percibir los directivos de cada establecimiento
+Respuesta correcta: A
+Explicación: “El nuevo Sistema de Educación Pública establece un conjunto de fines y objetivos, y también define los principios que deben guiar el trabajo cotidiano de los actores que se desempeñan allí (Bellei et al., 2018).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 12; página PDF 12.
+
+7. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué dos nuevos actores del sistema escolar surgen a partir de la Ley 21.040?
+A. Los Departamentos de Educación Municipal y las Corporaciones
+B. La Agencia de Calidad y la Superintendencia de Educación Escolar del país
+C. El Consejo Nacional de Educación y los Consejos Escolares
+D. La Dirección de Educación Pública (DEP) y los Servicios Locales (SLEP)
+Respuesta correcta: D
+Explicación: “A partir de la Ley 21.040, surgen dos nuevos actores en el sistema escolar: la Dirección Nacional de Educación Pública (DEP) y los Servicios Locales de Educación Pública (SLEP)…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 12; página PDF 12.
+
+8. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Según la nota 4 del Marco, ¿qué artículo de la Ley 21.040 debe consultarse para conocer las funciones de la DEP?
+A. El artículo 140
+B. El artículo 61
+C. El artículo 18
+D. El artículo 5
+Respuesta correcta: B
+Explicación: “[4] Ver el artículo 61 de la Ley 21.040 para conocer más sobre las funciones de la DEP.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 13; página PDF 13.
+
+9. [ERCE 2019 – UNESCO · Sección 2] ¿Qué país obtuvo el puntaje promedio más bajo en Ciencias de 6° grado según el gráfico de media y dispersión del ERCE 2019?
+A. República Dominicana, con 649 puntos
+B. Nicaragua, con 669 puntos en Ciencias
+C. Paraguay, con 657 puntos en total
+D. Guatemala, con 661 puntos en Ciencias
+Respuesta correcta: A
+Explicación: Gráfico de media y dispersión (Ciencias 6° grado): “…Paraguay (657) Perú (723) República Dominicana (649) Uruguay (731)…”; “Guatemala (661)”; “Nicaragua (669)”.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 20; página PDF 20.
+
+10. [ERCE 2019 – UNESCO · Sección 4] Según el recuadro destacado de la sección 4, ¿cuántos puntos menos obtienen en promedio los estudiantes que han repetido de grado en las diferentes pruebas?
+A. De 20 a 40 puntos menos
+B. Entre 90 y 117 puntos menos
+C. Entre 16 y 22 puntos menos
+D. Entre 58 y 77 puntos menos
+Respuesta correcta: D
+Explicación: “Entre 58 y 77 puntos menos obtienen en promedio los estudiantes de la región que han repetido de grado, en las diferentes pruebas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 29; página PDF 29.
+
+11. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué niveles de la CINE comprende la educación terciaria según la nota del Marco de Acción?
+A. Los niveles CINE 1 y 2, que suman los primeros nueve años de educación
+B. Los niveles CINE 5, 6, 7 y 8, desde el ciclo corto hasta el doctorado
+C. Los niveles CINE 3, 4 y 5, desde la secundaria alta hasta el ciclo corto
+D. Los niveles CINE 6 y 7, limitados a la licenciatura y la maestría
+Respuesta correcta: B
+Explicación: “Consta de los niveles CINE 5 (educación terciaria de ciclo corto), CINE 6 (nivel de licenciatura o equivalente), CINE 7 (nivel de maestría o equivalente) y CINE 8 (nivel de doctorado o equivalente).”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.3; página impresa 40; página PDF 38.
+
+12. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué abarca la atención y educación de la primera infancia (AEPI) según el Marco de Acción?
+A. Solo la preparación académica en lectura y cálculo previa al ingreso a la enseñanza primaria de cada país
+B. Solo la escolarización obligatoria de los niños desde los cinco años en centros públicos
+C. Solo el cuidado diurno de los niños mientras sus padres trabajan fuera del hogar familiar
+D. Salud y nutrición, estimulación, protección frente a la violencia y atención al desarrollo integral
+Respuesta correcta: D
+Explicación: “La AEPI abarca salud y nutrición adecuadas; estimulación en el hogar, la comunidad y el entorno escolar; protección frente a la violencia; y atención al desarrollo cognitivo, lingüístico, social, emocional y físico.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.2; página impresa 39; página PDF 37.
+
+13. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué supone la calidad de la educación según los enfoques estratégicos del Marco de Acción?
+A. Alcanzar altos puntajes en pruebas internacionales, con independencia de los valores formados
+B. Ampliar la cobertura de la matrícula escolar, sin atender a los conocimientos efectivamente adquiridos
+C. Desarrollar aptitudes, valores, actitudes y conocimientos para vidas sanas y decisiones fundamentadas
+D. Transmitir eficazmente los contenidos del currículo nacional mediante clases expositivas
+Respuesta correcta: C
+Explicación: “La calidad de la educación supone el desarrollo de aptitudes, valores, actitudes y conocimientos que permiten a los ciudadanos llevar vidas sanas y plenas, tomar decisiones fundamentadas y hacer frente a los desafíos de orden local y mundial.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos; página impresa 33; página PDF 31.
+
+14. [LIDEI 2022 – OEI · Capítulo 4] ¿Qué es “la herramienta” cuya valoración y aplicación piloto a las Administraciones educativas sirve de referencia en el capítulo 4?
+A. Un registro administrativo de los salarios de directores
+B. Una prueba estandarizada de logro aplicada a los estudiantes de cada país
+C. Una guía de observación de aula aplicada por los inspectores educativos
+D. Un cuestionario estructurado en secciones, dimensiones e indicadores
+Respuesta correcta: D
+Explicación: “Los resultados de la valoración y aplicación piloto de ‘la herramienta’ (cuestonario estructurado en secciones, dimensiones e indicadores) a las Administraciones educativas de los países participantes de la región…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva; página impresa 84; página PDF 82.
+
+15. [LIDEI 2022 – OEI · Capítulo 2] ¿En qué consiste el cambio del modelo de liderazgo escolar que el capítulo 2 describe para España?
+A. En pasar de un modelo burocrático a una dirección pedagógica orientada a la mejora de los aprendizajes
+B. En pasar de una dirección pedagógica a un modelo burocrático centrado en el control administrativo del Estado
+C. En pasar de la elección democrática de directores a su designación directa por la Administración
+D. En pasar de un liderazgo distribuido a un liderazgo unipersonal concentrado en el director
+Respuesta correcta: A
+Explicación: “El cambio consiste en considerar la dirección pedagógica como un factor de primer orden en la mejora de la educación, es decir, pasar de un modelo burocrático a una dirección pedagógica, encaminada a la mejora de los aprendizajes y de los resultados de la escuela, fortaleciendo el rol directivo con un liderazgo pedagógico.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar; página impresa 27; página PDF 25.
+
+16. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Desde el enfoque de la Nueva Educación Pública, ¿qué debe ser también el nivel intermedio respecto de la política pública?
+A. Potenciador, diseñador e implementador de programas, en especial para desarrollar capacidades
+B. Financista de programas privados de capacitación para los docentes de su territorio
+C. Fiscalizador y sancionador de los establecimientos que no cumplen los programas públicos
+D. Receptor pasivo de los programas diseñados exclusivamente en el nivel central del sistema educativo
+Respuesta correcta: A
+Explicación: “Desde el enfoque de la Nueva Educación Pública, es importante recalcar que el nivel intermedio debe ser también potenciador, diseñador e implementador de programas o iniciativas de la política pública, especialmente, en lo relativo al desarrollo de capacidades educativas a nivel territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 24; página PDF 24.
+
+17. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Cómo se entiende la gobernanza como espacio, según el capítulo 3 del Marco?
+A. Como espacio de negociación salarial entre los docentes y la administración del territorio
+B. Como espacio de control jerárquico del nivel central sobre los establecimientos educativos
+C. Como espacio de comunicación y participación entre la institucionalidad pública y la comunidad
+D. Como espacio técnico reservado a los especialistas en gestión financiera del servicio local territorial
+Respuesta correcta: C
+Explicación: “La gobernanza, en ese sentido, se entiende como el espacio de comunicación y participación entre la institucionalidad pública y la comunidad, donde convergen las políticas de equidad, inclusión y participación con las expresiones y necesidades de cada territorio.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 35; página PDF 35.
+
+18. [ERCE 2019 – UNESCO · Sección 2] ¿En qué se fundan todas las pruebas del ERCE 2019, incluida la de Matemática?
+A. En el análisis de los currículos de los países participantes
+B. En los estándares de la prueba PISA aplicada por la OCDE de cada año
+C. En las pruebas nacionales que cada país aplica cada año
+D. En un currículo regional único elaborado por la UNESCO
+Respuesta correcta: A
+Explicación: “La prueba de Matemática, al igual que el resto de las pruebas del ERCE 2019, se funda en el análisis de los currículos de los países participantes del estudio.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 16; página PDF 16.
+
+19. [ERCE 2019 – UNESCO · Sección 4] ¿Qué variables de prácticas docentes y de aula se analizan en la sección 4 del ERCE 2019?
+A. Expectativas, interés por el bienestar, apoyo al aprendizaje, organización y clima disruptivo
+B. Uso de textos escolares, horas de clase, tamaño del curso, uniformes y tareas para la casa
+C. Años de servicio, títulos de posgrado, remuneración, edad y afiliación sindical del docente de aula
+D. Infraestructura del aula, conectividad, mobiliario, iluminación y ventilación de las salas
+Respuesta correcta: A
+Explicación: “En esta sección se presenta la asociación de los aprendizajes con las expectativas de los docentes, el interés de los profesores por el bienestar de los estudiantes, el apoyo al aprendizaje y la organización de la enseñanza por parte de los docentes, y el clima disruptivo en el aula.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 33; página PDF 33.
+
+20. [ERCE 2019 – UNESCO · Sección 2] ¿Cómo se evaluó la comprensión lectora en la prueba de Lectura del ERCE 2019?
+A. Los estudiantes redactaron un ensayo libre que luego fue calificado por sus docentes
+B. Los estudiantes leyeron en voz alta un único texto ante un evaluador que medía su fluidez lectora
+C. Los estudiantes leyeron diversos textos de los que se desprendían preguntas de comprensión
+D. Los estudiantes respondieron preguntas de vocabulario aislado sin leer ningún texto
+Respuesta correcta: C
+Explicación: “Por ello, en la prueba los estudiantes debieron leer diversos textos, de los cuales se desprendían una serie de preguntas para evaluar su comprensión de lo leído.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 13; página PDF 13.
+
+21. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un director analiza el papel de su plantel docente a la luz de la meta 4.c. ¿Por qué el Marco de Acción la considera esencial?
+A. Porque los docentes son la clave para el éxito de toda la agenda Educación 2030
+B. Porque la meta 4.c sustituye a todas las demás metas del ODS 4
+C. Porque los docentes son el único factor que define el financiamiento de la agenda
+D. Porque los docentes deben asumir la gestión administrativa de los establecimientos
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Habida cuenta de que los docentes son la clave para el éxito del ODS 4-agenda Educación 2030 en su totalidad, esta meta resulta esencial.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.c; página impresa 54; página PDF 52.
+
+22. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una directora revisa las condiciones de su establecimiento según la meta 4.a. ¿Qué condiciones mínimas deben asegurarse según el Marco de Acción?
+A. Cámaras de vigilancia, control biométrico de asistencia y uniformes obligatorios para todos
+B. Laboratorios avanzados, piscina, auditorio, estacionamiento y transporte para el personal
+C. Seguridad, agua, electricidad, servicios separados por sexo, aulas apropiadas y materiales
+D. Solo aulas amplias, pues los servicios básicos dependen de cada municipio respectivo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “• Velar por que todos los establecimientos sean seguros y tengan agua, electricidad, servicios separados para hombres y mujeres que estén en buen estado y sean accesibles, aulas de clase apropiadas y seguras, y materiales de aprendizaje y tecnología adecuados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.a; página impresa 52; página PDF 50.
+
+23. [LIDEI 2022 – OEI · Capítulo 3] Según la encuesta LIDEI, ¿qué afirman todos los directores de los tres países sobre el acceso al cargo de director?
+A. Que no existe norma alguna sobre el acceso al cargo
+B. Que el cargo se obtiene solo por elección del claustro
+C. Que el cargo se asigna por antigüedad sin ningún proceso
+D. Que existe un proceso regulado para el acceso al cargo
+Respuesta correcta: D
+Explicación: “Todos los directores de los tres países afirman que existe un proceso regulado para el acceso al cargo de director.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 51; página PDF 49.
+
+24. [LIDEI 2022 – OEI · Capítulo 3] Según la encuesta LIDEI, además de los resultados del alumnado, ¿qué índices resultan relevantes para evaluar el desempeño de la función directiva?
+A. El número de horas extra del director
+B. El nivel de absentismo y el clima escolar
+C. La antigüedad y la edad de los directores
+D. La cantidad de actos y ceremonias realizadas
+Respuesta correcta: B
+Explicación: “El nivel de absentismo y el clima escolar son también índices relevantes para la evaluación del desempeño de la función directiva.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 58; página PDF 56.
+
+25. [LIDEI 2022 – OEI · Capítulo 3] Un director español quiere adecuar el desarrollo curricular a las particularidades de su centro. ¿Qué percepción de autonomía reporta la encuesta en España?
+A. El 100 % opina tener plena influencia en la adecuación curricular y la oferta pedagógica
+B. El 86 % opina tener influencia en la adecuación y el 73 % en la oferta pedagógica
+C. Ningún director opina tener influencia alguna sobre el currículo ni sobre la oferta
+D. Solo el 36 % opina tener influencia en esa adecuación y el 14 % en la oferta pedagógica
+Respuesta correcta: D
+Explicación: “Solo el 36% de los directores españoles opina que tienen influencia en la adecuación del desarrollo curricular a las particularidades del centro, y el 14% que pueden orientar y definir la oferta pedagógica.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 62; página PDF 60.
+
+26. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Durante la instalación del SLEP, ¿cómo deben socializar los equipos del nivel intermedio los objetivos de la NEP con las comunidades?
+A. Mediante campañas publicitarias masivas, sin participación de las comunidades
+B. Incorporando progresiva y participativamente a todos los actores, logrando su confianza
+C. Postergando la socialización hasta la etapa de consolidación del servicio local
+D. Mediante circulares oficiales dirigidas solo a los directores de cada establecimiento educativo
+Respuesta correcta: B
+Explicación: “Socializan con las comunidades educativas los objetivos de la NEP, incorporando durante la etapa de instalación -en forma progresiva y participativa- a directivos/as, educadores/as, asistentes de la educación, familias o tutores/as y estudiantes, logrando su confianza y haciéndolos protagonistas del proceso.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 55; página PDF 55.
+
+27. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 3, ¿qué tipo de relación establecen los equipos del SLEP en las instancias de reflexión con los actores del territorio?
+A. Una relación contractual con consultoras externas para elaborar diagnósticos
+B. Una relación profesional horizontal para generar diagnósticos compartidos
+C. Una relación ocasional, limitada a la entrega de informes anuales
+D. Una relación jerárquica vertical para imponer los diagnósticos del servicio
+Respuesta correcta: B
+Explicación: “Promueven procesos de involucramiento y participan en instancias de reflexión con los actores del territorio, estableciendo una relación profesional horizontal, para generar diagnósticos compartidos acerca de problemáticas complejas y sentidas por la comunidad educativa.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 59; página PDF 59.
+
+28. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Según la Dimensión 4, ¿qué fomentan los equipos del SLEP en coordinación con los equipos directivos de cada unidad educativa?
+A. La sustitución de los equipos directivos por profesionales del servicio
+B. La concentración del liderazgo pedagógico en el director de cada escuela
+C. La distribución del liderazgo pedagógico y la colaboración entre pares
+D. La competencia entre docentes mediante incentivos individuales
+Respuesta correcta: C
+Explicación: “Fomentan, en coordinación con los equipos directivos, la distribución del liderazgo pedagógico en cada una de las unidades educativas, generando condiciones, desarrollando capacidades y promoviendo instancias para la colaboración entre pares al interior de los centros educativos y entre estos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 61; página PDF 61.
+
+29. [ERCE 2019 – UNESCO · Sección 4] Un director quiere mejorar la organización de la enseñanza en su escuela. ¿Con qué otros resultados vincula la investigación citada una mejor organización?
+A. Con mayor ausentismo docente y menor participación de las familias en la escuela
+B. Con más problemas disciplinarios, menos autonomía y peor rendimiento en Ciencias naturales
+C. Con menos problemas disciplinarios, más autonomía y mejor rendimiento en Lectura
+D. Con menores expectativas parentales y más repitencia en los primeros grados
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Una mejor organización se ha vinculado también con menos problemas disciplinarios, mayores niveles de autonomía y un mejor rendimiento en el área de Lectura (Cameron, Connor & Morrison, 2005; Downer, Stuhlman, Schweig, Martínez & Ruzek, 2015).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 35; página PDF 35.
+
+30. [ERCE 2019 – UNESCO · Sección 4] Una directora quiere que sus docentes respondan a las necesidades de los estudiantes. ¿Qué efectos atribuye la investigación citada a ese apoyo?
+A. Mayor rendimiento, más motivación por aprender y mejor regulación del comportamiento
+B. Ningún efecto sobre el rendimiento ni sobre la motivación de los estudiantes
+C. Mayor rendimiento solo en estudiantes de escuelas privadas de sectores urbanos del país
+D. Menor rendimiento, porque reduce la exigencia académica en las clases
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Cuando los docentes responden a los intereses e ideas de los estudiantes y sus necesidades académicas, sociales y emocionales […], y les ofrecen apoyo, los alumnos alcanzan mayores rendimientos académicos […], aumentan la motivación por aprender y por la regulación del comportamiento…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 34; página PDF 34.
+
+31. [ODS 4 – Educación 2030 (UNESCO) · Capítulo I] ¿Qué enseñanza extrae el Marco de Acción del hecho de no haber alcanzado los objetivos de la EPT?
+A. Que basta con mantener las estrategias de la EPT para lograr las metas hacia 2030
+B. Que los objetivos de la EPT eran inalcanzables y deben abandonarse en la nueva agenda de 2030
+C. Que de “seguir con lo habitual” la educación de calidad para todos nunca será realidad
+D. Que la educación de calidad depende solo del aumento del financiamiento internacional
+Respuesta correcta: C
+Explicación: “Del hecho de no haber alcanzado los objetivos de la EPT se puede extraer otra enseñanza, esto es, que de ‘seguir con lo habitual’ la educación de calidad para todos no se hará nunca realidad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección I. Visión, justificación y principios; página impresa 25; página PDF 23.
+
+32. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué significa, según el Marco de Acción, que tomar en serio la equidad, la inclusión y la calidad sea una innovación?
+A. Que en la mayoría de los sistemas centrar las inversiones en ellas constituye una práctica nueva
+B. Que la innovación consiste solo en adquirir tecnologías digitales para las escuelas
+C. Que la calidad debe sacrificarse para lograr mayor equidad e inclusión en el sistema
+D. Que la equidad y la inclusión ya son prácticas consolidadas en todos los sistemas educativos del mundo
+Respuesta correcta: A
+Explicación: “• Centrar las inversiones en la equidad, la inclusión y la calidad: tomar en serio la equidad, la inclusión y la calidad constituye una innovación en la mayoría de los sistemas.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación; página impresa 70; página PDF 68.
+
+33. [LIDEI 2022 – OEI · Capítulo 4] ¿Cómo perciben los directores la adaptación del profesorado a las nuevas metodologías exigidas por la enseñanza a distancia?
+A. Fácil para el 60 % en Argentina y Chile, y para el 89 % en España
+B. Difícil para la totalidad de los directores de los tres países
+C. Fácil para el 20 % en Argentina y Chile, y el 30 % en España
+D. Fácil para el 89 % en Argentina y Chile, y solo para el 60 % en España
+Respuesta correcta: A
+Explicación: “Desde el punto de vista de los directores, el 60% dice que se adaptó fácilmente en Argentina y en Chile, mientras que, para el 89% de los directores españoles, esta adaptación fue sencilla.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 4. Análisis sintético sobre liderazgo directivo escolar en Iberoamérica, reflexiones y prospectiva; página impresa 90; página PDF 88.
+
+34. [LIDEI 2022 – OEI · Capítulo 3] ¿Cómo interpretan los directores españoles las posibilidades que abre el cargo para traslados o vacantes, según la encuesta?
+A. El 78 % estima que el cargo cierra toda posibilidad de traslado o de ocupar plazas vacantes
+B. Ningún director español opina sobre las posibilidades que abre el cargo
+C. El 42 % estima que se abren más posibilidades, igual que la Administración argentina
+D. El 78 % estima que se abren más posibilidades por sus baremos de antigüedad más altos
+Respuesta correcta: D
+Explicación: “Por ello, en la siguiente pregunta, el 78% de los directores españoles estima que se abren más posibilidades para los directores ya que sus baremos de antigüedad son más altos que los de los profesores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 73; página PDF 71.
+
+35. [LIDEI 2022 – OEI · Capítulo 3] ¿Cómo contrasta la opinión de los directores sobre su salario con la percepción de la Administración, según la encuesta?
+A. La Administración desconoce los sueldos; los directores no opinan sobre su salario
+B. La Administración considera los sueldos equiparables a la responsabilidad; los directores piden más
+C. Ambos coinciden plenamente en que los sueldos superan el grado de responsabilidad
+D. Los directores consideran sus sueldos excesivos; la Administración propone reducirlos en el próximo año
+Respuesta correcta: B
+Explicación: “Esta opinión contrasta con los datos del informe Education at a Glance 2021 y con la percepción de la Administración, que manifiesta que los sueldos son equiparables al grado de responsabilidad. Los directores entienden que las responsabilidades y tareas que llevan a cabo deberían tener una compensación económica mayor…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 46; página PDF 44.
+
+36. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué ocurrió con el sistema educativo chileno, en especial con la educación municipal, a partir de la llegada del nuevo milenio?
+A. Se mantuvo sin cambios ni debates públicos durante las dos primeras décadas
+B. Fue transferido en su totalidad a corporaciones privadas sin fines de lucro
+C. Fue profundamente cuestionado por el estudiantado y gran parte de la sociedad
+D. Fue ampliamente respaldado por el estudiantado como un modelo de gestión exitoso
+Respuesta correcta: C
+Explicación: “A partir de la llegada del nuevo milenio, el sistema educativo en general, especialmente la educación municipal, fue profundamente cuestionado por el estudiantado y gran parte de la sociedad chilena.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 11; página PDF 11.
+
+37. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué ha sido la principal modificación estructural del nuevo sistema de educación pública chileno, según el capítulo 3?
+A. La eliminación de la subvención escolar preferencial creada en 2008 en Chile
+B. La creación de un nuevo nivel intermedio, los SLEP (Ley 21.040, 2017)
+C. La transferencia de todas las escuelas públicas a los municipios
+D. La creación de la Agencia de Calidad como único nivel intermedio
+Respuesta correcta: B
+Explicación: “En la búsqueda de este tipo de liderazgo, la principal modificación estructural del nuevo sistema de educación pública ha sido, precisamente, la creación de un nuevo ‘nivel intermedio’ que corresponde a los Servicios Locales de Educación Pública (Ley 21.040, 2017).”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 25; página PDF 25.
+
+38. [ERCE 2019 – UNESCO · Sección 2] En la comparación de Ciencias con el TERCE 2013, ¿qué indica la nota del gráfico respecto de Costa Rica, Honduras, Nicaragua, Panamá y Uruguay?
+A. Que no se observan diferencias estadísticamente significativas entre ambos ciclos
+B. Que no participaron en la prueba de Ciencias del TERCE ni del ERCE
+C. Que presentan los mayores avances de la región respecto del ciclo anterior
+D. Que presentan los mayores retrocesos de la región respecto del ciclo anterior estudiado
+Respuesta correcta: A
+Explicación: Nota del gráfico de comparación TERCE 2013–ERCE 2019 en Ciencias: “En el caso de Costa Rica, Honduras, Nicaragua, Panamá y Uruguay no se observan diferencias estadísticamente significativas entre el puntaje promedio TERCE 2013 y ERCE 2019.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 20; página PDF 20.
+
+39. [ERCE 2019 – UNESCO · Sección 2] ¿Qué situaciones distintas presentan los países de alto desempeño en Ciencias, según la sección 2?
+A. Para algunos el alto desempeño se debe solo a la ubicación urbana de sus escuelas
+B. Para algunos el alto desempeño es homogéneo; en otros, internamente más disperso
+C. Para todos el alto desempeño es homogéneo, sin diferencias internas relevantes
+D. Para todos el alto desempeño es disperso, con brechas internas muy amplias
+Respuesta correcta: B
+Explicación: “Por su parte, los países con alto desempeño presentan distintas situaciones: para algunos, este alto desempeño es internamente homogéneo, mientras que en otros casos su promedio representa resultados internamente más dispersos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 20; página PDF 20.
+
+40. [ERCE 2019 – UNESCO · Sección 4] Según la investigación citada en la sección 4, ¿qué produce que los docentes organicen adecuadamente la enseñanza?
+A. Ningún efecto sobre la participación, aunque sí sobre la disciplina de los estudiantes
+B. Menores niveles de participación, pues la organización reduce la espontaneidad diaria en clase
+C. Mayor ausentismo docente, pues la planificación aumenta la carga de trabajo semanal
+D. Mayores niveles de participación estudiantil y mayores oportunidades para el aprendizaje
+Respuesta correcta: D
+Explicación: “Los profesores que organizan adecuadamente la enseñanza […] logran mejores resultados entre sus estudiantes (Pianta, Hamre & Allen, 2012). Esto produce mayores niveles de participación de parte de los estudiantes (Cameron, Connor & Morrison, 2005; Pianta et al., 2012) y mayores oportunidades para el aprendizaje…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 35; página PDF 35.
+
+41. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué diferencia los indicadores mundiales de los regionales y nacionales en el Marco de Acción?
+A. No hay diferencias, pues los tres tipos de indicadores son idénticos para todos los países
+B. Los mundiales son comparables globalmente; los demás responden a contextos regionales o nacionales
+C. Los mundiales los elige cada país; los nacionales los formula la Comisión de Estadística de la ONU para todos
+D. Los mundiales responden a contextos nacionales; los regionales son comparables en el plano global
+Respuesta correcta: B
+Explicación: “• mundiales: un pequeño conjunto de indicadores comparables en el plano mundial […]; • regionales: indicadores adicionales que podrían elaborarse para tener en cuenta contextos regionales específicos […]; • nacionales: indicadores seleccionados o formulados por los países para tomar en consideración sus contextos nacionales…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Indicadores; página impresa 56; página PDF 54.
+
+42. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] ¿Qué diferencia a la educación terciaria de la mera educación académica, según la nota del Marco de Acción?
+A. Comprende solo la formación técnica de nivel medio, sin incluir estudios universitarios del país
+B. Comprende solo la educación académica universitaria, sin incluir formación profesional
+C. Comprende la educación académica y también la educación profesional o vocacional avanzada
+D. Comprende la educación básica de adultos y la alfabetización funcional de jóvenes
+Respuesta correcta: C
+Explicación: “La educación terciaria comprende lo que se conoce como educación académica, pero también incluye la educación profesional o vocacional avanzada.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.3; página impresa 40; página PDF 38.
+
+43. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué diferencia la cooperación Sur-Sur de la cooperación triangular según el Marco de Acción?
+A. Ambas son idénticas y se reemplazan entre sí según la decisión de cada país receptor de ayuda
+B. La Sur-Sur expresa solidaridad entre países del Sur; la triangular es un medio de financiar la educación
+C. La Sur-Sur es un medio de financiar la educación; la triangular expresa solidaridad entre países del Sur global
+D. La Sur-Sur la dirigen los donantes del Norte; la triangular la dirigen solo organismos multilaterales
+Respuesta correcta: B
+Explicación: “…la cooperación Sur-Sur debería considerarse una expresión de solidaridad entre los pueblos y países del Sur, basada en experiencias y objetivos compartidos. Deberá reforzarse la cooperación triangular como un medio de financiar la educación y sacar provecho de conocimientos y experiencias pertinentes…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Financiación; página impresa 69; página PDF 67.
+
+44. [LIDEI 2022 – OEI · Capítulo 1] ¿Sobre qué dos modelos de liderazgo se lleva a cabo el debate descrito en el capítulo 1?
+A. Uno basado en la autoridad jerárquica y otro centrado en la gestión de recursos financieros
+B. Uno basado en la contextualización del liderazgo y otro centrado en cuestiones teóricas
+C. Uno basado en la evaluación externa y otro centrado en la rendición de cuentas pública
+D. Uno basado en el liderazgo heroico y otro centrado en el liderazgo transaccional clásico
+Respuesta correcta: B
+Explicación: “Este debate se lleva a cabo sobre la base de dos modelos de liderazgo: basado en la contextualización del liderazgo o centrado en cuestiones teóricas.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual; página impresa 12; página PDF 10.
+
+45. [LIDEI 2022 – OEI · Capítulo 3] ¿Qué diferencia las horas de trabajo semanales declaradas por los directores de la suma real de horas por tarea en la encuesta LIDEI?
+A. Las declaradas rondan 40–42 horas; la suma real por tareas es mayor en los tres países
+B. Las declaradas superan las 60 horas; la suma real por tareas es menor en los tres países
+C. Las declaradas rondan 20 horas; la suma real por tareas es de 30 horas en promedio
+D. Ambas cifras son idénticas en Argentina, Chile y España para todas las tareas
+Respuesta correcta: A
+Explicación: Gráfico 12: “TOTAL DE HORAS DE TRABAJO A LA SEMANA DECLARADO 40,2 42,1 42 / SUMA REAL DE LAS HORAS 55,5 64,6 48,5” (Argentina, Chile y España).
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 47; página PDF 45.
+
+46. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Qué diferencia las estructuras con que los países administran sus sistemas educativos, según el capítulo 3?
+A. Dependen exclusivamente del tamaño de la población de cada país, sin otros factores asociados
+B. Son idénticas en todos los países, pues responden a un modelo internacional único y obligatorio de organización
+C. Van de altamente centralizadas a completamente descentralizadas, según factores institucionales y sociales
+D. Solo existen estructuras centralizadas, pues la descentralización fracasó en todos los países
+Respuesta correcta: C
+Explicación: “Desde estructuras altamente centralizadas a otras completamente descentralizadas (Uribe et al., 2017). La efectividad de cada estructura responde a factores tanto institucionales como sociales, además de una correcta alineación y balance de estos elementos…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 33; página PDF 33.
+
+47. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] ¿Con qué campos de conocimiento vincula el capítulo 3 la conceptualización de los niveles educativos intermedios?
+A. Con la economía de la educación y con la gestión de compras públicas
+B. Con la psicología del aprendizaje y con la didáctica de las disciplinas
+C. Con la mejora educativa y con la gobernanza y la rendición de cuentas
+D. Con el derecho administrativo y con la contabilidad gubernamental
+Respuesta correcta: C
+Explicación: “Su conceptualización se vincula con el conocimiento sobre mejora educativa y sobre gobernanza y responsabilización o rendición de cuentas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 23; página PDF 23.
+
+48. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué orienta, según la Dimensión 3, el modelo de apoyo para asegurar oportunidades de aprendizaje a la totalidad de estudiantes?
+A. La competencia entre escuelas, basada en la publicación de rankings de resultados
+B. La intuición de los profesionales del servicio, sin uso de evidencia ni colaboración
+C. La fiscalización periódica basada en sanciones, sin participación de los equipos directivos
+D. La mejora continua basada en evidencia, de manera colaborativa con los equipos directivos
+Respuesta correcta: D
+Explicación: “Este debe orientar la mejora continua, basada en evidencia, para focalizar y asegurar oportunidades de aprendizaje para la totalidad de estudiantes del territorio, de manera colaborativa y participativa con los equipos directivos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 58; página PDF 58.
+
+49. [ERCE 2019 – UNESCO · Sección 2] ¿Qué diferencia los puntajes de Cuba en Matemática entre 3° y 6° grado según los gráficos de media y dispersión?
+A. En 3° obtiene 689, bajo el promedio; en 6° obtiene 751, el más alto de la región
+B. En ambos grados obtiene 689 puntos, bajo el promedio regional de Matemática
+C. En 3° obtiene 751, el más alto; en 6° obtiene 689, bajo el promedio regional
+D. En ambos grados obtiene 751 puntos, el puntaje más alto de la región evaluada
+Respuesta correcta: C
+Explicación: Gráfico de media y dispersión (Matemática 3°): “Cuba (751)… Región (698)”; gráfico de media y dispersión (Matemática 6°): “Cuba (689)”, con promedio regional de 697.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 18; página PDF 18.
+
+50. [ERCE 2019 – UNESCO · Sección 4] ¿Qué dos análisis distingue la sección 4 dentro de las características de las escuelas?
+A. Primero, el currículo escolar; luego, los textos y las horas de clase semanales
+B. Primero, la formación docente; luego, la remuneración y la carrera de los profesores
+C. Primero, las diferencias de logro entre escuelas; luego, NSE, administración y ubicación
+D. Primero, la infraestructura escolar; luego, la conectividad y el equipamiento digital del centro
+Respuesta correcta: C
+Explicación: “En este apartado se presenta, en primer término, la evidencia sobre las diferencias de logro académico entre escuelas. Posteriormente se analiza la relación entre los resultados de aprendizaje y el nivel socioeconómico promedio de la escuela, el tipo de administración escolar y la ubicación geográfica de los centros educativos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 36; página PDF 36.
+
+51. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un analista sostiene que el aumento de la matrícula primaria resolvió la desigualdad educativa. ¿Qué crítica se apoya en el Marco de Acción?
+A. No se ha prestado atención suficiente a eliminar la desigualdad en todos los niveles
+B. Es correcto, pues el aumento de la matrícula eliminó toda desigualdad educativa anterior
+C. Es correcto, pues la desigualdad solo existe en la educación terciaria
+D. La matrícula primaria disminuyó, por lo que la desigualdad aumentó
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “A pesar del progreso global en cuanto al aumento de la matriculación de niñas y niños en la escuela primaria, no se ha prestado la atención suficiente a eliminar la desigualdad en la educación en todos los niveles.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.5; página impresa 44; página PDF 42.
+
+52. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un funcionario afirma que el bajo nivel de alfabetización solo preocupa a los países de ingresos bajos. ¿Qué crítica se fundamenta en el Marco de Acción?
+A. Es correcto: el Marco de Acción no menciona la alfabetización de adultos
+B. Es una preocupación exclusiva de Europa, donde el 80 % de los adultos es analfabeto
+C. Es correcto: en los países de ingresos medios y altos la alfabetización es universal
+D. Es planetaria: cerca del 20 % de los adultos europeos carece de aptitudes básicas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El bajo nivel de alfabetización es una preocupación a escala planetaria, inclusive en países con ingresos medios y altos. Aproximadamente el 20% de los adultos europeos carecen de las aptitudes básicas en lectoescritura necesarias para participar plenamente en la sociedad.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.6; página impresa 47; página PDF 45.
+
+53. [LIDEI 2022 – OEI · Capítulo 3] Un analista generaliza los resultados de la encuesta LIDEI al conjunto de directores de España. ¿Qué crítica se apoya en las limitaciones de la muestra?
+A. La muestra solo incluye centros rurales pequeños, por lo que excluye a los centros urbanos
+B. Faltan centros pequeños, probablemente rurales: ningún director español dirige uno de menos de 100 alumnos
+C. Es correcto, pues la muestra española incluye todos los tamaños y tipos de centros del país de forma representativa
+D. Es correcto, pues la muestra es representativa a nivel nacional de los directores españoles
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “∙ Faltan directores representantes de centros pequeños, que probablemente sean además de zonas rurales. Un ejemplo es, que en España ninguno de los directores encuestados pertenece a un centro de menos de 100 alumnos.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 40; página PDF 38.
+
+54. [LIDEI 2022 – OEI · Capítulo 3] Una Administración española sostiene que sus directores están satisfechos con su salario. ¿Qué dato de TALIS 2018 citado en la encuesta permite matizarlo?
+A. El 100 % de los directores de España se declara satisfecho con su sueldo
+B. El 90 % de los directores de España considera su salario superior a su responsabilidad
+C. Solo el 42,1 % de los directores de España se declara satisfecho con su salario
+D. El informe TALIS 2018 no contiene datos sobre la satisfacción salarial de directores
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El informe TALIS 2018 indica que el 42,1% de los directores de España está ‘de acuerdo’ o ‘bastante de acuerdo’ con la afirmación de que están satisfechos con el salario que reciben por su trabajo.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 45; página PDF 43.
+
+55. [LIDEI 2022 – OEI · Capítulo 1] Un analista sostiene que el rendimiento escolar depende exclusivamente del director. ¿Qué análisis crítico se fundamenta en el capítulo 1?
+A. El rendimiento se correlaciona con múltiples factores, entre los cuales el director es un factor clave
+B. Es correcto, pues el director es el único factor que explica el rendimiento escolar de todos sus estudiantes
+C. El director no tiene ninguna relación con el rendimiento escolar de sus estudiantes
+D. El rendimiento depende solo del nivel socioeconómico, sin influencia del director
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Sería absurdo, por tanto, no admitir que el rendimiento escolar no tiene correlación con una multitud de factores, entre los cuales los directores son un factor clave.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual; página impresa 17; página PDF 15.
+
+56. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un analista asume que la división territorial de los SLEP definida en la Ley es incuestionable. ¿Qué crítica se apoya en el capítulo 2 del Marco?
+A. La división de los territorios predefinidos en la Ley no está exenta de cuestionamientos
+B. Es correcto, pues todos los actores aprobaron por unanimidad la división territorial vigente
+C. Es correcto, pues la Ley prohíbe cualquier revisión de los territorios de los SLEP
+D. La Ley no define territorios, por lo que no existe ninguna división que analizar
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La división de los territorios predefinidos en la Ley no está exenta de cuestionamientos.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 13; página PDF 13.
+
+57. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un servicio local cree que lo digital solo es relevante en la educación virtual. ¿Qué análisis crítico se fundamenta en el capítulo 3?
+A. Es correcto, pues la digitalización solo tiene sentido en la educación a distancia y en línea
+B. La digitalización debe evitarse en los contextos presenciales e híbridos
+C. Es correcto, pues lo digital carece de impacto en el aprendizaje presencial
+D. La digitalización ofrece oportunidades en cualquier contexto: presencial, virtual o híbrido
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La digitalización ofrece oportunidades para la educación en cualquier contexto, sea presencial, virtual o híbrido, y este es un hecho que líderes y profesionales del sistema educativo ya no pueden refutar.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 31; página PDF 31.
+
+58. [ERCE 2019 – UNESCO · Sección 2] Un analista afirma que en Matemática las diferencias entre países superan a las diferencias dentro de cada país. ¿Qué crítica se apoya en el ERCE 2019?
+A. Es correcto: en ambos grados las diferencias entre países superan a las internas de cada país
+B. En ambos grados es mayor la heterogeneidad al interior de los países que entre ellos
+C. En Matemática no se observan diferencias entre países ni dentro de ellos
+D. Es correcto: dentro de cada país los puntajes de Matemática son homogéneos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “En ambos grados se advierte nuevamente que es mayor la heterogeneidad de puntajes al interior de los países que las diferencias entre estos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 18; página PDF 18.
+
+59. [ERCE 2019 – UNESCO · Sección 2] Un medio afirma que República Dominicana obtuvo un resultado cercano al promedio regional en Matemática de 3° grado. ¿Qué crítica se apoya en el gráfico de media y dispersión?
+A. Obtuvo 751 puntos, el más alto, frente a un promedio regional de 698 de 3°
+B. No participó en la prueba de Matemática de 3° grado del ERCE
+C. Obtuvo 624 puntos, el más bajo, frente a un promedio regional de 698
+D. Obtuvo exactamente 698 puntos, igual al promedio de la región
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico de media y dispersión (Matemática 3° grado): “…Rep. Dominicana (624) Uruguay (722) Región (698)”.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 18; página PDF 18.
+
+60. [ERCE 2019 – UNESCO · Sección 4] Un analista atribuye las ventajas de las escuelas urbanas solo a su ubicación. ¿Qué análisis crítico se fundamenta en la literatura citada?
+A. No existen diferencias de acceso a bienes ni servicios entre centros urbanos y rurales
+B. Hay diferencias de acceso a bienes y servicios, y las rurales atienden a población de menor NSE
+C. Las escuelas rurales atienden a población de mayor nivel socioeconómico que las urbanas
+D. La ubicación urbana garantiza por sí sola mejores docentes en todas las escuelas de la región evaluada
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “La literatura en este campo muestra que existen diferencias entre centros urbanizados y los rurales en acceso a bienes, servicios, oportunidades de desarrollo y laborales relacionadas con la preparación escolar (McEwan, 2008). Asimismo, las escuelas de estos sectores usualmente atienden a población de menor nivel socioeconómico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 37; página PDF 37.
+
+61. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al definir la lengua de enseñanza en un contexto plurilingüe, ¿qué orientación establece el Marco de Acción?
+A. Imponer una única lengua oficial en todas las escuelas, sin considerar la lengua materna de cada niño
+B. Postergar la enseñanza de la lengua materna hasta la educación secundaria superior
+C. Enseñar exclusivamente en una lengua extranjera para favorecer la competitividad global
+D. Promover, siempre que sea posible, el aprendizaje en la primera lengua o la hablada en el hogar
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En contextos plurilingües, siempre que sea posible y teniendo en consideración las distintas realidades, capacidades y políticas nacionales y sub-nacionales, se deberán promover el aprendizaje y la enseñanza en la primera lengua o la hablada en el hogar.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.1; página impresa 37; página PDF 35.
+
+62. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al legislar sobre educación preescolar conforme a la meta 4.2, ¿qué mínimo aconseja el Marco de Acción?
+A. Ningún mínimo, pues la educación preescolar es opcional para los países
+B. Por lo menos seis meses de educación preescolar pagada por las familias del niño
+C. Por lo menos tres años de educación preescolar privada y voluntaria
+D. Por lo menos un año de educación preescolar gratuita y obligatoria de calidad
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Se aconseja impartir por lo menos un año de educación preescolar gratuita y obligatoria de calidad, por parte de educadores debidamente formados.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.2; página impresa 39; página PDF 37.
+
+63. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Al formular una política de educación terciaria acorde con el Marco de Acción, ¿qué orientación sobre su gratuidad debe considerarse?
+A. Hacerla gratuita solo para los estudiantes extranjeros que estudien en el país
+B. Hacerla gratuita de inmediato para todos, sin considerar los acuerdos internacionales
+C. Hacerla gratuita progresivamente, de conformidad con los acuerdos internacionales
+D. Mantenerla pagada en todos los casos, pues no forma parte del ODS 4
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La educación terciaria deberá hacerse gratuita progresivamente, de conformidad con los acuerdos internacionales existentes.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.3; página impresa 41; página PDF 39.
+
+64. [LIDEI 2022 – OEI · Capítulo 2] Al estudiar la base normativa de la gestión democrática en Brasil, ¿qué norma menciona el capítulo 2?
+A. La Ley 21.040 del Sistema de Educación Pública aprobada en 2017
+B. La Ley de Directrices y Bases de la Educación Nacional, Ley nº 9.394 de 1996
+C. La Ley Básica del Sistema Educativo de 1986, aprobada en Portugal por la Asamblea
+D. La Ley Orgánica de Educación de España, aprobada en el año 2006
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Brasil, Ley de Directrices y Bases de la Educación Nacional y Ley nº9.394 de 1996).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar; página impresa 26; página PDF 24.
+
+65. [LIDEI 2022 – OEI · Capítulo 2] Al analizar el modelo de gestión de las escuelas públicas en Portugal, ¿a qué concepto lo asocian fuertemente las normas de la Ley Básica del Sistema Educativo (LBSE, 1986)?
+A. Al concepto de inspección
+B. Al concepto de autonomía
+C. Al concepto de competencia
+D. Al concepto de control
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “De la lectura de las normas aprobadas por la Ley Básica del Sistema Educativo (LBSE, 1986), se desprende que el modelo de gestión de las escuelas públicas en Portugal está fuertemente asociado al concepto de autonomía…”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar; página impresa 22; página PDF 20.
+
+66. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] Un SLEP revisa las normas que rigen la admisión de estudiantes en sus escuelas. ¿Qué ley de 2015 regula la admisión y elimina el financiamiento compartido, según el Marco?
+A. La Ley de Inclusión Escolar
+B. La Ley de Carrera Docente
+C. La Ley General de Educación
+D. La Ley de Subvención Preferencial
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “El 2015, se aprueba la Ley de Inclusión Escolar que regula la admisión de estudiantes, elimina el financiamiento compartido y pr[ohíbe el lucro]…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 11; página PDF 11.
+
+67. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al definir la gobernanza del SLEP, ¿a qué espacios debe convocar a la comunidad según la Dimensión 2?
+A. A ningún espacio, pues la participación es opcional
+B. A espacios privados definidos por empresas del territorio
+C. A los espacios de representación contemplados en la legislación
+D. A espacios informales sin reconocimiento en la legislación vigente
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “La gobernanza y gestión del nivel intermedio debe orientarse a implementar políticas que garanticen la participación, articulación y convivencia democrática, convocando a toda la comunidad a participar en los espacios de representación contemplados en la legislación.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 56; página PDF 56.
+
+68. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Al formalizar vínculos con instituciones del territorio, ¿con qué deben ser coherentes según la Dimensión 2?
+A. Con las preferencias personales de cada director ejecutivo
+B. Con los resultados electorales de las autoridades municipales del territorio
+C. Con los intereses comerciales de las instituciones que firman los convenios
+D. Con las necesidades y prioridades del PEL y de las unidades educativas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Participan de redes, mesas territoriales o sectoriales y se coordinan con instituciones nacionales, regionales y locales […], formalizando vínculos y convenios de colaboración cuando corresponda, de acuerdo con las necesidades y prioridades del PEL y las unidades educativas.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 57; página PDF 57.
+
+69. [ERCE 2019 – UNESCO · Sección 4] Al aplicar el índice socioeconómico del ERCE 2019 para controlar resultados, ¿dónde se encuentra el detalle de su composición según la nota 26?
+A. En el Anexo 4 del informe
+B. En el Anexo 1 del texto
+C. En la Tabla 1 de la sección
+D. En la nota al pie 30 del texto
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[26] El índice de nivel socioeconómico (NSE) se construye a partir de las respuestas a los cuestionarios de estudiantes y familias. El detalle sobre la composición del índice de NSE se encuentra en el Anexo 4.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 29; página PDF 29.
+
+70. [ERCE 2019 – UNESCO · Sección 4] Según la Tabla 1, ¿en cuántos países se asocia positivamente el nivel socioeconómico de la familia con el logro en Matemática de 3° grado?
+A. En cuatro países
+B. En nueve países
+C. En catorce países
+D. En dieciséis países
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] Tabla 1: “Nivel socioeconómico de la familia 16 (+) 14 (+) 16 (+) 16 (+) 16 (+)” (Lectura 3°, Matemática 3°, Lectura 6°, Matemática 6°, Ciencia 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 28; página PDF 28.
+
+71. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Una región afectada por un desastre natural debe mantener la educación. ¿Qué fortalecimiento de capacidades plantea el Marco de Acción?
+A. Reducción del riesgo de desastres, educación para la paz, adaptación climática y respuesta ante emergencias
+B. Suspensión de la educación hasta recibir financiamiento internacional para nuevas escuelas
+C. Traslado de todos los estudiantes a otras regiones, sin acciones de preparación en la zona afectada más cercanas
+D. Cierre indefinido de las escuelas hasta que concluya por completo la reconstrucción de la región
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Se deberá fortalecer la capacidad de los gobiernos y la sociedad civil en todos los niveles en materia de reducción del riesgo de desastres, educación en favor de la paz, adaptación al cambio climático, y preparación y respuesta ante situaciones de emergencia, para así atenuar los riesgos y mantener la educación durante todas las fases…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Enfoques estratégicos; página impresa 34; página PDF 32.
+
+72. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un centro de EFTP recibe adultos con experiencia laboral sin certificar. ¿Qué orientación del Marco de Acción corresponde aplicar?
+A. Certificar su experiencia sin evaluación, para acelerar su inserción en el mercado laboral
+B. Reconocer y valorar las aptitudes adquiridas con la experiencia o en entornos no formales e informales
+C. Exigir que cursen toda la formación desde el inicio, sin valorar su experiencia laboral previa certificada
+D. Rechazar su ingreso, pues la EFTP está reservada a jóvenes recién egresados de la secundaria
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los sistemas de EFTP deben reconocer y valorar las aptitudes adquiridas con la experiencia o en entornos no formales e informales, en particular en el lugar de trabajo y por Internet.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.4; página impresa 43; página PDF 41.
+
+73. [LIDEI 2022 – OEI · Capítulo 3] Un director argentino puede gestionar la convivencia con amplio margen, pero no adaptar los documentos oficiales de convivencia. ¿Qué dato de la encuesta refleja esa situación?
+A. El 92 % opina que puede adaptar los documentos; el 54 % refleja autonomía para gestionar la convivencia escolar
+B. Ningún director opina tener autonomía para adaptar documentos ni para gestionar la convivencia
+C. El 100 % opina que puede adaptar los documentos y gestionar la convivencia con plena autonomía
+D. El 54 % opina que puede adaptar los documentos; el 92 % refleja autonomía para gestionar la convivencia
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En Argentina, el 54% de los directores opina que puedan adaptar los documentos oficiales de convivencia a las particularidades del centro, pero a la hora de gestionar la convivencia el 92% de los directores reflejan bastante o mucha autonomía.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 65; página PDF 63.
+
+74. [LIDEI 2022 – OEI · Capítulo 3] Un director chileno trabaja entre 40 y 50 horas semanales y se pregunta si es una situación habitual. ¿Qué indica la encuesta LIDEI?
+A. Es habitual en Argentina, pero en Chile nadie supera las 30 horas
+B. Es excepcional: en Chile solo el 8 % de los directores trabaja tantas horas
+C. Es habitual: en Chile el 80 % de los directores se sitúa en ese rango
+D. La encuesta no recogió las horas semanales de trabajo de los directores
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En Chile, el 80% se sitúa en el rango de 40 a 50 horas de trabajo a la semana.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 49; página PDF 47.
+
+75. [LIDEI 2022 – OEI · Capítulo 3] Un equipo directivo evalúa qué cambió más en su centro con el cierre por la pandemia. ¿Qué identificó como gran cambio alrededor del 90 % de los directores encuestados?
+A. La utilización de tecnologías digitales en el funcionamiento de los centros
+B. La reducción del número de docentes en los centros educativos encuestados de los tres países
+C. La eliminación de la evaluación de los aprendizajes durante todo el curso
+D. El aumento de la matrícula en los centros privados de los tres países
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Alrededor del 90% de los directores opinan que, esencialmente, el gran cambio en el funcionamiento de los centros fue la utilización de tecnologías digitales. El mayor porcentaje se da en España (94%), seguido de Chile (87%) y Argentina (85%).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 75; página PDF 73.
+
+76. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un director no logra que su comunidad educativa participe en la planificación de la escuela. ¿Qué apoyo del SLEP corresponde según la Dimensión 2?
+A. Sustituir al equipo directivo en la conducción de la escuela hasta mejorar la participación
+B. Esperar a que la comunidad participe por iniciativa propia, sin intervención del servicio local
+C. Coordinar con el equipo directivo estrategias de participación, recogiendo visiones e ideas
+D. Imponer asistencia obligatoria a las familias, con sanciones por inasistencia
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Apoyan y coordinan con los equipos directivos de las unidades educativas, el diseño de estrategias para lograr la participación de las comunidades educativas, recogiendo visiones, ideas y prácticas que permitan ir retroalimentando y ajustando de modo constante la planificación y el trabajo educativo a nivel territorial.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 57; página PDF 57.
+
+77. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] Un SLEP tiene escuelas urbanas y rurales con culturas muy distintas. ¿Qué exige la Dimensión 2 para gestionar esa diversidad?
+A. Reconocerla, distinguiendo niveles y realidades, y articulando trabajo en red e intercambio
+B. Uniformar la gestión, aplicando el mismo modelo en todas las escuelas del territorio sin distinción
+C. Delegar la gestión rural en los municipios, sin coordinación con el servicio local
+D. Priorizar solo a las escuelas urbanas, que concentran la mayor parte de la matrícula
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Un aspecto relevante en la gestión educativa del territorio es reconocer las diversas características y culturas que conviven en el territorio de cada SLEP. Se requiere distinguir diferentes niveles educativos, realidades urbanas y rurales, articulando el trabajo en red, el intercambio de experiencias, la coordinación…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 56; página PDF 56.
+
+78. [ERCE 2019 – UNESCO · Sección 2] En una escuela peruana, los niños superan a las niñas en Matemática de 3° grado. ¿Qué diferencia por sexo reporta el gráfico del ERCE 2019 para Perú?
+A. Una diferencia de 3 puntos favorable a las niñas
+B. Una diferencia nula entre niñas y niños en Perú
+C. Una diferencia de 17 puntos favorable a los niños
+D. Una diferencia de 19 puntos favorable a las niñas en Perú
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico 18 (Matemática 3° grado, diferencias según sexo): “…Perú -17 Rep. Dominicana 19 Uruguay 3…”, donde los valores negativos son favorables a los niños.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 22; página PDF 22.
+
+79. [ERCE 2019 – UNESCO · Sección 2] En una escuela costarricense, las niñas de 3° grado rinden menos que los niños en Matemática. ¿Qué diferencia por sexo reporta el gráfico del ERCE 2019 para Costa Rica?
+A. Una diferencia de 13 puntos favorable a los niños
+B. Una diferencia de 13 puntos favorable a las niñas del país
+C. Una diferencia de 19 puntos favorable a las niñas
+D. Una diferencia nula entre niñas y niños del país
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico 18 (Matemática 3° grado, diferencias según sexo): “…Colombia -9 Costa Rica -13 Cuba 0…”, donde los valores negativos son favorables a los niños.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 22; página PDF 22.
+
+80. [ERCE 2019 – UNESCO · Sección 2] En una escuela de Guatemala, los niños superan a las niñas en Matemática de 6° grado. ¿Qué diferencia por sexo reporta el gráfico del ERCE 2019 para ese país?
+A. Una diferencia nula entre niñas y niños del país
+B. Una diferencia de 14 puntos favorable a las niñas del país
+C. Una diferencia de 6 puntos favorable a las niñas
+D. Una diferencia de 14 puntos favorable a los niños
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico 19 (Matemática 6° grado, diferencias según sexo): “…Guatemala -14 Honduras -9 México 3 Nicaragua -14…”, donde los valores negativos son favorables a los niños.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 22; página PDF 22.
+
+81. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un gobierno con recursos limitados debe decidir dónde invertir para obtener los mejores resultados a largo plazo en desarrollo y educación. ¿Qué decisión respalda el Marco de Acción?
+A. Invertir solo en infraestructura de escuelas secundarias urbanas
+B. Invertir en los niños pequeños, en particular los de grupos marginados
+C. Invertir solo en la educación universitaria de los estudiantes destacados
+D. Invertir en becas para estudiar en el extranjero en áreas STEM
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Las inversiones dirigidas a los niños pequeños, en particular los de grupos marginados, dan los mejores resultados a largo plazo en cuanto a desarrollo y educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.2; página impresa 38; página PDF 36.
+
+82. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un ministerio diseña su política de alfabetización. ¿Qué enfoque recomienda el Marco de Acción para formularla y presupuestarla?
+A. Un enfoque sectorial y multisectorial, coordinado entre ministerios como educación, salud y trabajo
+B. Un enfoque centrado solo en niños, pues los adultos no forman parte de la meta
+C. Un enfoque exclusivo del ministerio de educación, sin coordinación con otros ministerios de su gobierno
+D. Un enfoque delegado en organizaciones privadas, sin participación de los ministerios
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “• Crear un enfoque sectorial y multisectorial para la formulación de políticas y planes de alfabetización, así como para la elaboración de los presupuestos, mediante un refuerzo de la colaboración y coordinación, por una parte, entre los ministerios competentes, en particular los que se encargan de la educación, la salud, el bienestar social, el trabajo, la industria y la agricultura…”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.6; página impresa 48; página PDF 46.
+
+83. [ODS 4 – Educación 2030 (UNESCO) · Capítulo II] Un país donante decide ofrecer becas a estudiantes de países en desarrollo. ¿Qué criterio debe considerar según el Marco de Acción?
+A. Que las becas se concentren solo en estudiantes de altos ingresos
+B. Que las becas reemplacen toda otra forma de apoyo a la educación
+C. Que las becas retengan a los becarios en el país donante tras graduarse de inmediato
+D. Que las becas contribuyan a reforzar las capacidades del país en desarrollo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Cuando los países desarrollados ofrecen becas a alumnos de países en desarrollo, se deberá procurar que éstas contribuyan a reforzar las capacidades del país en desarrollo. Aunque se reconoce la importancia de las becas, se alienta a los países donantes a incrementar otras formas de apoyo a la educación.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección II. Objetivo, enfoques estratégicos, metas e indicadores – Meta 4.b; página impresa 53; página PDF 51.
+
+84. [LIDEI 2022 – OEI · Capítulo 3] Una Administración diseña el proceso de acceso a la dirección. Según la encuesta LIDEI, ¿qué elemento formó parte de la elección de solo el 19 % de los directores?
+A. El análisis de las habilidades personales de liderazgo del candidato
+B. La superación de un examen escrito sobre la normativa educativa vigente del país
+C. La acreditación de un título de doctorado en gestión educativa
+D. La presentación de un proyecto escolar para el centro que van a dirigir
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “El 31% ha tenido que superar un examen y en el 35% se analizaron las habilidades personales de liderazgo. La presentación de un proyecto escolar para el centro educativo que van a dirigir ha sido parte del proceso de elección del 19% de los directores.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 51; página PDF 49.
+
+85. [LIDEI 2022 – OEI · Capítulo 3] Una Administración evalúa vincular la evaluación del desempeño directivo con una compensación económica. ¿Qué indica la encuesta LIDEI sobre la opinión de los directores?
+A. Que no existe una opinión uniforme al respecto
+B. Que la encuesta no consultó sobre este aspecto
+C. Que todos exigen ese vínculo de forma inmediata
+D. Que todos rechazan el vínculo económico
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “No existe una opinión uniforme a la hora de asociar la evaluación del desempeño a una compensación económica.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 3. Diseño, pilotaje y resultados de la encuesta sobre políticas y prácticas de liderazgo escolar; página impresa 74; página PDF 72.
+
+86. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un SLEP debe decidir cómo relacionar su gestión con las unidades educativas para ganar eficiencia y compartir buenas prácticas. ¿Qué decisión se fundamenta en el capítulo 3?
+A. Comunicarse con las escuelas solo por medio de informes anuales de resultados
+B. Delegar la gestión en cada escuela, sin compartir prácticas entre los establecimientos
+C. Centralizar todas las decisiones en el servicio, sin comunicación con las escuelas
+D. Establecer alianzas con las unidades educativas y sistemas de comunicación integrados
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Es fundamental establecer alianzas entre la gestión de los servicios locales y las unidades educativas, de modo de fomentar la eficiencia y eficacia de las labores, compartir buenas prácticas y desarrollar sistemas de comunicación integrados.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 39; página PDF 39.
+
+87. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 3] Un SLEP decide cómo organizar a su personal técnico y administrativo. ¿Qué decisión se ajusta a la condición de capacidades profesionales?
+A. Concentrar las decisiones en el director ejecutivo, sin metas compartidas
+B. Separar los equipos técnico y administrativo, cada uno con metas independientes y aisladas
+C. Construir una visión común, definir metas en conjunto y hacer seguimiento para corregir
+D. Evitar el seguimiento para no generar tensiones entre los equipos del servicio
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “El personal encargado de las funciones técnicas y administrativas debe tener una visión común de lo que desea lograr, definir metas en conjunto, y hacer seguimientos y evaluaciones para corregir…”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 3. Acerca de la gestión y del liderazgo educativo del nivel intermedio: ¿qué nos dice la evidencia?; página impresa 39; página PDF 39.
+
+88. [ERCE 2019 – UNESCO · Sección 2] Un ministerio busca referentes de alto desempeño en Ciencias de 6° grado. Según el gráfico de media y dispersión, ¿qué países superan los 750 puntos?
+A. Uruguay (731) y México (726)
+B. Cuba (779) y Costa Rica (758)
+C. Brasil (718) y El Salvador (705)
+D. Perú (723) y Ecuador (720)
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico de media y dispersión (Ciencias 6° grado): “…Costa Rica (758) Cuba (779)…”; los demás países se ubican por debajo de 750 puntos (p. ej., “Uruguay (731)”, “México (726)”).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 20; página PDF 20.
+
+89. [ERCE 2019 – UNESCO · Sección 4] Un ministerio debe priorizar prácticas docentes para 6° grado según su extensión en los países. Según la Tabla 1, ¿en cuántos países se asocia la organización de la enseñanza con el logro en Ciencias de 6°?
+A. En ningún país
+B. En 16 países
+C. En 4 países
+D. En 11 países
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] Tabla 1: “Organización de la enseñanza por parte del docente 11 (+) 9 (+) 7 (+) 8 (+) 11 (+)” (Lectura 3°, Matemática 3°, Lectura 6°, Matemática 6°, Ciencia 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 28; página PDF 28.
+
+90. [ERCE 2019 – UNESCO · Sección 2] Una autoridad debe decidir si focalizar apoyo en Matemática para niñas en República Dominicana. ¿Qué dato del gráfico de diferencias por sexo de 3° grado orienta la decisión?
+A. Allí la diferencia es de 13 puntos favorable a los niños
+B. Allí no se registra diferencia alguna entre niñas y niños
+C. Allí la diferencia es de 17 puntos a favor de niños
+D. Allí la diferencia es de 19 puntos favorable a las niñas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] Gráfico 18 (Matemática 3° grado, diferencias según sexo): “…Perú -17 Rep. Dominicana 19…”, donde los valores positivos son favorables a las niñas.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 2. Logros de aprendizaje; página impresa 22; página PDF 22.
+
+91. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué enfoque de la educación propone el Marco de Acción para la implementación nacional, aunque lideren los ministerios de educación?
+A. Un enfoque delegado en el sector privado
+B. Un enfoque “del gobierno en su conjunto”
+C. Un enfoque limitado a los municipios
+D. Un enfoque exclusivo del ministerio de educación
+Respuesta correcta: B
+Explicación: “Aunque son los ministerios de educación los que lideran la implementación del ODS sobre educación […] en el plano nacional, resulta necesario un enfoque de la educación ‘del gobierno en su conjunto’.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Coordinación nacional; página impresa 60; página PDF 58.
+
+92. [ODS 4 – Educación 2030 (UNESCO) · Capítulo III] ¿Qué cultura considera indispensable el Marco de Acción para extraer enseñanzas de la aplicación de estrategias y políticas?
+A. Una cultura de confidencialidad que limite la difusión de los resultados
+B. Una cultura de competencia entre países basada en rankings internacionales
+C. Una cultura de control jerárquico y sanción de los resultados insuficientes de cada escuela
+D. Una cultura de investigación y evaluación en los planos nacional e internacional
+Respuesta correcta: D
+Explicación: “Por otra parte, resulta indispensable una cultura de investigación y evaluación en los planos nacional e internacional para extraer enseñanzas de la aplicación de estrategias y políticas y aprovecharlas en la práctica.”
+Sustento: Declaración de Incheon y Marco de Acción ODS 4 – Educación 2030 (UNESCO). Sección III. Modalidades de aplicación – Supervisión, seguimiento y examen; página impresa 66; página PDF 64.
+
+93. [LIDEI 2022 – OEI · Capítulo 1] ¿Qué aspecto considera el capítulo 1 uno de los más estructurales de todos los sistemas educativos, según lo estudiado en Iberoamérica (OEI, 2020)?
+A. La carrera docente
+B. La evaluación externa
+C. La autonomía escolar
+D. El gasto privado
+Respuesta correcta: C
+Explicación: “Como en todos los sistemas educativos –y como se ha estudiado en Iberoamérica (OEI, 2020) –, la autonomía escolar es uno de sus aspectos más estructurales.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual; página impresa 16; página PDF 14.
+
+94. [LIDEI 2022 – OEI · Capítulo 2] ¿Qué necesitan otros actores del sistema escolar, como formadores y ejecutores de política pública, según el capítulo 2?
+A. Elementos que ayuden a identificar rasgos que potencien el desempeño de directores y equipos
+B. Normas que limiten la autonomía de los directores y reduzcan su capacidad de decisión efectiva
+C. Recursos para reemplazar a los equipos directivos por gestores externos
+D. Rankings de escuelas que permitan sancionar a los directores de menor desempeño
+Respuesta correcta: A
+Explicación: “De este modo, también otros actores del sistema escolar, formadores y ejecutores de la política pública requieren elementos que puedan ayudar a seleccionar e identificar rasgos que potencien un mejor desempeño de directores y equipos directivos en general.”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 2. Estudio de casos significativos sobre políticas y prácticas de liderazgo escolar; página impresa 21; página PDF 19.
+
+95. [LIDEI 2022 – OEI · Capítulo 1] Más que el concepto de gestión curricular, ¿qué será fundamental cuestionar para la innovación curricular, según el capítulo 1?
+A. El número de asignaturas del currículo y la duración de la jornada escolar
+B. El tipo de práctica de liderazgo y las condiciones necesarias para la innovación
+C. El presupuesto asignado a textos escolares y a la infraestructura del centro escolar
+D. La edad de los docentes y su antigüedad en el sistema educativo del país
+Respuesta correcta: B
+Explicación: “Sin embargo, más que el concepto de gestión curricular, será fundamental cuestionar tanto el tipo de práctica de liderazgo como las condiciones necesarias para la innovación curricular y, por tanto, para el reconocimiento de las prácticas de diversidad e inclusión (Tian y Risku, 2019).”
+Sustento: LIDEI 2022. Liderazgo directivo en Iberoamérica (OEI). Capítulo 1. El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado: síntesis de la revisión conceptual; página impresa 14; página PDF 12.
+
+96. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Cómo debe ser reconocida por la comunidad la visión de la educación pública en el nivel local, según la Dimensión 1?
+A. Como uniforme, estable e inmodificable
+B. Como convocante, desafiante y movilizadora
+C. Como opcional, ocasional y secundaria
+D. Como técnica, reservada y centralizada en el SLEP
+Respuesta correcta: B
+Explicación: “La visión de la educación pública en el nivel local debe ser reconocida por la comunidad como convocante, desafiante y movilizadora.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 54; página PDF 54.
+
+97. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 4] ¿Qué desafío estratégico plantean las etapas y actividades del desarrollo profesional en la Dimensión 4?
+A. Reducir el tiempo dedicado a la formación para priorizar las tareas administrativas
+B. Concentrar la formación en cursos externos dictados por universidades extranjeras
+C. Promover la competencia individual y la selección de los docentes con mejores resultados del territorio
+D. Promover la colaboración, el liderazgo y la generación de redes y comunidades de aprendizaje
+Respuesta correcta: D
+Explicación: “Las distintas etapas y actividades propias del desarrollo profesional, que se implementan, tienen como desafío promover la colaboración, el liderazgo y la generación de redes profesionales y comunidades de aprendizaje.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 4. Marco para la Gestión y el Liderazgo Educativo Local; página impresa 60; página PDF 60.
+
+98. [Marco para la Gestión y el Liderazgo Educativo Local · Capítulo 2] ¿Qué pone énfasis el proyecto de Ley en discusión respecto de la DEP, según el capítulo 2 del Marco?
+A. Convertirla en un organismo privado de asesoría técnica a los SLEP
+B. Eliminarla y transferir todas sus funciones a los municipios del país
+C. Atribuirle nuevas responsabilidades para mejorar su conducción estratégica
+D. Limitar sus funciones a la distribución de recursos financieros a las escuelas
+Respuesta correcta: C
+Explicación: “En cuanto a las prioridades, el proyecto de Ley en discusión pone énfasis en: […] Atribuye nuevas responsabilidades a la DEP, para mejorar su capacidad de coordinación y conducción estratégica del sistema.”
+Sustento: Marco para la Gestión y el Liderazgo Educativo Local: Promoviendo prácticas de liderazgo intermedio (2.ª versión actualizada). Capítulo 2. Síntesis del contexto y evolución del nivel intermedio en Chile; página impresa 18; página PDF 18.
+
+99. [ERCE 2019 – UNESCO · Sección 4] ¿Qué implicancia estratégica tiene que, tras controlar el NSE, las escuelas urbanas de Argentina obtengan menores niveles de aprendizaje de los esperados?
+A. Que la ubicación urbana no garantiza ventajas y deben analizarse otros factores escolares
+B. Que la ubicación urbana garantiza ventajas que deben replicarse en todas las escuelas del país
+C. Que las escuelas rurales argentinas deben cerrarse y trasladarse a zonas urbanas
+D. Que el nivel socioeconómico no debe considerarse al analizar los resultados escolares
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Incluso, en el caso de Argentina, las escuelas urbanas obtienen menores niveles de aprendizaje de los esperados después de controlar por diferencias socioeconómicas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 37; página PDF 37.
+
+100. [ERCE 2019 – UNESCO · Sección 4] Según la Tabla 1, ¿en qué grado se asocia el interés docente por el bienestar con el logro en un mayor número de países?
+A. En 6° grado, con 16 países en todas las pruebas evaluadas
+B. En 3° grado, con 12 países en Lectura y 13 en Matemática
+C. En 6° grado, con 12 países en Lectura y 13 en Matemática
+D. En ambos grados por igual, con 6 países en cada prueba
+Respuesta correcta: B
+Explicación: Tabla 1: “Interés de los docentes por el bienestar de los estudiantes 12 (+) 13 (+) 9 (+) 6 (+) 10 (+)” (Lectura 3°, Matemática 3°, Lectura 6°, Matemática 6°, Ciencia 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo; página impresa 28; página PDF 28.

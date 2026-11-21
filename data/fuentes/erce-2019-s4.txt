@@ -1,0 +1,995 @@
+# Fuente: erce-2019-s4.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Proceso de institucionalización de cargos directivos del Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE ALTA EXIGENCIA
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Documento fuente: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Sección evaluado: 4. Factores asociados al logro educativo
+# Páginas: impresas 27 a 37 (PDF 27 a 37)
+# Modalidad: opción múltiple y casos prácticos · 4 alternativas · 1 respuesta correcta
+# La Paz, noviembre de 2026
+# Presentación
+# El presente banco de preguntas evalúa, con nivel muy avanzado, el dominio de la sección «4. Factores asociados al logro educativo» del documento Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Las preguntas exploran conocimientos, análisis crítico, interpretación y toma de decisiones propias de la función directiva en una Unidad Educativa.
+# Todas las preguntas se fundamentan exclusivamente en el documento fuente. Cada ítem indica su fundamentación (cita textual) y su referencia: documento, apartado, página impresa y página PDF. Las preguntas cuya respuesta se deriva de trasladar el texto a una situación institucional se identifican como «Aplicación razonada»; las demás, como «Contenido textual».
+# Ficha técnica
+# Elemento
+# Detalle
+# Fuente
+# Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021)
+# Alcance
+# Sección 4 completa: propósito y diseño del estudio de factores asociados, Tabla 1, estudiantes y sus familias (preescolar, repitencia, ausentismo, días de estudio, pertenencia a pueblos originarios, expectativas e involucramiento parental), docentes y sus prácticas de enseñanza (expectativas, interés por el bienestar, apoyo al aprendizaje, organización de la enseñanza, disrupción) y características de las escuelas (varianza entre escuelas, NSE escolar, administración y ubicación), con las notas al pie 25 a 30. La página 26 es la portada de la sección; las filas de la Tabla 1 cuya extracción es ambigua no se utilizan
+# Correspondencia de páginas
+# En este documento la página impresa coincide con la página PDF (27–37)
+# Número de preguntas
+# 100 (10 tipos de evaluación × 10 preguntas)
+# Naturaleza de los ítems
+# 48 de contenido textual · 52 de aplicación razonada
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta, de longitud equilibrada
+# Distribución de respuestas
+# A: 25 · B: 25 · C: 25 · D: 25
+# Tabla de distribución metodológica
+# N.º
+# Tipo de evaluación
+# Preguntas
+# Peso
+# 1
+# Conocimiento y memorización
+# 1 – 10
+# 10 %
+# 2
+# Dominio conceptual
+# 11 – 20
+# 10 %
+# 3
+# Competencias y responsabilidades directivas
+# 21 – 30
+# 10 %
+# 4
+# Comprensión e interpretación
+# 31 – 40
+# 10 %
+# 5
+# Diferenciación conceptual
+# 41 – 50
+# 10 %
+# 6
+# Análisis crítico
+# 51 – 60
+# 10 %
+# 7
+# Aplicación normativa
+# 61 – 70
+# 10 %
+# 8
+# Resolución de casos prácticos
+# 71 – 80
+# 10 %
+# 9
+# Toma de decisiones
+# 81 – 90
+# 10 %
+# 10
+# Pensamiento estratégico y gestión institucional
+# 91 – 100
+# 10 %
+# TOTAL
+# 100
+# 100 %
+# Criterios de elaboración
+# A. Reconocimiento de objetivos, principios y formulaciones específicas.
+# B. Comprensión y relación entre conceptos fundamentales.
+# C. Identificación de actores, responsabilidades y competencias.
+# D. Interpretación de textos, ideas centrales e implicaciones.
+# E. Diferenciación de conceptos y detección de errores de interpretación.
+# F. Resolución de situaciones educativas mediante decisiones fundamentadas (tipos 6 a 10).
+# 1. Conocimiento y memorización
+# Preguntas 1 a 10 · Peso: 10 %
+# ✓ Exactamente 100 preguntas, 10 por cada tipo de evaluación (10 % cada uno).
+# ✓ Cuatro alternativas por pregunta y una sola respuesta correcta.
+# ✓ Respuestas correctas equilibradas: 25 en A, 25 en B, 25 en C y 25 en D, sin secuencias predecibles ni tres letras iguales seguidas.
+# ✓ En cada pregunta, la diferencia de caracteres entre la alternativa más larga y la más corta no supera el 25 %, y la correcta nunca es la más larga ni la más corta (comprobado de forma automatizada).
+# ✓ Sin enunciados duplicados. Toda fundamentación procede de la sección 4 del Resumen ejecutivo del ERCE 2019 (págs. 27 a 37).
+# ✓ Los ítems de aplicación razonada están señalados y se apoyan en el fragmento textual citado.
+
+CAPÍTULO: erce-2019-s4
+
+1. [ERCE 2019 – UNESCO · Sección 4] ¿En cuántos cuestionarios de contexto se basa el estudio de factores asociados del ERCE 2019?
+A. En seis cuestionarios de contexto escolar
+B. En tres cuestionarios de contexto
+C. En cuatro cuestionarios aplicados
+D. En cinco cuestionarios de contexto
+Respuesta correcta: D
+Explicación: “Este estudio se basa en la información recabada en cinco cuestionarios de contexto para: a) estudiantes de 3° grado, b) estudiantes de 6° grado, c) familias de los estudiantes, d) docentes y e) directores de las escuelas a las que asisten los alumnos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+2. [ERCE 2019 – UNESCO · Sección 4] En promedio, ¿cuántos puntos más obtienen los estudiantes que participaron de la educación preescolar?
+A. 16 puntos extra
+B. 8 puntos más
+C. 65 puntos más
+D. 28 puntos más
+Respuesta correcta: D
+Explicación: “En promedio, los estudiantes que participaron de la educación preescolar obtienen 28 puntos más que aquellos que no lo hicieron.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 28; página PDF 28.
+
+3. [ERCE 2019 – UNESCO · Sección 4] En promedio, ¿cuántos puntos menos alcanzan los estudiantes que han repetido al menos un grado?
+A. 65 puntos menos
+B. 22 puntos menos
+C. 117 puntos menos
+D. 9 puntos menos
+Respuesta correcta: A
+Explicación: “Los estudiantes que han repetido al menos un grado en su trayectoria educativa alcanzan, en promedio, 65 puntos menos en comparación con quienes no han tenido esa experiencia escolar.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+4. [ERCE 2019 – UNESCO · Sección 4] ¿Qué porcentaje de los estudiantes declara, en promedio, haber repetido de grado a lo largo de su trayectoria educativa?
+A. El 37 % de todos los estudiantes
+B. El 18 % de los estudiantes
+C. El 34 % de los estudiantes
+D. El 5 % de los estudiantes
+Respuesta correcta: B
+Explicación: “En promedio, 18% de los estudiantes declara haber repetido de grado a lo largo de su trayectoria educativa.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+5. [ERCE 2019 – UNESCO · Sección 4] ¿Cuántos puntos menos obtienen, en promedio, los estudiantes que se ausentaron dos veces o más en el último mes?
+A. 16 puntos menos
+B. 65 puntos menos
+C. 8 puntos menos
+D. Diez puntos menos
+Respuesta correcta: A
+Explicación: “Los estudiantes que reportan haberse ausentado dos veces o más en el último mes, equivalente a ausentarse 10% o más de los días, obtienen en promedio 16 puntos menos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+6. [ERCE 2019 – UNESCO · Sección 4] ¿Cuántos puntos más obtienen, en promedio, los estudiantes que dedican al menos un día de la semana al estudio, adicional a la jornada escolar?
+A. 39 puntos más
+B. 9 puntos más
+C. 60 puntos más
+D. 28 puntos extra
+Respuesta correcta: A
+Explicación: “Los estudiantes que dedican al menos un día de la semana al estudio, adicional a la jornada escolar, obtienen en promedio 39 puntos más en comparación con aquellos que no lo hacen.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+7. [ERCE 2019 – UNESCO · Sección 4] ¿Entre qué porcentajes varía la proporción de estudiantes que pertenecen a un pueblo originario en el ERCE 2019?
+A. Entre un 5 % en Cuba y un 34 % en Nicaragua
+B. Entre un 2 % en Cuba y un 37 % en Colombia
+C. Entre un 4 % en Costa Rica y un 68 % en Guatemala
+D. Entre un 22 % en Honduras y hasta un 68 % en Costa Rica
+Respuesta correcta: C
+Explicación: “En el ERCE 2019, el porcentaje de estudiantes que pertenecen a un pueblo originario varía entre un 4% en Costa Rica hasta un 68% en Guatemala.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+8. [ERCE 2019 – UNESCO · Sección 4] ¿Qué proporción aproximada de familias espera que sus hijos completen al menos estudios terciarios?
+A. Menos de una de cada 10 familias
+B. Aproximadamente seis de cada 10 familias
+C. Aproximadamente dos de cada 10 familias
+D. Aproximadamente nueve de cada 10 familias
+Respuesta correcta: B
+Explicación: “Aproximadamente seis de cada 10 familias esperan que sus hijos completen al menos estudios terciarios, tales como asistir a la universidad.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+9. [ERCE 2019 – UNESCO · Sección 4] Según el ERCE 2019, ¿qué porcentaje de las diferencias de aprendizaje entre los estudiantes depende de la escuela?
+A. Entre un 10 y un 20 %
+B. Menos de un 5 % del total
+C. Entre un 40 % y un 50 %
+D. Entre un 60 % y un 80 %
+Respuesta correcta: C
+Explicación: “Los resultados del ERCE 2019 muestran que entre un 40% y un 50% de las diferencias de aprendizaje entre los estudiantes depende de la escuela.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+10. [ERCE 2019 – UNESCO · Sección 4] Según la Tabla 1, ¿en cuántos países se asocia negativamente la repitencia con el logro en cada una de las pruebas?
+A. En 12 países, solo en pruebas de 6°
+B. En ningún país, pues la asociación es positiva
+C. En los 16 países, en todas las pruebas
+D. En 9 países, solo en Lectura de 3° grado
+Respuesta correcta: C
+Explicación: Tabla 1: “Repitencia 16 (-) 16 (-) 16 (-) 16 (-) 16 (-)” (Lectura y Matemática de 3°; Lectura, Matemática y Ciencia de 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+11. [ERCE 2019 – UNESCO · Sección 4] ¿Qué apunta a estudiar el estudio de factores asociados del ERCE 2019?
+A. Los contenidos curriculares que cada país incluye en sus programas de estudio
+B. Las causas de la deserción escolar en la educación secundaria de la región
+C. Variables que explican las diferencias de financiamiento entre los países de la región
+D. Variables que explican las diferencias de aprendizaje entre estudiantes y escuelas
+Respuesta correcta: D
+Explicación: “El estudio de factores asociados de ERCE 2019 apunta a estudiar variables que explican las diferencias de aprendizaje entre estudiantes y escuelas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+12. [ERCE 2019 – UNESCO · Sección 4] ¿Cuál es el propósito del estudio de factores asociados?
+A. Clasificar a los países según el gasto público en educación y sancionar a los de menor inversión
+B. Reemplazar las pruebas de logro de aprendizaje por cuestionarios de opinión de las familias
+C. Ofrecer evidencia empírica para identificar variables de política y práctica que sería prioritario modificar
+D. Evaluar el desempeño individual de cada docente para decidir su continuidad en el sistema escolar público del país
+Respuesta correcta: C
+Explicación: “El propósito de este estudio es ofrecer evidencia empírica a los países para identificar aquellas variables de política y práctica educativa que sería prioritario modificar para mejorar los logros y la equidad en los aprendizajes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+13. [ERCE 2019 – UNESCO · Sección 4] ¿En qué tres niveles se presentan los principales resultados del estudio de factores asociados?
+A. Currículo nacional, textos escolares y evaluaciones estandarizadas aplicadas en cada país
+B. Infraestructura escolar, equipamiento tecnológico y financiamiento de los establecimientos
+C. Ministerios de educación, gobiernos locales y organismos internacionales de cooperación técnica regional
+D. Estudiantes y sus familias, docentes y prácticas de enseñanza, y características de las escuelas
+Respuesta correcta: D
+Explicación: “En la siguiente sección se presentan los principales resultados del estudio de factores asociados en tres niveles: estudiantes y sus familias, docentes y prácticas de enseñanza, características de las escuelas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+14. [ERCE 2019 – UNESCO · Sección 4] ¿Por qué es necesario considerar las características de los estudiantes y sus familias, según la sección?
+A. Porque la educación opera en contextos sociales, culturales, geográficos y económicos específicos
+B. Porque las familias definen el currículo que se enseña en cada una de las escuelas del país
+C. Porque la educación funciona de igual modo en todos los contextos sociales y económicos de la región
+D. Porque las características familiares son el único factor que explica el aprendizaje
+Respuesta correcta: A
+Explicación: “La educación opera en contextos sociales, culturales, geográficos y económicos específicos. Por tal motivo, es necesario considerar la forma en que las características de los estudiantes y sus familias se asocian a los logros de aprendizaje.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 28; página PDF 28.
+
+15. [ERCE 2019 – UNESCO · Sección 4] Según la nota 25, ¿qué se entiende por asistencia a educación preescolar en el estudio?
+A. La asistencia exclusiva a centros públicos acreditados por el ministerio respectivo de cada país
+B. La asistencia durante el último año previo al ingreso a la educación primaria
+C. La asistencia en cualquiera de sus formas, independiente de la duración del programa
+D. La asistencia a un programa formal de al menos tres años de duración continua
+Respuesta correcta: C
+Explicación: “[25] Asistencia a educación preescolar en cualquiera de sus formas e independiente de la duración de ese programa de educación.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias (nota al pie 25); página impresa 28; página PDF 28.
+
+16. [ERCE 2019 – UNESCO · Sección 4] ¿Qué califica la investigación previa como ausentismo crónico, según la sección?
+A. La pérdida de un año escolar completo
+B. La pérdida del 50 % de los días hábiles de clases
+C. La ausencia de un día en el último mes
+D. La pérdida del 10 % de los días de clases
+Respuesta correcta: D
+Explicación: “Los hallazgos son consistentes con la investigación previa, que califica como ausentismo crónico la pérdida del 10% de los días de clases, el cual se asocia con menores logros de aprendizaje y riesgos de rezago escolar (Gottfried, 2014).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+17. [ERCE 2019 – UNESCO · Sección 4] ¿Qué acciones incluye el involucramiento parental en actividades de aprendizaje en el hogar?
+A. Apoyar la revisión o realización de tareas y manifestar interés por las calificaciones
+B. Asistir a las reuniones del consejo escolar y participar en la elección de directivos escolares
+C. Contratar clases particulares y cambiar al estudiante a una escuela de mejor nivel
+D. Supervisar la labor de los docentes y presentar reclamos ante la dirección escolar
+Respuesta correcta: A
+Explicación: “Este involucramiento parental incluye acciones de los padres como apoyar en la revisión o realización de tareas, manifestar interés por las calificaciones o tareas del estudiante, entre otras acciones.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+18. [ERCE 2019 – UNESCO · Sección 4] ¿Cómo caracteriza la sección las prácticas docentes y las experiencias de aula?
+A. Como un ámbito que depende exclusivamente de la infraestructura de cada escuela
+B. Como un factor secundario frente al nivel socioeconómico de las familias de los estudiantes evaluados
+C. Como un aspecto administrativo sin relación con los objetivos de las políticas educativas
+D. Como el núcleo de la actividad educativa donde se materializan los objetivos de las políticas
+Respuesta correcta: D
+Explicación: “Las prácticas docentes y las experiencias de aula de los estudiantes representan el núcleo de la actividad educativa donde se materializan los objetivos de desarrollo que plantean las políticas educativas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+19. [ERCE 2019 – UNESCO · Sección 4] ¿Qué prácticas incluye la buena organización de la enseñanza por parte del docente, según la sección?
+A. Delegar la clase en los estudiantes destacados y revisar solo los resultados finales
+B. Dictar los contenidos sin interrupciones, tomar pruebas semanales y asignar tareas extensas para la casa
+C. Agrupar a los estudiantes por rendimiento, evitar preguntas y concentrarse en la disciplina
+D. Tener listos los materiales, exponer los objetivos al inicio y realizar un resumen al término
+Respuesta correcta: D
+Explicación: “Estas prácticas incluyen tener listos los materiales que se usarán en la clase, exponer claramente los objetivos de aprendizaje al inicio de la clase y realizar un resumen al término de esta.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+20. [ERCE 2019 – UNESCO · Sección 4] Según la nota 28, ¿cómo se obtiene el nivel socioeconómico promedio de la escuela?
+A. A partir del presupuesto anual que recibe la escuela del ministerio
+B. A partir del NSE promedio de los estudiantes que pertenecen a dicha escuela
+C. A partir del nivel educativo de los docentes que trabajan en el establecimiento
+D. A partir del ingreso declarado por el director en el cuestionario de la escuela
+Respuesta correcta: B
+Explicación: “[28] Obtenido a partir del NSE promedio de los estudiantes que pertenecen a dicha escuela.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas (notas al pie 28 a 30); página impresa 37; página PDF 37.
+
+21. [ERCE 2019 – UNESCO · Sección 4] Un director quiere promover el interés de sus docentes por el bienestar de los estudiantes. ¿Qué acciones identifica el ERCE 2019 con ese factor?
+A. Aplicar sanciones inmediatas, registrar sus faltas y comunicar las notas bajas a las familias
+B. Reducir las exigencias académicas, eliminar tareas y evitar corregir los errores de los alumnos en clase
+C. Manifestar interés, animarlos cuando las materias son difíciles y ayudarlos cuando están tristes
+D. Derivar a todos los estudiantes con dificultades a especialistas externos a la escuela
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Estas actitudes se traducen, en el caso del ERCE 2019, en la frecuencia con que tienen lugar acciones como manifestar interés por los estudiantes, animarlos en clases cuando las materias son difíciles, ayudar a hacer sentir bien a los estudiantes cuando estos se encuentran tristes o molestos, entre otras.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+22. [ERCE 2019 – UNESCO · Sección 4] Una directora busca fortalecer el apoyo pedagógico de sus docentes al aprendizaje. ¿Qué actitudes docentes describe el ERCE 2019?
+A. Atender solo a los estudiantes destacados y dejar que los demás avancen a su propio ritmo
+B. Exigir silencio permanente, dictar los contenidos y calificar solo los resultados de las pruebas finales
+C. Atender los aprendizajes, motivar la participación de todos y corregir adecuadamente los errores
+D. Evitar reconocer las respuestas correctas para no generar competencia entre los estudiantes
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En el ERCE 2019, esto se traduce en actitudes de los docentes tales como estar atentos a los aprendizajes de sus estudiantes, motivar a la participación de todos, animarlos a hacer sus tareas, reconocer cuando los estudiantes responden correctamente y corregir adecuadamente los errores cuando corresponde, entre otros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+23. [ERCE 2019 – UNESCO · Sección 4] Un director observa clases donde los docentes pierden mucho tiempo en tareas administrativas. ¿Qué aspecto de la organización de la enseñanza debe fortalecer, según la investigación citada?
+A. Que los docentes estén preparados, manejen la conducta y pierdan poco tiempo en transiciones
+B. Que los docentes eviten planificar sus clases para mantener la flexibilidad de la enseñanza
+C. Que los docentes concentren las actividades de transición al inicio de cada clase del día
+D. Que los docentes dediquen más tiempo a completar registros administrativos durante la clase de cada día
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los profesores que organizan adecuadamente la enseñanza manejan apropiadamente la conducta, están bien organizados y preparados para las actividades y pierden poco tiempo en actividades administrativas y de transición logran mejores resultados entre sus estudiantes (Pianta, Hamre & Allen, 2012).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+24. [ERCE 2019 – UNESCO · Sección 4] Un director enfrenta frecuentes interrupciones y altercados en las aulas de 6° grado. ¿Qué advierte el ERCE 2019 sobre este factor?
+A. Que la disrupción solo afecta a los estudiantes directamente involucrados en los altercados
+B. Que la disrupción no se asocia al logro una vez considerado el nivel socioeconómico de la escuela
+C. Que la disrupción se asocia a menor logro, de forma más robusta en 6°, y afecta a toda la clase
+D. Que la disrupción se asocia a mayor logro, pues refleja participación activa del grupo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Esta asociación se da de forma más robusta en 6° grado. Las disrupciones durante clase afectan el clima de aula y la concentración de los estudiantes, generando interrupciones en las actividades de aprendizaje, lo que puede afectar no solo a los estudiantes directamente involucrados, sino que a la clase en su conjunto (Blank & Shavit, 2016).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+25. [ERCE 2019 – UNESCO · Sección 4] Un director planifica acciones con las familias de 3° grado. ¿Qué evidencia del ERCE 2019 respalda promover el involucramiento parental en ese grado?
+A. Su asociación es mayor en 6° que en 3°, por la mayor autonomía de los estudiantes mayores de la región
+B. Su asociación desaparece al controlar por el nivel socioeconómico de los estudiantes
+C. Su asociación parece más relevante en 3° que en 6°, por la menor autonomía de los más pequeños
+D. Su asociación es nula en 3° grado, pues los niños pequeños aprenden solo en la escuela
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Vale la pena indicar que esta diferencia parece ser más relevante en 3° grado que en 6° grado, lo que podría explicarse por los menores niveles de autonomía de los estudiantes más pequeños.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+26. [ERCE 2019 – UNESCO · Sección 4] Una directora detecta que muchos estudiantes faltan dos o más veces al mes. ¿Qué sostiene la sección sobre la presencia de los estudiantes en clase?
+A. Que es fundamental para avanzar en el aprendizaje cognitivo y socioemocional
+B. Que solo influye en el aprendizaje socioemocional y no en el cognitivo
+C. Que solo importa en 6° grado, pues en 3° grado no afecta el logro
+D. Que es irrelevante si los estudiantes estudian en casa los días que faltan del mes
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “La presencia consistente de los estudiantes en sus clases es fundamental para que puedan avanzar en el aprendizaje tanto en su dimensión cognitiva como socioemocional.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+27. [ERCE 2019 – UNESCO · Sección 4] Un director revisa las expectativas de sus docentes respecto de estudiantes de distintos grupos. ¿Qué deben considerarse, según la sección, para contrarrestar su peso en el logro?
+A. Solo los puntajes previos de los estudiantes en las pruebas nacionales estandarizadas
+B. Tanto las desigualdades como los estereotipos sobre distintos grupos poblacionales
+C. Solo la opinión de las familias sobre las capacidades de sus hijos e hijas
+D. Solo la antigüedad de los docentes en el establecimiento educativo
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…las expectativas se alimentan tanto de la realidad social en que viven los estudiantes como de las creencias que se tienen respecto de distintos grupos poblacionales […]. Tanto las desigualdades como los estereotipos deben ser considerados para contrarrestar el peso de las expectativas sobre el logro de los estudiantes (Benner et al., 2021).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+28. [ERCE 2019 – UNESCO · Sección 4] Un director de escuela con estudiantes indígenas quiere actuar sobre sus brechas de aprendizaje. ¿Qué indica la sección sobre la posibilidad de reducirlas?
+A. Que pueden ser disminuidas por las escuelas y los sistemas mediante reformas focalizadas
+B. Que desaparecen por sí solas al avanzar los estudiantes de 3° a 6° grado
+C. Que no pueden reducirse, pues se deben solo a diferencias socioeconómicas de las familias
+D. Que solo pueden reducirse mediante el traslado de los estudiantes a escuelas urbanas
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…no se deben únicamente a diferencias socioeconómicas, como se observa en este estudio, sino a factores de oportunidades de aprendizaje […]. Y como tal, estas brechas pueden ser disminuidas por parte de las escuelas y los sistemas educativos, mediante reformas focalizadas (e.g., McEwan, 2008).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+29. [ERCE 2019 – UNESCO · Sección 4] Un director promueve el estudio en el hogar. ¿Qué advertencia hace la sección sobre los esfuerzos extraescolares?
+A. Que deben regularse adecuadamente para evitar jornadas extenuantes para los estudiantes
+B. Que deben aumentarse sin límite, pues más horas de estudio siempre mejoran el logro en todos los casos
+C. Que deben quedar a cargo exclusivo de las familias, sin participación de la escuela
+D. Que deben prohibirse, pues afectan negativamente el aprendizaje en todos los países
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, es importante indicar que los esfuerzos extraescolares deben ser regulados de manera adecuada para evitar jornadas extenuantes para los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+30. [ERCE 2019 – UNESCO · Sección 4] Una directora quiere que sus docentes de 3° grado atiendan las necesidades de sus estudiantes. ¿Por qué el interés por el bienestar sería más consistente en ese grado, según la sección?
+A. Porque en 3° grado los docentes tienen menos estudiantes por curso que en el 6° grado de primaria
+B. Porque en 3° grado las familias se involucran menos en el aprendizaje de sus hijos
+C. Porque parece estar asociado a las necesidades de la edad y el desarrollo de los estudiantes
+D. Porque en 3° grado no se aplican pruebas de logro de aprendizaje en el ERCE
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Sin embargo, la asociación es aún más consistente en los resultados en 3° grado, lo que pareciera estar asociado a las necesidades de la edad y el desarrollo de los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+31. [ERCE 2019 – UNESCO · Sección 4] ¿Cómo interpreta la sección que la ventaja de la educación preescolar desaparezca en algunos países al considerar el nivel socioeconómico?
+A. Es necesario indagar si todos tienen igual oportunidad de acceso y si los programas tienen calidad
+B. Indica que en esos países la educación preescolar perjudica el aprendizaje de los estudiantes
+C. Demuestra que la educación preescolar no tiene ningún efecto sobre el aprendizaje en la región evaluada
+D. Confirma que el nivel socioeconómico no influye en el acceso a la educación preescolar
+Respuesta correcta: A
+Explicación: “Por otra parte, en los países donde la ventaja de asistir a educación preescolar desaparece al considerar las diferencias socioeconómicas de las familias, es necesario indagar en mayor profundidad si todos los niños tienen las mismas oportunidades de participar en la educación preescolar y si los programas actuales alcanzan niveles adecuados de calidad.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+32. [ERCE 2019 – UNESCO · Sección 4] Según la literatura citada, ¿cuándo tiene retornos positivos sobre el aprendizaje asistir a la educación preescolar?
+A. Cuando los programas preescolares tienen ciertos grados de calidad
+B. Siempre, con independencia de la calidad de los programas
+C. Cuando la asistencia es obligatoria por ley en el país respectivo
+D. Cuando los programas duran al menos cinco años de manera continua o más
+Respuesta correcta: A
+Explicación: “…diversos estudios indican que asistir a este nivel educativo tiene retornos positivos sobre el aprendizaje cuando los programas preescolares tienen ciertos grados de calidad (e.g., Burger, 2016; Melhuish et al., 2013).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+33. [ERCE 2019 – UNESCO · Sección 4] ¿Qué experiencia menciona la sección respecto de la eliminación de la repetición?
+A. En Cuba se eliminó la repetición, con retornos negativos en los logros de aprendizaje escolar
+B. En Colombia se duplicó la repetición, con retornos positivos en el logro académico
+C. En ningún país se ha eliminado la repetición, por sus efectos negativos en el logro
+D. En México se eliminó la repetición, con retornos positivos en la retención de estudiantes
+Respuesta correcta: D
+Explicación: “En algunos contextos, como México, se ha eliminado la repetición, obteniendo retornos positivos en la retención de estudiantes (e.g., Cabrera-Hernández, 2021).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+34. [ERCE 2019 – UNESCO · Sección 4] ¿A qué atribuye la investigación previa las desventajas sistemáticas de los estudiantes indígenas, según la sección?
+A. No solo a diferencias socioeconómicas, sino a factores de oportunidades de aprendizaje
+B. A diferencias en la capacidad innata de aprendizaje de los distintos grupos culturales de la región
+C. Exclusivamente a diferencias socioeconómicas, que explican la totalidad de la brecha
+D. A la falta de interés de las familias indígenas por la educación de sus hijos e hijas
+Respuesta correcta: A
+Explicación: “La investigación previa indica que las desventajas de los estudiantes indígenas son sistemáticas a lo largo de América Latina […] y que no se deben únicamente a diferencias socioeconómicas, como se observa en este estudio, sino a factores de oportunidades de aprendizaje (McEwan, 2004; Treviño, 2013).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+35. [ERCE 2019 – UNESCO · Sección 4] ¿Qué sugieren los resultados sobre la relación entre expectativas parentales e involucramiento parental?
+A. Que forman parte de un círculo virtuoso que conduce a mejores logros y deben promoverse
+B. Que no se relacionan con el logro una vez controlado el nivel socioeconómico familiar
+C. Que se anulan entre sí, por lo que basta con promover solo uno de los dos factores
+D. Que generan efectos negativos cuando las familias tienen altas expectativas educativas para sus hijos
+Respuesta correcta: A
+Explicación: “Los resultados de este estudio sugieren que las expectativas positivas de los padres y el involucramiento parental en el aprendizaje forman parte de un círculo virtuoso que conduce a mejores logros escolares, por lo que deben ser activamente promovidos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+36. [ERCE 2019 – UNESCO · Sección 4] ¿Por qué son importantes las altas expectativas de las familias, según la sección?
+A. Porque determinan el presupuesto que el Estado asigna a la escuela a la que asisten sus hijos cada año
+B. Porque pueden condicionar los apoyos que ofrecen para que los estudiantes perduren en sus estudios
+C. Porque garantizan por sí solas el ingreso de los estudiantes a la universidad
+D. Porque reemplazan la necesidad de apoyo docente en las distintas etapas educativas
+Respuesta correcta: B
+Explicación: “Estos resultados son importantes de considerar porque las altas expectativas de las familias pueden condicionar los apoyos que ofrecen a los estudiantes para perdurar en sus estudios y transitar de forma satisfactoria por las diferentes etapas educativas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+37. [ERCE 2019 – UNESCO · Sección 4] ¿Qué sugieren los resultados sobre las expectativas educativas de los docentes?
+A. Que tienen una asociación negativa con el aprendizaje en todos los países evaluados
+B. Que dependen exclusivamente de la formación inicial recibida por cada docente
+C. Que son independientes del nivel socioeconómico y de las creencias sobre los grupos poblacionales
+D. Que parecieran estar fuertemente marcadas por el nivel socioeconómico de los estudiantes
+Respuesta correcta: D
+Explicación: “Los resultados sugieren que las expectativas docentes parecieran estar fuertemente marcadas por el nivel socioeconómico de los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+38. [ERCE 2019 – UNESCO · Sección 4] ¿Qué efecto pueden generar las expectativas parentales y docentes cuando ambas son positivas o negativas, según la investigación citada?
+A. Efectos idénticos en ambos casos, pues las expectativas no se relacionan entre sí
+B. Efectos generativos cuando ambas son positivas y disruptivos cuando ambas son negativas
+C. Efectos nulos en ambos casos, pues solo importan las expectativas de los estudiantes
+D. Efectos disruptivos cuando ambas son positivas y generativos cuando ambas son negativas entre sí
+Respuesta correcta: B
+Explicación: “Por otra parte, la investigación ha mostrado que tanto las expectativas parentales como las de los docentes contribuyen al logro de los niños, lo que puede generar efectos generativos cuando ambas son positivas, y disruptivos cuando ambas son negativas (Benner & Mistry, 2007).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+39. [ERCE 2019 – UNESCO · Sección 4] ¿Qué supuesto sobre las escuelas desmienten los resultados del ERCE 2019 en América Latina y el Caribe?
+A. Que las familias depositan esperanzas en la educación de sus hijos e hijas
+B. Que todas las escuelas contribuyen de manera importante y equivalente al aprendizaje
+C. Que las escuelas tienen alguna influencia sobre el aprendizaje de los estudiantes evaluados
+D. Que la composición socioeconómica de las escuelas varía entre establecimientos
+Respuesta correcta: B
+Explicación: “Las esperanzas que las familias y las sociedades ponen en la educación se basan en el supuesto de que todas las escuelas contribuyen de manera importante y equivalente al aprendizaje de los niños y jóvenes. Por desgracia, ello no es así en América Latina y el Caribe.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+40. [ERCE 2019 – UNESCO · Sección 4] ¿Cómo explica la sección que el NSE de la escuela sea más importante que el NSE individual para explicar el aprendizaje?
+A. Por la alta segregación socioeconómica de la región, que se replica como segregación escolar
+B. Por el mayor financiamiento público que reciben las escuelas privadas de la región
+C. Por la ausencia de diferencias socioeconómicas entre las familias de la región evaluada
+D. Por la mayor calidad de los docentes en las escuelas rurales de menor nivel socioeconómico del país
+Respuesta correcta: A
+Explicación: “Lo anterior puede deberse a los altos grados de segregación socioeconómica de la población en la región, que se replica como segregación escolar. Así, los estudiantes que asisten a la misma escuela suelen ser socioeconómicamente homogéneos…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+41. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia los rangos de repitencia declarada entre 3° y 6° grado en la región?
+A. En 3° va del 2 % en Cuba a 37 % en Colombia; en 6°, de 5 % en Cuba al 34 % en Nicaragua
+B. En 3° va de 5 % en Cuba a 34 % en Nicaragua; en 6°, de 2 % en Cuba a 37 % en Colombia
+C. En 3° va de 4 % en Costa Rica a 68 % en Guatemala; en 6°, de 5 % a 34 %
+D. En ambos grados va exactamente de 18 % en Cuba a 65 % en Nicaragua
+Respuesta correcta: B
+Explicación: “En la región, el porcentaje de estudiantes que declara haber repetido alguna vez en su trayectoria escolar varía en 3° grado desde un 5% en Cuba hasta un 34% en Nicaragua. En el caso de 6° grado, las cifras son similares, con una variación de entre un 2% en Cuba y un 37% en Colombia.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+42. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia el comportamiento de las expectativas docentes del de las expectativas parentales al controlar por nivel socioeconómico?
+A. Ambas aumentan su magnitud una vez controlado el nivel socioeconómico de los estudiantes
+B. Las parentales pierden significancia; las docentes mantienen 60 puntos de ventaja en el logro
+C. Ambas pierden toda significancia una vez controlado el nivel socioeconómico de los estudiantes
+D. Las docentes aminoran o pierden significancia; las parentales mantienen 60 puntos de ventaja
+Respuesta correcta: D
+Explicación: “En promedio, los estudiantes cuyas familias tienen altas expectativas alcanzan 60 puntos más […], esto después de controlar por el nivel socioeconómico de los estudiantes.” (p. 32); “Al tomar en cuenta las diferencias en el nivel socioeconómico de los estudiantes, la magnitud de la relación entre expectativas docentes y resultados aminora o se vuelve no significativa.” (p. 33).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+43. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia la magnitud de la organización de la enseñanza entre 3° y 6° grado?
+A. En 3° ronda 28 puntos; en 6° es de 16 en todas las áreas evaluadas por el estudio
+B. En 3° ronda 70 puntos; en 6° es de 34 en Lectura, 55 en Matemática y 58 en Ciencias
+C. En 3° ronda 34 puntos; en 6° es de 70 en Lectura, 55 en Matemática y 58 en Ciencias naturales
+D. En ambos grados es exactamente de 70 puntos en todas las áreas evaluadas
+Respuesta correcta: B
+Explicación: “En 3° grado, la magnitud de este factor es cercana a 70 puntos en promedio, mientras que en 6° grado las diferencias son de 34 puntos en Lectura, 55 en Matemática y hasta 58 puntos en Ciencias.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+44. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia la extensión de la asociación entre apoyo docente al aprendizaje y logro en 3° y 6° grado?
+A. Se presenta en más países en 3°; en 6° es robusta, pero en Lectura solo en seis países
+B. Se presenta en más países en 6°; en 3° es robusta, pero en Lectura solo en seis países evaluados
+C. Se presenta en todos los países en ambos grados y en todas las pruebas por igual
+D. Se presenta solo en 3°, pues en 6° la asociación no es significativa en ningún país
+Respuesta correcta: A
+Explicación: “La asociación entre apoyo docente al aprendizaje y logro es generalizada, aunque se presenta en mayor número de países en 3° grado. En el caso de 6° grado, la asociación también es robusta, aunque se observa solamente en seis países en la prueba de Lectura.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+45. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia el interés docente por el bienestar del apoyo docente al aprendizaje, según cómo los operacionaliza el ERCE 2019?
+A. El primero atiende preocupaciones y emociones; el segundo activa curiosidad y provee andamiaje
+B. El primero activa curiosidad y provee andamiaje; el segundo atiende preocupaciones y emociones del alumno
+C. Ambos factores son idénticos y miden las mismas acciones de los docentes en clase
+D. El primero se refiere a la puntualidad; el segundo, a la organización de los materiales
+Respuesta correcta: A
+Explicación: “Cuando los docentes se interesan por los estudiantes, están atentos a sus preocupaciones, gestionan de manera positiva los errores y, en general, buscan el bienestar de los alumnos…” (p. 33); “Los estudiantes alcanzan mayores aprendizajes cuando sus docentes los apoyan pedagógicamente activando su curiosidad, proveyendo andamiaje…” (p. 34).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+46. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia la asociación de la administración privada de la asociación del NSE de la escuela con el logro?
+A. Ambas desaparecen por completo una vez controlado el nivel socioeconómico de las escuelas
+B. El NSE escolar desaparece con control socioeconómico; la privada es el factor de mayor peso en la región
+C. Ambas tienen una asociación negativa con el logro en todas las pruebas y grados evaluados
+D. La privada se reduce o desaparece con control de NSE; el NSE escolar es el factor de mayor peso
+Respuesta correcta: D
+Explicación: “Vale la pena indicar que este es el factor de mayor peso en los aprendizajes dada su magnitud.” (NSE escolar); “El tipo de administración de la escuela, pública o privada, tiene una asociación positiva con el logro de aprendizaje. Esta asociación se reduce o desaparece al controlar por el nivel socioeconómico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+47. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia el efecto de la repetición del efecto de la educación preescolar al controlar por nivel socioeconómico?
+A. Ambos efectos desaparecen por completo una vez controlado el nivel socioeconómico
+B. La desventaja de repetir persiste siempre; la ventaja preescolar desaparece en algunos países
+C. Ambos efectos se invierten de signo una vez controlado el nivel socioeconómico
+D. La ventaja preescolar persiste siempre; la desventaja de repetir desaparece en algunos países evaluados
+Respuesta correcta: B
+Explicación: “…la desventaja por repetir persiste aun cuando se consideren las diferencias socioeconómicas entre los estudiantes.”; “…en algunos de ellos la ventaja desaparece al considerar las diferencias socioeconómicas entre las familias, como en el caso de Colombia, Ecuador, Nicaragua y República Dominicana en Lectura y Matemática 3° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+48. [ERCE 2019 – UNESCO · Sección 4] Según la Tabla 1, ¿qué diferencia la asociación de las expectativas parentales de la de las expectativas docentes en cuanto al número de países?
+A. Ambas son significativas en los 16 países en todas las pruebas de 3° y 6° grado
+B. Las parentales son significativas en 15 o 16 países; las docentes, solo en 4 a 6 países
+C. Las docentes son significativas en 15 o 16 países; las parentales, solo en 4 a 6 países evaluados
+D. Ninguna es significativa en más de tres países en las pruebas de 3° y 6° grado
+Respuesta correcta: B
+Explicación: Tabla 1: “Expectativas educativas de los padres 16 (+) 15 (+) 16 (+) 16 (+) 16 (+)”; “Expectativas educativas de los profesores 6 (+) 5 (+) 5 (+) 4(+) 4 (+)”.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+49. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencia el factor de pertenencia a etnia o pueblo indígena de los demás factores de estudiantes en la Tabla 1?
+A. No reporta asociación significativa en ninguna prueba de ningún grado
+B. Solo reporta resultados en 3° grado, con asociación positiva en los 16 países evaluados
+C. Solo reporta resultados en 6° grado, con asociación negativa en 12 o 13 países
+D. Reporta asociación positiva en todas las pruebas de 3° y de 6° grado
+Respuesta correcta: C
+Explicación: Tabla 1: “Pertenencia del estudiante a etnia o pueblo indígena - - 13 (-) 12 (-) 13 (-)” (sin datos en 3° grado; negativos en Lectura, Matemática y Ciencia de 6°).
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+50. [ERCE 2019 – UNESCO · Sección 4] ¿Cuál de las siguientes afirmaciones interpreta ERRÓNEAMENTE los resultados sobre escuelas urbanas?
+A. Las escuelas rurales suelen atender a población de menor nivel socioeconómico
+B. Las escuelas urbanas mantienen una ventaja sistemática aun tras controlar el NSE
+C. En Argentina, las escuelas urbanas logran menos de lo esperado tras el control
+D. Tras controlar el NSE, solo en uno o dos países favorecen a las escuelas urbanas de la región
+Respuesta correcta: B
+Explicación: “Los resultados del estudio indican que, después de controlar el nivel socioeconómico de las escuelas y los estudiantes, las escuelas de sectores urbanos no presentan una ventaja sistemática en los logros de aprendizaje.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+51. [ERCE 2019 – UNESCO · Sección 4] Una autoridad propone mantener la repetición de grado como estrategia para mejorar el aprendizaje. ¿Qué análisis crítico se fundamenta en la sección?
+A. La repetición no tiene ninguna asociación con el logro una vez controlado el NSE
+B. La repetición se asocia sistemáticamente con mayores logros en todos los países evaluados del estudio
+C. La repetición solo perjudica a los estudiantes de 6° grado y beneficia a los de 3°
+D. La repetición se asocia sistemáticamente con menores logros, incluso tras controlar el NSE
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “La repetición de grado se asocia sistemáticamente con menores logros de aprendizaje por parte de los estudiantes. […] la desventaja por repetir persiste aun cuando se consideren las diferencias socioeconómicas entre los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+52. [ERCE 2019 – UNESCO · Sección 4] Un analista concluye que las escuelas privadas enseñan mejor porque sus estudiantes obtienen más puntaje. ¿Qué análisis crítico corresponde?
+A. Su ventaja se explica principalmente por las diferencias socioeconómicas del estudiantado
+B. Su ventaja se explica por la ubicación urbana de todas las escuelas privadas de la región
+C. Su ventaja se mantiene intacta en todos los países tras controlar el nivel socioeconómico de la región
+D. Su ventaja se explica principalmente por la mayor duración de su jornada escolar diaria
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En contextos de alta desigualdad social, como ocurre en la región, las ventajas en el aprendizaje de estudiantes que asisten a escuelas privadas se explica, principalmente, por las diferencias socioeconómicas del estudiantado que reciben.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+53. [ERCE 2019 – UNESCO · Sección 4] Un funcionario atribuye la ventaja de las escuelas urbanas a su mejor gestión pedagógica. ¿Qué análisis crítico se apoya en la sección?
+A. Sus ventajas aumentan al controlar las diferencias socioeconómicas entre las escuelas de la región
+B. Sus ventajas se mantienen en todos los países, incluida Argentina, tras el control
+C. Sus ventajas se explican porque atienden a la población de menor nivel socioeconómico
+D. Sus aparentes ventajas desaparecen al controlar las diferencias socioeconómicas entre escuelas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, las escuelas de estos sectores usualmente atienden a población de menor nivel socioeconómico. Por estas razones, las aparentes ventajas de las escuelas de sectores urbanos desaparecen cuando se controlan las diferencias socioeconómicas entre las escuelas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+54. [ERCE 2019 – UNESCO · Sección 4] Un analista afirma que basta con elevar las expectativas de los docentes para mejorar sustancialmente el logro. ¿Qué análisis crítico se fundamenta en la sección?
+A. Su relación aminora o desaparece con control de NSE, pues están marcadas por el contexto social
+B. Es correcto, pues su relación con el logro se mantiene intacta tras controlar el NSE
+C. Es correcto, pues las expectativas docentes son el factor de mayor peso en el logro
+D. Las expectativas docentes tienen una relación negativa con el logro en toda la región latinoamericana
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Al tomar en cuenta las diferencias en el nivel socioeconómico de los estudiantes, la magnitud de la relación entre expectativas docentes y resultados aminora o se vuelve no significativa. Los resultados sugieren que las expectativas docentes parecieran estar fuertemente marcadas por el nivel socioeconómico de los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+55. [ERCE 2019 – UNESCO · Sección 4] Un analista sostiene que la brecha de los estudiantes indígenas se explica totalmente por su nivel socioeconómico. ¿Qué crítica se apoya en los hallazgos?
+A. Las diferencias solo existen en los países sin población indígena
+B. Las diferencias persisten aun controlando las diferencias socioeconómicas
+C. Es correcto: las diferencias desaparecen al controlar el nivel socioeconómico
+D. Es correcto: los estudiantes indígenas obtienen más puntaje que sus pares
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Asimismo, tales diferencias persisten aun controlando por las diferencias socioeconómicas entre los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+56. [ERCE 2019 – UNESCO · Sección 4] Un ministro considera que la escuela a la que asiste un estudiante influye poco en su aprendizaje. ¿Qué análisis crítico se fundamenta en el ERCE 2019?
+A. Todas las escuelas contribuyen de manera equivalente al aprendizaje
+B. La escuela no tiene relación alguna con las diferencias de aprendizaje
+C. Menos de un 5 % de las diferencias de aprendizaje depende de la escuela a la que asisten
+D. Entre un 40 % y un 50 % de las diferencias de aprendizaje depende de la escuela
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Los resultados del ERCE 2019 muestran que entre un 40% y un 50% de las diferencias de aprendizaje entre los estudiantes depende de la escuela. Esto nos indica que en nuestra región es muy relevante el establecimiento educacional al que asisten los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+57. [ERCE 2019 – UNESCO · Sección 4] Un país concluye que su preescolar es eficaz porque sus asistentes obtienen más puntaje, aunque la ventaja desaparece al controlar el NSE. ¿Qué análisis crítico corresponde?
+A. Debe ignorar el control por NSE, pues no es relevante para evaluar programas educativos
+B. Debe indagar la igualdad de acceso y la calidad de sus programas preescolares
+C. Debe eliminar la educación preescolar, pues no tiene efecto sobre el logro
+D. Debe concluir que su preescolar es el más eficaz de toda la región evaluada
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en los países donde la ventaja de asistir a educación preescolar desaparece al considerar las diferencias socioeconómicas de las familias, es necesario indagar en mayor profundidad si todos los niños tienen las mismas oportunidades de participar en la educación preescolar y si los programas actuales alcanzan niveles adecuados de calidad.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+58. [ERCE 2019 – UNESCO · Sección 4] Un analista sostiene que la inequidad entre escuelas es un problema resuelto en la región. ¿Qué crítica se fundamenta en la sección?
+A. La inequidad entre escuelas solo existe en los países con mayor población indígena
+B. La segregación social desapareció y todas las escuelas reciben estudiantes de igual origen social
+C. La composición socioeconómica de las escuelas no tiene relación con sus resultados
+D. La segregación hace que la composición escolar se relacione sustantivamente con los resultados
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “…debido a procesos de segregación social, la composición socioeconómica de los estudiantes que asisten a cada escuela se relaciona de manera sustantiva con los resultados que cada escuela logra, lo que genera una inequidad que debe seguir siendo un foco preferente de las políticas educativas en nuestra región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+59. [ERCE 2019 – UNESCO · Sección 4] Un lector concluye que la Tabla 1 recoge todos los factores medidos por los cuestionarios del ERCE 2019. ¿Qué crítica se apoya en la sección?
+A. Los factores del reporte son solo una breve selección de la información de los cuestionarios
+B. La Tabla 1 recoge factores de otros estudios distintos de los cuestionarios del ERCE
+C. Es correcto: la Tabla 1 incluye la totalidad de los factores medidos por los cuestionarios del ERCE
+D. Es correcto: los cuestionarios solo midieron los factores que aparecen en la Tabla 1
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los factores presentados en este reporte corresponden solo a una breve selección de la información contenida en los cuestionarios del ERCE 2019. Más información sobre otros factores no abordados en este reporte se presentarán en futuros documentos del LLECE sobre el ERCE 2019.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+60. [ERCE 2019 – UNESCO · Sección 4] Un analista afirma que la relación entre apoyo docente y logro es espuria porque depende del nivel socioeconómico. ¿Qué análisis crítico se fundamenta en la sección?
+A. La relación es negativa, pues el apoyo docente reduce la autonomía de los estudiantes
+B. Es correcto: la relación desaparece por completo tras considerar el NSE de las escuelas de la región
+C. Es correcto: el apoyo docente solo se observa en escuelas de alto nivel socioeconómico
+D. Los resultados se mantienen tras considerar el NSE de estudiantes y escuelas: relación robusta
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Estos resultados son consistentes después de considerar las diferencias socioeconómicas entre estudiantes y escuelas, lo que sugiere que se trata de una relación robusta.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+61. [ERCE 2019 – UNESCO · Sección 4] Al interpretar la Tabla 1, ¿qué criterio de significancia se aplica para incluir un resultado?
+A. Cualquier diferencia que exista
+B. Al nivel del 1 % (p < .01)
+C. Significancia al 5 % (p < .05)
+D. Significancia al 10 % (p < .10)
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Nota: se incluyen los resultados que son significativos al 5% (p < .05). […] No se muestran los casos con resultados no significativos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+62. [ERCE 2019 – UNESCO · Sección 4] Al leer la Tabla 1, ¿qué significa el signo “-” junto al número de países?
+A. Que en esos países el resultado no es estadísticamente significativo
+B. Que en esos países el factor presenta una relación negativa con el logro
+C. Que en esos países el factor no fue medido por los cuestionarios
+D. Que en esos países el factor presenta una relación positiva con el logro escolar
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Aquellos donde el factor asociado en cuestión presenta asociaciones positivas, los resultados son marcados con un ‘+’, y cuando se observan relaciones negativas son marcado con un ‘-’.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+63. [ERCE 2019 – UNESCO · Sección 4] Un analista necesita los resultados no significativos que no aparecen en la Tabla 1. ¿Dónde debe buscarlos según la sección?
+A. En los cuestionarios aplicados a los directores
+B. En el Anexo 4, que contiene el índice de NSE
+C. En la sección 5 de conclusiones del informe
+D. En el Anexo 1, que contiene la tabla completa
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “No se muestran los casos con resultados no significativos. La tabla completa se encuentra en el Anexo 1.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+64. [ERCE 2019 – UNESCO · Sección 4] Un investigador quiere conocer el listado exhaustivo de ítems que componen cada factor. ¿Qué parte del informe debe consultar?
+A. La Tabla 1 de la sección
+B. El Anexo 4 del informe
+C. El Anexo 1 del texto
+D. La sección 5 del informe
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…en el Anexo 4 se podrá encontrar un listado exhaustivo de los ítems que componen cada factor, lo que permitirá complementar la información presentada en las siguientes secciones.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+65. [ERCE 2019 – UNESCO · Sección 4] Al construir un índice de nivel socioeconómico comparable con el del ERCE 2019, ¿qué fuentes de información debe usar según la nota 26?
+A. Los resultados de las pruebas de logro de aprendizaje
+B. Las respuestas a los cuestionarios de docentes y directores escolares
+C. Las respuestas a los cuestionarios de estudiantes y familias
+D. Los registros tributarios de las familias de cada país
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[26] El índice de nivel socioeconómico (NSE) se construye a partir de las respuestas a los cuestionarios de estudiantes y familias. El detalle sobre la composición del índice de NSE se encuentra en el Anexo 4.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias (nota al pie 26); página impresa 29; página PDF 29.
+
+66. [ERCE 2019 – UNESCO · Sección 4] Al clasificar las escuelas como urbanas o rurales para comparar países, ¿qué criterio aplica el ERCE 2019 según la nota 30?
+A. La clasificación definida por cada ministerio según su propia normativa local y vigente
+B. La clasificación del cuestionario de directores, que unifica un criterio comparable
+C. La distancia de cada escuela a la capital del país, medida en kilómetros
+D. La caracterización de los marcos muestrales de cada país, sin criterio común
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “[30] Pese a que existe una caracterización de escuelas urbanas y rurales que proviene de los marcos muestrales de cada país, la clasificación de las escuelas expuesta aquí se levanta desde el cuestionario de directores y permite unificar un criterio para hacer posible la comparabilidad de los resultados entre los países.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas (notas al pie 28 a 30); página impresa 37; página PDF 37.
+
+67. [ERCE 2019 – UNESCO · Sección 4] Al interpretar el análisis por tipo de administración en Uruguay, ¿qué restricción debe aplicarse según la nota 29?
+A. Que el análisis no se realizó en Uruguay por falta de escuelas privadas
+B. Que el análisis excluye a todas las escuelas públicas de la muestra uruguaya
+C. Que el análisis se circunscribe al ámbito urbano por características del muestreo
+D. Que el análisis se circunscribe al ámbito rural por características del muestreo uruguayo
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “[29] Debido a características del muestreo, en el caso de Uruguay este análisis se circunscribe al ámbito urbano.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas (notas al pie 28 a 30); página impresa 37; página PDF 37.
+
+68. [ERCE 2019 – UNESCO · Sección 4] Al clasificar una escuela como ubicada en un sector urbano de mayor población, ¿qué umbral utiliza el ERCE 2019?
+A. Mil o más habitantes
+B. Cien mil o más habitantes
+C. Un millón o más habitantes
+D. Diez mil o más habitantes
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las escuelas ubicadas en sectores urbanos de mayor población (de 10 mil o más habitantes) no presentan diferencias de logro con las de sectores de menor tamaño poblacional.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas (notas al pie 28 a 30); página impresa 37; página PDF 37.
+
+69. [ERCE 2019 – UNESCO · Sección 4] Un sistema de alerta temprana define el ausentismo según el criterio del ERCE 2019. ¿Qué umbral equivale a ausentarse el 10 % o más de los días?
+A. Diez ausencias o más en el último mes
+B. Cinco ausencias o más en el año
+C. Dos ausencias o más en el último mes
+D. Una ausencia en el último trimestre
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes que reportan haberse ausentado dos veces o más en el último mes, equivalente a ausentarse 10% o más de los días, obtienen en promedio 16 puntos menos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+70. [ERCE 2019 – UNESCO · Sección 4] Al replicar el análisis de expectativas docentes del ERCE 2019, ¿qué contraste debe aplicarse según la nota 27?
+A. Alcanzar al menos la educación terciaria versus no alcanzarla
+B. Completar la educación primaria versus no completarla nunca en la vida
+C. Obtener el Nivel IV de desempeño versus el Nivel I de logro
+D. Aprobar el grado actual versus repetirlo al término del año
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “[27] Los docentes fueron consultados sobre su expectativa de educación para la mayoría de sus estudiantes. Para efectos de los análisis, se contrasta la expectativa de alcanzar al menos la educación terciaria versus no alcanzarla.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza (nota al pie 27); página impresa 33; página PDF 33.
+
+71. [ERCE 2019 – UNESCO · Sección 4] En una escuela, al menos uno de cada tres estudiantes faltó más de un día el último mes. ¿Cómo se ubica esta situación respecto de la región?
+A. Es mejor que la de todos los países, donde faltan dos de cada tres
+B. Es irrelevante, pues el ausentismo no se asocia con el logro
+C. Es excepcional, pues en ningún país de la región ocurre algo así
+D. Es similar a la de la mitad de los países, donde ocurre lo mismo
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “En la mitad de los países, al menos 1 de cada 3 estudiantes se ha ausentado de la escuela más de un día el último mes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+72. [ERCE 2019 – UNESCO · Sección 4] Un equipo docente debate si promover el estudio en casa al menos un día por semana. ¿Qué evidencia del ERCE 2019 orienta la decisión?
+A. Estudiar en casa no se asocia con el logro una vez controlado el nivel socioeconómico
+B. Quienes estudian al menos un día obtienen 39 puntos más, y más días mejoran los resultados
+C. Quienes estudian en casa obtienen 39 puntos menos, por el cansancio que genera el estudio en casa
+D. Solo estudiar los siete días de la semana se asocia con mayores logros académicos
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes que dedican al menos un día de la semana al estudio, adicional a la jornada escolar, obtienen en promedio 39 puntos más […]. Asimismo, se observa que los estudiantes que dedican más días de estudios obtienen mejores resultados que sus pares, aun controlando por el nivel socioeconómico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+73. [ERCE 2019 – UNESCO · Sección 4] Las familias de una escuela muestran poco interés por las tareas de sus hijos de 3° grado. ¿Qué acción es coherente con la evidencia?
+A. Promover que revisen tareas e interés por las calificaciones, asociado a 12 puntos más
+B. Esperar a que los estudiantes lleguen a 6° grado para involucrar a sus familias
+C. Pedir a las familias que realicen las tareas en lugar de sus hijos para mejorar notas escolares
+D. Evitar involucrar a las familias, pues su participación reduce el logro en 3° grado
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes cuyos padres se involucran con mayor frecuencia en las actividades de aprendizaje en el hogar obtienen, en promedio, 12 puntos más […]. Este involucramiento parental incluye acciones de los padres como apoyar en la revisión o realización de tareas, manifestar interés por las calificaciones o tareas del estudiante…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+74. [ERCE 2019 – UNESCO · Sección 4] Un docente de 6° grado inicia sus clases sin explicar qué se aprenderá y termina sin cerrar. ¿Qué práctica de organización debe incorporar?
+A. Aplicar una prueba sorpresa al inicio de cada clase para verificar los aprendizajes
+B. Exponer claramente los objetivos al inicio y realizar un resumen al término de la clase
+C. Dedicar el inicio de la clase a registros administrativos y el cierre a la disciplina del curso
+D. Asignar más tareas para la casa y reducir el tiempo de explicación durante la clase
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Estas prácticas incluyen tener listos los materiales que se usarán en la clase, exponer claramente los objetivos de aprendizaje al inicio de la clase y realizar un resumen al término de esta.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+75. [ERCE 2019 – UNESCO · Sección 4] Una docente de 3° grado observa a un estudiante triste y desmotivado ante una materia difícil. ¿Qué actitud es coherente con el factor de interés por el bienestar?
+A. Ignorar su estado de ánimo para no interrumpir el avance del resto de la clase
+B. Animarlo cuando la materia es difícil y ayudarlo a sentirse bien cuando está triste
+C. Enviarlo a la dirección hasta que recupere la disposición para trabajar en clase del aula
+D. Reducir sus calificaciones para motivarlo a esforzarse más en esa materia
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “…acciones como manifestar interés por los estudiantes, animarlos en clases cuando las materias son difíciles, ayudar a hacer sentir bien a los estudiantes cuando estos se encuentran tristes o molestos, entre otras.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 33; página PDF 33.
+
+76. [ERCE 2019 – UNESCO · Sección 4] Un docente rara vez reconoce las respuestas correctas ni corrige los errores de sus estudiantes. ¿Qué factor debe fortalecer según el ERCE 2019?
+A. El apoyo al aprendizaje, que incluye reconocer aciertos y corregir errores adecuadamente
+B. Las expectativas parentales, que incluyen revisar las calificaciones de los estudiantes
+C. La administración privada, que incluye corregir los errores de los estudiantes
+D. La disrupción en el aula, que incluye reconocer aciertos y corregir errores adecuadamente
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “En el ERCE 2019, esto se traduce en actitudes de los docentes tales como […] reconocer cuando los estudiantes responden correctamente y corregir adecuadamente los errores cuando corresponde, entre otros.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+77. [ERCE 2019 – UNESCO · Sección 4] Un estudiante de 3° grado está en riesgo de repetir. Un equipo directivo evalúa las consecuencias. ¿Qué evidencia del ERCE 2019 debe considerar?
+A. Los repitentes obtienen en promedio 65 puntos más, con variaciones de 20 a 100 puntos según el país
+B. Los repitentes obtienen los mismos puntajes que quienes no han repetido de grado
+C. Los repitentes obtienen en promedio 65 puntos menos, con variaciones de 20 a 100 puntos
+D. Los repitentes solo pierden puntos en Ciencias, sin efecto en Lectura ni Matemática
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes que han repetido al menos un grado en su trayectoria educativa alcanzan, en promedio, 65 puntos menos […]. Esta magnitud varía entre 20 y 100 puntos entre los diferentes países…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 29; página PDF 29.
+
+78. [ERCE 2019 – UNESCO · Sección 4] En una escuela de Costa Rica con estudiantes indígenas, el equipo analiza la magnitud de la brecha en 6° grado. ¿Qué dato del informe es pertinente?
+A. Costa Rica presenta una diferencia no significativa en Matemática
+B. Costa Rica no presenta población indígena entre sus estudiantes
+C. Costa Rica presenta la menor diferencia de la región, de 22 puntos en 6°
+D. Costa Rica presenta la mayor diferencia de la región, de 117 puntos
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Estas desventajas fluctúan entre los países desde 22 puntos, en Honduras, hasta los 117 puntos, en Costa Rica.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+79. [ERCE 2019 – UNESCO · Sección 4] En un curso de 6° grado, los altercados de unos pocos estudiantes interrumpen constantemente la clase. ¿Qué implicancia destaca la evidencia citada?
+A. La disrupción afecta solo a los estudiantes involucrados, sin efectos sobre el resto
+B. La disrupción puede afectar no solo a los involucrados, sino a la clase en su conjunto
+C. La disrupción solo afecta a los docentes y no a los aprendizajes de los estudiantes
+D. La disrupción mejora el clima de aula, pues expresa la participación de los estudiantes
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Las disrupciones durante clase afectan el clima de aula y la concentración de los estudiantes, generando interrupciones en las actividades de aprendizaje, lo que puede afectar no solo a los estudiantes directamente involucrados, sino que a la clase en su conjunto (Blank & Shavit, 2016).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+80. [ERCE 2019 – UNESCO · Sección 4] En una escuela, muchas familias no esperan que sus hijos lleguen a la educación superior. ¿Qué evidencia del ERCE 2019 justifica trabajar las expectativas familiares?
+A. Los estudiantes cuyas familias tienen altas expectativas obtienen 60 puntos menos tras el control socioeconómico
+B. Las expectativas familiares no se asocian con el logro tras controlar el nivel socioeconómico
+C. Los estudiantes cuyas familias tienen altas expectativas obtienen 60 puntos más tras controlar NSE
+D. Las expectativas familiares solo se asocian con el logro en las escuelas privadas urbanas
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En promedio, los estudiantes cuyas familias tienen altas expectativas alcanzan 60 puntos más en las pruebas en comparación con estudiantes cuyos padres declaran expectativas menores, esto después de controlar por el nivel socioeconómico de los estudiantes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+81. [ERCE 2019 – UNESCO · Sección 4] Un ministerio decide dónde concentrar nuevas oportunidades para mejorar los aprendizajes. ¿Qué decisión se fundamenta en la sección?
+A. En distribuir los recursos por igual entre todas las escuelas del país
+B. En las escuelas con menor proporción de estudiantes de pueblos originarios del país
+C. En las escuelas privadas urbanas con mejores resultados de aprendizaje
+D. En estudiantes y escuelas con mayor concentración de familias desaventajadas
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Lo anterior indica que existe un margen importante de mejora de los aprendizajes que podría acometerse a través de políticas que provean mayores oportunidades a los estudiantes y escuelas con mayor concentración de estudiantes provenientes de familias más desaventajadas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+82. [ERCE 2019 – UNESCO · Sección 4] Un gobierno evalúa ampliar el acceso a la educación preescolar. ¿Qué evidencia del ERCE 2019 respalda la decisión?
+A. Los asistentes logran lo mismo que quienes no asistieron, en todas las disciplinas
+B. Los asistentes logran más en todos los grados y disciplinas, con 28 puntos más en promedio
+C. Los asistentes logran menos en todos los grados y disciplinas, con 28 puntos menos en promedio
+D. Los asistentes solo logran más en Ciencias de 6° grado, sin efecto en otras áreas
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes que asistieron a educación preescolar alcanzan mayores logros de aprendizaje en todos los grados y disciplinas evaluadas. En promedio, los estudiantes que participaron de la educación preescolar obtienen 28 puntos más que aquellos que no lo hicieron.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 28; página PDF 28.
+
+83. [ERCE 2019 – UNESCO · Sección 4] Con recursos limitados para formación docente, un ministerio busca la práctica con mayor magnitud de asociación en 3° grado. ¿Qué práctica debe priorizar según la sección?
+A. Las expectativas docentes, cercanas a 60 puntos
+B. La disrupción en el aula, cercana a 70 puntos de mejora
+C. La organización de la enseñanza, cercana a 70 puntos
+D. El apoyo al aprendizaje, cercano a 34 puntos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “En 3° grado, la magnitud de este factor es cercana a 70 puntos en promedio…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+84. [ERCE 2019 – UNESCO · Sección 4] Un ministerio decide si implementar un sistema de seguimiento de la asistencia escolar. ¿Qué evidencia respalda la decisión?
+A. El ausentismo se asocia positivamente con el logro en la mayoría de los países evaluados por el ERCE
+B. El ausentismo solo afecta a los estudiantes de escuelas privadas de sectores urbanos
+C. El ausentismo se asocia siempre inversamente con el logro, con 16 puntos menos en promedio
+D. El ausentismo no tiene relación con el logro una vez controlado el NSE de las familias
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Los estudiantes que reportan haberse ausentado dos veces o más en el último mes […] obtienen en promedio 16 puntos menos. Vale la pena indicar que estas magnitudes presentan variación entre los países, pero siempre mostrando una asociación inversa entre ausentismo y logro.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 30; página PDF 30.
+
+85. [ERCE 2019 – UNESCO · Sección 4] Un gobierno evalúa promover la privatización de escuelas para mejorar los logros. ¿Qué evidencia debe considerar?
+A. La asociación privada-logro aumenta al controlar por nivel socioeconómico en la región evaluada
+B. La asociación privada-logro se reduce o desaparece al controlar por nivel socioeconómico
+C. La asociación privada-logro es significativa en los 16 países en todas las pruebas
+D. La administración privada es el factor de mayor peso en los aprendizajes de la región
+Respuesta correcta: B
+Explicación: Aplicación razonada: [Aplicación razonada] “El tipo de administración de la escuela, pública o privada, tiene una asociación positiva con el logro de aprendizaje. Esta asociación se reduce o desaparece al controlar por el nivel socioeconómico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+86. [ERCE 2019 – UNESCO · Sección 4] Un ministerio decide cómo apoyar a los estudiantes más desaventajados para que desarrollen hábitos de estudio autónomo. ¿Qué orientación ofrece la sección?
+A. Que basta con aumentar la jornada escolar hasta la noche para todos los estudiantes
+B. Que no corresponde a las escuelas, pues los hábitos dependen solo de la voluntad familiar de cada hogar
+C. Que deben excluirse los días de estudio del análisis, pues no se asocian con el logro
+D. Que las escuelas y la política social podrían apoyarlos, y que se requiere más investigación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Por otro lado, se requiere más investigación para comprender la forma en que las características socioculturales y económicas de las familias podrían afectar los días de estudio, y la manera en que las escuelas y la política social podrían apoyar a los estudiantes más desaventajados para que tengan posibilidades de desarrollar estos hábitos de estudio autónomo.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 31; página PDF 31.
+
+87. [ERCE 2019 – UNESCO · Sección 4] Un programa de formación docente debe elegir estrategias para impulsar habilidades superiores del pensamiento. ¿Qué decisión respalda la literatura citada?
+A. Eliminar las tareas y concentrarse en el control de la disciplina en el aula escolar
+B. Priorizar la memorización de definiciones sin conexión con saberes previos
+C. Diseñar tareas desafiantes y conectar conceptos, ideas y conocimientos previos
+D. Reducir la dificultad de las tareas y evitar la conexión entre conceptos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Así, la estimulación que llevan a cabo los profesores mediante el diseño de tareas desafiantes, la conexión de conceptos, ideas y conocimientos previos impulsan habilidades superiores del pensamiento y apoyan la metacognición…”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+88. [ERCE 2019 – UNESCO · Sección 4] Al fijar prioridades de política, un ministerio debe decidir si atender la inequidad derivada de la composición socioeconómica de las escuelas. ¿Qué indica la sección?
+A. Que debe seguir siendo un foco preferente de las políticas educativas en la región
+B. Que corresponde exclusivamente a las familias y no a las políticas educativas
+C. Que debe dejarse de lado, pues no se relaciona con los resultados de las escuelas
+D. Que solo debe atenderse en los países sin población indígena entre sus estudiantes evaluados
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “…la composición socioeconómica de los estudiantes que asisten a cada escuela se relaciona de manera sustantiva con los resultados que cada escuela logra, lo que genera una inequidad que debe seguir siendo un foco preferente de las políticas educativas en nuestra región.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+89. [ERCE 2019 – UNESCO · Sección 4] Una autoridad decide si incluir a las familias en su estrategia de mejora del aprendizaje. ¿Qué conclusión del ERCE 2019 respalda la decisión?
+A. Expectativas positivas e involucramiento parental deben promoverse activamente
+B. Las expectativas familiares se asocian negativamente con el logro escolar
+C. Solo deben incluirse las familias de nivel socioeconómico alto de cada escuela
+D. Las familias deben quedar fuera, pues su influencia desaparece tras el control del NSE
+Respuesta correcta: A
+Explicación: Aplicación razonada: [Aplicación razonada] “Los resultados de este estudio sugieren que las expectativas positivas de los padres y el involucramiento parental en el aprendizaje forman parte de un círculo virtuoso que conduce a mejores logros escolares, por lo que deben ser activamente promovidos.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+90. [ERCE 2019 – UNESCO · Sección 4] Un programa de gestión de aula debe decidir en qué grado enfocar la prevención de la disrupción. ¿Qué dato orienta la decisión?
+A. La disrupción solo se asocia con el logro en las escuelas privadas urbanas
+B. La asociación negativa de la disrupción con el logro es más robusta en 3° grado del estudio
+C. La disrupción no se asocia con el logro tras controlar el NSE en ningún grado
+D. La asociación negativa de la disrupción con el logro es más robusta en 6° grado
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Las disrupciones en el aula durante clases tienen una relación negativa con los aprendizajes, aun después de considerar las diferencias socioeconómicas entre estudiantes y escuelas. […] Esta asociación se da de forma más robusta en 6° grado.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 35; página PDF 35.
+
+91. [ERCE 2019 – UNESCO · Sección 4] ¿Qué conclusión estratégica ofrece el estudio sobre los predictores del desempeño académico relacionados con los estudiantes?
+A. Ninguna característica de los estudiantes predice el desempeño una vez controlado el NSE
+B. Las características de la trayectoria escolar y las prácticas educativas son importantes predictores
+C. Solo la ubicación urbana de la escuela predice el desempeño académico de los estudiantes
+D. Solo el nivel socioeconómico individual predice el desempeño, sin influencia de la trayectoria escolar previa
+Respuesta correcta: B
+Explicación: “El estudio encuentra que las características de la trayectoria escolar y las prácticas educativas representan importantes predictores del desempeño académico.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 28; página PDF 28.
+
+92. [ERCE 2019 – UNESCO · Sección 4] ¿Qué deben tomar en cuenta las políticas educativas para diseñar medidas que promuevan el aprendizaje, según la sección?
+A. Solo la opinión de los docentes de cada escuela
+B. Solo el gasto promedio por estudiante del país
+C. Las diferencias en los atributos de las escuelas
+D. Únicamente los resultados de las pruebas del año previo
+Respuesta correcta: C
+Explicación: “Las políticas educativas deben tomar en cuenta las diferencias en los atributos de las escuelas para diseñar medidas que promuevan el aprendizaje.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 36; página PDF 36.
+
+93. [ERCE 2019 – UNESCO · Sección 4] ¿Cuál es el factor de mayor peso en los aprendizajes dada su magnitud, según el ERCE 2019?
+A. La administración escolar privada, de 20 a 90 puntos según la prueba
+B. La ubicación urbana de la escuela, de 10 a 20 puntos en promedio
+C. Las expectativas de los docentes, de 4 a 6 puntos por prueba
+D. El nivel socioeconómico promedio de la escuela, de 20 a 90 puntos
+Respuesta correcta: D
+Explicación: “El nivel socioeconómico promedio de la escuela guarda una relación positiva con el aprendizaje de los estudiantes. La magnitud de esta relación oscila entre 20 y 90 puntos en los distintos grados y disciplinas evaluados. Vale la pena indicar que este es el factor de mayor peso en los aprendizajes dada su magnitud.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+94. [ERCE 2019 – UNESCO · Sección 4] ¿Qué consecuencia de la segregación escolar destaca la sección para la convivencia social de los estudiantes?
+A. Asisten a escuelas socioeconómicamente heterogéneas en la mayoría de los países
+B. Eligen libremente escuelas sin relación con su nivel socioeconómico familiar
+C. Tienen pocas probabilidades de encontrarse con personas de distinto origen social en la escuela
+D. Tienen muchas probabilidades de convivir con estudiantes de todos los orígenes sociales de su entorno
+Respuesta correcta: C
+Explicación: “Así, los estudiantes que asisten a la misma escuela suelen ser socioeconómicamente homogéneos y tienen pocas probabilidades de encontrarse con personas de distinto origen social en el sistema escolar.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
+
+95. [ERCE 2019 – UNESCO · Sección 4] ¿Qué valor estratégico tiene aplicar los cuestionarios de contexto durante los mismos días de las pruebas de logro?
+A. Reducir el número de estudiantes evaluados, aplicando cuestionarios solo a los directores escolares
+B. Reemplazar las pruebas de logro por la información de contexto en cada uno de los países
+C. Evitar que las familias participen, pues sus respuestas se recogen después de las pruebas
+D. Mantener la práctica de estudios anteriores y vincular contexto y logro en una misma aplicación
+Respuesta correcta: D
+Explicación: Aplicación razonada: [Aplicación razonada] “Al igual que en estudios anteriores, estos cuestionarios son aplicados durante los mismos días de las pruebas que miden logros de aprendizaje.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+96. [ERCE 2019 – UNESCO · Sección 4] ¿Qué conclusión estratégica ofrece la sección sobre las prácticas docentes en conjunto?
+A. Las prácticas docentes solo influyen en los estudiantes de escuelas privadas urbanas
+B. Las prácticas docentes pierden toda asociación tras controlar el NSE de las escuelas
+C. Varios aspectos de las prácticas docentes se asocian consistentemente con mejores resultados
+D. Ningún aspecto de las prácticas docentes se asocia con mejores resultados en la región evaluada
+Respuesta correcta: C
+Explicación: “Varios de los aspectos relacionados con las prácticas docentes se asocian consistentemente con mejores resultados en todas las áreas.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Docentes y sus prácticas de enseñanza; página impresa 34; página PDF 34.
+
+97. [ERCE 2019 – UNESCO · Sección 4] Según la Tabla 1, ¿qué factor de estudiantes y familias se asocia positivamente con el logro en los 16 países en todas las pruebas?
+A. La asistencia a la educación preescolar
+B. Los días de estudio a la semana
+C. La pertenencia étnica indígena
+D. El involucramiento parental en tareas
+Respuesta correcta: B
+Explicación: Tabla 1: “Días de estudio a la semana 16 (+) 16 (+) 16 (+) 16 (+) 16 (+)”.
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Tabla 1. Total de países donde el factor se asocia significativamente a los resultados; página impresa 28; página PDF 28.
+
+98. [ERCE 2019 – UNESCO · Sección 4] ¿Qué implicancia estratégica tiene que el involucramiento parental sea más relevante en 3° que en 6° grado?
+A. Eliminar el trabajo con las familias, pues su efecto desaparece al controlar el nivel socioeconómico familiar
+B. Postergar el trabajo con las familias hasta 6° grado, cuando los niños tienen mayor autonomía
+C. Priorizar el trabajo con las familias en los primeros grados, cuando los niños tienen menor autonomía
+D. Concentrar el trabajo con las familias en las escuelas privadas de los sectores urbanos
+Respuesta correcta: C
+Explicación: Aplicación razonada: [Aplicación razonada] “Vale la pena indicar que esta diferencia parece ser más relevante en 3° grado que en 6° grado, lo que podría explicarse por los menores niveles de autonomía de los estudiantes más pequeños.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Estudiantes y sus familias; página impresa 32; página PDF 32.
+
+99. [ERCE 2019 – UNESCO · Sección 4] ¿Qué dos objetivos de mejora persigue la evidencia que ofrece el estudio de factores asociados a los países?
+A. Mejorar los logros y la equidad en los aprendizajes
+B. Reducir el gasto y aumentar la matrícula privada
+C. Mejorar la infraestructura y la conectividad digital
+D. Aumentar la repitencia y la selección de estudiantes
+Respuesta correcta: A
+Explicación: “El propósito de este estudio es ofrecer evidencia empírica a los países para identificar aquellas variables de política y práctica educativa que sería prioritario modificar para mejorar los logros y la equidad en los aprendizajes.”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Introducción al estudio de factores asociados; página impresa 27; página PDF 27.
+
+100. [ERCE 2019 – UNESCO · Sección 4] ¿Qué diferencias entre centros urbanizados y rurales señala la literatura citada en la sección?
+A. Diferencias solo en el número de estudiantes por curso, sin otros efectos
+B. Ninguna diferencia, pues ambos tipos de centros tienen las mismas oportunidades
+C. Diferencias de acceso a bienes, servicios y oportunidades de desarrollo y laborales
+D. Diferencias de calidad docente siempre favorables a las escuelas rurales de la región
+Respuesta correcta: C
+Explicación: “La literatura en este campo muestra que existen diferencias entre centros urbanizados y los rurales en acceso a bienes, servicios, oportunidades de desarrollo y laborales relacionadas con la preparación escolar (McEwan, 2008).”
+Sustento: Los aprendizajes fundamentales en América Latina y el Caribe. Evaluación de logros de los estudiantes. Estudio Regional Comparativo y Explicativo (ERCE 2019). Resumen ejecutivo (UNESCO/OREALC, 2021). Sección 4. Factores asociados al logro educativo – Características de las escuelas; página impresa 37; página PDF 37.
